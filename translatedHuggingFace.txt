@@ -1,0 +1,901 @@
+[
+
+{
+  "english":"Once upon a time there was a little girl who loved to drink milk. She thought it was the best thing ever! One day she was walking around looking for something special. After a while she came across a bottle of luxury milk. It looked so yummy and delicious, she couldn't resist. So, she opened the bottle, put it to her lips and started drinking. But it was too strong and it hurt her throat. She started to cry and put the bottle down. She never drank anything like that again."
+  "tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಪೇರ್ ಕುಡಿಯೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಉಂದು ಎಡ್ಡೆ ಕೆಲಸ ಪಂದ್ ಅಲೆಗ್ ತೋಜಿಂಡ್! ಒಂಜಿ ದಿನ ಆಲ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನು ತೂವೊಂದು ನಡತೊಂದು ಇತ್ತೆರ್. ಒಂತೆ ಸಮಯೊಡ್ದು ಬೊಕ್ಕ ಅಲೆಗ್ ಒಂಜಿ ಐಷಾರಾಮಿ ಹಾಲುದ ಬಾಟಲ್ ಬತ್ತ್ಂಡ್. ಉಂದು ಮಸ್ತ್ ರುಚಿಯಾದ್ ಬೊಕ್ಕ ರುಚಿಯಾದ್ ತೋಜುಂಡು, ಅಲೆಗ್ ತಡೆಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಅಂಚಾದ್, ಅಲ್ ಬಾಟಲ್ ನ್ ತೆರೆಯೆರ್, ಅಯಿನ್ ಅಲೆನ ತುಟಿಗ್ ಪಾಡ್ದ್ ಕುಡಿಯೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ ಅವು ಮಸ್ತ್ ಗಟ್ಟಿ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಯಿಟ್ ಅಲೆನ ಗಂಟಲು ನೋವು ಆಂಡ್. ಅಲ್ ಕಣ್ಣೀರ್ ಪಾಡೆರೆ ಸುರು ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಬಾಟಲಿನ್ ಕೆಳಗ್ ದೀಯೆರ್. ಅಲ್ ಮತ್ತೆ ಏಪಲಾ ಅಂಚನೆ ದಾಲ ಪರ್ಜೆರ್."
+},
+
+{
+"english":"One day, a little girl named Lily found a needle in her room. She knew it was difficult to play with it because it was sharp. Lily wanted to share the needle with her mom, so she could sew a button on her shirt.
+
+Lily went to her mom and said, "Mom, I found this needle. Can you share it with me and sew my shirt?" Her mom smiled and said, "Yes, Lily, we can share the needle and fix your shirt."
+
+Together, they shared the needle and sewed the button on Lily's shirt. It was not difficult for them because they were sharing and helping each other. After they finished, Lily thanked her mom for sharing the needle and fixing her shirt. They both felt happy because they had shared and worked together."
+"tulu":"ಒಂಜಿ ದಿನ, ಲಿಲಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಅಲೆನ ಕೋಣೆಡ್ ಒಂಜಿ ಸೂಜಿ ತೋಜಿಂಡ್. ಉಂದು ಚೂಪು ಆಯಿನೆಡ್ದಾವರ ಅಯಿಟ್ ಆಟ ಆಡೆರೆ ಕಷ್ಟ ಪಂಡ್ದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್. ಲಿಲಿ ಅಲೆನ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಸೂಜಿನ್ ಪಾಡೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್, ಅಂಚಾದ್ ಅಲೆನ ಶರ್ಟ್ ಡ್ ಒಂಜಿ ಬಟನ್ ನ್ ಹೊಲಿಯೆರೆ ಸಾಧ್ಯ ಆಂಡ್.
+
+ಲಿಲಿ ಅಲೆನ ಅಮ್ಮೆನ ಎದುರುಗು ಪೋದು ಪಂಡೆ, "ಅಮ್ಮೆ, ಯಾನ್ ಈ ಸೂಜಿನ್ ಕಂಡು ಕನತ್ ದ್. ಈರ್ ಎನ್ನೊಟ್ಟುಗು ಪಾಡ್ದ್ ಎನ್ನ ಶರ್ಟ್ ನ್ ಹೊಲಿಯೊಲಿಯಾ?" ಅಲೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್, "ಆಂಡ್, ಲಿಲಿ, ನಮ ಸೂಜಿನ್ ಪಾಡ್ದ್ ನಿನ್ನ ಶರ್ಟ್ ನ್ ಸರಿ ಮಲ್ಪೊಲಿ."
+
+ಒಟ್ಟುಗು, ಅಕುಲು ಸೂಜಿನ್ ಪಾಡ್ದ್ ಲಿಲಿನ ಶರ್ಟ್ ದ ಬಟನ್ ನ್ ಹೊಲಿಯೆರ್. ಅಕುಲು ಒಂಜೊಂಜಿ ಪಾಲ್ ಮಲ್ತೊಂದು ಬೊಕ್ಕ ಒರಿ ಒರಿ ಸಹಾಯ ಮಲ್ತೊಂದು ಇತ್ತಿನೆಡ್ದಾವರ ಅಕುಲೆಗ್ ಉಂದು ಕಷ್ಟ ಆಯಿಜಿ. ಅಕುಲು ಮುಗಿದ್ ಬೊಕ್ಕ, ಲಿಲಿ ಸೂಜಿನ್ ಪಾಡ್ದ್ ಅಲೆನ ಶರ್ಟ್ ನ್ ಸರಿ ಮಲ್ತಿನ ಅಮ್ಮೆರೆಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಪಂಡೆರ್. ಅಕುಲು ಒಟ್ಟುಗು ಪಾಲ್ ಪಡೆಯಿನ ಬೊಕ್ಕ ಕೆಲಸ ಮಲ್ತಿನೆರ್ದಾತ್ರ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಸಂತೋಷೊಡು ಇತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little car named Beep. Beep loved to go fast and play in the sun. Beep was a healthy car because he always had good fuel. Good fuel made Beep happy and strong.
+
+One day, Beep was driving in the park when he saw a big tree. The tree had many leaves that were falling. Beep liked how the leaves fall and wanted to play with them. Beep drove under the tree and watched the leaves fall on him. He laughed and beeped his horn.
+
+Beep played with the falling leaves all day. When it was time to go home, Beep knew he needed more fuel. He went to the fuel place and got more healthy fuel. Now, Beep was ready to go fast and play again the next day. And Beep lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಬೀಪ್ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಕಾರ್ ಇತ್ತ್ಂಡ್. ಬೀಪ್ ಗ್ ವೇಗವಾದ್ ಪೋದು ಸೂರ್ಯನ ಮಿತ್ತ್ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಆಂಡ್. ಬೀಪ್ ಒಂಜಿ ಆರೋಗ್ಯವಂತ ಕಾರ್ ಆದಿತ್ತ್ಂಡ್ ದಾಯೆ ಪಂಡ ಅಯಗ್ ಯಾಪಲ ಎಡ್ಡೆ ಇಂಧನ ಉಪ್ಪುಂಡು. ಎಡ್ಡೆ ಇಂಧನ ಬೀಪ್ ನ್ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಬಲವಾದ್ ಮಲ್ತ್ಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಬೀಪ್ ಪಾರ್ಕ್ ಡ್ ಡ್ರೈವ್ ಮಲ್ತೊಂದು ಇತ್ತಿನಗ ಒಂಜಿ ಮಲ್ಲ ಮರ ತೂಯೆರ್. ಮರಟ್ ಮಸ್ತ್ ಇರೆಕುಲು ಬೂರೊಂದು ಇತ್ತ್ಂಡ್. ಬೀಪ್ ಗ್ ಎಲೆಕುಲು ಎಂಚ ಬೂರುಂಡು ಪನ್ಪಿನೆನ್ ಇಷ್ಟ ಆಂಡ್ ಬೊಕ್ಕ ಅಯಿಟ್ ಆಟ ಆಡೊಡಾಪುಂಡು. ಬೀಪ್ ಮರತ ಕೆಳಗ್ ಡ್ರೈವ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅರೆನ ಮಿತ್ತ್ ಎಲೆಕುಲು ಬೂರುನ ತೂಯೆರ್. ಆರ್ ನಕ್ಕುದು ತನ್ನ ಹಾರ್ನ್ ನ್ ಬೀಪ್ ಮಲ್ತೆರ್.
+
+ಬೀಪ್ ದಿನೊಲಾ ಬೂರುನ ಎಲೆಕುಲೆನ್ ಆಟ ಆಡೊಂದಿತ್ತೆ. ಇಲ್ಲಗ್ ಪೋಪಿನ ಪೊರ್ತು ಬನ್ನಗ, ಬೀಪ್ ಗ್ ಜಾಸ್ತಿ ಇಂಧನ ಬೋಡು ಪಂದ್ ಗೊತ್ತಾಂಡ್. ಆರ್ ಇಂಧನದ ಜಾಗೆಗ್ ಪೋದು ಜಾಸ್ತಿ ಆರೋಗ್ಯಕರ ಇಂಧನ ದೆತೊನುವೆರ್. ಇತ್ತೆ, ಬೀಪ್ ಮನದಾನಿ ವೇಗವಾದ್ ಪೋದು ಆಟ ಆಡೆರೆ ತಯಾರ್ ಆಯೆರ್. ಬೊಕ್ಕ ಬೀಪ್ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"One day, a little fish named Fin was swimming near the shore. He saw a big crab and wanted to be friends. "Hi, I am Fin. Do you want to play?" asked the little fish. The crab looked at Fin and said, "No, I don't want to play. I am cold and I don't feel fine."
+
+Fin felt sad but wanted to help the crab feel better. He swam away and thought of a plan. He remembered that the sun could make things warm. So, Fin swam to the top of the water and called to the sun, "Please, sun, help my new friend feel fine and not freeze!"
+
+The sun heard Fin's call and shone its warm light on the shore. The crab started to feel better and not so cold. He saw Fin and said, "Thank you, little fish, for making me feel fine. I don't feel like I will freeze now. Let's play together!" And so, Fin and the crab played and became good friends."
+"tulu":"ಒಂಜಿ ದಿನ ಫಿನ್ ಪನ್ಪಿ ಎಲ್ಯ ಮೀನ್ ಕರಾವಳಿದ ಬರಿಟ್ ತುತ್ತೊಂದಿತ್ತ್ಂಡ್. ಆರ್ ಒಂಜಿ ಮಲ್ಲ ಏಡಿನ್ ತೂದು ಸ್ನೇಹಿತೆರ್ ಆಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. "ನಮಸ್ಕಾರ, ಯಾನ್ ಫಿನ್. ಈರ್ ಆಟ ಆಡೊಡಾಪುಂಡು?" ಎಲ್ಯ ಮೀನ್ ಕೇಂಡೆರ್. ಏಡಿ ಫಿನ್ ನ್ ತೂದು ಪಂಡೆ, "ಇಜ್ಜಿ, ಎಂಕ್ ಆಟ ಆಡೊಡಾಪುಜಿ. ಎಂಕ್ ತಂಪು ಉಂಡು ಬೊಕ್ಕ ಎಂಕ್ ಎಡ್ಡೆ ಆಪುಜಿ."
+
+ಫಿನ್ ದುಃಖೊಡು ಇತ್ತೆ ಆಂಡ ಏಡಿಗ್ ಎಡ್ಡೆ ಆಯೆರೆ ಸಹಾಯ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಈಜೊಂದು ಪೋಯೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಯೋಜನೆನ್ ಯೋಚನೆ ಮಲ್ತೆರ್. ಸೂರ್ಯೆ ವಸ್ತುಲೆನ್ ಬೆಚ್ಚ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ಆರ್ ನೆಂಪು ಮಲ್ತೆರ್. ಅಂಚಾದ್, ಫಿನ್ ನೀರ್ದ ಮಿತ್ತ್ ಈರ್ದು ಸೂರ್ಯನ್ ಲೆಪ್ಪುವೆ, "ದಯಮಲ್ತ್, ಸೂರ್ಯೆ, ಎನ್ನ ಪೊಸ ಸ್ನೇಹಿತೆಗ್ ಎಡ್ಡೆ ಅನುಭವ ಆಯೆರೆ ಸಹಾಯ ಮಲ್ಪುಲೆ ಬೊಕ್ಕ ಫ್ರೀಜ್ ಆವಡ್!"
+
+ಸೂರ್ಯೆ ಫಿನ್ ನ ಕರೆನ್ ಕೇಂಡೆರ್ ಬೊಕ್ಕ ಅಯಿತ ಬೆಚ್ಚ ಬೊಲ್ಪುನು ಕರಾವಳಿಡ್ ಬುಡ್ಪಾಯೆರ್. ಏಡಿಗ್ ಎಡ್ಡೆ ಅನುಭವ ಆಯೆರೆ ಸುರು ಆಂಡ್ ಬೊಕ್ಕ ಅಯಿಕ್ ಮಸ್ತ್ ಚಳಿ ಇಜ್ಜಿ. ಆರ್ ಫಿನ್ ನ್ ತೂದು ಪಂಡೆರ್, "ಎಂಕ್ ಎಡ್ಡೆ ಅನುಭವ ಕೊರ್ನಕ್ಲೆಗ್ ಧನ್ಯವಾದೊಲು, ಎಲ್ಯ ಮೀನ್. ಎಂಕ್ ಇತ್ತೆ ಫ್ರೀಜ್ ಆಪುಜಿ ಪಂದ್ ಎಂಕ್ ಅನಿಸೊಂದುಂಡು. ನಮ ಒಟ್ಟುಗು ಆಟ ಆಡೊಡು!" ಅಂಚಾದ್, ಫಿನ್ ಬೊಕ್ಕ ಏಡಿ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆಯೆರ್."
+},
+
+{
+"english":"Once upon a time, in a land full of trees, there was a little cherry tree. The cherry tree was very sad because it did not have any friends. All the other trees were big and strong, but the cherry tree was small and weak. The cherry tree was envious of the big trees.
+
+One day, the cherry tree felt a tickle in its branches. It was a little spring wind. The wind told the cherry tree not to be sad. The wind said, "You are special because you have sweet cherries that everyone loves." The cherry tree started to feel a little better.
+
+As time went on, the cherry tree grew more and more cherries. All the animals in the land came to eat the cherries and play under the cherry tree. The cherry tree was happy because it had many friends now. The cherry tree learned that being different can be a good thing. And they all lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಮರಕುಲ್ ದಿಂಜಿನ ನಾಡ್‌ಡ್ ಒಂಜಿ ಎಲ್ಯ ಚೆರ್ರಿ ಮರ ಇತ್ತ್‌ಂಡ್. ಚೆರ್ರಿ ಮರಕ್ ಏರ್ಲಾ ಸ್ನೇಹಿತೆರ್ ಇಜ್ಜಂದಿನೆಡ್ದಾವರ ಮಸ್ತ್ ಬೇಜಾರು ಆಂಡ್. ಬೇತೆ ಮಾತಾ ಮರಕುಲು ಮಲ್ಲೆ ಬೊಕ್ಕ ಗಟ್ಟಿಯಾದಿತ್ತೆ, ಆಂಡ ಚೆರ್ರಿ ಮರ ಎಲ್ಯ ಬೊಕ್ಕ ದುರ್ಬಲವಾದಿತ್ತ್ಂಡ್. ಮಲ್ಲ ಮಲ್ಲ ಮರಕುಲೆನ್ ತೂದು ಚೆರ್ರಿ ಮರ ಅಸೂಯೆ ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಚೆರ್ರಿ ಮರತ ಗೆಲ್ಲ್ ಡ್ ಒಂಜಿ ಕಿಟಕಿ ಅನುಭವ ಆಂಡ್. ಉಂದು ಒಂಜಿ ಎಲ್ಯ ವಸಂತ ಗಾಳಿ ಆದಿತ್ತ್ಂಡ್. ಗಾಳಿ ಚೆರ್ರಿ ಮರಕ್ ಬೇಜಾರಾವರೆ ಬಲ್ಲಿ ಪಂಡೆ. ಗಾಳಿ ಪನ್ಪುಂಡು, "ಈರ್ ವಿಶೇಷ ದಾಯೆ ಪಂಡ ಈರ್ನ ಸಿಹಿ ಚೆರ್ರಿಲು ಉಂಡು ಅವೆನ್ ಮಾತೆರ್ಲ ಇಷ್ಟ ಪಡ್ಪೆರ್." ಚೆರ್ರಿ ಮರ ಒಂತೆ ಎಡ್ಡೆ ಆಯೆರೆ ಸುರು ಆಂಡ್.
+
+ಕಾಲ ಕರಿಲೆಕನೆ ಚೇರಿ ಮರಟ್ ಜಾಸ್ತಿ ಚೇರಿ ಬುಳೆವೊಂದಿತ್ತ್ಂಡ್. ನಾಡ್‌ದ ಮಾತಾ ಪ್ರಾಣಿಲು ಚೇರಿ ನುಪ್ಪು ನುಪ್ಪುದು, ಚೇರಿ ಮರತಡಿಟ್ ಗೊಬ್ಬೆರೆ ಬತ್ತೆರ್. ಚೆರ್ರಿ ಮರ ಖುಷಿಟ್ ಇತ್ತ್ಂಡ್ ದಾಯೆ ಪಂಡ ಅಯಿಕ್ ಇತ್ತೆ ಮಸ್ತ್ ಸ್ನೇಹಿತೆರ್ ಉಲ್ಲೆರ್. ಬೇತೆ ಬೇತೆ ಆಯೆರೆ ಎಡ್ಡೆ ವಿಷಯ ಪಂಡ್ದ್ ಚೆರ್ರಿ ಮರ ಕಲ್ಪುಂಡು. ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little girl named Lily. Lily liked to pretend she was a popular princess. She lived in a big castle with her best friends, a cat and a dog.
+
+One day, while playing in the castle, Lily found a big cobweb. The cobweb was in the way of her fun game. She wanted to get rid of it, but she was scared of the spider that lived there.
+
+Lily asked her friends, the cat and the dog, to help her. They all worked together to clean the cobweb. The spider was sad, but it found a new home outside. Lily, the cat, and the dog were happy they could play without the cobweb in the way. And they all lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಇತ್ತೆರ್. ಲಿಲಿ ಒರಿ ಜನಪ್ರಿಯ ರಾಜಕುಮಾರಿ ಪಂಡ್ದ್ ನಟನೆ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಲ್ಪ ಅಲೆನ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್, ಒಂಜಿ ಬೆಕ್ಕು ಬೊಕ್ಕ ಒಂಜಿ ನಾಯಿನೊಟ್ಟುಗು ಒಂಜಿ ಮಲ್ಲ ಕೋಟೆಡ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಕೋಟೆಡ್ ಆಟ ಆಡೊಂದುಪ್ಪುನಗ, ಲಿಲಿಗ್ ಒಂಜಿ ಮಲ್ಲ ಜೇಡದ ಜಾಲ ತೋಜಿಂಡ್. ಜೇಡದ ಜಾಲ ಅಲೆನ ಮೋಜಿದ ಆಟೊಗು ಅಡ್ಡಿಯಾದಿತ್ತ್ಂಡ್. ಅಲೆಗ್ ಅಯಿನ್ ದೂರ ಮಲ್ಪೊಡು ಪಂದ್ ಇತ್ತ್ಂಡ್, ಆಂಡ ಅಲ್ಪ ಜೀವನ ಮಲ್ಪುನ ಜೇಡೊಗು ಅಲೆಗ್ ಭಯ ಆಂಡ್.
+
+ಲಿಲಿ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್, ಬೆಕ್ಕು ಬೊಕ್ಕ ನಾಯಿನ್, ತನ್ನ ಸಹಾಯ ಮಲ್ಪೆರೆ ಕೇಂಡೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಒಟ್ಟು ಸೇರ್ದ್ ಜೇಡದ ಜಾಲೊನು ಸ್ವಚ್ಛ ಮಲ್ತೆರ್. ಜೇಡೊಗು ಬೇಜಾರ್ ಆಂಡ್, ಆಂಡ ಅಯಿಕ್ ಪಿದಯಿ ಒಂಜಿ ಪೊಸ ಇಲ್ಲ್ ಬತ್ತ್ಂಡ್. ಲಿಲಿ, ಬೆಕ್ಕು, ಬೊಕ್ಕ ನಾಯಿ ದಾರಿಡ್ ಜೇನುಗೂಡು ಇಜ್ಜಂದೆ ಆಟ ಆಡೊಲಿ ಪನ್ಪಿನೆಕ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a big lake, there was a brown kayak. The brown kayak liked to roll in the water all day long. It was very happy when it could roll and splash in the lake.
+
+One day, a little boy named Tim came to play with the brown kayak. Tim and the brown kayak rolled in the water together. They laughed and had a lot of fun. The sun was shining, and the water was warm.
+
+After a while, it was time for Tim to go home. He said goodbye to the brown kayak and gave it a big hug. The brown kayak was sad to see Tim go, but it knew they would play together again soon. So, the brown kayak kept rolling in the water, waiting for the next fun day with Tim."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಮಲ್ಲ ಕೆರೆಟ್ ಕಂದು ಬಣ್ಣದ ಕಯಕ್ ಇತ್ತ್ಂಡ್. ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ದಿನಪೂರ್ತಿ ನೀರ್ಡ್ ರೋಲ್ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪುಂಡು. ಉಂದು ಕೆರೆಟ್ ರೋಲ್ ಆದ್ ಸ್ಪ್ಲಾಶ್ ಆನಗ ಮಸ್ತ್ ಸಂತೋಷ ಆಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ಡ್ ಆಟ ಆಡೆರೆ ಬತ್ತೆರ್. ಟಿಮ್ ಬೊಕ್ಕ ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ಒಟ್ಟುಗು ನೀರ್ಡ್ ರೋಲ್ ಮಲ್ತೆರ್. ಅಕುಲು ನಕ್ಕುದು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್. ಸೂರ್ಯೆ ಮಿಂಚೊಂದಿತ್ತ್ಂಡ್, ಬೊಕ್ಕ ನೀರ್ ಬೆಚ್ಚ ಆದಿತ್ತ್ಂಡ್.
+
+ಒಂತೆ ಸಮಯೊಡ್ದು ಬೊಕ್ಕ, ಟಿಮ್ ಗ್ ಇಲ್ಲಗ್ ಪೋಪಿನ ಸಮಯ ಆಂಡ್. ಆರ್ ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ಗ್ ಗುಡ್ ಬೈ ಪಂಡೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಮಲ್ಲ ತಬ್ಬಿಯೆರ್. ಟಿಮ್ ಪೋಪಿನೆನ್ ತೂದು ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ಗ್ ಬೇಜಾರು ಆಂಡ್, ಆಂಡ ಅಕುಲು ಬೇಗನೆ ಒಟ್ಟುಗು ಆಟ ಆಡೊಡು ಪಂದ್ ತೆರಿಂಡ್. ಅಂಚಾದ್, ಕಂದು ಬಣ್ಣದ ಕಯಾಕ್ ನೀರ್ಡ್ ರೋಲ್ ಮಲ್ತೊಂದು ಇತ್ತ್ಂಡ್, ಟಿಮ್ ನೊಟ್ಟುಗು ದುಂಬುದ ಮೋಜಿದ ದಿನೊಗು ಕಾತೊಂದು ಇತ್ತ್ಂಡ್."
+},
+
+{
+"english":"Once upon a time, in a small town, there was a troubled little girl named Lily. She was always sad because she lost her favorite toy, a triangle. She looked everywhere in her house but could not find it.
+
+One sunny day, Lily went to the park to play. She saw a big puddle of water and thought her triangle might be there. She put her hand in the water to soak it and looked for her toy. She felt something at the bottom of the puddle.
+
+Lily pulled it out and saw that it was her triangle! She was so happy that she found it. From that day on, Lily was never troubled again. She played with her triangle every day and always kept it close to her. And when she saw puddles, she would smile and remember how she found her toy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಎಲ್ಯ ಊರುಡು, ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ತೊಂದರೆಡ್ ಉಪ್ಪುನ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಅಲೆನ ನೆಚ್ಚಿನ ಆಟಿಕೆ, ಒಂಜಿ ತ್ರಿಕೋನೊನು ಕಳೆವೊಂದಿತ್ತಿನೆಡ್ದಾವರ ಅಲೆಗ್ ಯಾಪಲ ದುಖಃ ಇತ್ತ್ಂಡ್. ಅಲೆನ ಇಲ್ಲಡ್ ಎಲ್ಲೆಡೆ ತೂಯೆರ್ ಆಂಡ ಅವೆನ್ ತೂಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ, ಲಿಲಿ ಆಟ ಆಡೆರೆ ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರ್. ಅಲ್ ಒಂಜಿ ಮಲ್ಲ ನೀರ್ದ ಗುಡ್ಡೆನ್ ತೂದು ಅಲೆನ ತ್ರಿಕೋನ ಅಲ್ಪ ಉಪ್ಪೊಲಿ ಪಂದ್ ಅಲೆಗ್ ಅನಿಸಿಕೆ ಆಂಡ್. ಅವೆನ್ ನೆನೆಪಾಯೆರೆ ಅಲೆನ ಕೈನ್ ನೀರ್ಡ್ ಪಾಡ್ದ್ ಅಲೆನ ಆಟಿಕೆನ್ ತೂಯೆರ್. ಅಲೆಗ್ ಗುಂಡಿದ ಕೆಳ್ಗ್ ದಾದನಾ ಒಂಜಿ ಅನುಭವ ಆಂಡ್.
+
+ಲಿಲಿ ಅವೆನ್ ಪಿದಯಿ ದೆತ್ತ್ ದ್ ತೂಯೆರ್ ಅವು ಅಲೆನ ತ್ರಿಕೋನ ಪಂಡ್ದ್! ಅಲ್ ಅವೆನ್ ಕಂಡುದು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಲಿಲಿಗ್ ಏಪಲಾ ತೊಂದರೆ ಆಯಿಜಿ. ಅಲ್ ಪ್ರತಿ ದಿನಲಾ ಅಲೆನ ತ್ರಿಕೋನೊಡು ಆಟ ಆಡೊಂದಿತ್ತೆ ಬೊಕ್ಕ ಅವೆನ್ ಯಾಪಲ ಅಲೆನ ಎದುರುಡು ದೀವೊಂದಿತ್ತೆ. ಬೊಕ್ಕ ಅಲ್ ಪುಡ್ಲ್ಸ್ ನ್ ತೂನಗ, ಅಲ್ ಸ್ಮೈಲ್ ಮಲ್ಪುವೆ ಬೊಕ್ಕ ಅಲ್ ತನ್ನ ಆಟಿಕೆನ್ ಎಂಚ ಕಂಡು ಕನತ್ಂಡ್ ಪನ್ಪಿನೆನ್ ನೆಂಪು ಮಲ್ಪುವೆ."
+},
+
+{
+"english":"Once upon a time, in a peaceful town, there lived a little boy named Tim. Tim loved to run and play outside. One day, Tim saw a race in the park. He was excited and wanted to join the race.
+
+Tim went to his friend, Sarah, and said, "Let's start the race!" Sarah smiled and said, "Yes, let's go!" They lined up with the other kids and waited for the race to begin. When they heard the word "Go!", they started running as fast as they could.
+
+Tim and Sarah ran with all their speed, laughing and having fun. They could feel the wind in their hair as they raced to the finish line. In the end, Tim won the race and Sarah came in second. They were both so happy and proud of themselves. They celebrated with their friends and had a great day at the park."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಶಾಂತಿದ ಊರುಡು, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆ. ಟಿಮ್ ಗ್ ಪಿದಯಿ ಓಡೆರೆ ಬೊಕ್ಕ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪಾರ್ಕ್ ಡ್ ಒಂಜಿ ಓಟೊನು ತೂಯೆರ್. ಆರ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಓಟೊಗು ಸೇರೊಡಾಪುಂಡು.
+
+ಟಿಮ್ ತನ್ನ ಸ್ನೇಹಿತೆ ಸಾರಾನ ಎದುರುಗು ಪೋದು ಪಂಡೆರ್, "ನಮ ಓಟ ಸುರು ಮಲ್ಪುಗ!" ಸಾರಾ ಮುಗುಳ್ನಗುದ್ ಪಂಡೆರ್, "ಆಂಡ್, ಪೋವೊಡು!" ಅಕುಲು ಬೇತೆ ಜೋಕುಲೆನೊಟ್ಟುಗು ಲೈನ್ ಡ್ ಕುಲ್ಲುದು ಓಟ ಸುರು ಆಯೆರೆ ಕಾತೊಂದು ಇತ್ತೆರ್. "ಪೋಲೆ!" ಪನ್ಪಿನ ಶಬ್ದ ಕೇಂಡ್ದ್, ಅಕುಲು ಸಾಧ್ಯ ಆಯಿನಾತ್ ವೇಗೊಡು ಓಡೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ಬೊಕ್ಕ ಸಾರಾ ಅಕ್ಲೆನ ಪೂರ ವೇಗೊಡು ಓಡಿಯೆರ್, ನಕ್ಕುದು ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ತೊಂದು. ಅಕುಲು ಫಿನಿಶ್ ಲೈನ್ ಗ್ ಓಡೊಂದು ಪೋನಗ ಅಕ್ಲೆನ ಕೂದಲ್ಡ್ ಗಾಳಿನ್ ಅನುಭವಿಸೊಲಿ. ಕಡೆಕ್, ಟಿಮ್ ಓಟೊನು ಗೆಂದಿಯೆರ್ ಬೊಕ್ಕ ಸಾರಾ ರಡ್ಡನೆ ಸ್ಥಾನೊಡು ಬತ್ತೆರ್. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಕ್ಲೆನ ಬಗ್ಗೆ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್. ಅಕುಲು ಅಕ್ಲೆನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಆಚರಣೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಉದ್ಯಾನವನೊಡು ಒಂಜಿ ಎಡ್ಡೆ ದಿನ ಕಳೆಯೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a clever little dog named Max. Max loved to run and play with his friends in the park. One day, Max was running very fast when he fell and hurt his knee.
+
+Max went to his friend, the wise old owl, and said, "Owl, my knee hurts. What can I do?" The owl thought for a moment and said, "Max, you should test your knee. Try to walk slowly and see if it still hurts."
+
+So Max tested his knee by walking slowly. At first, it hurt a little, but soon Max felt better. He said, "Thank you, Owl, for your help. Now I can play with my friends again."
+
+Max was so happy that he could play with his friends without pain. He learned that sometimes, it was good to slow down and listen to his body. And Max and his friends played happily in the park ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಮ್ಯಾಕ್ಸ್ ಪನ್ಪಿನ ಒಂಜಿ ಬುದ್ಧಿವಂತೆ ಪುಟ್ಟ ನಾಯಿ ಇತ್ತ್ಂಡ್. ಮ್ಯಾಕ್ಸ್ ಗ್ ಪಾರ್ಕ್ ಡ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಓಡೆರೆ ಬೊಕ್ಕ ಆಟ ಆಡೆರೆ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಮ್ಯಾಕ್ಸ್ ಮಸ್ತ್ ವೇಗೊಡು ಓಡೊಂದು ಇತ್ತಿನಗ ಆರ್ ಬೂರುದು ಅರೆನ ಮಂಡೆ ಗಾಯ ಆಂಡ್.
+
+ಮ್ಯಾಕ್ಸ್ ತನ್ನ ಸ್ನೇಹಿತೆ ಪನ್ಪಿನ ಬುದ್ಧಿವಂತ ಮಲ್ಲ ಗೂಬೆದ ಎದುರುಗು ಪೋದು ಪಂಡೆ, "ಗೂಬೆ, ಎನ್ನ ಮಂಡೆ ಬೇನೆ ಆಪುಂಡು. ಯಾನ್ ದಾದ ಮಲ್ಪೊಲಿ?" ಗೂಬೆ ಒಂಜಿ ಕ್ಷಣ ಯೋಚನೆ ಮಲ್ತ್ದ್ ಪಂಡೆ, "ಮ್ಯಾಕ್ಸ್, ನಿನ್ನ ಮಂಡೆನ್ ಪರೀಕ್ಷೆ ಮಲ್ಪೊಡು. ನಿಧಾನವಾದ್ ನಡಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ಪುಲೆ ಬೊಕ್ಕ ಇತ್ತೆಲಾ ನೋವು ಉಂಡಾ ಪಂದ್ ತೂಲೆ."
+
+ಅಂಚಾದ್ ಮ್ಯಾಕ್ಸ್ ನಿಧಾನವಾದ್ ನಡತೊಂದು ತನ್ನ ಮಂಡೆನ್ ಪರೀಕ್ಷೆ ಮಲ್ತೆರ್. ಸುರುಟು, ಒಂತೆ ನೋವು ಆಂಡ್, ಆಂಡ ಬೇಗನೆ ಮ್ಯಾಕ್ಸ್ ಗ್ ಎಡ್ಡೆ ಆಂಡ್. ಆರ್ ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಗೂಬೆ, ನಿಕ್ಲೆನ ಸಹಾಯೊಗು. ಇತ್ತೆ ಎಂಕ್ ಎನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಮತ್ತೆ ಆಟ ಆಡೊಲಿ."
+
+ಮ್ಯಾಕ್ಸ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ದಾಯೆ ಪಂಡ ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಬೇನೆ ಇಜ್ಜಂದೆ ಆಟ ಆಡೊಲಿ. ಕೆಲವೊಂಜಿ ಸರ್ತಿ, ನಿಧಾನವಾದ್ ಬೊಕ್ಕ ಅರೆನ ಶರೀರೊನು ಕೇನ್ರೆ ಎಡ್ಡೆ ಪಂಡ್ದ್ ಅರೆಗ್ ತೆರಿಂಡ್. ಬೊಕ್ಕ ಮ್ಯಾಕ್ಸ್ ಬೊಕ್ಕ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಪಾರ್ಕ್ ಡ್ ಖುಷಿಟ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"One day, a fast driver named Tim went for a ride in his loud car. He loved to speed down the street and feel the wind in his hair. As he drove, he saw his friend, Sam, standing by the road.
+
+"Hi, Sam!" Tim called out. "Do you want to go for a ride?"
+
+"Yes, please!" Sam said, and he got in the car. They drove around the town, going fast and having fun. The car was very loud, and everyone could hear them coming.
+
+At last, they stopped at the park to play. They ran and laughed until it was time to go home. Tim and Sam had a great day together, speeding in the loud car and playing in the park."
+"tulu":"ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ವೇಗದ ಡ್ರೈವರ್ ತನ್ನ ಜೋರುದ ಕಾರ್ಡ್ ಸವಾರಿ ಮಲ್ಪೆರೆ ಪೋಯೆರ್. ಬೀದಿಡ್ ವೇಗೊಡು ಪೋದು ಅರೆನ ಕೂದಲ್ಡ್ ಗಾಳಿನ್ ಅನುಭವಿಸರೆ ಅರೆಗ್ ಇಷ್ಟ ಆಂಡ್. ಆರ್ ಡ್ರೈವ್ ಮಲ್ಪುನಗ, ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆ ಸ್ಯಾಮ್ ನ್ ರಸ್ತೆದ ಬರಿಟ್ ನಿಲೆಯಾದ್ ತೂಯೆರ್.
+
+"ನಮಸ್ಕಾರ, ಸ್ಯಾಮ್!" ಟಿಮ್ ಲೆಪ್ಪುವೆ. "ಈರ್ ಒಂಜಿ ಸವಾರಿಗ್ ಪೋಯೆರೆ ಬಯಕುವರ್?"
+
+"ಆಂಡ್, ದಯಮಲ್ತ್!" ಸ್ಯಾಮ್ ಪಂಡೆರ್, ಬೊಕ್ಕ ಆರ್ ಕಾರ್ಡ್ ಕುಲ್ಲುವೆರ್. ಅಕುಲು ಊರುದ ಸುತ್ತಲ ಡ್ರೈವ್ ಮಲ್ತೆರ್, ವೇಗೊಡು ಪೋದು ಮೋಜಿ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಕಾರ್ ಮಸ್ತ್ ಜೋರುಡು ಇತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಕುಲು ಬರ್ಪಿನೆನ್ ಪ್ರತಿಯೊಬ್ಬೆರೆಗ್ಲಾ ಕೇನೊಲಿ.
+
+ಕಡೆಕ್, ಅಕುಲು ಆಟ ಆಡೆರೆ ಪಾರ್ಕ್ ಡ್ ನಿಂತೆರ್. ಇಲ್ಲಗ್ ಪೋಪಿನ ಪೊರ್ತು ಆಯಿನ ಮುಟ್ಟ ಅಕುಲು ಓಡೊಂದು ನಕ್ಕುವೆರ್. ಟಿಮ್ ಬೊಕ್ಕ ಸ್ಯಾಮ್ ಒಟ್ಟುಗು ಒಂಜಿ ಎಡ್ಡೆ ದಿನ ಕಳೆಯೆರ್, ಜೋರುದ ಕಾರ್ಡ್ ವೇಗೊಡು ಪೋದು ಪಾರ್ಕ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a big car named Dependable. He had a very important job. Dependable would take a family to the park every day. The family had a mom, dad, and a little girl named Lily. They all had a lot of love for each other.
+
+One day, when they got to the park, they saw a big sign that said, "Fun Race Today!" The family was very excited. They knew that Dependable was very fast and could win the race. So, they decided to join the race.
+
+The race started, and Dependable went very fast. The other cars tried to catch up, but Dependable was too quick. In the end, Dependable won the race! The family was so happy and proud of their car. They knew that their love for each other and their trust in Dependable made them win the race. And from that day on, they had even more fun at the park, knowing that they had the fastest and most dependable car around."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಡಿಪೆಂಡೆಬಲ್ ಪನ್ಪಿನ ಒಂಜಿ ಮಲ್ಲ ಕಾರ್ ಇತ್ತ್ಂಡ್. ಅರೆಗ್ ಒಂಜಿ ಮುಖ್ಯವಾಯಿನ ಬೇಲೆ ಇತ್ತ್ಂಡ್. ಡಿಪೆಂಡಬಲ್ ಪ್ರತಿ ದಿನ ಒಂಜಿ ಕುಟುಂಬೊನು ಪಾರ್ಕ್ ಗ್ ಲೆತೊಂದು ಪೋಪುಂಡು. ಆ ಕುಟುಂಬೊಗು ಒರಿ ಅಮ್ಮೆ, ಅಪ್ಪೆ, ಬೊಕ್ಕ ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಒರಿ ಒರಿನ ಮಿತ್ತ್ ಮಸ್ತ್ ಪ್ರೀತಿನ್ ತೋಜಾವೆರ್.
+
+ಒಂಜಿ ದಿನ, ಅಕುಲು ಉದ್ಯಾನವನೊಗು ಬನ್ನಗ, ಅಕುಲು ಒಂಜಿ ಮಲ್ಲ ಚಿಹ್ನೆನ್ ತೂಯೆರ್, ಅಯಿಟ್ "ಇನಿ ಮೋಜಿದ ಓಟ!" ಕುಟುಂಬದಕುಲು ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಡೆಪೆಂಡಬಲ್ ಮಸ್ತ್ ವೇಗೊಡು ಉಂಡು ಬೊಕ್ಕ ಓಟೊನು ಗೆಂದಿಯೆರೆ ಸಾಧ್ಯ ಉಂಡು ಪಂದ್ ಅಕುಲು ತೆರಿನೆರ್. ಅಂಚಾದ್, ಅಕುಲು ಓಟೊಗು ಸೇರೊಡು ಪಂದ್ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಓಟ ಸುರು ಆಂಡ್, ಬೊಕ್ಕ ಡಿಪೆಂಡಬಲ್ ಮಸ್ತ್ ವೇಗೊಡು ಪೋಯೆರ್. ಬೇತೆ ಕಾರ್ ಲು ಕ್ಯಾಚ್ ಅಪ್ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್, ಆಂಡ ಡಿಪೆಂಡಬಲ್ ಮಸ್ತ್ ತ್ವರಿತ ಆಂಡ್. ಕಡೆಕ್, ಡಿಪೆಂಡಬಲ್ ಓಟೊನು ಗೆಂದಿಯೆರ್! ಕುಟುಂಬದಕುಲು ಅಕ್ಲೆನ ಕಾರ್ ದ ಬಗ್ಗೆ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಹೆಮ್ಮೆಡ್ ಇತ್ತೆರ್. ಅಕುಲು ಒರಿ ಒರಿನ ಮಿತ್ತ್ ಉಪ್ಪುನ ಪ್ರೀತಿ ಬೊಕ್ಕ ಡೆಪೆಂಡಬಲ್ ಡ್ ಉಪ್ಪುನ ನಂಬಿಕೆ ಅಕುಲೆನ್ ಓಟೊಡು ಗೆಂದಿಯೆರೆ ಕಾರಣ ಆಂಡ್ ಪಂದ್ ಅಕುಲು ತೆರಿನೆರ್. ಬೊಕ್ಕ ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಅಕುಲು ಪಾರ್ಕ್ ಡ್ ಇನ್ನಗಲಾ ಮೋಜಿ ಮಲ್ತೆರ್, ಅಕುಲು ಸುತ್ತಮುತ್ತ ವೇಗದ ಬೊಕ್ಕ ವಿಶ್ವಾಸಾರ್ಹ ಕಾರ್ ಉಂಡು ಪನ್ಪಿನೆನ್ ತೆರಿದ್."
+},
+
+{
+"english":"Once upon a time, there was a boy named Tim. He liked to wear a big, dark hat. The hat was his favorite thing to wear. Tim wore the hat everywhere he went.
+
+One day, Tim found a pencil on the ground. The pencil was small and yellow. Tim liked the pencil a lot. He put the pencil in his hat and took it with him.
+
+Tim drew pictures with the pencil. He drew a sun, a tree, and a cat. Tim was very happy with his new pencil. He wore his dark hat and drew pictures every day."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಬಾಲೆ ಇತ್ತೆ. ಆರ್ ಒಂಜಿ ಮಲ್ಲ, ಕಪ್ಪು ಟೋಪಿನ್ ಪಾಡುನವು ಇಷ್ಟ ಪಡ್ಪೆರ್. ಟೋಪಿ ಅರೆಗ್ ಪಾಡುನ ನೆಚ್ಚಿನ ವಸ್ತು ಆದಿತ್ತ್ಂಡ್. ಟಿಮ್ ಪೋಯಿನಲ್ಪಲಾ ಟೋಪಿನ್ ಪಾಡ್ದ್ ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ ನೆಲಟ್ ಒಂಜಿ ಪೆನ್ಸಿಲ್ ನ್ ತೂಯೆರ್. ಪೆನ್ಸಿಲ್ ಎಲ್ಯ ಬೊಕ್ಕ ಹಳದಿ ಆದಿತ್ತ್ಂಡ್. ಟಿಮ್ ಗ್ ಪೆನ್ಸಿಲ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಆರ್ ಪೆನ್ಸಿಲ್ ನ್ ತನ್ನ ಟೋಪಿಡ್ ಪಾಡ್ದ್ ತನ್ನೊಟ್ಟುಗು ದೆತೊಂದು ಪೋಯೆರ್.
+
+ಟಿಮ್ ಪೆನ್ಸಿಲ್ ಡ್ ಚಿತ್ರೊಲೆನ್ ಬರೆಯೆರ್. ಆರ್ ಒಂಜಿ ಸೂರ್ಯನ್, ಒಂಜಿ ಮರನ್, ಬೊಕ್ಕ ಒಂಜಿ ಬೆಕ್ಕುನ್ ಬರೆಯೆರ್. ಟಿಮ್ ತನ್ನ ಪೊಸ ಪೆನ್ಸಿಲ್ ಡ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಆರ್ ತನ್ನ ಕಪ್ಪು ಟೋಪಿನ್ ಪಾಡ್ದ್ ದಿನೊಲ ಚಿತ್ರೊಲೆನ್ ಬರೆವೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"One day, a girl named Mia went for a walk. She saw a big, scary house. It had a tall door and small windows. Mia was brave, so she went inside the house.
+
+In the house, Mia saw a birdcage. Inside the birdcage, there was a little bird. The bird was sad. It wanted to fly and be free. Mia wanted to help the bird.
+
+Mia opened the birdcage door. The bird flew out and was happy. It was not scary anymore. Mia and the bird were friends. They played and had fun all day."
+"tulu":"ಒಂಜಿ ದಿನ ಮಿಯಾ ಪನ್ಪಿನ ಪೊಣ್ಣು ಬಾಲೆ ವಾಕ್ ಗ್ ಪೋಯೆರ್. ಅಲೆಗ್ ಒಂಜಿ ಮಲ್ಲ, ಭಯಾನಕ ಇಲ್ಲ್ ತೋಜಿಂಡ್. ಅಯಿಟ್ ಒಂಜಿ ಎತ್ತರದ ಬಾಕಿಲ್ ಬೊಕ್ಕ ಎಲ್ಯ ಎಲ್ಯ ಕಿಟಕಿಲು ಇತ್ತ್ಂಡ್. ಮಿಯಾ ಧೈರ್ಯಶಾಲಿ ಆದಿತ್ತೆ, ಅಂಚಾದ್ ಅಲ್ ಇಲ್ಲಗ್ ಪೋಯೆರ್.
+
+ಇಲ್ಲಡ್, ಮಿಯಾ ಒಂಜಿ ಪಕ್ಕಿಲೆನ ಪಂಜರೊನು ತೂಯೆರ್. ಪಕ್ಕಿಲೆನ ಪಂಜರೊದ ಒಳ್ಗ್, ಒಂಜಿ ಎಲ್ಯ ಪಕ್ಕಿ ಇತ್ತ್ಂಡ್. ಪಕ್ಕಿ ದುಃಖೊಡು ಇತ್ತ್ಂಡ್. ಉಂದು ಪೋಯೆರೆ ಬೊಕ್ಕ ಸ್ವತಂತ್ರ ಆಯೆರೆ ಬಯಕೆ ಮಲ್ತ್ಂಡ್. ಮಿಯಾ ಪಕ್ಕಿಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಮಿಯಾ ಪಕ್ಕಿಲೆನ ಪಂಜರೊದ ಬಾಕಿಲ್ ನ್ ತೆರೆಯೆರ್. ಪಕ್ಕಿ ಪಿದಯಿ ಪೋದು ಸಂತೋಷೊಡು ಇತ್ತ್ಂಡ್. ಉಂದು ಇನಿಕ್ ಭಯಾನಕ ಅತ್ತ್. ಮಿಯಾ ಬೊಕ್ಕ ಪಕ್ಕಿ ಸ್ನೇಹಿತೆರ್. ಅಕುಲು ಇಡೀ ದಿನ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small house, there lived a little girl named Amy. Amy was very sleepy. She put on her pajamas and went to bed.
+
+In the middle of the night, Amy heard a soft sound. She opened her eyes and saw a friendly ghost. The ghost said, "Hello, Amy! I am here to help you."
+
+Amy asked the ghost, "Can you help me pick a dream?" The ghost smiled and said, "Of course! Let's pick a happy dream for you." Together, they picked a dream about playing in a big park with lots of friends.
+
+Amy said, "Thank you, ghost!" The ghost smiled and said, "You're welcome. Now, go back to sleep and enjoy your dream." Amy closed her eyes, feeling happy and safe with her new friend.
+
+And so, Amy had a wonderful dream, thanks to the kind ghost. From that night on, the ghost would always visit Amy and help her pick the best dreams, and they became the best of friends."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ಆಮಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆ. ಆಮಿಗ್ ಮಸ್ತ್ ನಿದ್ರೆ ಬತ್ತ್ಂಡ್. ಅಲ್ ಅಲೆನ ಪೈಜಾಮ ಪಾಡ್ದ್ ನಿದ್ರೆಗ್ ಪೋಯೆರ್.
+
+ರಾತ್ರೆದ ನಡುಟು, ಆಮಿಗ್ ಒಂಜಿ ಮೃದು ಶಬ್ದ ಕೇಂಡೆರ್. ಅಲೆನ ಕಣ್ಣ್ ತೆರೆಯೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಸ್ನೇಹಿ ಭೂತೊನು ತೂಯೆರ್. ಭೂತ ಪಂಡೆ, "ನಮಸ್ಕಾರ, ಆಮಿ! ಯಾನ್ ನಿಕ್ಕ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಉಲ್ಲೆ."
+
+ಆಮಿ ಭೂತೊಗು ಕೇಂಡೆರ್, "ಒಂಜಿ ಕನೊನು ತೂಯೆರೆ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪೊಲಿಯಾ?" ಆ ಭೂತ ನಕ್ಕುದು ಪಂಡೆ, "ಖಂಡಿತಾ! ನಿಕ್ಲೆಗಾತ್ರ ಒಂಜಿ ಸಂತೋಷದ ಕನೊನು ತೂವೊಲಿ." ಒಟ್ಟುಗು, ಅಕುಲು ಮಸ್ತ್ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಒಂಜಿ ಮಲ್ಲ ಉದ್ಯಾನವನೊಡು ಆಟ ಆಡುನ ಬಗ್ಗೆ ಒಂಜಿ ಕನಸ್ ನ್ ತೂಯೆರ್.
+
+ಆಮಿ ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಭೂತ!" ಆ ಭೂತ ಮುಗುಳ್ನಗೆ ಮಲ್ತ್ದ್ ಪಂಡೆ, "ಈರ್ ಸ್ವಾಗತ. ಇತ್ತೆ, ಪಿರ ನಿದ್ರೆಗ್ ಪೋದು ನಿಕ್ಲೆನ ಕನಸ್ ನ್ ಆನಂದಿಸಲೆ." ಆಮಿ ತನ್ನ ಕಣ್ಣ್ ನ್ ಮುಚ್ಚಿಯೆರ್, ತನ್ನ ಪೊಸ ಸ್ನೇಹಿತೆನೊಟ್ಟುಗು ಸಂತೋಷ ಬೊಕ್ಕ ಸುರಕ್ಷಿತವಾದ್ ಅನುಭವಿಸಯೆರ್.
+
+ಅಂಚಾದ್, ಆಮಿಗ್ ಒಂಜಿ ಅದ್ಭುತ ಕನಸ್ ಬತ್ತ್ಂಡ್, ದಯೆದ ಭೂತೊಗು ಧನ್ಯವಾದೊಲು. ಆ ರಾತ್ರೆಡ್ದ್ ಬೊಕ್ಕ, ಭೂತ ಯಾಪಲ ಆಮಿಗ್ ಭೇಟಿ ಕೊರ್ದು ಅಲೆಗ್ ಎಡ್ಡೆ ಕನೊಕುಲೆನ್ ತೂಯೆರೆ ಸಹಾಯ ಮಲ್ಪುಂಡು, ಬೊಕ್ಕ ಅಕುಲು ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆಯೆರ್."
+},
+
+{
+"english":"Once upon a time, in a big forest, there was a tiny mushroom. It was all alone. The sun was very harsh, and the mushroom did not like it. It wanted to find a friend to play with and to help it hide from the sun.
+
+One day, a little bunny came hopping by. The mushroom called out, "Hello, bunny! Will you be my friend?" The bunny looked at the mushroom and smiled. "Sure, I will be your friend. Let's play together!" The bunny and the mushroom played all day, and they were very happy.
+
+As they played, the bunny realized that the mushroom needed help to hide from the harsh sun. So, the bunny dug a hole in the ground and put the mushroom inside. Now, the mushroom was safe and cool. The mushroom and the bunny were the best of friends, and they played in the forest every day."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಮಲ್ಲ ಕಾಡುಡು ಒಂಜಿ ಎಲ್ಯ ಅಣಬೆ ಇತ್ತ್ಂಡ್. ಉಂದು ಮಾತ ಒಂಜೇ ಆದಿತ್ತ್ಂಡ್. ಸೂರ್ಯೆ ಮಸ್ತ್ ಕಠಿಣ ಆದಿತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಣಬೆಗ್ ಅಯಿನ್ ಇಷ್ಟ ಆಯಿಜಿ. ಆಟ ಆಡೆರೆ ಒರಿ ಸ್ನೇಹಿತೆನ್ ಕಂಡುಕೊನೊಡು ಬೊಕ್ಕ ಸೂರ್ಯನ ಬೊಲ್ಪುಡ್ದ್ ದೆಂಗಾವೆರೆ ಸಹಾಯ ಮಲ್ಪೊಡು ಪಂದ್ ಅಯಿನ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಒಂಜಿ ಎಲ್ಯ ಮೊಲ ಜಿಗಿಯೊಂದು ಬತ್ತ್ಂಡ್. ಅಣಬೆ "ನಮಸ್ಕಾರ, ಬನ್ನಿ! ಈರ್ ಎನ್ನ ಸ್ನೇಹಿತೆ ಆಪುಂಡಾ?" ಬನ್ನಿ ಮಶ್ರೂಮ್ ನ್ ತೂದು ಸ್ಮೈಲ್ ಮಲ್ತ್ಂಡ್. "ಖಂಡಿತ, ಯಾನ್ ನಿನ್ನ ಸ್ನೇಹಿತೆ ಆಪುವೆ. ನಮ ಒಟ್ಟುಗು ಆಟ ಆಡೊಡು!" ಬನ್ನಿ ಬೊಕ್ಕ ಮಶ್ರೂಮ್ ಇಡೀ ದಿನ ಆಟ ಆಡೊಂದಿತ್ತೆರ್, ಬೊಕ್ಕ ಅಕುಲು ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್.
+
+ಅಕುಲು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ, ಕಠಿಣ ಸೂರ್ಯನ ಬಿಸಿಡ್ದ್ ಮುಚ್ಚರೆ ಮಶ್ರೂಮ್ ಗ್ ಸಹಾಯ ಬೋಡು ಪಂದ್ ಬನ್ನಿಗ್ ಅರ್ಥ ಆಂಡ್. ಅಂಚಾದ್, ಮೊಲ ನೆಲಟ್ ಒಂಜಿ ಗುಂಡಿ ತೋಡುದು ಅಣಬೆನ್ ಅಯಿಟ್ ಪಾಡ್ಂಡ್. ಇತ್ತೆ, ಅಣಬೆ ಸುರಕ್ಷಿತ ಬೊಕ್ಕ ತಂಪು ಆದಿತ್ತ್ಂಡ್. ಮಶ್ರೂಮ್ ಬೊಕ್ಕ ಬನ್ನಿ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್, ಬೊಕ್ಕ ಅಕುಲು ಪ್ರತಿ ದಿನ ಕಾಡ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a queen. She was a very nice queen. She had a big, pretty castle. The queen had a lot of work to do every day. But today, she wanted to relax.
+
+The queen went to the park to relax. She sat on a soft, green grass. The queen saw a bug. The bug was disgusting. The queen did not like the disgusting bug.
+
+The queen went back to her castle. She was happy to be away from the disgusting bug. Now, the queen could relax in her big, pretty castle. The queen smiled and had a good day."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ರಾಣಿ ಇತ್ತೆರ್. ಅಲ್ ಒರಿ ಮಸ್ತ್ ಎಡ್ಡೆ ರಾಣಿ ಆದಿತ್ತೆರ್. ಅಲೆಗ್ ಒಂಜಿ ಮಲ್ಲ, ಪೊರ್ಲುದ ಕೋಟೆ ಇತ್ತ್ಂಡ್. ರಾಣಿಗ್ ನಿತ್ಯೊಲ ಮಸ್ತ್ ಬೇಲೆ ಇತ್ತ್‌ಂಡ್. ಆಂಡ ಇನಿ, ಅಲ್ ರಿಲಾಕ್ಸ್ ಆಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ರಾಣಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯೆರೆ ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರ್. ಅಲ್ ಒಂಜಿ ಮೃದುವಾದ್, ಪಚ್ಚೆ ಹುಲ್ಲುಡು ಕುಲ್ಲುದು ಇತ್ತೆರ್. ರಾಣಿಗ್ ಒಂಜಿ ಕೀಟ ತೋಜಿಂಡ್. ಬಗ್ ಕೆಟ್ಟ ಆದಿತ್ತ್ಂಡ್. ರಾಣಿಗ್ ಆ ಕೆಟ್ಟ ಬಗ್ ಇಷ್ಟ ಆಯಿಜಿ.
+
+ರಾಣಿ ಪಿರ ತನ್ನ ಕೋಟೆಗ್ ಪೋಯೆರ್. ಆ ಕೆಟ್ಟ ಬಗ್ ಡ್ದ್ ದೂರ ಉಪ್ಪುನಗ ಅಲೆಗ್ ಸಂತೋಷ ಆಂಡ್. ಇತ್ತೆ, ರಾಣಿ ತನ್ನ ಮಲ್ಲ, ಪೊರ್ಲುದ ಕೋಟೆಡ್ ವಿಶ್ರಾಂತಿ ದೆತೊನೊಲಿ. ರಾಣಿ ಮುಗುಳ್ನಗೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಎಡ್ಡೆ ದಿನ ಕಳೆಯೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little white cat named Fluffy. Fluffy loved to play with her best friend, a small boy named Timmy. They played outside in the sun every day. Fluffy liked to chase Timmy, and Timmy liked to run.
+
+One day, Timmy learned a new word at school. He wanted to teach Fluffy the word too. Timmy said, "Fluffy, the word is 'repeat'. Can you say 'repeat'?" Fluffy looked at Timmy and said, "Meow." Timmy laughed and said, "No, Fluffy, say 'repeat'."
+
+Fluffy tried again and said, "Meow-peat." Timmy clapped his hands and said, "Good job, Fluffy! You said the word!" Fluffy was very happy. She liked learning new words with Timmy. From that day on, Fluffy and Timmy played a game where they would teach each other new words. They had lots of fun together, and they lived happily ever after."
+"tulu":"
+808 / 5,000
+ಒಂಜಿ ಕಾಲೊಡು ಫ್ಲಫಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಬೊಲ್ದು ಬೆಕ್ಕು ಇತ್ತ್ಂಡ್. ಫ್ಲಫಿ ತನ್ನ ಬೆಸ್ಟ್ ಫ್ರೆಂಡ್, ಟಿಮ್ಮಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಕುಲು ನಿತ್ಯಲಾ ಬಿಸಿಲುಡು ಪಿದಯಿ ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಫ್ಲಫಿ ಟಿಮ್ಮಿನ್ ಬೆನ್ನಿ ಬೀಳೆರೆ ಇಷ್ಟ ಪಡ್ಪೆ, ಬೊಕ್ಕ ಟಿಮ್ಮಿ ಓಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆ.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ಮಿ ಶಾಲೆಡ್ ಒಂಜಿ ಪೊಸ ಶಬ್ದ ಕಲ್ತೆರ್. ಫ್ಲಫಿಗ್ ಲಾ ಆ ಶಬ್ದನ್ ಕಲ್ಪಾವೊಡು ಪಂದ್ ಆರ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಟಿಮ್ಮಿ ಪಂಡೆರ್, "ಫ್ಲಫಿ, ಈ ಶಬ್ದ 'ಪುನರಾವರ್ತನೆ'. ಈರ್ 'ಪುನರಾವರ್ತನೆ' ಪನ್ಪರ್?" ಫ್ಲಫಿ ಟಿಮ್ಮಿನ್ ತೂದು "ಮ್ಯಾವ್" ಪಂಡೆರ್. ಟಿಮ್ಮಿ ನಕ್ಕುದು ಪಂಡೆರ್, "ಇಜ್ಜಿ, ಫ್ಲಫಿ, 'ಪುನರಾವರ್ತನೆ' ಪನ್ಲೆ."
+
+ಫ್ಲಫಿ ಮತ್ತೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, "ಮ್ಯಾವ್-ಪೀಟ್." ಟಿಮ್ಮಿ ಕೈ ಜೋಡಾದ್ ಪಂಡೆ, "ಎಡ್ಡೆ ಕೆಲಸ, ಫ್ಲಫಿ! ಈರ್ ಈ ಪಾತೆರ ಪಂಡೆರ್!" ಫ್ಲಫಿ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್. ಟಿಮ್ಮಿನೊಟ್ಟುಗು ಪೊಸ ಪದೊಕುಲೆನ್ ಕಲ್ಪುನವು ಅಲೆಗ್ ಇಷ್ಟ ಆಂಡ್. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಫ್ಲಫಿ ಬೊಕ್ಕ ಟಿಮ್ಮಿ ಒಂಜಿ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಅಲ್ಪ ಅಕುಲು ಒರಿ ಒರಿ ಪೊಸ ಪದೊಕುಲೆನ್ ಕಲ್ಪಾವೆರ್. ಅಕುಲು ಒಟ್ಟುಗು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಅಕುಲು ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a big octopus. He lived in the deep blue sea. He had a friend, a reliable fish. They played together every day.
+
+One day, the octopus and the fish found a big jug. They wanted to pour water on their friends for fun. But they couldn't agree on who would pour the water. The octopus said, "I want to pour the water!" The fish said, "No, I want to pour the water!" They were not happy.
+
+Then, the octopus had an idea. He said, "Let's both pour the water!" The fish liked the idea. They picked up the big jug together and poured water on all their friends. Everyone laughed and had fun. The octopus and the fish were happy again. They learned to share and play together. And they lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಮಲ್ಲ ಆಕ್ಟೋಪಸ್ ಇತ್ತ್ಂಡ್. ಆರ್ ನೀಲಿ ಸಮುದ್ರೊಡು ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಅರೆಗ್ ಒರಿ ಸ್ನೇಹಿತೆ ಇತ್ತೆರ್, ಒರಿ ವಿಶ್ವಾಸಾರ್ಹ ಮೀನ್. ಅಕುಲು ಪ್ರತಿ ದಿನಲಾ ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಆಕ್ಟೋಪಸ್ ಬೊಕ್ಕ ಮೀನ್ ಒಂಜಿ ಮಲ್ಲ ಗುಡ್ಡೆನ್ ಕಂಡು ಕನತ್ಂಡ್. ಅಕುಲು ಅಕ್ಲೆನ ಸ್ನೇಹಿತೆರೆನ ಮಿತ್ತ್ ನೀರ್ ಪಾಡೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಆಂಡ ಏರ್ ನೀರ್ ಪಾಡುವೆರ್ ಪನ್ಪಿನೆತ್ತ ಬಗ್ಗೆ ಒಪ್ಪೊಡಾಪುಜಿ. ಆಕ್ಟೋಪಸ್ ಪಂಡೆ, "ಯಾನ್ ನೀರ್ ಪಾಡೊಡು!" ಮೀನ್ ಪಂಡೆ, "ಇಜ್ಜಿ, ಯಾನ್ ನೀರ್ ಪಾಡೊಡು ಪನ್ಪೆ!" ಅಕುಲು ಸಂತೋಷೊಡು ಇಜ್ಜೆರ್.
+
+ಅಪಗ, ಆಕ್ಟೋಪಸ್ ಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಆರ್ ಪಂಡೆರ್, "ನಮ ರಡ್ಡ್ ಜನಲಾ ನೀರ್ ಪಾಡುಗ!" ಮೀನ್ ಗ್ ಆ ಐಡಿಯಾ ಇಷ್ಟ ಆಂಡ್. ಅಕುಲು ಒಟ್ಟುಗು ಮಲ್ಲ ಮಡಕೆನ್ ದೆತ್ತ್ ದ್ ಅಕ್ಲೆನ ಮಾತಾ ಸ್ನೇಹಿತೆರೆನ ಮಿತ್ತ್ ನೀರ್ ಪಾಡ್ಯೆರ್. ಪ್ರತಿಯೊಬ್ಬಲಾ ನಕ್ಕುದು ಮೋಜಿ ಮಲ್ತೆರ್. ಆಕ್ಟೋಪಸ್ ಬೊಕ್ಕ ಮೀನ್ ಪುನರ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಅಕುಲು ಒಟ್ಟುಗು ಪಾಲ್ ಮಲ್ಪೆರೆ ಬೊಕ್ಕ ಆಟ ಆಡೆರೆ ಕಲ್ಪುವೆರ್. ಬೊಕ್ಕ ಅಕುಲು ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"One day, a silly cat named Tom found a hoop in the yard. He wanted to play with it, but it was too big. Tom thought very hard about how to make the hoop smaller.
+
+Tom had an idea. He would stretch the hoop to make it smaller. He put his paws on the hoop and pulled as hard as he could. The hoop started to stretch! It got smaller and smaller.
+
+Now, the hoop was just the right size for Tom to play with. He jumped through the hoop and chased it around the yard. Tom had so much fun playing with his new toy. And that is the story of the silly cat and the hoop."
+"tulu":"ಒಂಜಿ ದಿನ, ಟಾಮ್ ಪನ್ಪಿನ ಒಂಜಿ ಸಿಲ್ಲಿ ಬೆಕ್ಕು ಅಂಗಳೊಡು ಒಂಜಿ ಹುಪ್ ನ್ ತೂಯೆರ್. ಅಯೆ ಅಯಿಟ್ ಆಟ ಆಡೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್, ಆಂಡ ಅಯಿಟ್ ಮಸ್ತ್ ಮಲ್ಲೆ ಆಂಡ್. ಹುಪ್ ನ್ ಎಂಚ ಎಲ್ಯ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆತ್ತ ಬಗ್ಗೆ ಟಾಮ್ ಮಸ್ತ್ ಕಷ್ಟೊಡು ಯೋಚನೆ ಮಲ್ತೆರ್.
+
+ಟಾಮ್ ಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಅಯಿನ್ ಎಲ್ಯ ಮಲ್ಪೆರೆ ಅಯೆ ಹುಪ್ ನ್ ಸ್ಟ್ರೆಚ್ ಮಲ್ಪುವೆ. ಆರ್ ತನ್ನ ಪಂಜೊಲೆನ್ ಹುಪ್ ಡ್ ದೀದ್ ಆರ್ ಸಾಧ್ಯ ಆಯಿನಾತ್ ಗಟ್ಟಿಯಾದ್ ಎತ್ತುವೆರ್. ಹುಪ್ ಸ್ಟ್ರೆಚ್ ಆಯೆರೆ ಸುರು ಆಂಡ್! ಉಂದು ಎಲ್ಯ ಎಲ್ಯ ಆಂಡ್.
+
+ಇತ್ತೆ, ಟಾಮ್ ಆಟ ಆಡೊಡಾಂಡ ಹೂಪ್ ಸರಿಯಾಯಿನ ಗಾತ್ರೊಡು ಇತ್ತ್ಂಡ್. ಆರ್ ಹುಪ್ ಡ್ದ್ ಜಂಪ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಯಿನ್ ಯಾರ್ಡ್ ದ ಸುತ್ತಲ ಬೆನ್ನಿ ಮಲ್ತೆರ್. ಟಾಮ್ ತನ್ನ ಪೊಸ ಆಟಿಕೆನ್ ಆಟ ಆಡೊಂದು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್. ಬೊಕ್ಕ ಅವು ಮೂರ್ಖ ಬೆಕ್ಕು ಬೊಕ್ಕ ಹುಪ್ ದ ಕತೆ."
+},
+
+{
+"english":"Once upon a time, there was a polite crab. The crab lived in the sea. The crab had many friends.
+
+One day, the crab met a new friend. The new friend did not know how to play. The crab wanted to help the new friend.
+
+The polite crab showed the new friend how to play. They played all day. They had lots of fun. The new friend was happy. The polite crab was happy too. They were best friends forever."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಸಭ್ಯ ಏಡಿ ಇತ್ತ್ಂಡ್. ಏಡಿ ಕಡಲ್ ಡ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್. ಏಡಿಗ್ ಮಸ್ತ್ ಸ್ನೇಹಿತೆರ್ ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಏಡಿ ಒರಿ ಪೊಸ ಸ್ನೇಹಿತೆನ್ ತೂಯೆರ್. ಪೊಸ ಸ್ನೇಹಿತೆಗ್ ಎಂಚ ಆಟ ಆಡೊಡು ಪನ್ಪಿನೆನ್ ಗೊತ್ತುಜ್ಜಿ. ಏಡಿ ಪೊಸ ಸ್ನೇಹಿತೆಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತ್ಂಡ್.
+
+ಶಿಷ್ಟಾಚಾರದ ಏಡಿ ಪೊಸ ಸ್ನೇಹಿತೆಗ್ ಎಂಚ ಆಟ ಆಡೊಡು ಪನ್ಪಿನೆನ್ ತೋಜಾಂಡ್. ಅಕುಲು ಇಡೀ ದಿನ ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಅಕುಲು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್. ಪೊಸ ಸ್ನೇಹಿತೆ ಖುಷಿಟ್ ಇತ್ತೆರ್. ಶಿಷ್ಟಾಚಾರದ ಏಡಿಲಾ ಸಂತೋಷೊಡು ಇತ್ತ್ಂಡ್. ಅಕುಲು ಶಾಶ್ವತವಾದ್ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once, there was a boy named Tim. Tim liked to fish. He had a long pole to catch fish. One day, his friend Sam came to play. Sam saw the pole and asked, "Can you lend me your pole?" Tim said, "Yes, but be careful!"
+
+Sam took the pole and went to the river. He tried to catch a fish. He saw a big, yummy fish. He wanted to catch it. He pulled the pole very hard. But the pole broke! Sam felt sad.
+
+Sam went back to Tim with the broken pole. He said, "I am sorry, I broke your pole." Tim was very sad. Now, he could not catch yummy fish. They both learned to be more careful with their things."
+"tulu":"
+590 / 5,000
+ಒಂಜಿ ಸರ್ತಿ, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಆಣ್ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಗ್ ಮೀನ್ ಪತ್ತುನ ಇಷ್ಟ. ಮೀನ್ ಪತ್ತೆರೆ ಆಯಗ್ ಒಂಜಿ ಉದ್ದದ ಕಡ್ಡಿ ಇತ್ತ್ಂಡ್. ಒಂಜಿ ದಿನ, ಅರೆನ ಸ್ನೇಹಿತೆ ಸ್ಯಾಮ್ ಆಟ ಆಡೆರೆ ಬತ್ತೆರ್. ಸ್ಯಾಮ್ ಆ ಕಂಬೊನು ತೂದು ಕೇಂಡೆರ್, "ಈರ್ ಎಂಕ್ ನಿನ್ನ ಕಂಬೊನು ಸಾಲ ಕೊರ್ಪುಂಡಾ?" ಟಿಮ್ ಪಂಡೆರ್, "ಆಂಡ್, ಆಂಡ ಜಾಗ್ರತೆ ಮಲ್ಪುಲೆ!"
+
+ಸ್ಯಾಮ್ ಕಂಬೊನು ದೆತೊಂದು ಸುದೆಕ್ ಪೋಯೆರ್. ಆರ್ ಒಂಜಿ ಮೀನ್ ಪತ್ತೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಆರ್ ಒಂಜಿ ಮಲ್ಲ, ರುಚಿಯಾದ್ ಉಪ್ಪುನ ಮೀನ್ ನ್ ತೂಯೆರ್. ಆರ್ ಅವೆನ್ ಪತ್ತೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಕಂಬೊನು ಬಾರಿ ಗಟ್ಟಿಯಾದ್ ಎತ್ತುವೆರ್. ಆಂಡ ಕಂಬ ಮುರಿಂಡ್! ಸ್ಯಾಮ್ ಗ್ ದುಖ ಆಂಡ್.
+
+ಸ್ಯಾಮ್ ಮುರಿನ ಕಂಬೊಡು ಟಿಮ್ ಗ್ ಪಿರ ಪೋಯೆರ್. ಆರ್ ಪಂಡೆರ್, "ಕ್ಷಮೆ ಮಲ್ಪುಲೆ, ಯಾನ್ ನಿನ್ನ ಕಂಬೊನು ಮುರಿಯೆ." ಟಿಮ್ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್. ಇತ್ತೆ, ಆರ್ ರುಚಿಯಾದ್ ಮೀನ್ ಪತ್ತೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಅಕ್ಲೆನ ವಸ್ತುಲೆಡ್ ಜಾಗ್ರತೆಡ್ ಉಪ್ಪೆರೆ ಕಲ್ಪುವೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small house, there lived a boy named Tim. Tim was a selfish boy. He did not like to share his things with others. One day, his mom brought home a big bag of vegetables. She wanted to explain to Tim why it was important to share.
+
+"Tim," said Mom, "we need to share these vegetables with our neighbors. It is not good to be selfish." Tim did not want to share the vegetables. He wanted to keep them all for himself. But Mom told him, "If you share, you will make others happy."
+
+Tim thought about it and then said, "No, I don't want to share." So, he took the vegetables and hid them in his room. The neighbors were sad because they had no food to eat. They knocked on Tim's door and asked if he had any food to share. Tim did not want to share, so he said no.
+
+That night, Tim ate all the vegetables by himself. He felt very full and sick. He wished he had listened to his mom and shared with the neighbors. But now, it was too late. The vegetables were gone, and Tim felt very bad."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಬಾಲೆ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆ. ಟಿಮ್ ಒರಿ ಸ್ವಾರ್ಥಿ ಆದಿತ್ತೆ. ಅರೆನ ವಸ್ತುಲೆನ್ ಬೇತೆಕ್ಲೆನೊಟ್ಟುಗು ಪಾಡುನವು ಅರೆಗ್ ಇಷ್ಟ ಆಯಿಜಿ. ಒಂಜಿ ದಿನ, ಅರೆನ ಅಮ್ಮೆ ಒಂಜಿ ಮಲ್ಲ ಚೀಲ ತರಕಾರಿಲೆನ್ ಇಲ್ಲಗ್ ಕನತೆರ್. ಪಾಡುನವು ದಾಯೆಗ್ ಮುಖ್ಯ ಪಂಡ್ದ್ ಟಿಮ್ ಗ್ ವಿವರಿಸೊಡಾಪುಂಡು.
+
+"ಟಿಮ್," ಪಂಡೆರ್ ಅಮ್ಮೆ, "ನಮ ಈ ತರಕಾರಿಲೆನ್ ನಮ್ಮ ನೆರೆಕರೆತಕುಲೆನೊಟ್ಟುಗು ಪಾಡೊಡು. ಸ್ವಾರ್ಥಿ ಆಯೆರೆ ಎಡ್ಡೆ ಅತ್ತ್." ಟಿಮ್ ತರಕಾರಿಲೆನ್ ಪಾಡುನ ಇಷ್ಟ ಇಜ್ಜಿ. ಅವುಲೆನ್ ಮಾತ ತನ್ನ ಸ್ವಂತೊಗು ದೀವೊಡು ಪಂದ್ ಆರ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಆಂಡ ಅಮ್ಮೆ ಅರೆಗ್ ಪಂಡೆರ್, "ಈರ್ ಪಾಲ್ ಮಲ್ತ್ಂಡ, ಈರ್ ಬೇತೆಕ್ಲೆನ್ ಖುಷಿ ಮಲ್ಪುವೆರ್."
+
+ಟಿಮ್ ಅಯಿತ ಬಗ್ಗೆ ಯೋಚನೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, "ಇಜ್ಜಿ, ಎಂಕ್ ಪಾಡುನ ಇಷ್ಟ ಇಜ್ಜಿ." ಅಂಚಾದ್, ಆರ್ ತರಕಾರಿಲೆನ್ ದೆತೊನುದು ಅರೆನ ಕೋಣೆಡ್ ಮುಚ್ಚಿಯೆರ್. ತಿನ್ಪಿನ ನುಪ್ಪು ಇಜ್ಜಿನ್ದ್ ನೆರೆಕರೆತಕುಲು ದುಃಖೊಡು ಇತ್ತೆರ್. ಅಕುಲು ಟಿಮ್ ನ ಬಾಕಿಲ್ ನ್ ತಟ್ಟುವೆರ್ ಬೊಕ್ಕ ಅರೆಗ್ ಪಾಡುನ ದಾದನಾ ಆಹಾರ ಉಂಡಾ ಪಂದ್ ಕೇಂಡೆರ್. ಟಿಮ್ ಪಾಡುನ ಇಷ್ಟ ಇಜ್ಜಿ, ಅಂಚಾದ್ ಆರ್ ಇಜ್ಜಿ ಪಂಡೆರ್.
+
+ಆ ರಾತ್ರೆ, ಟಿಮ್ ಮಾತಾ ತರಕಾರಿಲೆನ್ ಸ್ವತಃ ದೆತ್ತ್ ಂಡ್. ಆರ್ ಮಸ್ತ್ ಫುಲ್ ಬೊಕ್ಕ ಸೀಕ್ ಆದ್ ಅನುಭವಿಸಯೆರ್. ಅರೆನ ಅಮ್ಮೆರೆನ ಪಾತೆರೊನು ಕೇನ್ದ್ ನೆರೆಕರೆತಕುಲೆನೊಟ್ಟುಗು ಪಾತೆರೊಂದಿತ್ತೆ ಪಂದ್ ಆರ್ ಆಸೆ ಮಲ್ತೆರ್. ಆಂಡ ಇತ್ತೆ, ಮಸ್ತ್ ತಡ ಆಂಡ್. ತರಕಾರಿಲು ಪೋಂಡು, ಬೊಕ್ಕ ಟಿಮ್ ಗ್ ಮಸ್ತ್ ಕೆಟ್ಟ ಅನುಭವ ಆಂಡ್."
+},
+
+{
+"english":"Once upon a time, there was a girl named Sue. Sue had long hair that would remind her of a rainbow. She would play with her hair all day.
+
+One day, Sue saw a slow snail in her garden. The snail had a pretty shell. Sue wanted to be friends with the snail. She named the snail Sam.
+
+Sue and Sam played together every day. They would race, but Sam was always slow. Sue would laugh and clap her hands. Sue and Sam were very happy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಸೂ ಪನ್ಪಿನ ಒರಿ ಪೊಣ್ಣು ಇತ್ತೆರ್. ಸ್ಯೂಗ್ ಮಳೆಬಿಲ್ಲುದ ನೆಂಪು ಮಲ್ಪುನ ಉದ್ದದ ಕೂದಲ್ ಇತ್ತ್ಂಡ್. ಅಲ್ ಇಡೀ ದಿನ ಅಲೆನ ಕೂದಲ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಸ್ಯೂ ತನ್ನ ತೋಟೊಡು ಒಂಜಿ ನಿಧಾನವಾದ್ ಬಸವನ ತೂಯೆರ್. ಬಸವನ ಒಂಜಿ ಪೊರ್ಲುದ ಚಿಪ್ಪು ಇತ್ತ್ಂಡ್. ಸ್ಯೂ ಬಸವನೊಟ್ಟುಗು ಸ್ನೇಹಿತೆರಾವೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಅಲೆಗ್ ಬಸವನ ಸ್ಯಾಮ್ ಪಂಡ್ದ್ ಪುದರ್ ದೀಯೆರ್.
+
+ಸ್ಯೂ ಬೊಕ್ಕ ಸ್ಯಾಮ್ ಪ್ರತಿ ದಿನ ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಅಕುಲು ಓಟ ಮಲ್ಪುವೆರ್, ಆಂಡ ಸ್ಯಾಮ್ ಯಾಪಲ ನಿಧಾನ ಆದಿತ್ತೆ. ಸ್ಯೂ ನಕ್ಕುವೆರ್ ಬೊಕ್ಕ ಅಲೆನ ಕೈನ್ ತಟ್ಟುವೆರ್. ಸೂ ಬೊಕ್ಕ ಸ್ಯಾಮ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a helpful girl named Lily. She loved to read books and spend time with her friends. One day, she found a new book at school. The book was about a kind bear who helped everyone in the forest.
+
+Lily read the book to her friends. They all liked the story. They wanted to be like the kind bear in the book. So, they decided to help others too. They helped their teacher clean the classroom. They also helped their friends when they fell down or needed a friend to play with.
+
+As they spent more time being helpful, Lily and her friends felt happy. They learned that being kind and helpful to others made them happy too. The moral of the story is to be kind and helpful, just like the kind bear in the book."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ಸಹಾಯ ಮಲ್ಪುನ ಪೊಣ್ಣು ಇತ್ತೆ. ಅಲೆಗ್ ಪುಸ್ತಕೊಲೆನ್ ಓದುನ ಬೊಕ್ಕ ಅಲೆನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಸಮಯ ಕಳೆಯೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲ್ಪ ಶಾಲೆಡ್ ಒಂಜಿ ಪೊಸ ಪುಸ್ತಕೊನು ತೂಯೆರ್. ಕಾಡ್ ಡ್ ಮಾತೆರೆಗ್ಲಾ ಸಹಾಯ ಮಲ್ಪುನ ಒಂಜಿ ಎಡ್ಡೆ ಕರಡಿದ ಬಗ್ಗೆ ಆ ಪುಸ್ತಕೊಡು ಉಂಡು.
+
+ಲಿಲಿ ತನ್ನ ಸ್ನೇಹಿತೆರೆಗ್ ಪುಸ್ತಕೊನು ಓದುವೆರ್. ಅಕುಲು ಮಾತೆರೆಗ್ಲಾ ಕತೆ ಇಷ್ಟ ಆಂಡ್. ಅಕುಲು ಪುಸ್ತಕೊಡು ಉಪ್ಪುನ ಎಡ್ಡೆ ಕರಡಿದಲೆಕ ಆಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಅಂಚಾದ್, ಅಕುಲು ಬೇತೆಕ್ಲೆಗ್ಲಾ ಸಹಾಯ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಅಕುಲು ಅಕ್ಲೆನ ಶಿಕ್ಷಕೆರೆಗ್ ತರಗತಿನ್ ಸ್ವಚ್ಛ ಮಲ್ಪೆರೆ ಸಹಾಯ ಮಲ್ತೆರ್. ಅಕುಲು ಅಕ್ಲೆನ ಸ್ನೇಹಿತೆರೆಗ್ ಬೂರುನಗ ಅತ್ತ್ಂಡ ಆಟ ಆಡೆರೆ ಒರಿ ಸ್ನೇಹಿತೆ ಬೋಡಾನಗಲಾ ಅಕುಲು ಸಹಾಯ ಮಲ್ತೆರ್.
+
+ಅಕುಲು ಸಹಾಯ ಮಲ್ಪೆರೆ ಜಾಸ್ತಿ ಸಮಯ ಕಳೆಯೊಂದಿತ್ತಿನೆಡ್ದಾವರ, ಲಿಲಿ ಬೊಕ್ಕ ಅಲೆನ ಸ್ನೇಹಿತೆರ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಬೇತೆಕ್ಲೆಗ್ ದಯೆ ಬೊಕ್ಕ ಸಹಾಯ ಮಲ್ಪುನವು ಅಕುಲೆನ್ ಲಾ ಸಂತೋಷ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ಅಕುಲು ತೆರಿನೆರ್. ಪುಸ್ತಕೊಡು ಉಪ್ಪುನ ದಯೆದ ಕರಡಿದಲೆಕನೆ ದಯೆ ಬೊಕ್ಕ ಸಹಾಯ ಮಲ್ಪುನವು ಕತೆತ ನೈತಿಕತೆ."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Tim. Tim wanted to build something special for his mom's birthday. He thought and thought about what to make. Then, he had an idea! He would build a big present for her.
+
+Tim was worried. He didn't know if he could build the present all by himself. He asked his dad for help. Together, they found some big boxes, pretty paper, and a big bow. They worked together to make the present look nice.
+
+When Tim's mom saw the present, she was so happy! She gave Tim a big hug and thanked him for the special gift. Tim felt proud that he could build something so nice for his mom. And he was no longer worried."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ತನ್ನ ಅಮ್ಮೆರೆನ ಪುಟ್ಟು ಪರ್ಬೊಗು ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನ್ ಕಟ್ಟೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ದಾದ ಮಲ್ಪೊಡು ಪನ್ಪಿನೆತ್ತ ಬಗ್ಗೆ ಆರ್ ಯೋಚನೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಯೋಚನೆ ಮಲ್ತೆರ್. ಅಪಗ, ಅರೆಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್! ಅಲೆಗ್ ಅಲೆಗ್ ಒಂಜಿ ಮಲ್ಲ ಉಡುಗೊರೆನ್ ಕೊರ್ಪೆರ್.
+
+ಟಿಮ್ ಚಿಂತೆಡ್ ಇತ್ತೆರ್. ಆರ್ ವರ್ತಮಾನೊನು ತನ್ನನೇ ಕಟ್ಟೊಲಿ ಪನ್ಪಿನೆನ್ ಆರ್ ತೆರಿಯೊಂದಿಜ್ಜೆರ್. ಆರ್ ಅರೆನ ಅಪ್ಪೆಗ್ ಸಹಾಯ ಕೇಂಡೆರ್. ಒಟ್ಟುಗು, ಅಕುಲು ಕೆಲವು ಮಲ್ಲ ಬಾಕ್ಸ್ ಲೆನ್, ಪೊರ್ಲುದ ಪೇಪರ್ ನ್, ಬೊಕ್ಕ ಒಂಜಿ ಮಲ್ಲ ಬಿಲ್ಲುನ್ ಕಂಡು ಕನತೆರ್. ಇತ್ತೆದ ಕಾಲೊನು ಎಡ್ಡೆ ಮಲ್ಪೆರೆ ಅಕುಲು ಒಟ್ಟುಗು ಬೇಲೆ ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ನ ಅಮ್ಮೆ ಉಡುಗೊರೆನ್ ತೂನಗ, ಅರೆಗ್ ಮಸ್ತ್ ಸಂತೋಷ ಆಂಡ್! ಅಲ್ ಟಿಮ್ ಗ್ ಒಂಜಿ ಮಲ್ಲ ತಬ್ಬುನು ಕೊರ್ದು ವಿಶೇಷ ಕೊಡುಗೆಗ್ ಸೊಲ್ಮೆಲು ಪಂಡೆರ್. ಟಿಮ್ ತನ್ನ ಅಮ್ಮೆರೆಗಾದ್ ಒಂಜಿ ಎಡ್ಡೆ ಒಂಜಿ ವಸ್ತುನ್ ಕಟ್ಟೊಲಿ ಪನ್ಪಿನೆಕ್ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್. ಬೊಕ್ಕ ಆರ್ ಇನಿಕ್ ಚಿಂತೆ ಮಲ್ತೊಂದಿಜ್ಜೆರ್."
+},
+
+{
+"english":"One day, a big whale was swimming in the deep blue sea. The whale was very mysterious. It had a big smile on its face and liked to play with the little fish.
+
+The mysterious whale loved to relax in the warm water. It would lay on its back and let the waves rock it like a baby. The little fish would swim around the whale, and they all felt happy and safe.
+
+One day, the mysterious whale and the little fish found a beautiful place to relax. It was a quiet spot with lots of colorful plants and pretty shells. They all had a fun day, playing and relaxing together in their new secret place."
+"tulu":"ಒಂಜಿ ದಿನ, ಒಂಜಿ ಮಲ್ಲ ತಿಮಿಂಗಿಲ ಆಳೊದ ನೀಲಿ ಸಮುದ್ರೊಡು ಈಜೊಂದಿತ್ತ್ಂಡ್. ತಿಮಿಂಗಿಲ ಮಸ್ತ್ ನಿಗೂಢವಾದಿತ್ತ್ಂಡ್. ಅಯಿತ ಮೋನೆಡ್ ಮಲ್ಲ ಸ್ಮೈಲ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಯಿನ್ ಎಲ್ಯ ಮೀನ್ ನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಆಂಡ್.
+
+ನಿಗೂಢ ತಿಮಿಂಗಿಲ ಬೆಚ್ಚ ನೀರ್ಡ್ ವಿಶ್ರಾಂತಿ ಪಡೆಯೆರೆ ಇಷ್ಟ ಪಡ್ಪುಂಡು. ಉಂದು ಅಯಿತ ಬೆನ್ನಿದ ಮಿತ್ತ್ ಬೂರ್ದು ಅಲೆಲೆನ್ ಒಂಜಿ ಬಾಲೆದಲೆಕ ಅಲೆನ್ ಲಕ್ಕಾವೊಡು. ಎಲ್ಯ ಮೀನ್ ತಿಮಿಂಗಿಲದ ಸುತ್ತ ಈಜುಂಡು, ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಸುರಕ್ಷಿತವಾದ್ ಅನುಭವಿಸೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ರಹಸ್ಯಮಯ ತಿಮಿಂಗಿಲ ಬೊಕ್ಕ ಎಲ್ಯ ಮೀನ್ ವಿಶ್ರಾಂತಿ ಪಡೆಯೆರೆ ಒಂಜಿ ಪೊರ್ಲುದ ಜಾಗೆನ್ ಕಂಡು ಕನತೆರ್. ಉಂದು ಒಂಜಿ ಶಾಂತ ಜಾಗೆ ಆದಿತ್ತ್ಂಡ್, ಉಂದೆಟ್ ಮಸ್ತ್ ಬಣ್ಣ ಬಣ್ಣದ ಸಸ್ಯೊಲು ಬೊಕ್ಕ ಪೊರ್ಲುದ ಚಿಪ್ಪುಲು ಇತ್ತ್ಂಡ್. ಅಕುಲು ಮಾತೆರ್ಲ ಒಂಜಿ ಮೋಜಿದ ದಿನೊನು ಕಳೆಯೆರ್, ಅಕ್ಲೆನ ಪೊಸ ರಹಸ್ಯ ಜಾಗೆಡ್ ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ವಿಶ್ರಾಂತಿ ಪಡೆಯೊಂದಿತ್ತೆರ್."
+},
+
+
+{
+"english":"Once upon a time, there was a smelly old tree. By the tree, there was a big hole. In the hole, there was a shiny coin. A boy named Tim saw the coin and wanted it.
+
+Tim said to his friend, "I want that coin, but the tree is smelly and rot." His friend said, "Be brave, Tim! You can get the coin." So, Tim went to the smelly tree and tried to get the coin from the hole.
+
+As Tim got closer to the hole, he saw a little mouse. The mouse said, "I will help you get the coin, but you must help me too." Tim agreed, and they got the coin together. Tim was happy, and the mouse was happy too. And they both learned that even in smelly places, good things can happen."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ದುರ್ಗಂಧದ ಪಿರಾಕ್‌ದ ಮರ ಇತ್ತ್‌ಂಡ್. ಮರತ ಬರಿಟ್ ಒಂಜಿ ಮಲ್ಲ ಗುಂಡಿ ಇತ್ತ್ಂಡ್. ಆ ಗುಂಡಿಡ್, ಒಂಜಿ ಮಿಂಚುನ ಕಾಯಿನ್ ಇತ್ತ್ಂಡ್. ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಆಣ್ ಬಾಲೆ ಆ ನಾಣ್ಯೊನು ತೂದು ಅವೆನ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ತನ್ನ ಸ್ನೇಹಿತೆಗ್ ಪಂಡೆರ್, "ಎಂಕ್ ಆ ನಾಣ್ಯ ಬೋಡು, ಆಂಡ ಮರ ವಾಸನೆ ಬೊಕ್ಕ ಕೊಳೆತುಂಡು." ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಪಂಡೆರ್, "ಧೈರ್ಯೊಡು ಉಪ್ಪುಲೆ, ಟಿಮ್! ಈರ್ ನಾಣ್ಯೊನು ದೆತೊನೊಲಿ." ಅಂಚಾದ್, ಟಿಮ್ ವಾಸನೆದ ಮರತ ಎದುರುಗು ಪೋದು ಗುಂಡಿಡ್ದ್ ನಾಣ್ಯೊನು ದೆತೊನೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ರಂದ್ರೊಗು ಮುಟ್ಟ ಬನ್ನಗ, ಒಂಜಿ ಎಲ್ಯ ಎಲಿನ್ ತೂಯೆರ್. ಎಲಿ ಪನ್ಪೆ, "ನಾಣ್ಯ ದೆತೊನುನಗ ಯಾನ್ ನಿಕ್ಲೆಗ್ ಸಹಾಯ ಮಲ್ಪುವೆ, ಆಂಡ ನಿಕುಲುಲಾ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪೊಡು." ಟಿಮ್ ಒಪ್ಪಿಗೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಅಕುಲು ಒಟ್ಟುಗು ನಾಣ್ಯೊನು ದೆತೊನುವೆರ್. ಟಿಮ್ ಖುಷಿಟ್ ಇತ್ತೆರ್, ಬೊಕ್ಕ ಮೌಸ್ ಲಾ ಖುಷಿಟ್ ಇತ್ತೆರ್. ಬೊಕ್ಕ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ವಾಸನೆದ ಜಾಗೆಲೆಡ್ಲಾ ಎಡ್ಡೆ ಕೆಲಸೊಲು ನಡಪೆರೆ ಸಾಧ್ಯ ಉಂಡು ಪನ್ಪಿನೆನ್ ತೆರಿನೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Tim. Tim loved going to the park to play. One day, Tim went to the park with his mom and dad. He was very happy.
+
+At the park, Tim saw a big tree. He wanted to give the tree a hug. So, he hugged the tree and felt good. Tim liked the tree a lot. He played with his ball, ran around, and had a lot of fun.
+
+Tim had a successful day at the park. He played and laughed a lot. When it was time to go home, Tim felt tired but happy. He couldn't wait to come back to the park again."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಗ್ ಆಟ ಆಡೆರೆ ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಟಿಮ್ ಅರೆನ ಅಮ್ಮೆ ಅಪ್ಪೆನೊಟ್ಟುಗು ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರ್. ಆರ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್.
+
+ಉದ್ಯಾನವನೊಡು, ಟಿಮ್ ಒಂಜಿ ಮಲ್ಲ ಮರನ್ ತೂಯೆರ್. ಆರ್ ಮರನ್ ತಬ್ಬುನ ಮನಸ್ಸ್ ಮಲ್ತೆರ್. ಅಂಚಾದ್, ಆರ್ ಮರನ್ ತಬ್ಬಿಯೆರ್ ಬೊಕ್ಕ ಎಡ್ಡೆ ಅನುಭವ ಆಂಡ್. ಟಿಮ್ ಗ್ ಮರ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಆರ್ ತನ್ನ ಚೆಂಡೆಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್, ಓಡೊಂದಿತ್ತೆರ್, ಬೊಕ್ಕ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ಪಾರ್ಕ್ ಡ್ ಒಂಜಿ ಯಶಸ್ವಿ ದಿನೊನು ಕಳೆಯೆರ್. ಆರ್ ಮಸ್ತ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ನಗೊಂದಿತ್ತೆರ್. ಇಲ್ಲಗ್ ಪೋಪಿನ ಪೊರ್ತು ಆನಗ, ಟಿಮ್ ಗ್ ದಣಿ ಆಂಡ ಸಂತೋಷ ಆಂಡ್. ಆರ್ ಪುನರ್ ಉದ್ಯಾನವನೊಗು ಬರೊಡಾಂಡ ತಡ ಆಯಿಜಿ."
+},
+
+{
+"english":"One sunny day, a pretty boat was on the water. The boat was red and blue. A girl named Lily and her dog, Spot, were on the boat. They liked to play and have fun together.
+
+Lily saw a big fish jump out of the water. She said, "Wow, Spot! Did you see that big fish?" Spot barked and wagged his tail. They both laughed and clapped their hands.
+
+Lily picked up a hose and started to spray water. She sprayed the water on the boat and on Spot. Spot jumped and barked, trying to catch the water. They played and sprayed water until the sun went down. Then, they went home, happy and wet."
+"tulu":"ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ, ಒಂಜಿ ಪೊರ್ಲುದ ದೋಣಿ ನೀರ್ದ ಮಿತ್ತ್ ಇತ್ತ್ಂಡ್. ದೋಣಿ ಕೆಂಪು ಬೊಕ್ಕ ನೀಲಿ ಬಣ್ಣೊಡು ಇತ್ತ್ಂಡ್. ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ಪೊಣ್ಣು ಬೊಕ್ಕ ಅಲೆನ ನಾಯಿ ಸ್ಪಾಟ್ ದೋಣಿಡ್ ಇತ್ತೆರ್. ಅಕುಲು ಒಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್.
+
+ಲಿಲಿ ಒಂಜಿ ಮಲ್ಲ ಮೀನ್ ನೀರ್ಡ್ದ್ ಜಿಗಿಯೊಂದಿತ್ತಿನ ತೂಯೆರ್. ಅಲೆ ಪಂಡೆರ್, "ವಾ, ಸ್ಪಾಟ್! ಈರ್ ಆ ಮಲ್ಲ ಮೀನ್ ನ್ ತೂಯರ್?" ಸ್ಪಾಟ್ ಬಾರ್ಕ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಬಾಲೊನು ತಗ್ಗಾಯೆರ್. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ನಕ್ಕುದು ಕೈ ಜೋಡಾಯೆರ್.
+
+ಲಿಲಿ ಒಂಜಿ ಮೆದುಗೊಳವೆನ್ ದೆತೊನುದು ನೀರ್ ಸಿಂಪಡಣೆ ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅಲ್ ದೋಣಿಡ್ ಬೊಕ್ಕ ಸ್ಪಾಟ್ ಡ್ ನೀರ್ ನ್ ಸಿಂಪಡಣೆ ಮಲ್ತೆರ್. ಸ್ಪಾಟ್ ಜಂಪ್ ಮಲ್ತ್ದ್ ಬಾರ್ಕ್ ಮಲ್ತೆರ್, ನೀರ್ನ್ ಪತ್ತೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಸೂರ್ಯ ಮುರ್ಕುನ ಮುಟ್ಟ ಗೊಬ್ಬುದು ನೀರ್ ಸಿಂಪಡೊಂದಿತ್ತೆರ್. ಅಪಗ, ಅಕುಲು ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಒದ್ದೆಯಾದ್ ಇಲ್ಲಗ್ ಪೋಯೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a girl named Lily. She had a flute that she loved to play. One day, she met a deaf cat who could not hear her play the flute. Lily wanted to help the cat hear her music.
+
+Lily had an idea. She would stretch a big string from her flute to the cat's ear. The cat could feel the music through the string. The cat was happy and started to dance.
+
+Lily and the deaf cat became best friends. They played and danced together every day. The cat loved to feel the music from Lily's flute. They were happy and had lots of fun."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಲಿಲಿ ಪನ್ಪಿ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆ. ಅಲೆಗ್ ಒಂಜಿ ಕೊಳಲು ಇತ್ತ್ಂಡ್ ಅವೆನ್ ಅಲೆಗ್ ವಾದನ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲೆಗ್ ಒಂಜಿ ಕಿವುಡ ಬೆಕ್ಕು ತೋಜಿಂಡ್, ಅಲೆಗ್ ಅಲೆಗ್ ಕೊಳಲು ಪಾಡುನ ಶಬ್ದ ಕೇನೆರೆ ಆಯಿಜಿ. ಲಿಲಿ ಬೆಕ್ಕುಗು ಅಲೆನ ಸಂಗೀತ ಕೇನೆರೆ ಸಹಾಯ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಲಿಲಿಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಅಲೆನ ಕೊಳಲುಡ್ದ್ ಬೆಕ್ಕುದ ಕಿನ್ನಿ ಮುಟ್ಟ ಒಂಜಿ ಮಲ್ಲ ತಂತಿನ್ ಚಾಚುವೆರ್. ಬೆಕ್ಕು ತಂತಿದ ಮೂಲಕ ಸಂಗೀತನ್ ಅನುಭವಿಸೊಲಿ. ಪೆಕ್ಕು ಸಂತೋಷೊಡು ನಲಿಪೆರೆ ಸುರು ಮಲ್ತ್ಂಡ್.
+
+ಲಿಲಿ ಬೊಕ್ಕ ಕಿವುಡು ಬೆಕ್ಕು ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆಯೆರ್. ಅಕುಲು ಪ್ರತಿ ದಿನಲಾ ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ನಲಿತೊಂದಿತ್ತೆರ್. ಬೆಕ್ಕು ಲಿಲಿನ ಕೊಳಲುದ ಸಂಗೀತನ್ ಅನುಭವಿಸೆರೆ ಇಷ್ಟ ಪಡ್ಂಡ್. ಅಕುಲು ಖುಷಿಟ್ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Tom went to play with his friend, Sam. They played a game where they had to escape from a pretend monster. They ran and hid, but the monster always found them. Tom felt scared, but he remembered his special gum. He thought it could help them win the game.
+
+Tom took out the thin gum and shared it with Sam. They both chewed the gum and started to run from the monster again. But this time, they did not escape. The gum made them feel sick and slow. The monster caught them, and they lost the game. Tom and Sam were very sad. They learned never to pick up gum from the ground again."
+"tulu":"ಟಾಮ್ ತನ್ನ ಸ್ನೇಹಿತೆ ಸ್ಯಾಮ್ ನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಪೋಯೆರ್. ಅಕುಲು ಒಂಜಿ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಅಲ್ಪ ಅಕುಲು ಒಂಜಿ ನಟನೆದ ರಾಕ್ಷಸೆಡ್ದ್ ತಪ್ಪಿಸಿಕೊಳ್ಳೊಡಾಪುಂಡು. ಅಕುಲು ಓಡಿದ್ ಮುಚ್ಚಿಯೆರ್, ಆಂಡ ರಾಕ್ಷಸೆ ಅಕುಲೆನ್ ಯಾಪಲ ತೂವೊಂದಿತ್ತೆ. ಟಾಮ್ ಗ್ ಭಯ ಆಂಡ್, ಆಂಡ ಅರೆಗ್ ಅರೆನ ವಿಶೇಷ ಗಮ್ ನೆಂಪು ಬತ್ತ್ಂಡ್. ಅವು ಅಕ್ಲೆಗ್ ಆಟ ಗೆಂದಿಯೆರೆ ಸಹಾಯ ಮಲ್ಪುಂಡು ಪಂದ್ ಅರೆಗ್ ಅನಿಸಿಕೆ ಆಂಡ್.
+
+ಟಾಮ್ ತೆಳು ಗಮ್ ನ್ ದೆತ್ತ್ದ್ ಸ್ಯಾಮ್ ನೊಟ್ಟುಗು ಪಾಡ್ಯೆರ್. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಗಮ್ ನ್ ಚೂಯಿಂಗ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಮತ್ತೆ ರಾಕ್ಷಸೆಡ್ದ್ ಓಡೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ ಈ ಸರ್ತಿ, ಅಕುಲು ತಪ್ಪಾವೊಂದಿಜ್ಜೆರ್. ಗಮ್ ಅಕುಲೆಗ್ ಕಾಯಿಲೆ ಬೊಕ್ಕ ನಿಧಾನ ಆಂಡ್. ರಾಕ್ಷಸೆ ಅಕುಲೆನ್ ಪತೊಂಡು, ಬೊಕ್ಕ ಅಕುಲು ಆಟೊನು ಸೋತುದು ಪೋಯೆರ್. ಟಾಮ್ ಬೊಕ್ಕ ಸ್ಯಾಮ್ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್. ಮಣ್ಣ್ ಡ್ದ್ ಗಮ್ ನ್ ಏಪಲಾ ದೆತೊನೊಡಾಪುಜಿ ಪಂದ್ ಅಕುಲು ಕಲ್ಪುವೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Tim. Tim had a favorite vest that he loved to wear. It was a pretty vest with many colors. He wore it all the time.
+
+One day, it started to rain when Tim was playing outside. The rain made Tim and his vest very wet. Tim did not like being wet, so he went back inside his house. His mom saw his wet vest and told him to take it off.
+
+Tim took off his wet vest and started to weep. He was sad because his favorite vest was wet. His mom saw him weep and hugged him. She told him not to worry, she would dry the vest. Tim felt better and played with his toys while he waited for his vest to dry."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಗ್ ಒಂಜಿ ಮೆಚ್ಚಿನ ಜಾಕೆಟ್ ಇತ್ತ್ಂಡ್ ಅವೆನ್ ಅರೆಗ್ ಪಾಡುನ ಇಷ್ಟ ಆಂಡ್. ಉಂದು ಮಸ್ತ್ ಬಣ್ಣೊಲೆನ ಒಂಜಿ ಪೊರ್ಲುದ ವೆಸ್ಟ್ ಆದಿತ್ತ್ಂಡ್. ಆರ್ ಅವೆನ್ ಯಾಪಲಾ ಪಾಡೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪಿದಯಿ ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ ಮಳೆ ಬರ್ರೆ ಸುರು ಆಂಡ್. ಮಳೆ ಟಿಮ್ ಬೊಕ್ಕ ಅರೆನ ಜಾಕೆಟ್ ನ್ ಮಸ್ತ್ ಒದ್ದೆ ಮಲ್ತ್ಂಡ್. ಟಿಮ್ ಗ್ ಒದ್ದೆ ಆಯೆರೆ ಇಷ್ಟ ಆಯಿಜಿ, ಅಂಚಾದ್ ಆರ್ ಅರೆನ ಇಲ್ಲಗ್ ಪಿರ ಪೋಯೆರ್. ಅಯನ ಅಮ್ಮೆ ಅಯನ ಒದ್ದೆ ಆಯಿನ ಜಾಕೆಟ್ ನ್ ತೂದು ಅವೆನ್ ದೆಪ್ಪೆರೆ ಪಂಡೆರ್.
+
+ಟಿಮ್ ತನ್ನ ಒದ್ದೆ ಆಯಿನ ಜಾಕೆಟ್ ನ್ ದೆತ್ತ್ ದ್ ಕಣ್ಣೀರ್ ಪಾಡೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅರೆನ ನೆಚ್ಚಿನ ಜಾಕೆಟ್ ಒದ್ದೆ ಆಯಿನೆಡ್ದಾವರ ಅರೆಗ್ ಬೇಜಾರು ಆಂಡ್. ಅಯನ ಅಮ್ಮೆ ಅಯನ್ ಕಣ್ಣೀರ್ ಪಾಡುನ ತೂದು ಅಯನ್ ತಬ್ಬಿಯೆರ್. ಚಿಂತೆ ಮಲ್ಪೆರೆ ಬಲ್ಲಿ ಪಂದ್ ಅಲೆಗ್ ಪಂಡೆರ್, ಅಲೆನ್ ವೆಸ್ಟ್ ನ್ ಒರಿಪಾವೊಡು ಪಂದ್ ಅಲೆನ್ ಪಂಡೆರ್. ಟಿಮ್ ಗ್ ಎಡ್ಡೆ ಆಂಡ್ ಬೊಕ್ಕ ಅರೆನ ಜಾಕೆಟ್ ಒರಿಯೆರೆ ಕಾತೊಂದು ಇತ್ತಿನಗ ಅರೆನ ಆಟಿಕೆಲೆನ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little boat. The boat was blue and it liked to float on the water. One day, the sun was very hot and the water began to dry up. The boat was sad because it could not float anymore.
+
+A bird saw the boat and asked, "Why are you sad, little boat?" The boat said, "The water is dry and I cannot float. I miss the water." The bird wanted to help the boat, so it thought of an easy plan.
+
+The bird told the boat, "I will find more water for you. Then you can float again!" The boat was happy and thanked the bird. The bird flew away and soon found a big pond. It came back and told the boat about the pond.
+
+Together, the bird and the boat went to the big pond. The boat was able to float again and it was very happy. The bird and the boat played together in the water all day long. And they became the best of friends."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ದೋಣಿ ಇತ್ತ್ಂಡ್. ದೋಣಿ ನೀಲಿ ಬಣ್ಣೊಡು ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಯಿನ್ ನೀರ್ಡ್ ತೇಲೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ ಸೂರ್ಯನ ಬೊಲ್ಪು ಬಾರಿ ಬೆಚ್ಚ ಆದ್ ನೀರ್ ಒರಯೆರೆ ಸುರು ಆಂಡ್. ದೋಣಿ ದುಃಖೊಡು ಇತ್ತ್ಂಡ್ ದಾಯೆ ಪಂಡ ಅಯಿನ್ ತೇಲೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಒಂಜಿ ಪಕ್ಕಿ ದೋಣಿನ್ ತೂದು ಕೇಂಡುಂಡು "ಈರ್ ದಾಯೆಗ್ ಬೇಜಾರು ಮಲ್ತೊಂದುಲ್ಲರ್ ಎಲ್ಯ ದೋಣಿ?" ದೋಣಿ ಪನ್ಪುಂಡು, "ನೀರ್ ಒರಿದ್ಂಡ್ ಬೊಕ್ಕ ಎಂಕ್ ತೇಲುನ ಸಾಧ್ಯತೆ ಇಜ್ಜಿ. ಎಂಕ್ ನೀರ್ ಮಿಸ್ ಆಪುಂಡು." ಪಕ್ಕಿ ದೋಣಿಗ್ ಸಹಾಯ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತ್ಂಡ್, ಅಂಚಾದ್ ಒಂಜಿ ಸುಲಭದ ಯೋಜನೆನ್ ಯೋಚನೆ ಮಲ್ತ್ಂಡ್.
+
+ಆ ಪಕ್ಕಿ ದೋಣಿಗ್ ಪನ್ಪುಂಡು, "ಯಾನ್ ನಿಕ್ಕ್ ಜಾಸ್ತಿ ನೀರ್ ಕೊರ್ಪೆ. ಅಪಗ ನಿಕುಲು ಪುನರ್ ತೇಲುವೊಲಿ!" ದೋಣಿ ಖುಷಿಟ್ ಪಕ್ಕಿಗ್ ಸೊಲ್ಮೆ ಪನ್ಪಲ್. ಆ ಪಕ್ಕಿ ಪಿದಯಿ ಪೋದು ಬೇಗನೆ ಒಂಜಿ ಮಲ್ಲ ಕೊಳೊನು ತೂಯೆರ್. ಉಂದು ಪಿರ ಬತ್ತ್ದ್ ದೋಣಿಗ್ ಕೊಳದ ಬಗ್ಗೆ ತೆರಿಪಾಂಡ್.
+
+ಪಕ್ಕಿ ಬೊಕ್ಕ ದೋಣಿ ಒಟ್ಟು ಸೇರ್ದ್ ಮಲ್ಲ ಕಂಡೊಗು ಪೋಯೆರ್. ದೋಣಿ ಪುನರ್ ತೇಲೆರೆ ಸಾಧ್ಯ ಆಂಡ್ ಬೊಕ್ಕ ಅವು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತ್ಂಡ್. ಪಕ್ಕಿ ಬೊಕ್ಕ ದೋಣಿ ಇಡೀ ದಿನ ಒಟ್ಟುಗು ನೀರ್ಡ್ ಗೊಬ್ಬೊಂದಿತ್ತೆ. ಬೊಕ್ಕ ಅಕುಲು ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆಯೆರ್."
+},
+
+{
+"english":"Once upon a time, there was an old lady who lived in a small house. She loved to mix things in her big pot. One day, she decided to mix some yummy soup for her lunch.
+
+As she mixed the soup, she saw some smoke come out of her pot. She knew that meant the soup was very hot. The old lady was very careful not to touch the smoke or the pot.
+
+She let the soup cool down and then she ate it. The old lady thought it was the best soup she ever had. She was very happy and full. From that day on, she always mixed yummy soup for her lunch."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ವಾಸ ಮಲ್ತೊಂದಿತ್ತಿನ ಒರಿ ಮಲ್ಲ ಮಲ್ಲ ಪೊಣ್ಣು. ಅಲೆಗ್ ಅಲೆನ ಮಲ್ಲ ಪಾತ್ರೆಡ್ ವಸ್ತುಲೆನ್ ಮಿಶ್ರಣ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲೆನ ಊಟೊಗು ಒಂಜಿ ರುಚಿಯಾದ್ ಸೂಪ್ ಮಿಶ್ರಣ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಅಲ್ ಸೂಪ್ ನ್ ಬೆರೆಸೊಂದಿತ್ತಿನಗ, ಅಲೆನ ಪಾತ್ರೆಡ್ದ್ ಕೆಲವು ಧೂಮಪಾನ ಬರ್ಪುನ ತೂಯೆರ್. ಸೂಪ್ ಮಸ್ತ್ ಬಿಸಿ ಉಂಡು ಪನ್ಪಿನ ಅರ್ಥ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್. ಧೂಮಪಾನೊಗು ಅತ್ತ್ಂಡ ಮಡಕೆಗ್ ಮುಟ್ಟಾವಂದೆ ಉಪ್ಪುನ ಮಲ್ಲ ಮಲ್ಲ ಮಹಿಳೆ ಮಸ್ತ್ ಎಚ್ಚರೊಡು ಇತ್ತೆರ್.
+
+ಅಲ್ ಸೂಪ್ ನ್ ತಂಪು ಆಯೆರೆ ಬುಡ್ಪೆರ್ ಬೊಕ್ಕ ಅಲ್ ಅವೆನ್ ದೆತೊಂಡೆರ್. ಆ ಮಲ್ಲ ಮಹಿಳೆ ತನ್ನ ಪರ್ಪಿನ ಸೂಪ್ ಡ್ದ್ ಎಡ್ಡೆ ಸೂಪ್ ಪಂದ್ ತೆರಿಂಡ್. ಅಲ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಪೂರ್ತಿ ಆದಿತ್ತೆರ್. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಅಲ್ ಯಾಪಲ ಅಲೆನ ಲಂಚ್ ಗ್ ರುಚಿಯಾದ್ ಸೂಪ್ ನ್ ಬೆರೆಸೊಂದಿತ್ತೆ."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Tim. Tim was very nervous. He had lost his toy razor. He loved to pretend to shave like his dad. Every day, he would play with his toy razor. But now, it was gone.
+
+One day, Tim went to the park with his mom. He thought maybe he left his toy razor there. He looked and looked, but he could not find it. Tim was very sad. He missed his toy razor so much. He wanted to find it and play with it again.
+
+Then, Tim saw a girl playing with a toy. He looked closer and recognized it. It was his toy razor! Tim was so happy. He went to the girl and told her that it was his toy. The girl was nice and gave it back to him. After that, Tim was not nervous anymore. He had his toy razor back and could play with it again. And they all lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಮಸ್ತ್ ನರ್ವಸ್ ಆದಿತ್ತೆ. ಆರ್ ತನ್ನ ಆಟಿಕೆದ ರೇಜರ್ ನ್ ಕಳೆವೊಂದಿತ್ತೆರ್. ಅರೆನ ಅಪ್ಪೆನಲೆಕ ಶೇವ್ ಮಲ್ಪುನ ನಟನೆ ಮಲ್ಪೆರೆ ಅರೆಗ್ ಇಷ್ಟ ಆಂಡ್. ಪ್ರತಿ ದಿನ, ಆರ್ ತನ್ನ ಆಟಿಕೆದ ರೇಜರ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಆಂಡ ಇತ್ತೆ, ಅವು ಪೋತುಂಡು.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ ಅರೆನ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರ್. ಆರ್ ತನ್ನ ಆಟಿಕೆದ ರೇಜರ್ ನ್ ಅಲ್ಪ ಬುಡ್ದು ಪೋಯೆರ್ ಪಂದ್ ಆರ್ ಯೋಚನೆ ಮಲ್ತೆರ್. ಆರ್ ತೂಯೆರ್ ಬೊಕ್ಕ ತೂಯೆರ್, ಆಂಡ ಆರ್ ಅವೆನ್ ಕಂಡುಕೊನೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಟಿಮ್ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್. ಆರ್ ತನ್ನ ಆಟಿಕೆದ ರೇಜರ್ ನ್ ಮಸ್ತ್ ಮಿಸ್ ಮಲ್ತೆರ್. ಆರ್ ಅವೆನ್ ತೂದು ಮತ್ತೆ ಆಟ ಆಡೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಅಪಗ, ಟಿಮ್ ಒಂಜಿ ಪೊಣ್ಣು ಬಾಲೆನ್ ಒಂಜಿ ಆಟಿಕೆಡ್ ಆಟ ಆಡೊಂದುಪ್ಪುನ ತೂಯೆರ್. ಆರ್ ಜೋರುಡು ತೂದು ಅವೆನ್ ಗುರುತಿಸಯೆರ್. ಅವು ಅರೆನ ಆಟಿಕೆದ ರೇಜರ್ ಆದಿತ್ತ್ಂಡ್! ಟಿಮ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ. ಆರ್ ಆ ಪೊಣ್ಣನ ಎದುರುಗು ಪೋದು ಅವು ಅರೆನ ಆಟಿಕೆ ಪಂಡ್ದ್ ಅಲೆಗ್ ಪಂಡೆರ್. ಆ ಪೊಣ್ಣು ಎಡ್ಡೆ ಆದಿತ್ತೆ ಬೊಕ್ಕ ಅವೆನ್ ಅರೆಗ್ ಪಿರ ಕೊರ್ಪೆ. ಅಯಿಡ್ದ್ ಬೊಕ್ಕ, ಟಿಮ್ ಗ್ ನರ್ವಸ್ ಇಜ್ಜಿ. ಆರ್ ತನ್ನ ಆಟಿಕೆದ ರೇಜರ್ ನ್ ಪಿರ ದೆತೊನುವೆರ್ ಬೊಕ್ಕ ಅಯಿಟ್ ಮತ್ತೆ ಆಟ ಆಡೊಲಿ. ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a big gray elephant named Elly. Elly was sad because she thought she was ugly. She had big ears and a long nose, and she felt different from the other animals.
+
+One day, a little bird named Benny flew to Elly. Benny saw that Elly was sad and asked, "Why are you sad, Elly?" Elly told Benny that she felt ugly and did not like her big ears and long nose. Benny looked at Elly and said, "I think you are not ugly. You are special."
+
+Benny promised to show Elly how her big ears and long nose made her special. They went to the river, and Benny asked Elly to use her long nose to spray water on the dry plants. Elly did and the plants grew happy and green. Then, Benny asked Elly to use her big ears to fan the hot animals. Elly did, and all the animals felt cool and happy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಎಲ್ಲಿ ಪನ್ಪಿನ ಒಂಜಿ ಮಲ್ಲ ಬೂದು ಬಣ್ಣದ ಆನೆ ಇತ್ತ್ಂಡ್. ಎಲ್ಲಿ ದುಃಖೊಡು ಇತ್ತೆರ್ ದಾಯೆ ಪಂಡ ಅಲೆಗ್ ಅಲೆನ್ ಕುರೂಪೆ ಪಂಡ್ದ್ ತೋಜಿಂಡ್. ಅಲೆಗ್ ಮಲ್ಲ ಕಿನ್ನಿಲು ಬೊಕ್ಕ ಮಲ್ಲ ಮೂಂಕು ಇತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಲೆಗ್ ಬೇತೆ ಪ್ರಾಣಿಲೆಡ್ದ್ ಬೇತೆ ಬೇತೆ ಅನುಭವ ಆಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಬೆನ್ನಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪಕ್ಕಿ ಎಲ್ಲಿಗ್ ಪೋಂಡು. ಎಲ್ಲಿ ದುಃಖೊಡು ಉಪ್ಪುನವು ತೂದು ಬೆನ್ನಿ ಕೇಂಡೆರ್, "ಈರ್ ದಾಯೆಗ್ ದುಃಖೊಡು ಉಲ್ಲರ್, ಎಲ್ಲಿ?" ಎಲ್ಲಿ ಬೆನ್ನಿಗ್ ತನ್ನ ಮಲ್ಲ ಕಿನ್ನಿ ಬೊಕ್ಕ ಉದ್ದದ ಮೂಂಕುನ್ ಇಷ್ಟ ಪಡಂದಿನವು ಎಂಕ್ ಕೆಟ್ಟ ಅನುಭವ ಆಪುಂಡು ಪಂಡ್ದ್ ಪಂಡೆರ್. ಬೆನ್ನಿ ಎಲ್ಲಿನ್ ತೂದು ಪಂಡೆರ್, "ಈರ್ ಕೆಟ್ಟವು ಅತ್ತ್ ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು. ಈರ್ ವಿಶೇಷ."
+
+ಬೆನ್ನಿ ಎಲ್ಲಿಗ್ ಅಲೆನ ಮಲ್ಲ ಕಿನ್ನಿಲು ಬೊಕ್ಕ ಉದ್ದದ ಮೂಂಕು ಅಲೆನ್ ಎಂಚ ವಿಶೇಷ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ತೋಜಾವೊಡು ಪಂದ್ ವಾಗ್ದಾನ ಮಲ್ತೆರ್. ಅಕುಲು ಸುದೆಕ್ ಪೋಯೆರ್, ಬೊಕ್ಕ ಬೆನ್ನಿ ಎಲ್ಲಿಗ್ ತನ್ನ ಉದ್ದದ ಮೂಂಕುನ್ ಬಳಸದ್ ಒಣಸ್ ದ ಸಸ್ಯೊಲೆನ ಮಿತ್ತ್ ನೀರ್ ಸಿಂಪಡಣೆ ಮಲ್ಪೆರೆ ಕೇಂಡೆರ್. ಎಲ್ಲಿ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಸಸ್ಯೊಲು ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಪಚ್ಚೆ ಆದ್ ಬುಲೆಯೊಂದಿತ್ತೆ. ಅಪಗ, ಬೆನ್ನಿ ಎಲ್ಲಿಗ್ ಬಿಸಿ ಪ್ರಾಣಿಲೆನ್ ಫ್ಯಾನ್ ಮಲ್ಪೆರೆ ಅಲೆನ ಮಲ್ಲ ಕಿನ್ನಿಲೆನ್ ಬಳಕೆ ಮಲ್ಪೆರೆ ಕೇಂಡೆರ್. ಎಲ್ಲಿ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಮಾತಾ ಪ್ರಾಣಿಲು ತಂಪು ಬೊಕ್ಕ ಸಂತೋಷೊಡು ಅನುಭವಿಸಯೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little dog named Zigzag. Zigzag loved to run and play in the park. One day, Zigzag saw a big twisty slide. He wanted to try it, so he ran up to the slide.
+
+Zigzag twisted and turned as he went down the slide. He went so fast that he fell off at the end. He felt embarrassed because all his friends saw him fall. But his friends did not laugh at him. They ran to help Zigzag get up.
+
+Zigzag's friends told him not to be embarrassed. They all tried the twisty slide, too. They all twisted and turned, just like Zigzag. They had so much fun playing together. And Zigzag learned that it's okay to make mistakes, as long as you have good friends by your side."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜಿಗ್ಜಾಗ್ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ನಾಯಿ ಇತ್ತ್ಂಡ್. ಜಿಗ್ಜಾಗ್ ಪಾರ್ಕ್ ಡ್ ಓಡೆರೆ ಬೊಕ್ಕ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಜಿಗ್ಜಾಗ್ ಒಂಜಿ ಮಲ್ಲ ಟ್ವಿಸ್ಟಿ ಸ್ಲೈಡ್ ನ್ ತೂಯೆರ್. ಆರ್ ಅವೆನ್ ಪ್ರಯತ್ನಿಸೊಡಾಪುಂಡು, ಅಂಚಾದ್ ಆರ್ ಸ್ಲೈಡ್ ಗ್ ಓಡಿಯೆರ್.
+
+ಸ್ಲೈಡ್ ಡ್ದ್ ಕೆಳಗ್ ಪೋನಗ ಜಿಗ್ಜಾಗ್ ಟ್ವಿಸ್ಟ್ ಆಂಡ್ ಟರ್ನ್ ಆಂಡ್. ಆರ್ ಮಸ್ತ್ ವೇಗೊಡು ಪೋಯೆರ್ ಅಂಚಾದ್ ಆರ್ ಕೊನೊಟು ಬೂರ್ದು ಪೋಯೆರ್. ಅರೆನ ಮಾತಾ ಸ್ನೇಹಿತೆರ್ ಅರೆನ್ ಬೂರುನ ತೂದು ಅರೆಗ್ ಮುಜುಗರ ಆಂಡ್. ಆಂಡ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಅರೆನ್ ತೂದು ನಕ್ಕುಜೆರ್. ಜಿಗ್ಜಾಗ್ ನ್ ಲಕ್ಕರೆ ಸಹಾಯ ಮಲ್ಪೆರೆ ಅಕುಲು ಓಡಿಯೆರ್.
+
+ಜಿಗ್ಜಾಗ್ ನ ಸ್ನೇಹಿತೆರ್ ಅರೆಗ್ ಮುಜುಗರ ಆವರೆ ಬಲ್ಲಿ ಪಂಡೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಟ್ವಿಸ್ಟಿ ಸ್ಲೈಡ್ ನ್ ಲಾ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಅವು ಮಾತ ಜಿಗ್ಜಾಗ್ ದಲೆಕನೆ ತಿರುಗುಂಡು ಬೊಕ್ಕ ಸುತ್ತುದು ಪೋಪುಂಡು. ಅಕುಲು ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್. ಬೊಕ್ಕ ನಿಕ್ಲೆನ ಬರಿಟ್ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಇತ್ತ್ಂಡ ತಪ್ಪು ಮಲ್ಪುನವು ಸರಿ ಪಂದ್ ಜಿಗ್ಜಾಗ್ ತೆರಿಂಡ್."
+},
+
+
+{
+"english":"Once upon a time, in a small house, there was a cat and a dog. They liked to play all day. One day, they saw a shiny chain on the floor. They both wanted it.
+
+The cat had an idea. She rubbed her head on the dog's leg. The dog felt happy and closed his eyes. The cat took the chain and ran away. The dog felt sad and guilty.
+
+Later, the cat felt bad. She went back to the dog and gave him the chain. They both played with the chain and were happy friends again."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ಒಂಜಿ ಪುಚ್ಚೆ ಬೊಕ್ಕ ಒಂಜಿ ನಾಯಿ ಇತ್ತೆರ್. ಅಕುಲು ಇಡೀ ದಿನ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಅಕುಲು ನೆಲಟ್ ಒಂಜಿ ಮಿಂಚುನ ಸರಪಳಿನ್ ತೂಯೆರ್. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಅವೆನ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಬೆಕ್ಕುಗು ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಅಲ್ಪ ಅಲೆನ ತಲೆನ್ ನಾಯಿದ ಕಾರ್ಡ್ ಉಜ್ಜುವೆರ್. ನಾಯಿಗ್ ಸಂತೋಷ ಆಂಡ್ ಬೊಕ್ಕ ಅಯಿತ ಕಣ್ಣ್ ಮುಚ್ಚಿಯೆರ್. ಪೆಕ್ಕು ಸರಪಳಿ ದೆತೊಂದು ಪೋದು ಪೋಂಡು. ನಾಯಿಗ್ ದುಖಃ ಬೊಕ್ಕ ತಪ್ಪು ತೋಜಿಂಡ್.
+
+ಬೊಕ್ಕ, ಬೆಕ್ಕುಗು ಕೆಟ್ಟ ಅನುಭವ ಆಂಡ್. ಅಲ್ ನಾಯಿದ ಎದುರುಗು ಪೋದು ಅರೆಗ್ ಸರಪಳಿನ್ ಕೊರ್ಪೆ. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಸರಪಳಿಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಪುನರ್ ಸಂತೋಷದ ಸ್ನೇಹಿತೆರ್ ಆಯೆರ್."
+},
+
+{
+"english":"One day, a little boy named Tim went to play outside. He saw a big box near the tree. Tim was very curious. He wanted to know what was inside. So, he went closer to the box and took a peek.
+
+Inside the box, Tim found a toy gun. He was so happy! He picked up the gun and started to play with it. He pretended to be a superhero, saving the world from bad guys. Tim ran around the yard, laughing and having fun.
+
+After playing for a while, Tim started to feel hungry. He went back to his house and saw his mom in the kitchen. She had made some yummy cookies for him. Tim ate the cookies and told his mom about the toy gun and his adventures. His mom smiled and gave him a big hug."
+"tulu":"ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಪಿದಯಿ ಆಟ ಆಡೆರೆ ಪೋಯೆರ್. ಮರತ ಬರಿಟ್ ಒಂಜಿ ಮಲ್ಲ ಪೆಟ್ಟಿಗೆನ್ ತೂಯೆರ್. ಟಿಮ್ ಗ್ ಮಸ್ತ್ ಕುತೂಹಲ ಇತ್ತ್ಂಡ್. ಒಳ್ಗ್ ದಾದ ಉಂಡು ಪನ್ಪಿನೆನ್ ಅರೆಗ್ ತೆರಿಯೊನೊಡಾಪುಂಡು. ಅಂಚಾದ್, ಆರ್ ಪೆಟ್ಟಿಗೆದ ಎದುರುಗು ಪೋದು ಒಂಜಿ ನೋಟ ತೂಯೆರ್.
+
+ಬಾಕ್ಸ್ ದ ಒಳ್ಗ್, ಟಿಮ್ ಒಂಜಿ ಆಟಿಕೆದ ಗನ್ ನ್ ತೂಯೆರ್. ಆರ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್! ಆರ್ ಗನ್ ನ್ ದೆತೊನುದು ಅಯಿಟ್ ಆಟ ಆಡೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆರ್ ಒರಿ ಸೂಪರ್ ಹೀರೋ ಆದ್ ನಟನೆ ಮಲ್ತೆರ್, ಕೆಟ್ಟ ಜನೊಕುಲೆಡ ಜಗತ್ತ್ ನ್ ರಕ್ಷಣೆ ಮಲ್ತೆರ್. ಟಿಮ್ ಅಂಗಳೊಡು ಓಡೊಂದು, ನಗೊಂದು ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ತೊಂದು ಇತ್ತೆರ್.
+
+ಒಂತೆ ಸಮಯ ಆಟ ಆಡೊಂದಿತ್ತಿನ ಬುಕ್ಕೊ, ಟಿಮ್ ಗ್ ಹಸಿವು ಬರೊಂದಿತ್ತ್ಂಡ್. ಆರ್ ಅರೆನ ಇಲ್ಲಗ್ ಪಿರ ಪೋದು ಅರೆನ ಅಮ್ಮೆರೆನ್ ಅಡುಗೆಮನೆಟ್ ತೂಯೆರ್. ಅಲೆಗ್ ಕೆಲವು ರುಚಿಯಾದ್ ಕುಕೀಸ್ ಮಲ್ತೆರ್. ಟಿಮ್ ಕುಕೀಸ್ ನ್ ದೆತ್ತ್ ದ್ ತನ್ನ ಅಮ್ಮೆರೆಗ್ ಆಟಿಕೆದ ಗನ್ ಬೊಕ್ಕ ತನ್ನ ಸಾಹಸೊಲೆನ್ ತೆರಿಪಾಯೆರ್. ಅಯನ ಅಮ್ಮೆ ನಕ್ಕುದು ಅಯನ್ ಒಂಜಿ ಮಲ್ಲ ತಬ್ಬುದು ಕೊರ್ತೆರ್."
+},
+
+{
+"english":"One day, a boy named Tim found a big hammer in his toy box. He took the hammer and went to play in the deep mud outside. While he was playing, he saw a little bug stuck in the mud.
+
+"Help me, please!" said the bug. Tim wanted to help, but he didn't want to delay his playtime. The bug looked very sad, so Tim decided to help.
+
+Tim used his big hammer to make a path in the mud. The bug was able to crawl out and said, "Thank you, Tim!" Tim felt happy that he helped the bug. After that, he continued playing with his hammer, but now he also had a new friend to play with."
+"tulu":"ಒಂಜಿ ದಿನ, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಆಣ್ ಬಾಲೆ ತನ್ನ ಆಟಿಕೆದ ಪೆಟ್ಟಿಗೆಡ್ ಒಂಜಿ ಮಲ್ಲ ಸುತ್ತಿಗೆನ್ ತೂಯೆರ್. ಆರ್ ಸುತ್ತಿಗೆನ್ ದೆತೊಂದು ಪಿದಯಿದ ಆಳೊದ ಮಣ್ಣ್ ಡ್ ಆಟ ಆಡೆರೆ ಪೋಯೆರ್. ಆರ್ ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ, ಒಂಜಿ ಎಲ್ಯ ಕೀಟ ಮಣ್ಣ್ ಡ್ ಸಿಕ್ಕಿದ್ ಉಪ್ಪುನ ತೂಯೆರ್.
+
+"ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪುಲೆ, ದಯಮಲ್ತ್!" ಬಗ್ ಪಂಡೆರ್. ಟಿಮ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್, ಆಂಡ ಆರ್ ತನ್ನ ಆಟದ ಸಮಯೊನು ತಡ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೊಂದಿಜ್ಜೆರ್. ಬಗ್ ಮಸ್ತ್ ದುಃಖೊಡು ತೋಜಿಂಡ್, ಅಂಚಾದ್ ಟಿಮ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಟಿಮ್ ತನ್ನ ಮಲ್ಲ ಸುತ್ತಿಗೆನ್ ಮಣ್ಣ್ ಡ್ ಒಂಜಿ ಸಾದಿ ಮಲ್ಪೆರೆ ಉಪಯೋಗ ಮಲ್ತೆರ್. ಬಗ್ ಕ್ರಾಲ್ ಆದ್ ಪಿದಯಿ ಬತ್ತ್ದ್ ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಟಿಮ್!" ಟಿಮ್ ಬಗ್ ಗ್ ಸಹಾಯ ಮಲ್ತಿನೆಕ್ ಸಂತೋಷ ಆಂಡ್. ಅಯಿಡ್ದ್ ಬೊಕ್ಕ, ಆರ್ ತನ್ನ ಸುತ್ತಿಗೆಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್, ಆಂಡ ಇತ್ತೆ ಆರ್ ಒರಿ ಪೊಸ ಸ್ನೇಹಿತೆನ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small house, there was a big box. The box was empty. A little boy named Tim wanted to find something to put in the box. He started to search his room.
+
+Tim looked under his bed and found a soft toy. He pushed the toy into the box. Next, he searched in his closet and found a ball. He pushed the ball into the box too. Tim was happy to see his box filling up.
+
+After a while, the box was full. Tim felt proud of his search. He showed his mom and dad the full box. They smiled and clapped. Tim had turned the empty box into a box filled with fun things."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ಒಂಜಿ ಮಲ್ಲ ಪೆಟ್ಟಿಗೆ ಇತ್ತ್ಂಡ್. ಆ ಬಾಕ್ಸ್ ಖಾಲಿ ಇತ್ತ್ಂಡ್. ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಪೆಟ್ಟಿಗೆಡ್ ಪಾಡೆರೆ ದಾದನಾ ತೂವೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ತನ್ನ ಕೋಣೆನ್ ತೂಯೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ತನ್ನ ಬೆಡ್ ದ ಕೆಳಗ್ ತೂದು ಒಂಜಿ ಮೃದುವಾದ್ ಆಟಿಕೆನ್ ತೂಯೆರ್. ಆರ್ ಆಟಿಕೆನ್ ಬಾಕ್ಸ್ ಗ್ ತಳ್ಳಿಯೆರ್. ದುಂಬುಗು, ಆರ್ ತನ್ನ ಕ್ಲೋಸೆಟ್ ಡ್ ಸರ್ಚ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಚೆಂಡೆನ್ ತೂಯೆರ್. ಆರ್ ಚೆಂಡೆನ್ ಬಾಕ್ಸ್ ಗ್ ಲಾ ತಳ್ಳಿಯೆರ್. ಟಿಮ್ ತನ್ನ ಬಾಕ್ಸ್ ತುಂಬುನ ತೂದು ಸಂತೋಷೊಡು ಇತ್ತೆ.
+
+ಒಂತೆ ಸಮಯೊಡ್ದು ಬೊಕ್ಕ, ಬಾಕ್ಸ್ ಫುಲ್ ಆಂಡ್. ಟಿಮ್ ತನ್ನ ಸರ್ಚ್ ಡ್ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್. ಆರ್ ಅರೆನ ಅಮ್ಮೆ ಅಪ್ಪೆಗ್ ಪೂರ್ತಿ ಬಾಕ್ಸ್ ನ್ ತೋಜಾಯೆರ್. ಅಕುಲು ನಕ್ಕುದು ಚಪ್ಪಾಳೆ ಮಲ್ತೆರ್. ಟಿಮ್ ಖಾಲಿ ಬಾಕ್ಸ್ ನ್ ಮೋಜಿದ ವಸ್ತುಲೆಡ್ ತುಂಬಿನ ಬಾಕ್ಸ್ ಆದ್ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a big, green park, there was a small, messy dog named Binky. Binky had a long, waggy tail and loved to play with his friends. One sunny day, Binky and his friends were playing catch with a big, red ball.
+
+As they played, Binky's tail got caught in a bush. "Ouch!" he cried. Binky's friends heard him cry and came running to help. "What's wrong, Binky?" asked his friend, a cute, fluffy bunny named Lulu.
+
+"My tail is stuck!" Binky said with a sad face. Lulu and the other friends tried to help Binky get his tail out of the bush. They pulled and pulled, but it was still stuck.
+
+Then, a wise, old owl named Oliver flew down from a tall tree. "Don't cry, Binky," he said. "I can help you get your tail out." Oliver used his sharp beak to carefully cut the bush and free Binky's tail.
+
+Binky was so happy! He wagged his tail and said, "Thank you, Oliver!" All the friends cheered and clapped. Then, they went back to playing with the big, red ball, laughing and having fun together."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಮಲ್ಲ, ಪಚ್ಚೆ ಬಣ್ಣದ ಉದ್ಯಾನವನೊಡು, ಬಿಂಕಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ, ಗೊಂದಲದ ನಾಯಿ ಇತ್ತ್ಂಡ್. ಬಿಂಕಿಗ್ ಒಂಜಿ ಲಾಂಗ್, ವಾಗ್ಗಿ ಟೇಲ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ, ಬಿಂಕಿ ಬೊಕ್ಕ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಒಂಜಿ ಮಲ್ಲ, ಕೆಂಪು ಚೆಂಡೆಡ್ ಕ್ಯಾಚ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಅಕುಲು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ, ಬಿಂಕಿನ ಬೀಲ ಒಂಜಿ ಪೊದೆಟ್ ಸಿಕ್ಕ್ಂಡ್. "ಆಚ್!" ಆರ್ ಕಣ್ಣೀರ್ ಪಾಡ್ಯೆರ್. ಬಿಂಕಿನ ಸ್ನೇಹಿತೆರ್ ಅಯನ ಕಣ್ಣೀರ್ ಕೇಂಡ್ದ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಓಡೊಂದು ಬತ್ತೆರ್. "ದಾದ ಆಂಡ್ ಬಿಂಕಿ?" ಅರೆನ ಸ್ನೇಹಿತೆ, ಲುಲು ಪನ್ಪಿನ ಒರಿ ಮುದ್ದು, ತುಪ್ಪುದ ಮೊಲ ಕೇಂಡೆರ್.
+
+"ಎನ್ನ ಬೀಲ ಸಿಕ್ಕಿದ್ಂಡ್!" ಬಿಂಕಿ ಒಂಜಿ ದುಃಖದ ಮೋನೆಡ್ ಪಂಡೆರ್. ಲುಲು ಬೊಕ್ಕ ಬೇತೆ ಸ್ನೇಹಿತೆರ್ ಬಿಂಕಿಗ್ ಅಯನ ಬಾಲೊನು ಪೊದೆಡ್ದ್ ಪಿದಯಿ ಕನರೆ ಸಹಾಯ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಅಕುಲು ಎದುರು ಎದುರು ಪಾಡ್ದೆರ್, ಆಂಡಲಾ ಅವು ಇತ್ತೆಲಾ ಸಿಕ್ಕ್ ದ್ ಉಂಡು.
+
+ಅಪಗ, ಆಲಿವರ್ ಪನ್ಪಿನ ಒಂಜಿ ಬುದ್ಧಿವಂತ, ಮಲ್ಲ ಗೂಬೆ ಒಂಜಿ ಎತ್ತರದ ಮರಡ್ದ್ ಜಪ್ಪುಂಡ್. "ಅಳೊಡ್ಚಿ, ಬಿಂಕಿ," ಪಂಡ್ದ್ ಆರ್ ಪಂಡೆರ್. "ನಿನ್ನ ಬಾಲೊನು ಪಿದಯಿ ಕನರೆ ಎಂಕ್ ಸಹಾಯ ಆಪುಂಡು." ಆಲಿವರ್ ತನ್ನ ತೀಕ್ಷ್ಣವಾದ್ ಕೊಕ್ಲೆನ್ ಬಳಕೆ ಮಲ್ತ್ದ್ ಪೊದೆನ್ ಎಚ್ಚ ಜಾಗ್ರತೆಡ್ ಕಡ್ತ್ ದ್ ಬಿಂಕಿನ ಬಾಲೊನು ಬುಡುಗಡೆ ಮಲ್ತೆರ್.
+
+ಬಿಂಕಿ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ! ಆರ್ ತನ್ನ ಬೀಲೊನು ತಗ್ಗಾದ್ ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಆಲಿವರ್!" ಮಾತಾ ಸ್ನೇಹಿತೆರ್ ಚಿಯರ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಚಪ್ಪಾಳೆ ಮಲ್ತೆರ್. ಅಪಗ, ಅಕುಲು ಮಲ್ಲ, ಕೆಂಪು ಚೆಂಡೆನ್ ಆಟ ಆಡೆರೆ, ಒಟ್ಟುಗು ನಗುದು ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ಪೆರೆ ಪಿರ ಪೋಯೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small town, there was a little boy named Tim. Tim loved to speak and play with his friends. One day, Tim found a big, pink gum on the ground. It looked amazing. Tim picked it up and put it in his pocket. He thought, "I will show this to my friends later."
+
+Tim went to the park to play with his friends. He saw them playing and running. Tim took the gum out of his pocket and showed it to his friends. They all wanted to see the amazing gum. Tim told them, "I found it on the ground. It looks amazing, right?" His friends nodded and smiled.
+
+Later, Tim and his friends sat under a big tree. They all looked at the gum and talked about how amazing it was. Then, they decided to share the gum. They broke it into small pieces and each took a piece. They chewed the gum and it was very yummy. They all laughed and spoke about how great the gum was. Tim was happy that he found the amazing gum and could share it with his friends."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಮಲ್ಲ, ಪಚ್ಚೆ ಬಣ್ಣದ ಉದ್ಯಾನವನೊಡು, ಬಿಂಕಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ, ಗೊಂದಲದ ನಾಯಿ ಇತ್ತ್ಂಡ್. ಬಿಂಕಿಗ್ ಒಂಜಿ ಲಾಂಗ್, ವಾಗ್ಗಿ ಟೇಲ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ, ಬಿಂಕಿ ಬೊಕ್ಕ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಒಂಜಿ ಮಲ್ಲ, ಕೆಂಪು ಚೆಂಡೆಡ್ ಕ್ಯಾಚ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಅಕುಲು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ, ಬಿಂಕಿನ ಬೀಲ ಒಂಜಿ ಪೊದೆಟ್ ಸಿಕ್ಕ್ಂಡ್. "ಆಚ್!" ಆರ್ ಕಣ್ಣೀರ್ ಪಾಡ್ಯೆರ್. ಬಿಂಕಿನ ಸ್ನೇಹಿತೆರ್ ಅಯನ ಕಣ್ಣೀರ್ ಕೇಂಡ್ದ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಓಡೊಂದು ಬತ್ತೆರ್. "ದಾದ ಆಂಡ್ ಬಿಂಕಿ?" ಅರೆನ ಸ್ನೇಹಿತೆ, ಲುಲು ಪನ್ಪಿನ ಒರಿ ಮುದ್ದು, ತುಪ್ಪುದ ಮೊಲ ಕೇಂಡೆರ್.
+
+"ಎನ್ನ ಬೀಲ ಸಿಕ್ಕಿದ್ಂಡ್!" ಬಿಂಕಿ ಒಂಜಿ ದುಃಖದ ಮೋನೆಡ್ ಪಂಡೆರ್. ಲುಲು ಬೊಕ್ಕ ಬೇತೆ ಸ್ನೇಹಿತೆರ್ ಬಿಂಕಿಗ್ ಅಯನ ಬಾಲೊನು ಪೊದೆಡ್ದ್ ಪಿದಯಿ ಕನರೆ ಸಹಾಯ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಅಕುಲು ಎದುರು ಎದುರು ಪಾಡ್ದೆರ್, ಆಂಡಲಾ ಅವು ಇತ್ತೆಲಾ ಸಿಕ್ಕ್ ದ್ ಉಂಡು.
+
+ಅಪಗ, ಆಲಿವರ್ ಪನ್ಪಿನ ಒಂಜಿ ಬುದ್ಧಿವಂತ, ಮಲ್ಲ ಗೂಬೆ ಒಂಜಿ ಎತ್ತರದ ಮರಡ್ದ್ ಜಪ್ಪುಂಡ್. "ಅಳೊಡ್ಚಿ, ಬಿಂಕಿ," ಪಂಡ್ದ್ ಆರ್ ಪಂಡೆರ್. "ನಿನ್ನ ಬಾಲೊನು ಪಿದಯಿ ಕನರೆ ಎಂಕ್ ಸಹಾಯ ಆಪುಂಡು." ಆಲಿವರ್ ತನ್ನ ತೀಕ್ಷ್ಣವಾದ್ ಕೊಕ್ಲೆನ್ ಬಳಕೆ ಮಲ್ತ್ದ್ ಪೊದೆನ್ ಎಚ್ಚ ಜಾಗ್ರತೆಡ್ ಕಡ್ತ್ ದ್ ಬಿಂಕಿನ ಬಾಲೊನು ಬುಡುಗಡೆ ಮಲ್ತೆರ್.
+
+ಬಿಂಕಿ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ! ಆರ್ ತನ್ನ ಬೀಲೊನು ತಗ್ಗಾದ್ ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಆಲಿವರ್!" ಮಾತಾ ಸ್ನೇಹಿತೆರ್ ಚಿಯರ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಚಪ್ಪಾಳೆ ಮಲ್ತೆರ್. ಅಪಗ, ಅಕುಲು ಮಲ್ಲ, ಕೆಂಪು ಚೆಂಡೆಡ್ ಆಟ ಆಡೆರೆ, ಒಟ್ಟುಗು ನಕ್ಕೆರೆ ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ಪೆರೆ ಪೋಯೆರ್. ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಎಲ್ಯ ಊರುಡು, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಪಾತೆರೆರೆ ಬೊಕ್ಕ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಟಿಮ್ ನೆಲಟ್ ಒಂಜಿ ಮಲ್ಲ, ಗುಲಾಬಿ ಬಣ್ಣದ ಗಮ್ ನ್ ತೂಯೆರ್. ಉಂದು ಅದ್ಭುತವಾದ್ ತೋಜುಂಡು. ಟಿಮ್ ಅವೆನ್ ಎತ್ತೊಂದು ಅರೆನ ಜೇಬಿಡ್ ಪಾಡ್ಯೆರ್. ಆರ್ ಯೋಚನೆ ಮಲ್ತೆರ್, "ಯಾನ್ ನನ ದುಂಬು ಉಂದೆನ್ ಎನ್ನ ಸ್ನೇಹಿತೆರೆಗ್ ತೋಜಾವುವೆ."
+
+ಟಿಮ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಆಟ ಆಡೆರೆ ಪಾರ್ಕ್ ಗ್ ಪೋಯೆರ್. ಅಕುಲು ಆಟ ಆಡೊಂದು ಬೊಕ್ಕ ಓಡೊಂದು ಉಪ್ಪುನ ತೂಯೆರ್. ಟಿಮ್ ತನ್ನ ಪಾಕೆಟ್ ಡ್ದ್ ಗಮ್ ದೆತ್ತ್ದ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆಗ್ ತೋಜಾಯೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಅದ್ಭುತ ಗಮ್ ನ್ ತೂಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಟಿಮ್ ಅಕುಲೆಗ್ ಪಂಡೆರ್, "ಯಾನ್ ಉಂದೆನ್ ನೆಲಟ್ ತೂಯೆ. ಉಂದು ಅದ್ಭುತವಾದ್ ತೋಜುಂಡು, ಅತ್ತ್?" ಅರೆನ ಸ್ನೇಹಿತೆರ್ ತರೆ ತಗ್ಗಾದ್ ಮುಗುಳ್ನಗೆ ಮಲ್ತೆರ್.
+
+ನನೊಂಜಿ ಸರ್ತಿ, ಟಿಮ್ ಬೊಕ್ಕ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಒಂಜಿ ಮಲ್ಲ ಮರತ ಕೆಳ್ಗ್ ಕುಲ್ಲುವೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಗಮ್ ನ್ ತೂದು ಅಯಿನ್ ಎಂಚ ಅದ್ಭುತ ಪಂಡ್ದ್ ಪಾತೆರೊಂಡೆರ್. ಅಪಗ, ಅಕುಲು ಗಮ್ ನ್ ಪಾಡುನ ನಿರ್ಧಾರ ಮಲ್ತೆರ್. ಅಕುಲು ಅವೆನ್ ಎಲ್ಯ ಎಲ್ಯ ತುಂಡುಲೆಗ್ ಮುರಿದ್ ಒಂಜೊಂಜಿ ತುಂಡು ದೆತೊನುವೆರ್. ಅಕುಲು ಗಮ್ ನ್ ಚೂಯಿಂಗ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಯಿನ್ ಬಾರಿ ರುಚಿ ಆಂಡ್. ಅಕುಲು ಮಾತೆರ್ಲ ನಕ್ಕುವೆರ್ ಬೊಕ್ಕ ಗಮ್ ಎಂಚ ಎಡ್ಡೆ ಉಂಡು ಪನ್ಪಿನೆತ್ತ ಬಗ್ಗೆ ಪಾತೆರುವೆರ್. ಟಿಮ್ ಒಂಜಿ ಅದ್ಭುತ ಗಮ್ ನ್ ಕಂಡುದು ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಪಾಡುನೆಕ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Tim. Tim loved pumpkins. He loved their round shape and bright orange color. One day, Tim saw a small pumpkin in the garden. It was not clear if the pumpkin was ready to be picked.
+
+Tim asked his mom, "Can I receive this pumpkin, please?" His mom looked at the pumpkin and said, "It is not ready yet. You must wait for it to grow bigger."
+
+Tim waited and watched the pumpkin grow. As it grew, he learned to be patient. He knew that good things come to those who wait. Finally, the day came when the pumpkin was big and ready to be picked.
+
+Tim's mom said, "Now you can receive the pumpkin, Tim." Tim was so happy! He had waited and now he had a big, beautiful pumpkin. The moral of the story is that patience is a good thing. When we wait for the right time, we can receive the best things in life."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಕುಂಬಳಕಾಯಿಲೆನ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆ. ಅಯಿಕ್ಲೆನ ಸುತ್ತು ಆಕಾರ ಬೊಕ್ಕ ತೆಲಿಪುನ ಕಿತ್ತಳೆ ಬಣ್ಣ ಅರೆಗ್ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಟಿಮ್ ತೋಟೊಡು ಒಂಜಿ ಎಲ್ಯ ಕುಂಬಳಕಾಯಿನ್ ತೂಯೆರ್. ಕುಂಬಳಕಾಯಿ ದೆಪ್ಪೆರೆ ತಯಾರ್ ಆತ್ಂಡ್ ಪನ್ಪಿನವು ಸ್ಪಷ್ಟ ಆಯಿಜಿ.
+
+ಟಿಮ್ ಅರೆನ ಅಮ್ಮೆರೆನ್ ಕೇಂಡೆರ್, "ದಯಮಲ್ತ್ ಈ ಕುಂಬಳಕಾಯಿನ್ ಎಂಕ್ ದೆತೊನೊಲಿ?" ಅಯನ ಅಮ್ಮೆ ಕುಂಬಳಕಾಯಿನ್ ತೂದು ಪಂಡೆರ್, "ಉಂದು ಇತ್ತೆ ತಯಾರ್ ಆಯಿಜಿ. ಉಂದು ಮಲ್ಲ ಆಯೆರೆ ಈರ್ ನಿರೀಕ್ಷೆ ಮಲ್ಪೊಡು."
+
+ಟಿಮ್ ಕಾತೊಂದು ಕುಂಬಳಕಾಯಿ ಬುಳೆಪುನ ತೂಯೆರ್. ಉಂದು ಬುಲೆವೊಂದು ಬನ್ನಗ, ಆರ್ ತಾಳ್ಮೆಡ್ ಉಪ್ಪೆರೆ ಕಲ್ಪುವೆರ್. ಕಾತೊಂದುಪ್ಪುನಕ್ಲೆಗ್ ಎಡ್ಡೆ ವಿಷಯೊಲು ಬರ್ಪುಂಡು ಪಂದ್ ಅರೆಗ್ ಗೊತ್ತುಂಡ್. ಅಕೇರಿಗ್ ಕುಂಬಳಕಾಯಿ ಮಲ್ಲ ಆದ್ ದೆಪ್ಪೆರೆ ತಯಾರ್ ಆಯಿನ ದಿನ ಬತ್ತ್ಂಡ್.
+
+ಟಿಮ್ ನ ಅಮ್ಮೆ ಪಂಡೆರ್, "ಇತ್ತೆ ಈರ್ ಕುಂಬಳಕಾಯಿನ್ ದೆತೊನೊಲಿ, ಟಿಮ್." ಟಿಮ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ! ಆರ್ ಕಾತೊಂದು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಇತ್ತೆ ಆರ್ ಒಂಜಿ ಮಲ್ಲ, ಪೊರ್ಲುದ ಕುಂಬಳಕಾಯಿನ್ ಪಡೆಯೆರ್. ತಾಳ್ಮೆ ಪಂಡ ಎಡ್ಡೆ ವಿಷಯ ಪನ್ಪಿನವು ಕತೆತ ನೈತಿಕತೆ. ನಮ ಸರಿಯಾಯಿನ ಸಮಯೊಗು ಕಾತೊಂದುಪ್ಪುನಗ, ನಮ ಜೀವನೊಡು ಎಡ್ಡೆ ವಸ್ತುಲೆನ್ ದೆತೊನೊಲಿ."
+},
+
+{
+"english":"Once upon a time, there was a little girl named Lily. She lived in a small house with her mom and dad. One day, her mom asked her to go to the park and play. Lily was very happy and ran to the park.
+
+At the park, Lily saw a wide tree. She went to the tree and saw a faucet. She turned the faucet and water came out. Lily was thirsty, so she drank some water. Then, she saw a little boy who was also thirsty. Lily said, "Hi, I am Lily. Let's be friends!" The little boy smiled and said, "Hi, I am Tom. Nice to meet you!" They both drank water and played together.
+
+Lily and Tom played and had fun all day. They learned that it is good to share and help others. When they went home, they told their moms and dads about their new friend. Lily and Tom were happy because they learned that sharing and helping others makes everyone happy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಲಿಲಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಇತ್ತೆರ್. ಅಲೆನ ಅಮ್ಮೆ ಅಪ್ಪೆನೊಟ್ಟುಗು ಒಂಜಿ ಎಲ್ಯ ಇಲ್ಲಡ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ, ಅಲೆನ ಅಮ್ಮೆ ಅಲೆನ್ ಪಾರ್ಕ್ ಗ್ ಪೋದು ಆಟ ಆಡೊಡು ಪಂಡೆರ್. ಲಿಲಿ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಉದ್ಯಾನವನೊಗು ಓಡಿ ಪೋಯೆರ್.
+
+ಉದ್ಯಾನವನೊಡು, ಲಿಲಿ ಒಂಜಿ ಅಗಲೊದ ಮರನ್ ತೂಯೆರ್. ಅಲ್ ಮರತ ಬರಿಟ್ ಪೋದು ಒಂಜಿ ನಳಿಕೆನ್ ತೂಯೆರ್. ಅಲ್ ನಳಿಕೆನ್ ಟರ್ನ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ನೀರ್ ಪಿದಯಿ ಬತ್ತ್ಂಡ್. ಲಿಲಿಗ್ ಬಾಸೆ ಇತ್ತ್ಂಡ್, ಅಂಚಾದ್ ಅಲ್ ಒಂತೆ ನೀರ್ ಪರ್ಯೆರ್. ಅಪಗ, ಅಲ್ ಒರಿ ಎಲ್ಯ ಬಾಲೆನ್ ತೂಯೆರ್ ಆಯೆಲಾ ಬಾಸೆಗ್ ಬಯಕೊಂದಿತ್ತೆ. ಲಿಲಿ ಪಂಡೆರ್, "ನಮಸ್ಕಾರ, ಯಾನ್ ಲಿಲಿ. ನಮ ಸ್ನೇಹಿತೆರ್ ಆವೊಡು!" ಆ ಎಲ್ಯ ಬಾಲೆ ನಕ್ಕುದು ಪಂಡೆ, "ನಮಸ್ಕಾರ, ಯಾನ್ ಟಾಮ್. ನಿನನ್ ತೂಯೆರೆ ಎಡ್ಡೆ ಆಂಡ್!" ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಒಟ್ಟುಗು ನೀರ್ ಪರ್ದ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಲಿಲಿ ಬೊಕ್ಕ ಟಾಮ್ ಇಡೀ ದಿನ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ತೆರ್. ಬೇತೆಕ್ಲೆಗ್ ಪಾಡುನ ಬೊಕ್ಕ ಸಹಾಯ ಮಲ್ಪುನವು ಎಡ್ಡೆ ಪಂಡ್ದ್ ಅಕುಲು ತೆರಿನೆರ್. ಅಕುಲು ಇಲ್ಲಗ್ ಪೋನಗ, ಅಕುಲು ಅಕ್ಲೆನ ಪೊಸ ಸ್ನೇಹಿತೆನ ಬಗ್ಗೆ ಅಕ್ಲೆನ ಅಮ್ಮೆರೆಗ್ ಬೊಕ್ಕ ಅಪ್ಪೆಗ್ ತೆರಿಪಾಯೆರ್. ಲಿಲಿ ಬೊಕ್ಕ ಟಾಮ್ ಖುಷಿಯಾದಿತ್ತೆರ್ ದಾಯೆ ಪಂಡ ಅಕುಲು ಬೇತೆಕ್ಲೆನ್ ಪಾಡುನ ಬೊಕ್ಕ ಸಹಾಯ ಮಲ್ಪುನವು ಮಾತೆರೆನ್ಲಾ ಖುಷಿ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ತೆರಿನೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little flower named Bloom. Bloom lived in a big garden with many other flowers. Bloom had a goal to be the most beautiful flower in the garden.
+
+One sunny day, Bloom saw a dangerous bug coming near the flowers. Bloom was scared and said to the other flowers, "Watch out! Dangerous bug is coming!" The other flowers thanked Bloom for the warning, and they all hid from the bug.
+
+After the bug left, the flowers were safe and happy. Because Bloom warned them, they all agreed that Bloom was the most beautiful flower in the garden. Bloom's goal came true, and they all lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಬ್ಲೂಮ್ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೂ ಇತ್ತ್ಂಡ್. ಬ್ಲೂಮ್ ಬೇತೆ ಮಸ್ತ್ ಪೂಕುಲೆನೊಟ್ಟುಗು ಒಂಜಿ ಮಲ್ಲ ತೋಟೊಡು ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ತೋಟೊಡು ಅತ್ಯಂತ ಪೊರ್ಲುದ ಪೂ ಆಯೆರೆ ಬ್ಲೂಮ್ ಗ್ ಒಂಜಿ ಗುರಿ ಇತ್ತ್ಂಡ್.
+
+ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ, ಬ್ಲೂಮ್ ಒಂಜಿ ಅಪಾಯಕಾರಿ ಕೀಟೊನು ಪೂಕುಲೆನ ಬರಿಟ್ ಬರ್ಪುನ ತೂಯೆರ್. ಬ್ಲೂಮ್ ಭಯೊಡು ಬೊಕ್ಕ ಬೇತೆ ಪುಷ್ಪೊಲೆಗ್ ಪಂಡೆರ್, "ಜಾಗ್ರತೆ ಮಲ್ಪುಲೆ! ಅಪಾಯಕಾರಿ ಬಗ್ ಬರ್ಪುಂಡು!" ಎಚ್ಚರಿಕೆಗ್ ಬೇತೆ ಪುಷ್ಪೊಲು ಬ್ಲೂಮ್ ಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಪನ್ಪೆರ್, ಬೊಕ್ಕ ಅವು ಮಾತ ಬಗ್ ಡ್ದ್ ಮುಚ್ಚಿಯೆರ್.
+
+ಬಗ್ ಪೋಯಿ ಬೊಕ್ಕ, ಪೂಕುಲು ಸುರಕ್ಷಿತವಾದ್ ಬೊಕ್ಕ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಬ್ಲೂಮ್ ಅಕ್ಲೆಗ್ ಎಚ್ಚರಿಕೆ ಕೊರ್ನೆಡ್ದಾವರ, ಬ್ಲೂಮ್ ತೋಟೊಡು ಉಪ್ಪುನ ಅತ್ಯಂತ ಪೊರ್ಲುದ ಪೂ ಪಂಡ್ದ್ ಅಕುಲು ಮಾತೆರ್ಲ ಒಪ್ಪಿಗೆ ಮಲ್ತೆರ್. ಬ್ಲೂಮ್ ನ ಗುರಿ ನಿಜ ಆಂಡ್, ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small town, there lived a humble girl named Lily. She loved to give and help others. One day, she saw an old lady who looked sad.
+
+Lily went to the lady and said, "Why are you sad?" The old lady said, "I am hungry, and I have no food." Lily wanted to help her, so she ran home to get some food.
+
+Lily put some food on a plate and went back to the old lady. She gave the plate to the lady and said, "Here, eat this." The old lady smiled and said, "Thank you, Lily. You are very kind."
+
+The old lady was happy, and Lily felt good that she could help. From that day on, Lily always looked for ways to help others and share what she had. And everyone in the town loved the humble girl who loved to give."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಊರುಡು ಲಿಲಿ ಪನ್ಪಿನ ಒರಿ ವಿನಮ್ರ ಪೊಣ್ಣು ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಅಲೆಗ್ ಬೇತೆಕ್ಲೆಗ್ ಕೊರ್ಪಿನ ಬೊಕ್ಕ ಸಹಾಯ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲೆಗ್ ಒರಿ ಮಲ್ಲ ಪೊಣ್ಣು ದುಃಖೊಡು ಉಪ್ಪುನವು ತೋಜಿಂಡ್.
+
+ಲಿಲಿ ಆ ಲೇಡಿನ ಎದುರುಗು ಪೋದು ಪಂಡೆ, "ಈರ್ ದಾಯೆಗ್ ದುಃಖೊಡು ಉಲ್ಲರ್?" ಪಿರಾಕ್ದ ಪೊಣ್ಣು ಪಂಡೆರ್, "ಎಂಕ್ ಬಡವು ಉಂಡು, ಬೊಕ್ಕ ಎಂಕ್ ದಾಲ ನುಪ್ಪು ಇಜ್ಜಿ." ಲಿಲಿ ಅಲೆಗ್ ಸಹಾಯ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್, ಅಂಚಾದ್ ಅಲ್ಪ ಒಂತೆ ಆಹಾರ ದೆತೊನೆರೆ ಇಲ್ಲಗ್ ಓಡಿಯೆರ್.
+
+ಲಿಲಿ ಒಂಜಿ ಪ್ಲೇಟ್ ಡ್ ಒಂತೆ ಆಹಾರ ಪಾಡ್ದ್ ಪಿರಾಕ್ದ ಪೊಣ್ಣುಲೆನ ಎದುರುಗು ಪೋಯೆರ್. ಅಲ್ ಆ ತಟ್ಟೆನ್ ಆ ಲೇಡಿಗ್ ಕೊರ್ದು, "ಇಲ್ಲ್, ಉಂದೆನ್ ನುಪ್ಪುಲೆ" ಪಂಡೆರ್. ಪಿರಾಕ್ದ ಪೊಣ್ಣು ನಕ್ಕುದು ಪಂಡೆರ್, "ಸೊಲ್ಮೆಲು, ಲಿಲಿ. ಈರ್ ಮಸ್ತ್ ದಯಾಳು."
+
+ಆ ಮಲ್ಲ ಮಹಿಳೆ ಖುಷಿಟ್ ಇತ್ತೆರ್, ಬೊಕ್ಕ ಲಿಲಿಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಂಡ್ ಪಂದ್ ಎಡ್ಡೆ ಅನಿಸಿಕೆ ಆಂಡ್. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಲಿಲಿ ಯಾಪಲ ಬೇತೆಕ್ಲೆಗ್ ಸಹಾಯ ಮಲ್ಪುನ ಬೊಕ್ಕ ಅಲೆಗ್ ಉಪ್ಪುನವುಲೆನ್ ಪಾಡುನ ಮಾರ್ಗೊಲೆನ್ ತೂವೊಂದಿತ್ತೆ. ಬೊಕ್ಕ ಊರುಡು ಉಪ್ಪುನ ಮಾತೆರ್ಲ ಕೊರ್ಪಿನ ವಿನಮ್ರ ಪೊಣ್ಣುನ್ ಪ್ರೀತಿ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little girl named Sue. Sue had a big bedroom with fancy things in it. She loved her room very much. One day, she saw a small flower in her room. The flower was trying to bloom.
+
+Sue said to the flower, "Hello, little flower! Why are you trying to bloom in my bedroom?" The flower said, "I want to be a fancy flower in your room." Sue liked the idea, but she knew that flowers needed sun and water to grow.
+
+Sue tried to help the flower. She gave it water and put it near the window. But the flower did not get enough sun. It tried very hard to bloom, but it could not. The flower became sad and said, "I am sorry, Sue. I cannot be a fancy flower in your room."
+
+In the end, the flower did not bloom. It stayed small and sad. Sue felt bad for the flower. She wished she could help it more. But she knew that flowers needed sun and water to grow, and her bedroom was not the best place for a flower to live."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಸೂ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಸ್ಯೂಗ್ ಒಂಜಿ ಮಲ್ಲ ಬೆಡ್ ರೂಮ್ ಇತ್ತ್ಂಡ್ ಅಯಿಟ್ ಫ್ಯಾನ್ಸಿ ವಸ್ತುಲು ಇತ್ತ್ಂಡ್. ಅಲೆಗ್ ಅಲೆನ ಕೋಣೆ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲೆನ ಕೋಣೆಡ್ ಒಂಜಿ ಎಲ್ಯ ಪೂ ತೂಯೆರ್. ಪೂ ಅರಳೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್.
+
+ಸೂ ಪುಷ್ಪೊಗು ಪಂಡೆರ್, "ನಮಸ್ಕಾರ, ಎಲ್ಯ ಪುಷ್ಪ! ಈರ್ ದಾಯೆಗ್ ಎನ್ನ ಮಲಪುನ ಕೋಣೆಡ್ ಪುಷ್ಪ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದುಲ್ಲರ್?" ಆ ಪೂ ಪಂಡೆ, "ಯಾನ್ ನಿನ್ನ ಕೋಣೆಡ್ ಒಂಜಿ ಫ್ಯಾನ್ಸಿ ಪೂ ಆಯೆರೆ ಬಯಕುವೆ." ಸೂ ಗ್ ಆ ಐಡಿಯಾ ಇಷ್ಟ ಆಂಡ್, ಆಂಡ ಪೂಕುಲು ಬುಲೆಯೆರೆ ಸೂರ್ಯ ಬೊಕ್ಕ ನೀರ್ ಬೋಡು ಪಂದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್.
+
+ಸ್ಯೂ ಪುಷ್ಪೊಗು ಸಹಾಯ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಅಲೆಗ್ ನೀರ್ ಕೊರ್ದು ಕಿಟಕಿದ ಬರಿಟ್ ದೀಯೆರ್. ಆಂಡ ಪೂಗ್ ಸಾಕಷ್ಟ್ ಬಿಸಿಲು ಬರ್ಪುಜಿ. ಉಂದು ಅರಳೆರೆ ಮಸ್ತ್ ಪ್ರಯತ್ನ ಮಲ್ತ್ಂಡ್, ಆಂಡ ಅಯಿನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಆ ಪೂ ದುಃಖೊಡು ಬತ್ತ್ದ್ ಪಂಡೆ, "ಯಾನ್ ಕ್ಷಮೆ ಕೋರ್ಪೆ, ಸೂ. ಯಾನ್ ನಿನ್ನ ಕೋಣೆಡ್ ಒಂಜಿ ಫ್ಯಾನ್ಸಿ ಪೂ ಆವರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ."
+
+ಕಡೆಕ್, ಪೂ ಅರಂದ್ಜಿ. ಉಂದು ಎಲ್ಯ ಬೊಕ್ಕ ದುಃಖೊಡು ಉಂತುಂಡು. ಸ್ಯೂಗ್ ಪೂತ ಬಗ್ಗೆ ಕೆಟ್ಟ ಅನುಭವ ಆಂಡ್. ಅಲೆಗ್ ಜಾಸ್ತಿ ಸಹಾಯ ಮಲ್ಪೆರೆ ಆಸೆ ಆಂಡ್. ಆಂಡ ಪೂಕುಲು ಬುಲೆಯೆರೆ ಸೂರ್ಯ ಬೊಕ್ಕ ನೀರ್ ಬೋಡು ಪನ್ಪಿನೆನ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್, ಬೊಕ್ಕ ಅಲೆನ ಬೆಡ್ ರೂಮ್ ಒಂಜಿ ಪೂ ಜೀವನ ಮಲ್ಪೆರೆ ಎಡ್ಡೆ ಜಾಗೆ ಅತ್ತ್."
+},
+
+
+{
+"english":"Once upon a time, there was a little infant named Tim. He liked to play with his toys and watch the birds outside his window. Tim had a big, soft teddy bear that he loved very much.
+
+One day, Tim's teddy bear was sad. Tim did not know why his teddy bear was sad. He tried to make his teddy bear happy by giving it a hug and a kiss.
+
+Tim decided to take his sad teddy bear outside to watch the birds with him. They sat under a big tree and watched the birds sing and fly. Soon, the teddy bear was not sad anymore. Tim and his teddy bear were very happy watching the birds together."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಸೂ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಸ್ಯೂಗ್ ಒಂಜಿ ಮಲ್ಲ ಬೆಡ್ ರೂಮ್ ಇತ್ತ್ಂಡ್ ಅಯಿಟ್ ಫ್ಯಾನ್ಸಿ ವಸ್ತುಲು ಇತ್ತ್ಂಡ್. ಅಲೆಗ್ ಅಲೆನ ಕೋಣೆ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲೆನ ಕೋಣೆಡ್ ಒಂಜಿ ಎಲ್ಯ ಪೂ ತೂಯೆರ್. ಪೂ ಅರಳೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್.
+
+ಸೂ ಪುಷ್ಪೊಗು ಪಂಡೆರ್, "ನಮಸ್ಕಾರ, ಎಲ್ಯ ಪುಷ್ಪ! ಈರ್ ದಾಯೆಗ್ ಎನ್ನ ಮಲಪುನ ಕೋಣೆಡ್ ಪುಷ್ಪ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದುಲ್ಲರ್?" ಆ ಪೂ ಪಂಡೆ, "ಯಾನ್ ನಿನ್ನ ಕೋಣೆಡ್ ಒಂಜಿ ಫ್ಯಾನ್ಸಿ ಪೂ ಆಯೆರೆ ಬಯಕುವೆ." ಸೂ ಗ್ ಆ ಐಡಿಯಾ ಇಷ್ಟ ಆಂಡ್, ಆಂಡ ಪೂಕುಲು ಬುಲೆಯೆರೆ ಸೂರ್ಯ ಬೊಕ್ಕ ನೀರ್ ಬೋಡು ಪಂದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್.
+
+ಸ್ಯೂ ಪುಷ್ಪೊಗು ಸಹಾಯ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಅಲೆಗ್ ನೀರ್ ಕೊರ್ದು ಕಿಟಕಿದ ಬರಿಟ್ ದೀಯೆರ್. ಆಂಡ ಪೂಗ್ ಸಾಕಷ್ಟ್ ಬಿಸಿಲು ಬರ್ಪುಜಿ. ಉಂದು ಅರಳೆರೆ ಮಸ್ತ್ ಪ್ರಯತ್ನ ಮಲ್ತ್ಂಡ್, ಆಂಡ ಅಯಿನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಪೂ ದುಃಖೊಡು ಬತ್ತ್ದ್ ಪಂಡೆ, "ಯಾನ್ ಕ್ಷಮೆ ಕೋರ್ಪೆ, ಸೂ. ಯಾನ್ ನಿನ್ನ ಕೋಣೆಡ್ ಒಂಜಿ ಫ್ಯಾನ್ಸಿ ಪೂ ಆವರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ."
+
+ಕಡೆಕ್, ಪೂ ಅರಂದ್ಜಿ. ಉಂದು ಎಲ್ಯ ಬೊಕ್ಕ ದುಃಖೊಡು ಉಂತುಂಡು. ಸ್ಯೂಗ್ ಪೂತ ಬಗ್ಗೆ ಕೆಟ್ಟ ಅನುಭವ ಆಂಡ್. ಅಲೆಗ್ ಜಾಸ್ತಿ ಸಹಾಯ ಮಲ್ಪೆರೆ ಆಸೆ ಆಂಡ್. ಆಂಡ ಪೂಕುಲು ಬುಲೆಯೆರೆ ಸೂರ್ಯ ಬೊಕ್ಕ ನೀರ್ ಬೋಡು ಪನ್ಪಿನೆನ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡು, ಬೊಕ್ಕ ಅಲೆನ ಮಲಪುನ ಕೋಣೆ ಒಂಜಿ ಪೂ ಜೀವನ ಮಲ್ಪೆರೆ ಎಡ್ಡೆ ಜಾಗೆ ಅತ್ತ್. ಒಂಜಿ ಕಾಲೊಡು, ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತ್ಂಡ್. ಆಯಗ್ ಆಯನ ಆಟಿಕೆಲೆನ್ ಆಟ ಆಡೆರೆ ಬೊಕ್ಕ ಆಯನ ಕಿಟಕಿದ ಪಿದಯಿ ಪಕ್ಕಿಲೆನ್ ತೂಯೆರೆ ಇಷ್ಟ ಆಂಡ್. ಟಿಮ್ ಗ್ ಒಂಜಿ ಮಲ್ಲ, ಮೃದುವಾದ್ ಟೆಡ್ಡಿ ಬೇರ್ ಇತ್ತ್ಂಡ್ ಅವೆನ್ ಆರ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್.
+
+ಒಂಜಿ ದಿನ, ಟಿಮ್ ನ ಟೆಡ್ಡಿ ಬೇರ್ ದುಃಖೊಡು ಇತ್ತ್ಂಡ್. ಟಿಮ್ ಗ್ ಅರೆನ ಟೆಡ್ಡಿ ಬೇರ್ ದಾಯೆಗ್ ದುಖಿ ಆಂಡ್ ಪಂದ್ ಗೊತ್ತುಜ್ಜಿ. ಆರ್ ತನ್ನ ಟೆಡ್ಡಿ ಕರಡಿನ್ ಒಂಜಿ ತಬ್ಬುದು ಒಂಜಿ ಮುತ್ತು ಕೊರ್ದು ಸಂತೋಷ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್.
+
+ಟಿಮ್ ತನ್ನ ದುಃಖದ ಟೆಡ್ಡಿ ಕರಡಿನ್ ತನ್ನೊಟ್ಟುಗು ಪಕ್ಕಿಲೆನ್ ತೂಯೆರೆ ಪಿದಯಿ ಲೆತೊಂದು ಪೋಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಅಕುಲು ಒಂಜಿ ಮಲ್ಲ ಮರತ್ತ ಕೆಳ್ಗ್ ಕುಲ್ಲುದು ಪಕ್ಕಿಲು ಪಾಡುನ ಬೊಕ್ಕ ಪಾರುನ ತೂವೊಂದಿತ್ತೆರ್. ಶೀಘ್ರೊಡು, ಟೆಡ್ಡಿ ಬೇರ್ ದುಃಖೊಡು ಇಜ್ಜಿ. ಟಿಮ್ ಬೊಕ್ಕ ಅರೆನ ಟೆಡ್ಡಿ ಬೇರ್ ಒಟ್ಟುಗು ಪಕ್ಕಿಲೆನ್ ತೂದು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, in a small town, there was a little boy named Tim. Tim loved ice-cream so much. One day, he saw an ancient ice-cream truck. The truck was very old and slow, but it had a big sign that said "Ice-Cream".
+
+Tim went to the truck and said, "Hi, can I have ice-cream, please?" The ice-cream man looked at him and said, "Sure, little boy. Here you go." Tim took the ice-cream and started to eat it. But it did not taste good at all. It tasted very bad.
+
+Tim screamed, "Yuck! This ice-cream is bad!" The ice-cream man just laughed and said, "I am sorry, little boy. The ice-cream is too old." Tim was very sad and walked away. He did not get to enjoy his ice-cream that day."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಊರುಡು ಟಿಮ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಟಿಮ್ ಗ್ ಐಸ್-ಕ್ರೀಮ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಆರ್ ಒಂಜಿ ಪಿರಾಕ್ದ ಐಸ್-ಕ್ರೀಮ್ ಟ್ರಕ್ ನ್ ತೂಯೆರ್. ಆ ಟ್ರಕ್ ಮಸ್ತ್ ಪಿರಾಕ್ ದ ಬೊಕ್ಕ ನಿಧಾನ ಆದಿತ್ತ್ಂಡ್, ಆಂಡ ಅಯಿಟ್ "ಐಸ್-ಕ್ರೀಮ್" ಪನ್ಪಿನ ಒಂಜಿ ಮಲ್ಲ ಚಿಹ್ನೆ ಇತ್ತ್ಂಡ್.
+
+ಟಿಮ್ ಲಾರಿಗ್ ಪೋದು ಪಂಡೆರ್, "ನಮಸ್ಕಾರ, ದಯಮಲ್ತ್ ಐಸ್-ಕ್ರೀಮ್ ದೆತೊನೊಲಿ?" ಐಸ್ ಕ್ರೀಮ್ ಮಲ್ಪುನಾಯೆ ಅಯನ್ ತೂದು ಪಂಡೆ, "ಖಂಡಿತ, ಎಲ್ಯ ಬಾಲೆ. ಈರ್ ಪೋಲೆ." ಟಿಮ್ ಐಸ್-ಕ್ರೀಮ್ ದೆತೊನುದು ತಿನ್ರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ ಅಯಿಕ್ ಎಡ್ಡೆ ರುಚಿ ಇಜ್ಜಿ. ಅಯಿತ ರುಚಿ ಮಸ್ತ್ ಕೆಟ್ಟಾಂಡ್.
+
+ಟಿಮ್ ಕಿರುಚಿಯೆರ್, "ಯಕ್! ಈ ಐಸ್-ಕ್ರೀಮ್ ಕೆಟ್ಟವು!" ಐಸ್-ಕ್ರೀಮ್ ಮಲ್ಪುನಾಯೆ ನಕ್ಕುದು ಪಂಡೆ, "ಕ್ಷಮೆ ಮಲ್ಪುಲೆ, ಎಲ್ಯ ಬಾಲೆ. ಐಸ್-ಕ್ರೀಮ್ ಮಸ್ತ್ ಪಿರಾಕ್ ದ." ಟಿಮ್ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ನಡತೊಂದು ಪೋಯೆರ್. ಆ ದಿನ ಆರ್ ಐಸ್-ಕ್ರೀಮ್ ನ್ ಎಂಜಾಯ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ."
+},
+
+{
+"english":"Once upon a time, there were two best friends, Joe and Grace. They were always playing together and having so much fun. One day, Joe and Grace decided to go to the town's marketplace.
+
+When they got there, they saw a vendor with lots of colorful balloons. Joe wanted one so badly, but he didn't have enough money. Grace saw how sad Joe was and wanted to help. She asked her mom to bring some money so Joe could buy a balloon.
+
+When Grace's mom arrived she saw that Joe wanted a deep red balloon. Joe was so relieved to be able to buy it after his friend helped him. Grace said to Joe, "Remember, if you help a friend in need, you will always be rewarded!"
+
+Joe and Grace smiled and hugged each other, walked away with the deep red balloon, proud of the lesson they had learnt."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಜೋ ಬೊಕ್ಕ ಗ್ರೇಸ್ ಪನ್ಪಿನ ರಡ್ಡ್ ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಇತ್ತೆರ್. ಅಕುಲು ಯಾಪಲ ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ, ಜೋ ಬೊಕ್ಕ ಗ್ರೇಸ್ ಊರುದ ಮಾರುಕಟ್ಟೆಗ್ ಪೋಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಅಕುಲು ಅಲ್ಪ ಪೋನಗ, ಅಕುಲು ಮಸ್ತ್ ಬಣ್ಣ ಬಣ್ಣದ ಬಲೂನುಲೆನ್ ಪತೊಂದು ಒರಿ ಮಾರಾಟಗಾರೆನ್ ತೂಯೆರ್. ಜೋ ಒಂಜಿನ್ ಮಸ್ತ್ ಬಯಕೆ ಮಲ್ತೆರ್, ಆಂಡ ಅರೆಗ್ ಸಾಕಷ್ಟ್ ದುಡ್ಡು ಇಜ್ಜಿ. ಗ್ರೇಸ್ ಜೋ ಎಂಚ ದುಃಖೊಡು ಇತ್ತೆರ್ ಪಂಡ್ದ್ ತೂದು ಸಹಾಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಜೋ ಒಂಜಿ ಬಲೂನ್ ನ್ ಕೊಂಡೊನೆರೆ ಅಲೆನ ಅಮ್ಮೆರೆಗ್ ಒಂತೆ ದುಡ್ಡು ತೂಕೊನೆರೆ ಕೇಂಡೆರ್.
+
+ಗ್ರೇಸ್ ನ ಅಮ್ಮೆ ಬನ್ನಗ ಜೋ ಒಂಜಿ ಡೀಪ್ ರೆಡ್ ಬಲೂನ್ ಬೋಡು ಪಂಡ್ದ್ ತೂಯೆರ್. ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಸಹಾಯ ಮಲ್ತಿನ ಬುಕ್ಕೊ ಜೋ ಉಂದೆನ್ ಕೊಂಡೊನೆರೆ ಸಾಧ್ಯ ಆಯಿನೆಡ್ದಾವರ ಮಸ್ತ್ ನಿರಾಳ ಆಯೆರ್. ಗ್ರೇಸ್ ಜೋಗ್ ಪಂಡೆರ್, "ನೆಂಪು ಮಲ್ಪುಲೆ, ಈರ್ ಒರಿ ಸ್ನೇಹಿತೆರೆಗ್ ಸಹಾಯ ಮಲ್ತ್ಂಡ, ಈರ್ ಯಾಪಲ ಬಹುಮಾನೊನು ಪಡೆಯೊಲಿ!"
+
+ಜೋ ಬೊಕ್ಕ ಗ್ರೇಸ್ ನಕ್ಕುದು ಒರಿ ಒರಿನ್ ತಬ್ಬಿದ್, ಕೆಂಪು ಬಲೂನ್ ನ್ ಪತೊಂದು ಪೋಯೆರ್, ಅಕುಲು ಕಲ್ಪುನ ಪಾಠೊಗು ಹೆಮ್ಮೆ ಪಡೆಯೆರ್."
+},
+
+{
+"english":"Once there was a graceful bird called Billy. He was always looking for something to do. One day he decided to try something new. He wanted to weigh himself with a spoon.
+
+Billy gathered his spoon and measured himself. He found that he was very light! He was happy with his weight and wanted to celebrate.
+
+So he started to dance in the sky. His graceful moves caused even the clouds to watch. He spread his wings and flew higher, higher and higher until he was just a dot in the sky.
+
+Billy went flying around the world. Then, one by one he started to pick up all the things he had weighed with the spoon. In the end, Billy was still the lightest and most graceful of them all!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಬಿಲ್ಲಿ ಪನ್ಪಿನ ಒಂಜಿ ಪೊರ್ಲುದ ಪಕ್ಕಿ ಇತ್ತ್ಂಡ್. ಆರ್ ಯಾಪಲ ದಾದನಾ ಮಲ್ಪೆರೆ ತೂವೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ ಆರ್ ಒಂಜಿ ಪೊಸತ್ ದಾದನಾ ಪ್ರಯತ್ನ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಆರ್ ಒಂಜಿ ಚಮಚೊಡು ತನ್ನನ್ ತೂಕ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಬಿಲ್ಲಿ ತನ್ನ ಚಮಚೊನು ಒಟ್ಟು ಮಲ್ತೆರ್ ಬೊಕ್ಕ ತನ್ನನ್ ತಾನ್ ಅಳೆಯೆರ್. ಆರ್ ಮಸ್ತ್ ಲೈಟ್ ಆದಿತ್ತೆರ್ ಪಂಡ್ದ್ ತೆರಿಂಡ್! ಆರ್ ತನ್ನ ತೂಕೊಡು ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಆಚರಣೆ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಅಂಚಾದ್ ಆರ್ ಆಕಾಶೊಡು ನಲಿಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅಯನ ಪೊರ್ಲುದ ಚಲನೆಲು ಮೋಡೊಲೆನ್ ಲಾ ತೂಯೆರೆ ಕಾರಣ ಆಂಡ್. ಆರ್ ಆಕಾಶೊಡು ಒಂಜಿ ಚುಕ್ಕಿ ಆಯಿನ ಮುಟ್ಟ ಆರ್ ತನ್ನ ರೆಕ್ಕೆಲೆನ್ ಚಾಚಿಯೆರ್ ಬೊಕ್ಕ ಎತ್ತರ, ಎತ್ತರ ಬೊಕ್ಕ ಎತ್ತರೊಗು ಪೋಯೆರ್.
+
+ಬಿಲ್ಲಿ ಜಗತ್ತ್ ದ ಸುತ್ತಲೂ ಪೋಯೆರ್. ಅಪಗ, ಒಂಜೊಂಜೆ ಆಯೆ ಚಮಚೊಡು ತೂಕ ಮಲ್ತಿನ ಮಾತಾ ವಸ್ತುಲೆನ್ ದೆಪ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಕಡೆಕ್, ಬಿಲ್ಲಿ ಅಕುಲೆಡ್ದ್ ಲಾ ಲೈಟ್ ಬೊಕ್ಕ ಗ್ರೇಸ್ಫುಲ್ ಆದಿತ್ತೆ!"
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+
+]

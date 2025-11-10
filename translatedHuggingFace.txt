@@ -751,10 +751,1786 @@ Billy went flying around the world. Then, one by one he started to pick up all t
 },
 
 {
+"english":"Once upon a time there were two friends, Jack and Jill. Jack and Jill went up the hill to play a game. The game was silly. Jack and Jill took turns pushing a big button. Every time they pushed the button they would separate.
+
+Jack shouted: "Let's try again!" So they took turns pushing the button again. This time the button spun them around and around until they were dizzy.
+
+Jill giggled and said: "That was so silly!"
+
+Jack laughed and said: "Let's try the button one more time!" So they pressed the button again and this time it sent them soaring high into the sky!
+
+Jack and Jill flew around, but eventually the button sent them back down to the ground. They were safe and sound, but something was different this time.
+
+Jack and Jill were no longer together. The button had separated them! But it was all worth it in the end, because a silly game can bring people together in the most unexpected of ways."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಜಿಲ್ ಪನ್ಪಿನ ರಡ್ಡ್ ಸ್ನೇಹಿತೆರ್ ಇತ್ತೆರ್. ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಜಿಲ್ ಒಂಜಿ ಆಟ ಆಡೆರೆ ಗುಡ್ಡೆಗ್ ಪೋಯೆರ್. ಆಟ ಸಿಲ್ಲಿ ಆದಿತ್ತ್ಂಡ್. ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಜಿಲ್ ಒಂಜಿ ಮಲ್ಲ ಬಟನ್ ನ್ ಒತ್ತುದು ಸರದಿ ಮಲ್ತೆರ್. ಅಕುಲು ಬಟನ್ ಒತ್ತುನಗ ಪ್ರತಿ ಸರ್ತಿಲಾ ಅಕುಲು ಬೇತೆ ಬೇತೆ ಆಪೆರ್.
+
+ಜ್ಯಾಕ್ ಕಿರುಚಿಯೆರ್: "ಮತ್ತೆ ಪ್ರಯತ್ನ ಮಲ್ಪುಗ!" ಅಂಚಾದ್ ಅಕುಲು ಪುನರ್ ಬಟನ್ ಒತ್ತುದು ಸರದಿ ಮಲ್ತೆರ್. ಈ ಸರ್ತಿ ಬಟನ್ ಅಕುಲೆನ್ ತಲೆತಿರ್ಗುನ ಮುಟ್ಟ ಸುತ್ತ ಸುತ್ತ ಸುತ್ತಾಲುಂಡು.
+
+ಜಿಲ್ ನಕ್ಕುದು ಪಂಡೆರ್: "ಅವು ಮಸ್ತ್ ಮೂರ್ಖತನ ಆಂಡ್!"
+
+ಜ್ಯಾಕ್ ನಕ್ಕುದು ಪಂಡೆರ್: "ನಮ ಒಂಜಿ ಸರ್ತಿ ಬಟನ್ ನ್ ಪ್ರಯತ್ನ ಮಲ್ಪುಗ!" ಅಂಚಾದ್ ಅಕುಲು ಮತ್ತೆ ಬಟನ್ ಒತ್ತುದು ಈ ಸರ್ತಿ ಅಯಿಟ್ ಅಕುಲು ಆಕಾಶೊಗು ಎತ್ತರೊಗು ಏರುವೆರ್!
+
+ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಜಿಲ್ ಸುತ್ತಲ ಪಾರುವೆರ್, ಆಂಡ ಕಡೆಕ್ ಬಟನ್ ಅಕುಲೆನ್ ಪಿರ ನೆಲಕ್ ಕಡಪುಡುಂಡು. ಅಕುಲು ಸುರಕ್ಷಿತವಾದ್ ಇತ್ತೆರ್, ಆಂಡ ಈ ಸರ್ತಿ ದಾದನಾ ಬೇತೆ ಉಂಡು.
+
+ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಜಿಲ್ ಒಟ್ಟುಗು ಇಜ್ಜೆರ್. ಬಟನ್ ಅವೆನ್ ಬೇತೆ ಮಲ್ತ್ ಂಡ್! ಆಂಡ ಅಕೇರಿಗ್ ಉಂದು ಮಾತ ಯೋಗ್ಯವಾದಿತ್ತ್ಂಡ್, ದಾಯೆ ಪಂಡ ಒಂಜಿ ಸಿಲ್ಲಿ ಆಟ ಜನೊಕುಲೆನ್ ಅನಿರೀಕ್ಷಿತ ರೀತಿಡ್ ಒಟ್ಟು ಮಲ್ಪುಂಡು."
+},
+
+{
+"english":"Once upon a time, there was a boy who loved to climb. One day, he decided to climb to the top of a mountain to get a better view. When he reached the peak, he saw a lake below him. It looked so inviting, so he decided to climb back down to the lake.
+
+As soon as the boy got to the lake, he noticed a boat on the shore. He asked the boat, "Are you available?" The boat replied, "Yes, I am available for you to use." The boy was so excited! He couldn't wait to jump into the boat and go for a ride on the lake.
+
+The boy took the boat out on the lake and had a wonderful time. But when he finished his ride, he noticed a sign near the shore. It said, "Take care of the boat; treat it with respect". The boy realized that it was not just available, it had been given to him to use with respect.
+
+The moral of the story is that when given something, it should be treated with gratitude and respect. We should never take things for granted."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಬಾಲೆ ಏರುನ ಮೋಕೆ ಇತ್ತಿನಾಯೆ. ಒಂಜಿ ದಿನ, ಎಡ್ಡೆ ದೃಶ್ಯೊನು ತೂಯೆರೆ ಒಂಜಿ ಪರ್ವತದ ಮಿತ್ತ್ ಏರೊಡು ಪಂದ್ ತೀರ್ಮಾನ ಮಲ್ತೆರ್. ಆರ್ ಶಿಖರೊಗು ಬನ್ನಗ, ಆರ್ ತನ್ನ ಕೆಳ್ಗ್ ಒಂಜಿ ಕೆರೆನ್ ತೂಯೆರ್. ಉಂದು ಮಸ್ತ್ ಆಹ್ವಾನೊಡು ತೋಜಿಂಡ್, ಅಂಚಾದ್ ಆರ್ ಕೆರೆತ ಮಿತ್ತ್ ಜಪ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಆ ಬಾಲೆ ಕೆರೆತ ಬರಿಟ್ ಬನ್ನಗನೆ, ಆಯೆ ಕರೆತ ಬರಿಟ್ ಒಂಜಿ ದೋಣಿನ್ ತೂಯೆರ್. ಆರ್ ದೋಣಿನ್ ಕೇನ್ಯೆರ್, "ಈರ್ ಲಭ್ಯ ಉಲ್ಲರ್?" ದೋಣಿ ಉತ್ತರ ಕೊರ್ತುಂಡು, "ಆಂಡ್, ಯಾನ್ ನಿಕ್ಲೆಗ್ ಬಳಕೆ ಮಲ್ಪೆರೆ ಲಭ್ಯ ಉಲ್ಲೆ." ಆ ಬಾಲೆ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆ! ದೋಣಿಡ್ ಜಂಪ್ ಮಲ್ತ್ದ್ ಕೆರೆತ ಮಿತ್ತ್ ಸವಾರಿ ಮಲ್ಪೆರೆ ಅರೆಗ್ ತಡ ಆಯಿಜಿ.
+
+ಆ ಬಾಲೆ ದೋಣಿನ್ ಕೆರೆತ ಮಿತ್ತ್ ದೆತೊಂದು ಪೋದು ಒಂಜಿ ಎಡ್ಡೆ ಸಮಯ ಕಳೆಯೆರ್. ಆಂಡ ಆರ್ ತನ್ನ ಸವಾರಿನ್ ಮುಗಿತ್ನಗ, ಆರ್ ಕರೆತ ಬರಿಟ್ ಒಂಜಿ ಚಿಹ್ನೆನ್ ತೂಯೆರ್. ಅಯಿಟ್ ಪಂಡೆರ್, "ದೋಣಿನ್ ತೂವೊಡು; ಗೌರವೊಡು ತೂವೊಡು". ಉಂದು ಲಭ್ಯ ಇಜ್ಜಿ ಪಂದ್ ಆ ಬಾಲೆಗ್ ಅರ್ಥ ಆಂಡ್, ಉಂದು ಗೌರವೊಡು ಬಳಕೆ ಮಲ್ಪೆರೆ ಅರೆಗ್ ಕೊರ್ತೆರ್.
+
+ಒಂಜಿ ವಸ್ತುನು ಕೊರ್ನಗ ಅವೆನ್ ಕೃತಜ್ಞತೆ ಬೊಕ್ಕ ಗೌರವೊಡು ತೂವೊಡು ಪನ್ಪಿನವು ಕತೆತ ನೈತಿಕತೆ. ನಮ ಏಪಲಾ ಒಂಜಿ ವಿಷಯೊನು ಸರಳವಾದ್ ದೆತೊನೊಡಾಪುಜಿ."
+},
+
+{
+"english":"Once, there was a girl. She had a garage. Inside the garage she kept her toys.
+
+One day, the girl noticed something was wrong with her toys. She went in the garage and saw that they had broken.
+
+She decided she would repair them and make them as good as new. She made sure to wash them all so they were nice and healthy.
+
+Then she took some glue and fixed all the toys until they looked perfect. She was very pleased with her work.
+
+When she was done, the girl could play with her toys again and have lots of fun. She was very happy."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ, ಒರಿ ಪೊಣ್ಣು ಇತ್ತೆ. ಅಲೆಗ್ ಒಂಜಿ ಗ್ಯಾರೇಜ್ ಇತ್ತ್ಂಡ್. ಗ್ಯಾರೇಜ್ ಡ್ ಅಲೆನ ಆಟಿಕೆಲೆನ್ ದೀದ್ ದೀಯೆರ್.
+
+ಒಂಜಿ ದಿನ, ಆ ಪೊಣ್ಣು ತನ್ನ ಆಟಿಕೆಲೆಡ್ ದಾದನಾ ತಪ್ಪು ಉಂಡು ಪಂಡ್ದ್ ಗಮನಿಸಯೆರ್. ಅಲ್ ಗ್ಯಾರೇಜ್ ಗ್ ಪೋದು ಅವು ಮುರಿದ್ ಪೋಯಿನವು ತೂಯೆರ್.
+
+ಅವೆನ್ ದುರಸ್ತಿ ಮಲ್ತ್ದ್ ಪೊಸತನದಲೆಕನೆ ಮಲ್ಪುವೆ ಪಂದ್ ಅಲೆನ್ ನಿರ್ಧರಿಸಯೆರ್. ಅವು ಎಡ್ಡೆ ಬೊಕ್ಕ ಆರೋಗ್ಯವಂತ ಆಯೆರೆ ಅವೆನ್ ಮಾತಾ ತೊಳೆಯೆರೆ ಅಲೆನ್ ಖಚಿತ್ ಮಲ್ತೆರ್.
+
+ಅಪಗ ಅಲ್ ಒಂತೆ ಅಂಟು ದೆತೊನುದು ಅವು ಪರಿಪೂರ್ಣವಾದ್ ತೋಜುನ ಮುಟ್ಟ ಮಾತಾ ಆಟಿಕೆಲೆನ್ ಸರಿ ಮಲ್ತೆರ್. ಅಲೆನ ಬೇಲೆಡ್ ಅಲೆಗ್ ಮಸ್ತ್ ಸಂತೋಷ ಆಂಡ್.
+
+ಅಲೆನ್ ಮುಗಿತ್ಂಡ, ಆ ಪೊಣ್ಣು ಮತ್ತೆ ಅಲೆನ ಆಟಿಕೆಲೆನ್ ಆಟ ಆಡೊಲಿ ಬೊಕ್ಕ ಮಸ್ತ್ ಮಜಾ ಮಲ್ಪೊಲಿ. ಅಲ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್."
+},
+
+{
+"english":"Mommy and Emily were playing a matching game together. Emily was so excited to find the matching games at the store. She liked watching the videos on the screen as she matched each card.
+
+"Mommy, I think I'm getting really good at this!" Emily said.
+
+"That's wonderful, sweetheart!" Mommy replied. "You're doing so well!"
+
+But then, Emily noticed something strange. She pulled out one of the cards and looked closely at it.
+
+"Mommy, this card isn't real," she said. "It's fake!"
+
+Mommy took the card and looked at it. "You're right," she said. "This card is fake. It doesn't match the others."
+
+Mommy and Emily decided to get a new video game instead. Emily was happy to have an even better game to play. She could tell the difference between a real card and a fake one."
+"tulu":"ಅಮ್ಮೆ ಬೊಕ್ಕ ಎಮಿಲಿ ಒಟ್ಟುಗು ಒಂಜಿ ಮ್ಯಾಚಿಂಗ್ ಗೇಮ್ ಆಡೊಂದಿತ್ತೆರ್. ಅಂಗಡಿಡ್ ಸರಿಹೊಂದುನ ಆಟೊಲೆನ್ ತೂಯೆರೆ ಎಮಿಲಿ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಪ್ರತಿಯೊಂಜಿ ಕಾರ್ಡ್ ನ್ ಸರಿ ಮಲ್ಪುನಗ ಅಲೆಗ್ ಪರದೆಡ್ ವಿಡಿಯೋಲೆನ್ ತೂಯೆರೆ ಇಷ್ಟ ಆಂಡ್.
+
+"ಅಮ್ಮೆ, ಯಾನ್ ಈ ವಿಷಯೊಡು ಎಡ್ಡೆ ಆವೊಂದುಲ್ಲೆ ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು!" ಎಮಿಲಿ ಪಂಡೆರ್.
+
+"ಅವು ಅದ್ಭುತ, ಪ್ರಿಯೆ!" ಅಮ್ಮೆ ಉತ್ತರ ಕೊರ್ತೆರ್. "ಈರ್ ಎಡ್ಡೆ ಮಲ್ತೊಂದುಲ್ಲರ್!"
+
+ಆಂಡ ಅಪಗ, ಎಮಿಲಿ ಒಂಜಿ ವಿಚಿತ್ರೊನು ಗಮನಿಸಯೆರ್. ಅಲ್ ಒಂಜಿ ಕಾರ್ಡ್ ನ್ ಪಿದಯಿ ಕನತ್ದ್ ಅಯಿನ್ ಎಡ್ಡೆ ರೀತಿಡ್ ತೂಯೆರ್.
+
+"ಅಮ್ಮೆ, ಈ ಕಾರ್ಡ್ ನಿಜ ಅತ್ತ್," ಅಲೆ ಪಂಡೆರ್. "ಉಂದು ನಕಲಿ!"
+
+ಅಮ್ಮೆ ಕಾರ್ಡ್ ದೆತೊನ್ದು ತೂಯೆರ್. "ಈರ್ ಸರಿ ಪನ್ಪರ್," ಅಲೆ ಪಂಡೆರ್. "ಈ ಕಾರ್ಡ್ ನಕಲಿ. ಉಂದು ಬೇತೆ ಕಾರ್ಡ್ ಲೆಗ್ ಸರಿ ಆಪುಜಿ."
+
+ಅಮ್ಮೆ ಬೊಕ್ಕ ಎಮಿಲಿ ಒಂಜಿ ಪೊಸ ವಿಡಿಯೋ ಗೇಮ್ ದೆತೊನೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಎಮಿಲಿ ಒಂಜಿ ಎಡ್ಡೆ ಆಟ ಆಡೊಡಾಂಡ ಖುಷಿಟ್ ಇತ್ತೆರ್. ಒಂಜಿ ನಿಜವಾಯಿನ ಕಾರ್ಡ್ ಬೊಕ್ಕ ಒಂಜಿ ನಕಲಿ ಕಾರ್ಡ್ ದ ನಡುಟು ಉಪ್ಪುನ ವ್ಯತ್ಯಾಸೊನು ಅಲೆಗ್ ತೆರಿಯೊಂದಿತ್ತ್ಂಡ್."
+},
+
+{
+"english":"Once there was a little girl called Mia who loved to jump. Everywhere she went, she jumped. When walking to school, she would jump on the sidewalk. At the park, she would jump into the sandbox.
+
+One day Mia was at the supermarket and she saw something unusual. She saw a lawyer. Mia had never seen a lawyer before so it made her very curious. She wanted to know what a lawyer did and why he was so dressed up. So, Mia jumped right up to the lawyer and asked him.
+
+The lawyer was very confused. He had never seen a little girl so eager to talk to him. He tried to explain but Mia kept on jumping and interrupting.
+
+Soon enough the store manager got involved. He explained to Mia that it was not appropriate to engage with strangers and it was wrong to interrupt people when they were talking.
+
+Mia was very sorry for her behaviour and decided to never do something like this again. She had learned her lesson that it is important to be respectful to all strangers."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಮಿಯಾ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಜಂಪ್ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಲ್ ಎಲ್ಲಿಗ್ ಪೋಂಡಲಾ, ಅಲ್ ಜಂಪ್ ಮಲ್ತಲ್. ಶಾಲೆಗ್ ಪೋನಗ, ಅಲ್ ಪಾದಚಾರಿಡ್ ಜಿಗಿಯೊಂದಿತ್ತೆ. ಉದ್ಯಾನವನೊಡು, ಅಲ್ ಸ್ಯಾಂಡ್ ಬಾಕ್ಸ್ ಗ್ ಜಂಪ್ ಮಲ್ಪುವೆ.
+
+ಒಂಜಿ ದಿನ ಮಿಯಾ ಸೂಪರ್ ಮಾರ್ಕೆಟ್ ಡ್ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಲ್ಪ ಒಂಜಿ ಅಸಾಮಾನ್ಯವಾಯಿನ ವಸ್ತುನ್ ತೂಯೆರ್. ಅಲ್ ಒರಿ ವಕೀಲೆನ್ ತೂಯೆರ್. ಮಿಯಾ ದುಂಬು ಒರಿ ವಕೀಲೆನ್ ತೂದುಜಿ ಅಂಚಾದ್ ಅಲೆಗ್ ಮಸ್ತ್ ಕುತೂಹಲ ಆಂಡ್. ಒರಿ ವಕೀಲ್ ದಾದ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಆರ್ ದಾಯೆಗ್ ಇಂಚ ಡ್ರೆಸ್ ಮಲ್ತೆರ್ ಪನ್ಪಿನೆನ್ ತೆರಿಯೊನೊಡಾಪುಂಡು. ಅಂಚಾದ್, ಮಿಯಾ ವಕೀಲೆರೆನ ಎದುರುಗು ಜಂಪ್ ಮಲ್ತ್ದ್ ಅರೆನ್ ಕೇಂಡೆರ್.
+
+ವಕೀಲ್ ಮಸ್ತ್ ಗೊಂದಲೊಡು ಇತ್ತೆರ್. ತನ್ನೊಟ್ಟುಗು ಪಾತೆರೊಡಾಂಡ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆನ್ ತೂದುಜಿ. ಆರ್ ವಿವರಿಸೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್ ಆಂಡ ಮಿಯಾ ಜಂಪ್ ಮಲ್ತೊಂದು ಅಡ್ಡಿ ಮಲ್ತೊಂದು ಇತ್ತೆರ್.
+
+ಶೀಘ್ರೊಡು ಅಂಗಡಿದ ಮ್ಯಾನೇಜರ್ ಪಾಲ್ ಪಡೆಯೆರ್. ಅಪರಿಚಿತೆರೆನೊಟ್ಟುಗು ತೊಡಗಿಸಿಕೊಳ್ಳುನವು ಸೂಕ್ತ ಅತ್ತ್ ಪಂದ್ ಬೊಕ್ಕ ಜನಕುಲು ಪಾತೆರುನಗ ಅಡ್ಡಿ ಮಲ್ಪುನವು ತಪ್ಪು ಪಂಡ್ದ್ ಆರ್ ಮಿಯಾಗ್ ವಿವರಿಸಯೆರ್.
+
+ಮಿಯಾ ತನ್ನ ವರ್ತನೆಗ್ ಮಸ್ತ್ ಬೇಜಾರಾಯೆರ್ ಬೊಕ್ಕ ಈ ರೀತಿದ ಕೆಲಸೊನು ಮಲ್ಪೆರೆ ಬಲ್ಲಿ ಪಂದ್ ನಿರ್ಧರಿಸಯೆರ್. ಮಾತಾ ಅಪರಿಚಿತೆರೆಗ್ ಗೌರವ ಕೊರ್ಪುನವು ಮುಖ್ಯ ಪನ್ಪಿನ ಪಾಠನ್ ಅಲೆಗ್ ಕಲ್ತ್ಂಡ್."
+},
+
+{
+"english":"Once there was a girl named Lucy. She was three years old and she loved gum. She had lots of different flavours and she ate it every day.
+
+One day Lucy thought it would be fun to try extra big bubblegum. She put it in her mouth and blew a huge bubble. Suddenly, the bubble popped and tickled her nose. She started to sneeze and sneeze.
+
+Lucy looked down and saw her shirt was covered in gum. She was so ashamed. She wanted to hide but couldn't.
+
+So she asked for help from her parents. They showed her how to use a wet cloth to wipe the gum away. She smiled with relief and promised never to try big bubblegum again."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಲೂಸಿ ಪನ್ಪಿನ ಒರಿ ಪೊಣ್ಣು ಇತ್ತೆ. ಅಲೆಗ್ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ಗಮ್ ಮಸ್ತ್ ಇಷ್ಟ ಆದಿತ್ತ್ಂಡ್. ಅಲೆಗ್ ಮಸ್ತ್ ಬೇತೆ ಬೇತೆ ರುಚಿಲು ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆನ್ ಪ್ರತಿ ದಿನಲಾ ಪರ್ಪೆರ್.
+
+ಒಂಜಿ ದಿನ ಲೂಸಿಗ್ ಎಕ್ಸ್ ಟ್ರಾ ಬಿಗ್ ಬಬಲ್ ಗಮ್ ಟ್ರೈ ಮಲ್ಪುನವು ಮಜಾ ಆಪುಂಡು ಪಂದ್ ತೆರಿಂಡ್. ಅಲೆನ್ ಬಾಯಿಡ್ ಪಾಡ್ದ್ ಒಂಜಿ ಮಲ್ಲ ಗುಳ್ಳೆನ್ ಊದಿಯೆರ್. ಒಂಜಿ ಸಲ, ಗುಳ್ಳೆ ಪುಟ್ಟುದು ಅಲೆನ ಮೂಂಕುನ್ ಕಿಚ್ಚು ಮಲ್ತ್ಂಡ್. ಅಲ್ ಸೀನೆರೆ ಬೊಕ್ಕ ಸೀನೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಲೂಸಿ ಕೆಳಗ್ ತೂದು ಅಲೆನ ಶರ್ಟ್ ಗಮ್ ಡ್ ಮುಚ್ಚಿದ್ ಇತ್ತ್ಂಡ್ ಪಂಡ್ದ್ ತೂಯೆರ್. ಅಲೆಗ್ ಮಸ್ತ್ ನಾಚಿಕೆ ಆಂಡ್. ಅಲೆಗ್ ಮುಚ್ಚಿದ್ ಉಪ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್ ಆಂಡ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಅಂಚಾದ್ ಅಲ್ ಅಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರೆಡ ಸಹಾಯ ಕೇಂಡೆರ್. ಗಮ್ ನ್ ಒರೆಯೆರೆ ಒಂಜಿ ಒದ್ದೆ ಬಟ್ಟೆನ್ ಎಂಚ ಬಳಸೊಲಿ ಪನ್ಪಿನೆನ್ ಅಕುಲು ಅಲೆಗ್ ತೋಜಾಯೆರ್. ಅಲ್ ನಿರಾಳೊಡು ನಕ್ಕುದು ಮಲ್ಲ ಬಬಲ್ಗಮ್ ನ್ ಮತ್ತೆ ಎನ್ನಿಯೆರೆ ಬಲ್ಲಿ ಪಂದ್ ವಾಗ್ದಾನ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once, there was a small boy named Charlie. Charlie loved stories more than anything else. Charlie's mommy always said that stories were special and delicate.
+
+One day, Charlie's mommy said "Let's go to the store and get something special for dinner. Today, you can have whatever you want to eat!"
+
+Charlie was so excited! He wondered what he should pick. As they walked through the store, Charlie reached out and touched a strawberry. He asked his mommy, "What does this taste like?"
+
+His mommy replied, "Oh, it's very sweet! If you taste it, you'll love it!"
+
+Charlie was so excited! He couldn't wait to get home and have his special dinner.
+
+When they arrived home, Charlie couldn't believe his eyes. On the table was a plate full of fresh strawberries! He smiled and said, "Mommy, did you know strawberries were my favorite?"
+
+His mommy smiled and said, "I had a feeling you would like them! Go ahead and taste them, they are so delicate and sweet."
+
+Charlie picked one up, took a bite, and smiled. He had experienced the special and delightful taste of a strawberry. What a delicious dinner!"
+"tulu":"ಒಂಜಿ ಸರ್ತಿ, ಚಾರ್ಲಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಚಾರ್ಲಿಗ್ ಬೇತೆ ದಾಲೊಡ್ದ್ ಜಾಸ್ತಿ ಕತೆಕುಲು ಇಷ್ಟ ಆಂಡ್. ಚಾರ್ಲಿನ ಅಮ್ಮೆ ಯಾಪಲ ಪನ್ಪೆರ್ ಕತೆಕುಲು ವಿಶೇಷ ಬೊಕ್ಕ ಸೂಕ್ಷ್ಮವಾಯಿನವು.
+
+ಒಂಜಿ ದಿನ, ಚಾರ್ಲಿನ ಅಮ್ಮೆ ಪಂಡೆರ್ "ನಮ ಅಂಗಡಿಗ್ ಪೋದು ರಾತ್ರಿದ ಊಟೊಗು ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನ್ ದೆತೊನುಗ. ಇನಿ, ನಿಕುಲು ದಾದ ತಿನ್ಪೆರೆ ಬಯಕುವೆರ್ ಪಂಡ ಅವೆನ್ ದೆತೊನೊಲಿ!"
+
+ಚಾರ್ಲಿ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್! ಆರ್ ದಾದ ದೆತೊನೊಡು ಪಂದ್ ಆರ್ ಯೋಚನೆ ಮಲ್ತೆರ್. ಅಕುಲು ಅಂಗಡಿಡ್ ನಡತೊಂದು ಪೋನಗ, ಚಾರ್ಲಿ ಕೈ ಮುಗಿದ್ ಒಂಜಿ ಸ್ಟ್ರಾಬೆರಿನ್ ಮುಟ್ಟುವೆರ್. ಆರ್ ಅಮ್ಮೆರೆನ್ ಕೇಂಡೆರ್, "ಉಂದು ದಾದ ರುಚಿ ಉಂಡು?"
+
+ಅಯನ ಅಮ್ಮೆ ಉತ್ತರ ಕೊರ್ತೆರ್, "ಓಹ್, ಉಂದು ಮಸ್ತ್ ಸಿಹಿ! ಈರ್ ರುಚಿ ತೂಂಡ, ಈರ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಪುಂಡು!"
+
+ಚಾರ್ಲಿ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್! ಇಲ್ಲಗ್ ಪೋದು ಅರೆನ ವಿಶೇಷ ರಾತ್ರಿದ ಊಟೊನು ಮಲ್ಪೆರೆ ಅರೆಗ್ ತಡ ಆಯಿಜಿ.
+
+ಅಕುಲು ಇಲ್ಲಗ್ ಬನ್ನಗ, ಚಾರ್ಲಿ ತನ್ನ ಕಣ್ಣ್ ನ್ ನಂಬೆರೆ ಆಯಿಜಿ. ಮೇಜಿದ ಮಿತ್ತ್ ಒಂಜಿ ಪ್ಲೇಟ್ ಡ್ ತಾಜಾ ಸ್ಟ್ರಾಬೆರಿಲು ಇತ್ತ್ಂಡ್! ಆರ್ ನಕ್ಕುದು ಪಂಡೆರ್, "ಅಮ್ಮೆ, ಸ್ಟ್ರಾಬೆರಿ ಎಂಕ್ಲೆನ ಮೆಚ್ಚಿನವು ಪಂಡ್ದ್ ನಿಕ್ಲೆಗ್ ಗೊತ್ತುಂಡಾ?"
+
+ಅರೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್, "ಈರ್ ಅವೆನ್ ಇಷ್ಟ ಪಡ್ಪೆರ್ ಪನ್ಪಿನ ಭಾವನೆ ಎಂಕ್ ಉಂಡು! ದುಂಬು ಪೋದು ಅವೆನ್ ರುಚಿ ತೂಲೆ, ಅವು ಮಸ್ತ್ ಸೂಕ್ಷ್ಮ ಬೊಕ್ಕ ಸಿಹಿ ಆದುಂಡು."
+
+ಚಾರ್ಲಿ ಒಂಜಿನ್ ದೆತೊನುದು, ಒಂಜಿ ಕಚ್ಚುನು ದೆತೊನುವೆ, ಬೊಕ್ಕ ನಗುವೆ. ಒಂಜಿ ಸ್ಟ್ರಾಬೆರಿದ ವಿಶೇಷ ಬೊಕ್ಕ ಆನಂದದಾಯಕ ರುಚಿನ್ ಆರ್ ಅನುಭವಿಸಯೆರ್. ಎಂಚಿನ ರುಚಿಯಾದ್ ರಾತ್ರಿದ ಊಟ!"
+},
+
+
+{
+"english":"Once upon a time, there was a little girl named Cindy. Every day, Cindy would go to the store to get milk for her family. She loved the store and was always greeted by the friendly shopkeeper.
+
+One day when Cindy was at the store, she noticed something strange: the shelves were all empty! She asked the shopkeeper why the shelves were empty. "It's too hard for you to understand," the shopkeeper said.
+
+Cindy wasn't happy about this. But she had to trust the shopkeeper. So, she said goodbye and went home.
+
+When Cindy told her family the news they didn't recognize the problem. But then they noticed something even more strange: the milk was gone too!
+
+The family soon realized what had happened: the shopkeeper had been preparing for a snowstorm and had run out of milk. They were relieved that the shopkeeper had already taken care of the problem.
+
+Cindy was happy that she had recognized the problem. Next time, she would know that she shouldn't leave getting milk too late.
+Jack was feeling a bit sad. He wanted some wine but he didn't have any. He walked up to a store and asked the shopkeeper, "Do you have any wine?" The shopkeeper replied, "Yes, I have some"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಸಿಂಡಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಪ್ರತಿ ದಿನ, ಸಿಂಡಿ ಅಲೆನ ಕುಟುಂಬೊಗು ಹಾಲು ದೆತೊನುನಗ ಅಂಗಡಿಗ್ ಪೋವೊಂದಿತ್ತೆ. ಅಲೆಗ್ ಅಂಗಡಿ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್ ಬೊಕ್ಕ ಸ್ನೇಹಿ ಅಂಗಡಿದಾರೆ ಅಲೆನ್ ಯಾಪಲ ಸ್ವಾಗತ ಮಲ್ಪುವೆರ್.
+
+ಒಂಜಿ ದಿನ ಸಿಂಡಿ ಅಂಗಡಿಡ್ ಇತ್ತಿನಗ, ಅಲೆಗ್ ಒಂಜಿ ವಿಚಿತ್ರ ವಿಷಯ ತೋಜಿಂಡ್: ಶೆಲ್ಫ್ ಲು ಮಾತಾ ಖಾಲಿ ಇತ್ತ್ಂಡ್! ಕಪಾಟುಲು ದಾಯೆಗ್ ಖಾಲಿ ಉಂಡು ಪಂದ್ ಅಂಗಡಿದಾರೆನ್ ಕೇಂಡೆರ್. "ಈರ್ ಅರ್ಥ ಮಲ್ಪೆರೆ ಮಸ್ತ್ ಕಷ್ಟ," ಅಂಗಡಿದಾಯೆ ಪಂಡೆರ್.
+
+ಸಿಂಡಿಗ್ ಈ ಬಗ್ಗೆ ಸಂತೋಷ ಆಯಿಜಿ. ಆಂಡ ಅಲೆಗ್ ಅಂಗಡಿದಾರೆನ್ ನಂಬೊಡಾಪುಂಡು. ಅಂಚಾದ್, ಅಲ್ ಗುಡ್ ಬೈ ಪಂಡ್ದ್ ಇಲ್ಲಗ್ ಪೋಯೆರ್.
+
+ಸಿಂಡಿ ಅಲೆನ ಕುಟುಂಬೊಗು ಈ ಸುದ್ದಿನ್ ಪನ್ಪಿನಗ ಅಕುಲು ಸಮಸ್ಯೆನ್ ಗುರುತಿಸೊಂದಿಜ್ಜೆರ್. ಆಂಡ ಅಪಗ ಅಕುಲು ಒಂಜಿ ವಿಚಿತ್ರವಾದ್ ಒಂಜಿ ವಿಷಯನ್ ಗಮನಿಸಯೆರ್: ಹಾಲುಲಾ ಪೋತುಂಡು!
+
+ದಾದ ಆಂಡ್ ಪಂಡ್ದ್ ಕುಟುಂಬೊಗು ಬೇಗನೆ ಅರ್ಥ ಆಂಡ್: ಅಂಗಡಿದಕುಲು ಒಂಜಿ ಹಿಮಪಾತೊಗು ತಯಾರಾವೊಂದು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಹಾಲು ಮುಗಿಂಡ್. ಅಂಗಡಿದಕುಲು ದುಂಬೇ ಸಮಸ್ಯೆನ್ ತೂದು ತೂದು ನಿರಾಳ ಆಯೆರ್.
+
+ಸಿಂಡಿ ಸಮಸ್ಯೆನ್ ಗುರುತಿಸಯೆರ್ ಪನ್ಪಿನೆಕ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ದುಂಬುದ ಸರ್ತಿ, ಆಲ್ ಹಾಲು ದೆತೊನುನಗ ಮಸ್ತ್ ತಡ ಆವರೆ ಬಲ್ಲಿ ಪಂದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡು.
+ಜ್ಯಾಕ್ ಒಂತೆ ದುಃಖೊಡು ಇತ್ತೆರ್. ಅರೆಗ್ ಒಂತೆ ವೈನ್ ಬೋಡು ಇತ್ತ್ಂಡ್ ಆಂಡ ಅರೆಗ್ ಒವ್ವೆಲಾ ಇಜ್ಜಿ. ಆರ್ ಒಂಜಿ ಅಂಗಡಿಗ್ ಪೋದು ಅಂಗಡಿದಾರೆನ್ ಕೇಂಡೆರ್, "ನಿಕ್ಲೆಗ್ ವೈನ್ ಉಂಡಾ?" ಅಂಗಡಿದಾಯೆ ಜವಾಬ್ ಕೊರ್ಪೆ, "ಅಂದ್, ಎಂಕ್ ಒಂತೆ ಉಂಡು"
+},
+
+{
+"english":"Once upon a time, there was a little girl named Annie. She was only three years old but she was full of energy and liked to explore. One day, she was walking in the forest and came across a clearing. In the middle of the clearing was an arrow.
+Annie was nosy and wanted to take a closer look. She walked up to the arrow and suddenly a voice shouted at her from behind, â€œBe careful not to touch it!â€ Annie jumped back in fright and saw an old man.
+
+The old man said, â€œMy name is Wilbur and I was just minding my own business when I saw you walking towards the arrow. I was worried that you may get injured, so I shouted.â€
+Annie smiled and said, â€œThank you Wilbur, I will mind your advice."
+Wilbur smiled back and replied, â€œThatâ€™s very wise young lady. Now why donâ€™t we just run away and leave the arrow in peace?â€
+And so, Annie and Wilbur ran away. Annie learned that even if you are nosy, it is important to follow the advice of others and mind what you are doing."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಆನಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಇತ್ತೆರ್. ಅಲೆಗ್ ಕೇವಲ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯ ಆಂಡಲಾ ಅಲೆಗ್ ಶಕ್ತಿ ಉಂಡು ಬೊಕ್ಕ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲ್ ಕಾಡ್ಡ್ ನಡತೊಂದು ಪೋನಗ ಒಂಜಿ ಜಾಗೆನ್ ತೂಯೆರ್. ತೆರಿಪಾವುನ ಜಾಗೆದ ನಡುಟು ಒಂಜಿ ಬಾಣ ಉಂಡು.
+ಅನ್ನಿ ಮೂಂಕುದಕುಲು ಆದಿತ್ತೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಸುತ್ತು ತೂಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಅಲ್ ಬಾಣದ ಎದುರುಗು ನಡತೊಂದು ಪೋಯೆರ್ ಬೊಕ್ಕ ಅಕಸ್ಮಾತ್ ಒಂಜಿ ಸ್ವರ ಅಲೆನ್ ಪಿರವುಡ್ದ್ ಕಿರುಚಿಯೆರ್, â€œಅವೆನ್ ಸ್ಪರ್ಶ ಮಲ್ಪೆರೆ ಜಾಗ್ರತೆ ಮಲ್ಪುಲೆ!â€ ಅನ್ನಿ ಭಯೊಡು ಪಿರ ಜಂಪ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಒರಿ ಮಲ್ಲ ಮನುಷ್ಯನ್ ತೂಯೆರ್.
+
+ಆ ಮಲ್ಲ ಮನುಷ್ಯೆ ಪಂಡೆರ್, â€œಎನ್ನ ಪುದರ್ ವಿಲ್ಬರ್ ಬೊಕ್ಕ ಯಾನ್ ಎನ್ನ ಸ್ವಂತ ಕೆಲಸೊನು ಮಲ್ತೊಂದು ಇತ್ತಿನಗ ಯಾನ್ ನಿಕುಲೆನ್ ಬಾಣದ ಕಡೆಕ್ ನಡತೊಂದು ಪೋಪಿನ ತೂಯೆ. ಈರ್ ಗಾಯ ಆವೊಡು ಪಂದ್ ಎಂಕ್ ಚಿಂತೆ ಆಂಡ್, ಅಂಚಾದ್ ಎಂಕ್ ಕಿರುಚಿಯೆರ್.â€
+ಆನಿ ಮುಗುಳ್ನಗುದ್ ಪಂಡೆರ್, â€œವಿಲ್ಬರ್ ಗ್ ಧನ್ಯವಾದೊಲು, ನಿನ್ನ ಸಲಹೆನ್ ಯಾನ್ ಮನಸ್ ಮಲ್ಪುವೆ."
+ವಿಲ್ಬರ್ ಪಿರ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಉತ್ತರ ಕೊರ್ತೆರ್, â€œಅವು ಬಾರಿ ಬುದ್ಧಿವಂತ ಜವನ್ಯೆ. ಇತ್ತೆ ನಮ ದಾಯೆಗ್ ಪಿದಯಿ ಪೋದು ಬಾಣೊನು ಶಾಂತಿಡ್ ಬುಡ್ದು ಪೋವೊಂದಿಜ್ಜ?â€
+ಅಂಚಾದ್, ಆನಿ ಬೊಕ್ಕ ವಿಲ್ಬರ್ ಓಡಿ ಪೋಯೆರ್. ಈರ್ ಮೂಂಕುದಕುಲು ಆಂಡಲಾ, ಬೇತೆಕ್ಲೆನ ಸಲಹೆನ್ ಅನುಸರಿಸೊಡು ಬೊಕ್ಕ ಈರ್ ದಾದ ಮಲ್ತೊಂದುಲ್ಲರ್ ಪನ್ಪಿನೆನ್ ಗಮನೊಡು ದೀವೊಡು ಪನ್ಪಿನವು ಆನಿಗ್ ತೆರಿಂಡ್."
+},
+
+{
+"english":"Once upon a time, there was a little girl who loved fashion. She spent all of her time imagining what it would be like to have the perfect outfit for her. Every day, she would go searching for new clothes that she could wear.
+
+One day, she found the most perfect dress. It was her favourite colour, and it fit her perfectly. She was so excited, she decided to wear it that same day.
+
+When she got to school, all the other students crowded around to admire her dress. She was so proud and happy. She knew that it was the best choice she had ever made.
+
+But then her teacher told her she couldn't wear it. The dress was too fancy, too 'fit' for school. She felt so sad and embarrassed. Tears ran down her face, and she had to go home without her perfect dress.
+
+The little girl was never able to wear her dress again. She still remembers it with sadness. She never imagined it would end this way."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಫ್ಯಾಶನ್ ನ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಲೆಗ್ ಸರಿಯಾಯಿನ ಉಡುಪು ಇತ್ತ್ಂಡ ಎಂಚ ಉಪ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ಊಹಿಸೊಂದು ಅಲೆನ ಪೂರ ಸಮಯ ಕಳೆಯೆರ್. ಪ್ರತಿ ದಿನ, ಅಲ್ ತಾನ್ ಪಾಡುನ ಪೊಸ ಬಟ್ಟೆಲೆನ್ ತೂಯೆರೆ ಪೋವೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಅಲೆಗ್ ಅತ್ಯಂತ ಪರಿಪೂರ್ಣ ಉಡುಪು ತೋಜಿಂಡ್. ಅವು ಅಲೆನ ನೆಚ್ಚಿನ ಬಣ್ಣ ಆದಿತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅವು ಅಲೆಗ್ ಸರಿಯಾದ್ ಸರಿ ಆಂಡ್. ಅಲೆಗ್ ಮಸ್ತ್ ಉಲ್ಲಾಸ ಆಂಡ್, ಅಲೆನ್ ಅವ್ವೇ ದಿನ ಪಾಡೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಅಲ್ ಶಾಲೆಗ್ ಬನ್ನಗ, ಬೇತೆ ಮಾತಾ ವಿದ್ಯಾರ್ಥಿಲು ಅಲೆನ ಡ್ರೆಸ್ ನ್ ತೂಯೆರೆ ಒಟ್ಟು ಸೇರ್ದೆರ್. ಅಲೆಗ್ ಮಸ್ತ್ ಹೆಮ್ಮೆ ಬೊಕ್ಕ ಸಂತೋಷ ಇತ್ತ್ಂಡ್. ಅವು ಆಲ್ ಮಲ್ತಿನ ಎಡ್ಡೆ ಆಯ್ಕೆ ಪಂಡ್ದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್.
+
+ಆಂಡ ಅಪಗ ಅಲೆನ ಗುರುಕುಲು ಅಲೆಗ್ ಅವೆನ್ ಪಾಡೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ ಪಂಡೆರ್. ಆ ಉಡುಪು ಮಸ್ತ್ ಫ್ಯಾನ್ಸಿ ಆದಿತ್ತ್ಂಡ್, ಶಾಲೆಗ್ ಮಸ್ತ್ 'ಫಿಟ್' ಆದಿತ್ತ್ಂಡ್. ಅಲೆಗ್ ಮಸ್ತ್ ಬೇಜಾರು ಬೊಕ್ಕ ಮುಜುಗರ ಆಂಡ್. ಅಲೆನ ಮೋನೆಡ್ದ್ ಕಣ್ಣೀರ್ ಬತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಲೆನ ಪರಿಪೂರ್ಣ ಉಡುಪು ಇಜ್ಜಂದೆ ಇಲ್ಲಗ್ ಪೋವೊಡಾಂಡ್.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಅಲೆನ ಡ್ರೆಸ್ ನ್ ದುಂಬು ಪಾಡೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಅಲೆಗ್ ಇತ್ತೆಲಾ ದುಖೊಡು ನೆಂಪು ಉಂಡು. ಉಂದು ಈ ರೀತಿಡ್ ಮುಗಿಪುಂಡು ಪಂದ್ ಅಲೆಗ್ ಏಪಲಾ ಊಹಿಸಂದಿನಿ."
+},
+
+{
+"english":"Once there were two friends named Bob and Sam. They were playing together in the garden one day. Sam picked a flower and then pointed to a black bird in a tree.
+"What's that?" he asked Bob.
+
+Bob smiled and said, "That's a Crow. Listen, what sound does it make?"
+
+Suddenly, the crow made a loud sound that sounded like "Caw, Caw!"
+
+"That's a Caw," Bob smiled.
+
+Sam laughed and said, "I think I should pick a better word next time!"
+
+Bob smiled and nodded. "That's a good idea. We should always pick the right word to use when we talk to each other."
+
+The moral of the story is that it is important to choose the right words when you talk to your friends. Being thoughtful and using kind words can help keep friendships strong."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಬಾಬ್ ಬೊಕ್ಕ ಸ್ಯಾಮ್ ಪನ್ಪಿನ ರಡ್ಡ್ ಸ್ನೇಹಿತೆರ್ ಇತ್ತೆರ್. ಒಂಜಿ ದಿನ ಅಕುಲು ಒಟ್ಟುಗು ತೋಟೊಡು ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಸ್ಯಾಮ್ ಒಂಜಿ ಪೂನ್ ದೆತ್ತ್ ದ್ ಬೊಕ್ಕ ಒಂಜಿ ಮರಟ್ ಒಂಜಿ ಕಪ್ಪು ಪಕ್ಕಿನ್ ತೋಜಾಯೆರ್.
+"ಅವು ದಾದ?" ಆರ್ ಬಾಬ್ ನ್ ಕೇಂಡೆರ್.
+
+ಬಾಬ್ ನಕ್ಕುದು ಪಂಡೆರ್, "ಅವು ಒಂಜಿ ಕಾಗೆ. ಕೇನ್ಲೆ, ಉಂದು ದಾದ ಶಬ್ದ ಮಲ್ಪುಂಡು?"
+
+ಒಂಜಿ ಸಲ, ಕಾಗೆ "ಕಾ, ಕಾ!" ಪನ್ಪಿನಂಚಿನ ಒಂಜಿ ಜೋರುದ ಶಬ್ದ ಮಲ್ತ್ಂಡ್.
+
+"ಅವು ಒಂಜಿ ಕಾವು," ಬಾಬ್ ನಕ್ಕುವೆ.
+
+ಸ್ಯಾಮ್ ನಕ್ಕುದು ಪಂಡೆರ್, "ಮುಕ್ಲೆ ಸರ್ತಿ ಎಂಕ್ ಒಂಜಿ ಎಡ್ಡೆ ಶಬ್ದೊನು ಆಯ್ಕೆ ಮಲ್ಪೊಡು ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು!"
+
+ಬಾಬ್ ನಕ್ಕುದು ತರೆ ತಗ್ಗಾಯೆರ್. "ಉಂದು ಒಂಜಿ ಎಡ್ಡೆ ಐಡಿಯಾ. ನಮ ಒರಿ ಒರಿನಕ್ಲೆನೊಟ್ಟುಗು ಪಾತೆರುನಗ ನಮ ಯಾಪಲ ಸರಿಯಾಯಿನ ಶಬ್ದೊನು ಆಯ್ಕೆ ಮಲ್ಪೊಡು."
+
+ನಿಕ್ಲೆನ ಸ್ನೇಹಿತೆರೆಡ ಪಾತೆರುನಗ ಸರಿಯಾಯಿನ ಪದೊಕುಲೆನ್ ಆಯ್ಕೆ ಮಲ್ಪುನವು ಮುಖ್ಯ ಪನ್ಪಿನವು ಕತೆತ ನೈತಿಕತೆ. ಚಿಂತನೆ ಮಲ್ಪುನ ಬೊಕ್ಕ ಎಡ್ಡೆ ಪಾತೆರೊಲೆನ್ ಬಳಕೆ ಮಲ್ಪುನವು ಸ್ನೇಹೊನು ಗಟ್ಟಿಯಾದ್ ದೀಯೆರೆ ಸಹಾಯ ಮಲ್ಪುಂಡು."
+},
+
+{
+"english":"One night, two brave animals were walking through a dark forest. The first animal was a big, strong bear. The second animal was a small, alert owl.
+The owl said, "The trees are so dark here. I can barely see!"
+The bear said, "Don't be scared, little owl. I'm here with you."
+The owl said, "Thank you, bear. I feel safer with you here."
+Suddenly, they heard a loud noise. The bear started to tremble. He said, "Let's leave this place! Quickly!"
+The owl got alert and flapped its wings. Together, they ran through the forest until they emerged into the night sky, safe and sound.
+The bear hugged the owl and said, "We did it! We made it out of there together."
+The owl smiled and said, "Yes, we did."
+The two animals laughed happily. From then on, they were the best of friends."
+"tulu":"ಒಂಜಿ ರಾತ್ರೆ ರಡ್ಡ್ ಧೈರ್ಯಶಾಲಿ ಪ್ರಾಣಿಲು ಒಂಜಿ ಕತ್ತಲೆದ ಕಾಡ್ ಡ್ ನಡತೊಂದು ಇತ್ತೆರ್. ಸುರುತ ಪ್ರಾಣಿ ಒಂಜಿ ಮಲ್ಲ ಗಟ್ಟಿ ಕರಡಿ. ರಡ್ಡನೆ ಪ್ರಾಣಿ ಒಂಜಿ ಎಲ್ಯ, ಎಚ್ಚರೊಡು ಉಪ್ಪುನ ಗೂಬೆ.
+ಗೂಬೆ ಪಂಡೆ, "ಇಲ್ಲಡ್ ಮರಕುಲು ಮಸ್ತ್ ಕಪ್ಪು ಉಂಡು. ಎಂಕ್ ಕಷ್ಟೊಡು ತೋಜುಂಡು!"
+ಕರಡಿ ಪಂಡೆ, "ಭಯ ಪಡಂದೆ ಪುಟ್ಟ ಗೂಬೆ. ಯಾನ್ ನಿನ್ನೊಟ್ಟುಗು ಉಲ್ಲೆ."
+ಗೂಬೆ ಪಂಡೆ, "ಸೊಲ್ಮೆಲು, ಕರಡಿ. ಈರ್ನ ಒಟ್ಟುಗು ಎಂಕ್ ಸುರಕ್ಷಿತವಾದ್ ಅನಿಸೊಂದುಂಡು."
+ಅಕಸ್ಮಾತ್, ಅಕುಲು ಒಂಜಿ ಮಲ್ಲ ಶಬ್ದನ್ ಕೇಂಡೆರ್. ಕರಡಿ ನಡುಗೆರೆ ಸುರು ಆಂಡ್. ಆರ್ ಪಂಡೆರ್, "ಈ ಜಾಗೆನ್ ಬುಡ್ದು ಪೋವೊಡು! ಬೇಗ!"
+ಗೂಬೆ ಎಚ್ಚರ ಆದ್ ಅಯಿತ ರೆಕ್ಕೆಲೆನ್ ಫ್ಲಾಪ್ ಮಲ್ತ್ಂಡ್. ಒಟ್ಟುಗು, ಅಕುಲು ಸುರಕ್ಷಿತವಾದ್ ಬೊಕ್ಕ ಸೌಂಡ್ ಆದ್ ರಾತ್ರೆದ ಆಕಾಶೊಗು ಬರ್ಪಿನ ಮುಟ್ಟ ಕಾಡ್ ದ ನಡುಟು ಓಡಿಯೆರ್.
+ಕರಡಿ ಗೂಬೆನ್ ತಬ್ಬಿದ್ ಪಂಡೆ, "ನಮ ಮಲ್ತ! ನಮ ಒಟ್ಟುಗು ಅಲ್ಪಡ್ದ್ ಪಿದಯಿ ಬತ್ತ."
+ಗೂಬೆ ಮುಗುಳ್ನಗುದ್ ಪಂಡೆ, "ಆಂಡ್, ಎಂಕುಲು ಮಲ್ತುವ."
+ರಡ್ಡ್ ಪ್ರಾಣಿಲು ಸಂತೋಷೊಡು ನಕ್ಕುವೆರ್. ಅಪಗಡ್ದ್, ಅಕುಲು ಎಡ್ಡೆ ಸ್ನೇಹಿತೆರ್ ಆದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time there was a kitty who liked to play with a special brush. Each day, the kitty would lend the brush to a friend in the park. Every day, the kitty was so careless with the brush that it got lost.
+
+One day, the kitty was playing in the park when it saw its special brush with a rabbit. The kitty asked the rabbit if he could lend the brush.
+
+The rabbit said, "If you want the brush back, then you must be careful and not let it get lost again!" The kitty agreed and happily went off with the brush.
+
+The kitty was very careful with the brush from then on. In fact, the kitty was so careful that it never lost the brush again. Everyone in the park was happy to hear this and the kitty lived happily ever after."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಕಿಟ್ಟಿ ಇತ್ತ್ಂಡ್ ಅರೆಗ್ ಒಂಜಿ ವಿಶೇಷ ಬ್ರಷ್ ಡ್ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಆದಿತ್ತ್ಂಡ್. ಪ್ರತಿ ದಿನ, ಕಿಟ್ಟಿ ಉದ್ಯಾನವನೊಡು ಒರಿ ಸ್ನೇಹಿತೆಗ್ ಕುಂಚೊನು ಸಾಲ ಕೊರ್ಪುಂಡು. ಪ್ರತಿ ದಿನ, ಕಿಟ್ಟಿ ಕುಂಚೊಡು ಎಚ್ಚ ಅಜಾಗರೂಕತೆಡ್ ಇತ್ತಿನೆಡ್ದಾವರ ಅಯಿನ್ ಕಳೆವೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಕಿಟ್ಟಿ ಉದ್ಯಾನವನೊಡು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ ಒಂಜಿ ಮೊಲೊಟು ಅಯಿತ ವಿಶೇಷ ಬ್ರಷ್ ನ್ ತೂಯೆರ್. ಕಿಟ್ಟಿ ಮೊಲೊಗು ಕುಂಚೊನು ಸಾಲ ಕೊರ್ಪುಂಡಾ ಪಂದ್ ಕೇಂಡೆರ್.
+
+ಮೊಲ ಪಂಡೆ, "ಈರ್ ಕುಂಚೊನು ಪಿರ ಬಯಕುಂಡ, ಅಪಗ ಈರ್ ಜಾಗ್ರತೆ ಮಲ್ಪೊಡು ಬೊಕ್ಕ ಅಯಿನ್ ಮತ್ತೆ ಕಳೆವೊಂದಿಜ್ಜಿ!" ಕಿಟ್ಟಿ ಒಪ್ಪಿಗೆ ಕೊರ್ದು ಸಂತೋಷೊಡು ಬ್ರಷ್ ನ್ ದೆತೊಂದು ಪೋಯೆರ್.
+
+ಅಪಗಡ್ದ್ ಕಿಟ್ಟಿ ಕುಂಚೊಡು ಮಸ್ತ್ ಎಚ್ಚರೊಡು ಇತ್ತ್ಂಡ್. ವಾಸ್ತವೊಡು, ಕಿಟ್ಟಿ ಮಸ್ತ್ ಜಾಗ್ರತೆಡ್ ಇತ್ತ್ಂಡ್ ಅಂಚಾದ್ ಅಯಿಟ್ ಕುಂಚೊನು ಏಪಲಾ ಕಳೆವೊಂದಿಜ್ಜಿ. ಉದ್ಯಾನವನೊಡು ಉಪ್ಪುನ ಮಾತೆರ್ಲ ಉಂದೆನ್ ಕೇಂಡ್ದ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಕಿಟ್ಟಿ ಸುಖೊಡು ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once, there was a little girl named Ella. She was very excited, because today was a very special day.
+
+Ella grabbed her toys and her backpack. Then, she stepped out of her house and started walking.
+
+Ella followed the pathway until she reached a big, red stove in the middle of the forest. It was very unique! Ella looked around and saw nobody.
+
+Ella stepped closer to the stove and asked, "Who are you?".
+
+Suddenly, out of nowhere, Ella heard a voice. It was coming from the stove. It said, "I'm a magical stove! I can grant you three wishes!".
+
+Ella was baffled. But she was also excited about her wishes. She thought for a short moment and made her wishes.
+
+The magical stove granted all of Ella's wishes in an instant. Ella was so happy. She thanked the magical stove and stepped back, returning to her home.
+
+From that moment on, Ella was sure that her wishes would come true. She knew that she had met something very unique that day."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ, ಎಲ್ಲಾ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಆಲ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್, ದಾಯೆ ಪಂಡ ಇನಿ ಒಂಜಿ ವಿಶೇಷ ದಿನ.
+
+ಎಲ್ಲಾ ಅಲೆನ ಆಟಿಕೆಲೆನ್ ಬೊಕ್ಕ ಅಲೆನ ಬೆನ್ನಿದ ಚೀಲೊನು ಪತೊಂದು ಪೋಯೆರ್. ಅಪಗ, ಅಲ್ ಅಲೆನ ಇಲ್ಲಡ್ದ್ ಪಿದಯಿ ಬತ್ತ್ದ್ ನಡತೊಂದು ಪೋಯೆರ್.
+
+ಎಲ್ಲಾ ಕಾಡ್ ದ ನಡುಟು ಒಂಜಿ ಮಲ್ಲ, ಕೆಂಪು ಸ್ಟೌವ್ ಗ್ ಬರ್ಪಿನ ಮುಟ್ಟ ದಾರಿನ್ ಅನುಸರಿಸಯೆರ್. ಉಂದು ಮಸ್ತ್ ಅನನ್ಯ ಆದಿತ್ತ್ಂಡ್! ಎಲ್ಲಾ ಸುತ್ತಲೂ ತೂಯೆರ್ ಬೊಕ್ಕ ಏರ್ಲಾ ತೋಜಿಜೆರ್.
+
+ಎಲ್ಲಾ ಒಲೆತ ಎದುರುಗು ಬತ್ತ್ದ್ "ಈರ್ ಏರ್?" ಪಂದ್ ಕೇಂಡೆರ್.
+
+ಒಂಜಿ ಸಲ, ಎಲ್ಲಿಡ್ದ್ ಲಾ, ಎಲ್ಲಾಗ್ ಒಂಜಿ ಸ್ವರ ಕೇಂಡ್ಂಡ್. ಉಂದು ಸ್ಟೌವ್ ಡ್ದ್ ಬರ್ಪುಂಡು. ಅಯಿಟ್ ಪಂಡೆರ್, "ಯಾನ್ ಒಂಜಿ ಮಾಂತ್ರಿಕ ಸ್ಟೌವ್! ಯಾನ್ ನಿಕ್ಲೆಗ್ ಮೂಜಿ ಆಸೆಲೆನ್ ಮಲ್ಪುವೆ!".
+
+ಎಲ್ಲಾ ಗೊಂದಲೊಡು ಇತ್ತೆರ್. ಆಂಡ ಅಲೆನ ಆಸೆಲೆನ್ ತೂದು ಅಲ್ಲಾ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಅಲ್ಪ ಒಂಜಿ ಸಣ್ಣ ಕ್ಷಣ ಯೋಚನೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಲೆನ ಆಸೆಲೆನ್ ಮಲ್ತೆರ್.
+
+ಒಂಜಿ ಕ್ಷಣೊಡು ಎಲ್ಲಾ ಆಸೆಲೆನ್ ಮಾಂತ್ರಿಕ ಸ್ಟೌವ್ ಪೂರೈಸೊಂಡು. ಎಲ್ಲಾ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್. ಅಲ್ ಮಾಂತ್ರಿಕ ಸ್ಟೌವ್ ಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಕೊರ್ದು ಪಿರ ಪೋದು ಅಲೆನ ಇಲ್ಲಗ್ ವಾಪಸ್ ಬತ್ತೆರ್.
+
+ಆ ಕ್ಷಣೊಡ್ದ್ ಬೊಕ್ಕ, ಎಲ್ಲಾ ತನ್ನ ಆಸೆಲು ನಿಜ ಆಪುಂಡು ಪನ್ಪಿನೆಟ್ ಖಚಿತ್ ಆಯೆರ್. ಆ ದಿನ ಅಲೆಗ್ ಒಂಜಿ ಅನನ್ಯವಾಯಿನ ಒಂಜಿ ವಸ್ತುನ್ ತೂಯೆರ್ ಪಂದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್."
+},
+
+{
+"english":"Once upon a time, there was a caterpillar called Bill. He had 8 small legs and loved exploring in the garden.
+
+One day, Bill was walking around when he heard a noise in the bushes. Curious, he crept closer to take a look.
+
+Suddenly, a big, tough frog jumped out from the bushes. Bill was so scared, he blinked his eyes and scurried away.
+
+The frog bellowed "Where are you going? Don't be a scaredy-cat!"
+
+It made Bill feel better as he stopped and said shyly, "I'm sorry, I thought you were scary."
+
+The frog smiled and said, "There's nothing wrong with being scared, just always be brave and face your fear. Everyone gets scared sometimes."
+
+Bill smiled back, thanked the frog, and continued his adventure. He soon realized that sometimes, being brave and facing tough things can be quiet rewarding.
+
+From that day forth, Bill always remembered the frog's advice and faced his fear, no matter how tough it seemed."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಬಿಲ್ ಪನ್ಪುನ ಒಂಜಿ ಮರಿ ಇತ್ತ್‌ಂಡ್. ಅರೆಗ್ 8 ಎಲ್ಯ ಕಾರ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅರೆಗ್ ತೋಟೊಡು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಬಿಲ್ ನಡತೊಂದು ಪೋನಗ ಪೊದೆಟ್ ಒಂಜಿ ಶಬ್ದ ಕೇಂಡ್ಂಡ್. ಕುತೂಹಲೊಡು, ಒಂಜಿ ತೂಯೆರೆ ಆರ್ ಜೋರುಗು ಬತ್ತೆರ್.
+
+ಅಕಸ್ಮಾತ್, ಒಂಜಿ ಮಲ್ಲ, ಗಟ್ಟಿ ಕಪ್ಪೆ ಪೊದೆಕುಲೆಡ್ದ್ ಜಂಪ್ ಆಂಡ್. ಬಿಲ್ ಮಸ್ತ್ ಭಯೊಡು ಇತ್ತೆರ್, ಆರ್ ತನ್ನ ಕಣ್ಣ್ ನ್ ಮಿಚ್ಚಿದ್ ಪಿದಯಿ ಪೋಯೆರ್.
+
+ಕಪ್ಪೆ "ಈರ್ ಎಲ್ಲಿಗ್ ಪೋವೊಂದುಲ್ಲರ್? ಒಂಜಿ ಭಯಾನಕ-ಬೆಕ್ಕು ಆವಡ್!"
+
+ಬಿಲ್ ನಿಂತುದು ನಾಚಿಕೆಡ್ ಪಂಡೆರ್, "ಕ್ಷಮೆ ಮಲ್ಪುಲೆ, ಈರ್ ಭಯಾನಕ ಪಂಡ್ದ್ ಎಂಕ್ ಅನಿಸಿಕೆ ಆಂಡ್."
+
+ಕಪ್ಪೆ ಸ್ಮೈಲ್ ಮಲ್ತ್ ದ್ ಪಂಡೆ, "ಭಯೊಡು ಇಪ್ಪುನಗ ದಾಲ ತಪ್ಪು ಇಜ್ಜಿ, ಯಾಪಲ ಧೈರ್ಯೊಡು ಉಪ್ಪುಲೆ ಬೊಕ್ಕ ನಿನ್ನ ಭಯೊನು ಎದುರಿಸೊಡು. ಕೆಲವೊಂಜಿ ಸರ್ತಿ ಪ್ರತಿಯೊಬ್ಬಲಾ ಭಯೊಡು ಉಪ್ಪುವೆರ್."
+
+ಬಿಲ್ ಪಿರ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್, ಕಪ್ಪೆಗ್ ಧನ್ಯವಾದೊಲು ಪನ್ಪೆರ್, ಬೊಕ್ಕ ಅರೆನ ಸಾಹಸೊನು ಮುಂದುವರಿಸಯೆರ್. ಕೆಲವೊಂಜಿ ಸರ್ತಿ, ಧೈರ್ಯಶಾಲಿ ಆದ್ ಕಷ್ಟದ ವಿಷಯೊಲೆನ್ ಎದುರಿಸವುನವು ಶಾಂತವಾದ್ ಫಲದಾಯಕ ಆಪುಂಡು ಪನ್ಪಿನೆನ್ ಆರ್ ಬೇಗನೆ ಅರ್ಥ ಮಲ್ತೆರ್.
+
+ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಬಿಲ್ ಯಾಪಲ ಕಪ್ಪೆದ ಸಲಹೆನ್ ನೆಂಪು ಮಲ್ತೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಎಂಚ ಕಠಿಣ ಆಂಡಲಾ ಅರೆನ ಭಯೊನು ಎದುರಿಸೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a baby who wanted to pick something special. He went to a shop and saw an ancient case. He picked it up and looked inside. It was full of unbelievably shiny gems and jewels. He couldn't believe his eyes. He was so excited and he knew this case was perfect. He quickly picked it up and wrapped it up with a big red bow. He smiled and couldn't wait to show his mum and dad. He rushed home and when they saw the case they were so surprised. He was so proud and he knew this case was very special. He kept it on his shelf for all to see. Everyone was so amazed by the ancient case."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಬಾಲೆ ಏತೋ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನ್ ಆಯ್ಕೆ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೊಂದಿತ್ತೆ. ಆರ್ ಒಂಜಿ ಅಂಗಡಿಗ್ ಪೋದು ಒಂಜಿ ಪಿರಾಕ್ದ ಕೇಸ್ ನ್ ತೂಯೆರ್. ಆರ್ ಅವೆನ್ ಎತ್ತೊಂದು ಒಳಗ್ ತೂಯೆರ್. ಅಯಿಟ್ ನಂಬೆರೆ ಆವಂದಿನಂಚಿನ ಮಿಂಚುನ ರತ್ನೊಲು ಬೊಕ್ಕ ರತ್ನೊಲು ತುಂಬುದು ಇತ್ತ್ಂಡ್. ಆರ್ ತನ್ನ ಕಣ್ಣ್ ನ್ ನಂಬೆರೆ ಆಯಿಜಿ. ಆರ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಈ ಕೇಸ್ ಪರಿಪೂರ್ಣ ಪಂಡ್ದ್ ಆರ್ ತೆರಿನೆರ್. ಆರ್ ತ್ವರಿತವಾದ್ ಅವೆನ್ ಎತ್ತುವೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಮಲ್ಲ ಕೆಂಪು ಬಿಲ್ಲುಡ್ ಸುತ್ತುವೆರ್. ಆರ್ ನಕ್ಕುದು ಅರೆನ ಅಮ್ಮೆರ್ ಬೊಕ್ಕ ಅಪ್ಪೆನ್ ತೋಜಾವುನಗ ತಡೆಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಆರ್ ಇಲ್ಲಗ್ ಧಾವಿಸಯೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಕೇಸ್ ನ್ ತೂನಗ ಅಕುಲು ಮಸ್ತ್ ಆಶ್ಚರ್ಯಚಕಿತರಾಯೆರ್. ಆರ್ ಮಸ್ತ್ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್ ಬೊಕ್ಕ ಈ ಕೇಸ್ ಮಸ್ತ್ ವಿಶೇಷ ಪಂಡ್ದ್ ಆರ್ ತೆರಿನೆರ್. ಮಾತೆರ್ಲ ತೂಯೆರೆ ಅವೆನ್ ಅರೆನ ಶೆಲ್ಫ್ ಡ್ ದೀದ್ ದೀಯೆರ್. ಪ್ರಾಚೀನ ಪ್ರಕರಣೊಡ್ದ್ ಮಾತೆರ್ಲ ಮಸ್ತ್ ಆಶ್ಚರ್ಯಚಕಿತರಾಯೆರ್."
+},
+
+{
+"english":"Once there was a naughty little girl. She was very naughty and always misbehaving. One day she do something very naughty. She took her daddyâ€™s tie and put it in the dirt. It began to rot away in the soil.
+
+The little girl felt very bad about what sheâ€™d done, but it was too late. The tie was ruined and couldnâ€™t be fixed.
+
+The little girlâ€™s daddy was very sad. He had worked very hard to buy that tie, and now it was gone. The little girl knew she had done something wrong and she was sorry.
+
+The daddy gave the little girl a big, big hug and said it was alright. He said he still loved her and that she must never do such a naughty thing again.
+
+The little girl was very happy and promised to never do anything naughty again. And with that, the tie was forgotten and the little girl was happy once more.
+Jim was very frightened when he arrived at the barber's shop. It was his first time getting a haircut! He didn't want his mum to leave him alone with the strange man. "Don't worry," said the barber. He smiled and handed Jim a big lollipop. "I'll look after you and give you the best haircut ever." Jim's frown disappeared and he couldn't help but be excited. The barber put a cape around him, and the chair felt like a magic carpet ride. Soon, Jim felt his hair being trimmed, and the barber even gave him some funny glasses to look through. When Jim looked in the mirror, he saw the best haircut ever! He was so happy, he forgot all about being scared. Mum smiled when she saw Jim. She was so proud of him for sitting so still for such a long time. "Well done, my boy!" she said, giving him a big hug. Jim smiled and couldn't wait to show his friends his new haircut.
+One cold winter day, Tilly was outside helping in the garden. She grabbed a rake and started cleaning up the leaves on the ground."
+"tulu":""
+},
+ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ತುಟ್ಟೆದ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಅಲ್ ಬಾರಿ ತುಂಟೆ ಆದಿತ್ತೆರ್ ಬೊಕ್ಕ ಯಾಪಲ ಕೆಟ್ಟ ವರ್ತನೆ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ ಅಲ್ ಒಂಜಿ ಮಸ್ತ್ ಅಸಹ್ಯವಾಯಿನ ಕೆಲಸ ಮಲ್ಪುವೆ. ಅಲ್ ಅಲೆನ ಅಪ್ಪೆನ ಟೈನ್ ದೆತೊಂದು ಮಣ್ಣ್ ಡ್ ಪಾಡ್ಯೆರ್. ಉಂದು ಮಣ್ಣ್ ಡ್ ಕೊಳೆಯೆರೆ ಸುರು ಆಂಡ್.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ತಾನ್ ದಾದ ಮಲ್ತೆರ್ ಪನ್ಪಿನೆತ್ತ ಬಗ್ಗೆ ಮಸ್ತ್ ಕೆಟ್ಟ ಅನುಭವ ಆಂಡ್, ಆಂಡ ಮಸ್ತ್ ತಡ ಆಂಡ್. ಟೈ ಹಾಳಾತ್ಂಡ್ ಬೊಕ್ಕ ಅವೆನ್ ಸರಿ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆದ ಅಪ್ಪೆ ಮಸ್ತ್ ಬೇಜಾರ್ ಆಯೆರ್. ಆ ಟೈನ್ ಕೊಂಡುಕೊಳ್ಳೆರೆ ಆರ್ ಮಸ್ತ್ ಕಷ್ಟೊಡು ಬೇಲೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಇತ್ತೆ ಅವು ಪೋತುಂಡು. ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ತಾನ್ ದಾದನಾ ತಪ್ಪು ಮಲ್ತೊಂದುಲ್ಲೆ ಪಂದ್ ಗೊತ್ತುಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ಕ್ಷಮೆ ಆಂಡ್.
+
+ಅಪ್ಪೆ ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆನ್ ಮಲ್ಲ, ಮಲ್ಲ ತಬ್ಬಿದ್ ಕೊರ್ದು ಸರಿ ಪಂಡ್ದ್ ಪಂಡೆರ್. ಆರ್ ಅಲೆನ್ ಇತ್ತೆಲಾ ಪ್ರೀತಿ ಮಲ್ಪುವೆ ಪಂಡೆರ್ ಬೊಕ್ಕ ಅಲೆನ್ ಏಪಲಾ ಇಂಚಿನ ಒಂಜಿ ಅಸಹ್ಯೊನು ಮಲ್ಪೆರೆ ಬಲ್ಲಿ ಪಂಡ್ದ್ ಆರ್ ಪಂಡೆರ್.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಏಪಲಾ ಯಾವುಲಾ ಅಸಹ್ಯ ಮಲ್ಪೆರೆ ಬಲ್ಲಿ ಪಂದ್ ವಾಗ್ದಾನ ಮಲ್ತೆರ್. ಬೊಕ್ಕ ಅಯಿಟ್, ಟೈ ಮರೆತ್ಂಡ್ ಬೊಕ್ಕ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಮತ್ತೆ ಒಂಜಿ ಸರ್ತಿ ಸಂತೋಷೊಡು ಇತ್ತೆ.
+ಜಿಮ್ ಬಾರ್ಬರ್ ನ ಅಂಗಡಿಗ್ ಬನ್ನಗ ಮಸ್ತ್ ಭಯೊಡು ಇತ್ತೆ. ಉಂದು ಅರೆನ ಸುರುತ ಸರ್ತಿ ಕೇಶವಿನ್ಯಾಸ ಮಲ್ಪುನವು! ಅಯನ ಅಮ್ಮೆ ಅಯನ್ ಆ ಅಪರಿಚಿತ ಮನುಷ್ಯನೊಟ್ಟುಗು ಒಂಜೇ ಬುಡ್ದು ಪೋವೊಡು ಪಂದ್ ಅಯಗ್ ಇಷ್ಟ ಆಯಿಜಿ. "ಚಿಂತೆ ಮಲ್ಪುಜೆರ್," ಪಂಡೆರ್ ಬಾರ್ಬರ್. ಆರ್ ನಕ್ಕುದು ಜಿಮ್ ಗ್ ಒಂಜಿ ಮಲ್ಲ ಲಾಲಿಪಾಪ್ ನ್ ಕೊರ್ತೆರ್. "ಯಾನ್ ನಿನನ್ ತೂವೊಂದು ನಿಕ್ಕ್ ಎಡ್ಡೆ ಕೇಶವಿನ್ಯಾಸ ಕೊರ್ಪೆ." ಜಿಮ್ ನ ಮುಖ ಮುಖ ಕಣ್ಮರೆ ಆಂಡ್ ಬೊಕ್ಕ ಆರ್ ಉಲ್ಲಾಸೊಡು ಇಪ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಬಾರ್ಬರ್ ಅಯನ ಸುತ್ತ ಒಂಜಿ ಕೇಪ್ ಪಾಡ್ದೆರ್, ಬೊಕ್ಕ ಆ ಕುರ್ಚಿ ಒಂಜಿ ಮ್ಯಾಜಿಕ್ ಕಾರ್ಪೆಟ್ ರೈಡ್ ದಲೆಕ ಅನುಭವ ಆಂಡ್. ಶೀಘ್ರೊಡು, ಜಿಮ್ ಗ್ ತನ್ನ ಕೂದಲ್ನ್ ಕತ್ತರಿಸೊಂದುಲ್ಲೆರ್ ಪಂದ್ ಅನುಭವ ಆಂಡ್, ಬೊಕ್ಕ ಬಾರ್ಬರ್ ಅರೆಗ್ ಕೆಲವು ತಮಾಷೆದ ಕನ್ನಡಕೊಲೆನ್ ತೂಯೆರೆ ಕೊರ್ತೆರ್. ಜಿಮ್ ಕನ್ನಡಿಡ್ ತೂನಗ, ಅರೆಗ್ ಇತ್ತೆದ ಮುಟ್ಟದ ಎಡ್ಡೆ ಕೇಶವಿನ್ಯಾಸ ತೋಜಿಂಡ್! ಆರ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್, ಆರ್ ಭಯೊಡು ಇತ್ತಿನ ಬಗ್ಗೆ ಮಾತ ಮದತೆರ್. ಜಿಮ್ ನ್ ತೂನಗ ಅಮ್ಮೆ ನಕ್ಕುದು ಪೋಯೆರ್. ಮಸ್ತ್ ಸಮಯ ಮುಟ್ಟ ನಿಶ್ಚಲವಾದ್ ಕುಲ್ಲುನೆಕ್ ಅಲೆಗ್ ಅಯನ ಬಗ್ಗೆ ಮಸ್ತ್ ಹೆಮ್ಮೆ ಆಂಡ್. "ಎಡ್ಡೆ ಮಲ್ತರ್, ಎನ್ನ ಮಗೆ!" ಅಲ್ ಪಂಡೆರ್, ಅರೆಗ್ ಒಂಜಿ ಮಲ್ಲ ತಬ್ಬುನು ಕೊರ್ದು. ಜಿಮ್ ನಕ್ಕುದು ತನ್ನ ಸ್ನೇಹಿತೆರೆಗ್ ತನ್ನ ಪೊಸ ಕೇಶವಿನ್ಯಾಸೊನು ತೋಜಾವುನಗ ತಡೆಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+ಒಂಜಿ ಚಳಿಗಾಲದ ಚಳಿದ ದಿನೊಟು, ಟಿಲ್ಲಿ ಪಿದಯಿ ತೋಟೊಡು ಸಹಾಯ ಮಲ್ತೊಂದು ಇತ್ತೆರ್. ಅಲ್ ಒಂಜಿ ರೇಕ್ ನ್ ಪತೊಂದು ನೆಲಟ್ ಉಪ್ಪುನ ಎಲೆನ್ ಸ್ವಚ್ಛ ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್.
+{
+"english":"Once upon a time there was an adorable little rabbit. His mommy told him to rake the leaves in the garden. So he raked and raked but it was a lot of work and he got tired very quickly.
+
+His daddy saw him struggling and decided to help him. He took the rake and together they finished raking the garden in no time.
+
+After they finished, his daddy said to him, "Helping each other can make chores seem like less of a chore. It's so much nicer to do them together, isn't it?".
+
+The adorable little rabbit nodded and smiled in agreement. Then his mommy asked him to wipe the table and the two of them wiped it together.
+
+In the end, the little rabbit learned a valuable lesson: when you have big tasks ahead of you, it's okay to ask for help. Working together makes chores much easier!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಮುದ್ದುದ ಎಲ್ಯ ಮೊಲ ಇತ್ತ್ಂಡ್. ಅಯನ ಅಮ್ಮೆ ಅಯಗ್ ತೋಟೊಡು ಉಪ್ಪುನ ಎಲೆನ್ ಕಡ್ಪೆರೆ ಪಂಡೆರ್. ಅಂಚಾದ್ ಆರ್ ರಾಕ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ರಾಕ್ ಮಲ್ತೆರ್ ಆಂಡ ಉಂದು ಮಸ್ತ್ ಬೇಲೆ ಆಂಡ್ ಆರ್ ಬೇಗ ಬೇಗ ದಣಿಯೆರ್.
+
+ಅರೆನ ಅಪ್ಪೆ ಅರೆನ್ ಕಷ್ಟೊಡು ಉಪ್ಪುನ ತೂದು ಅರೆಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಆರ್ ರೇಕ್ ದೆತೊನುವೆರ್ ಬೊಕ್ಕ ಒಟ್ಟುಗು ಅಕುಲು ತೋಟೊನು ರೇಕ್ ಮಲ್ಪುನವು ಒಂಜಿ ಕ್ಷಣೊಡು ಮುಗಿತೆರ್.
+
+ಅಕುಲು ಮುಗಿದ್ ಬೊಕ್ಕ, ಅರೆನ ಅಪ್ಪೆ ಅರೆಗ್ ಪಂಡೆರ್, "ಒರಿ ಒರಿಗ್ ಸಹಾಯ ಮಲ್ಪುನವು ಕೆಲಸೊಲೆನ್ ಕಮ್ಮಿ ಕೆಲಸೊದಲೆಕ ತೋಜಾವುಂಡು. ಅವೆನ್ ಒಟ್ಟುಗು ಮಲ್ಪುನವು ಮಸ್ತ್ ಎಡ್ಡೆ, ಅತ್ತ್?".
+
+ಮುದ್ದುದ ಎಲ್ಯ ಮೊಲ ಒಪ್ಪಿಗೆಡ್ ತರೆ ತಗ್ಗಾದ್ ನಗುವೆ. ಅಪಗ ಅಯನ ಅಮ್ಮೆ ಅಯನ್ ಮೇಜಿನ್ ಒರೆಸೊಡು ಪಂಡೆರ್ ಬೊಕ್ಕ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಒಟ್ಟುಗು ಒರೆಸೊಂಡೆರ್.
+
+ಕಡೆಕ್, ಎಲ್ಯ ಮೊಲ ಒಂಜಿ ಅಮೂಲ್ಯವಾಯಿನ ಪಾಠನ್ ಕಲ್ಪುಂಡು: ನಿಕ್ಲೆನ ದುಂಬು ಮಲ್ಲ ಮಲ್ಲ ಕೆಲಸೊಲು ಉಪ್ಪುನಗ, ಸಹಾಯ ಕೇನುನವು ಸರಿ. ಒಟ್ಟುಗು ಬೇಲೆ ಮಲ್ಪುನವು ಕೆಲಸೊಲೆನ್ ಮಸ್ತ್ ಸುಲಭ ಮಲ್ಪುಂಡು!"
+},
+
+
+{
+"english":"Once upon a time there was a brother and sister who loved to play together. One day they went to the park and saw the most interesting mug. It was big, colourful and looked like it belonged to a magical creature. The brother was very tempted to steal it but the sister was obedient and wouldn't let him.
+
+The brother said "Come on, just take it! It'll be fun!"
+
+The sister replied firmly "No! That would be wrong, stealing is not allowed!"
+
+Eventually, the brother listened to his sister and put the mug back. Both of them were glad that they had been obedient and followed the rules. After that, they ran off and played their favourite game.
+
+The End."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಅಣ್ಣೆ ಅಕ್ಕ ಇತ್ತೆರ್ ಅಕ್ಲೆಗ್ ಒಟ್ಟುಗು ಗೊಬ್ಬುನ ಮಸ್ತ್ ಇಷ್ಟ. ಒಂಜಿ ದಿನ ಅಕುಲು ಪಾರ್ಕ್ ಗ್ ಪೋದು ಮಸ್ತ್ ಕುತೂಹಲಕಾರಿ ಮಗ್ ನ್ ತೂಯೆರ್. ಉಂದು ಮಲ್ಲ, ಬಣ್ಣ ಬಣ್ಣದ ಬೊಕ್ಕ ಒಂಜಿ ಮಾಂತ್ರಿಕ ಜೀವಿಗ್ ಸೇರ್ದಿನಲೆಕ ತೋಜುಂಡು. ಅಣ್ಣೆಗ್ ಅಯಿನ್ ಕಳ್ಳತನ ಮಲ್ಪೆರೆ ಮಸ್ತ್ ಪ್ರಲೋಭನೆ ಆಂಡ್ ಆಂಡ ಅಕ್ಕ ಆಜ್ಞಾಪಾಲಕೆ ಆದ್ ಅಯನ್ ಬುಡಂದೆ ಇತ್ತೆರ್.
+
+ಅಣ್ಣೆ ಪಂಡೆರ್ "ಬಲೆ, ದೆತೊನ್ಲೆ! ಮಸ್ತ್ ಮಜಾ ಆಪುಂಡು!"
+
+ಅಕ್ಕ ದೃಢವಾದ್ ಉತ್ತರ ಕೊರ್ಪೆ "ಇಜ್ಜಿ! ಅವು ತಪ್ಪು, ಕಳ್ಳತನ ಮಲ್ಪೆರೆ ಅನುಮತಿ ಇಜ್ಜಿ!"
+
+ಕಡೆಕ್, ಅಣ್ಣೆ ತನ್ನ ಅಕ್ಕನ ಪಾತೆರೊನು ಕೇನ್ದ್ ಮಗ್ ನ್ ಪಿರ ದೀಯೆರ್. ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ವಿಧೇಯರಾದ್ ನಿಯಮೊಲೆನ್ ಪಾಲನೆ ಮಲ್ತೆರ್ ಪನ್ಪಿನೆಕ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಅಯಿಡ್ದ್ ಬೊಕ್ಕ, ಅಕುಲು ಓಡೊಂದು ಪೋದು ಅಕ್ಲೆನ ನೆಚ್ಚಿನ ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಅಂತ್ಯ."
+},
+
+{
+"english":"Once upon a time, there was a tall fox who lived in the forest. She was very curious, and every day she liked to study the forest animals. One day, she asked a rabbit who was hopping by, "Do you know what I study every day?"
+
+The rabbit looked up and said, "No, I don't know, what do you study?".
+
+The fox replied, "I like to study the animals that live in the forest. I like to find out how they live and what they do."
+
+The rabbit said, "That sounds very interesting! I wish I could study too."
+
+The fox smiled and said, "You can. Just come with me tomorrow, and I will show you how to study the animals in the forest".
+
+The rabbit was very happy and the next day they both went off together to study the animals in the forest. They had lots of fun, and they both learnt a lot."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಕಾಡ್‍ಡ್ ಒಂಜಿ ಎತ್ತರದ ನರಿ ಇತ್ತ್‍ಂಡ್. ಅಲೆಗ್ ಮಸ್ತ್ ಕುತೂಹಲ ಇತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಪ್ರತಿ ದಿನಲಾ ಅಲೆಗ್ ಕಾಡ್ದ ಪ್ರಾಣಿಲೆನ್ ಅಧ್ಯಯನ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಅಲ್ಪ ಜಪ್ಪುದು ಬರ್ಪಿನ ಒಂಜಿ ಮೊಲನ್ ಕೇಂಡೆರ್, "ಯಾನ್ ಪ್ರತಿ ದಿನ ದಾದ ಅಧ್ಯಯನ ಮಲ್ಪುವೆ ಪಂದ್ ನಿಕ್ಕ್ ಗೊತ್ತುಂಡಾ?"
+
+ಮೊಲ ಮಿತ್ತ್ ತೂದು "ಇಜ್ಜಿ ಗೊತ್ತಿಜ್ಜಿ, ಈರ್ ದಾದ ಅಧ್ಯಯನ ಮಲ್ಪುವರ್?".
+
+ನರಿ ಉತ್ತರ ಕೊರ್ಪೆ "ಕಾಡ್ ಡ್ ಜೀವನ ಮಲ್ಪುನ ಪ್ರಾಣಿಲೆನ್ ಅಧ್ಯಯನ ಮಲ್ಪೆರೆ ಎಂಕ್ ಇಷ್ಟ. ಅವು ಎಂಚ ಜೀವನ ಮಲ್ಪುಂಡು, ದಾದ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ತೆರಿಯೊನೆರೆ ಎಂಕ್ ಇಷ್ಟ."
+
+ಮೊಲ ಪಂಡೆ, "ಉಂದು ಮಸ್ತ್ ಕುತೂಹಲಕಾರಿ! ಯಾನ್ ಲಾ ಅಧ್ಯಯನ ಮಲ್ಪೊಲಿ ಪಂದ್ ಎನ್ನ ಆಸೆ."
+
+ನರಿ ಮುಗುಳ್ನಗುದ್ ಪಂಡೆ, "ಈರ್ ಮಲ್ಪೊಲಿ. ನಾಳೆ ಎನ್ನೊಟ್ಟುಗು ಬಲೆ, ಬೊಕ್ಕ ಕಾಡ್ ಡ್ ಉಪ್ಪುನ ಪ್ರಾಣಿಲೆನ್ ಎಂಚ ಅಧ್ಯಯನ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆನ್ ಎಂಕ್ ತೋಜಾವೆ".
+
+ಮೊಲ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ದುಂಬುದ ದಿನ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಒಟ್ಟುಗು ಕಾಡ್ ಡ್ ಉಪ್ಪುನ ಪ್ರಾಣಿಲೆನ್ ಅಧ್ಯಯನ ಮಲ್ಪೆರೆ ಪೋಯೆರ್. ಅಕುಲು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಮಸ್ತ್ ಕಲ್ಪುವೆರ್."
+},
+
+{
+"english":"Once upon a time there was a modest lake in the middle of the forest. All the animals around were waiting to welcome a new visitor.
+
+One day, a little 3 year old girl arrived at the lake. The animals were so excited to see a human for the first time! The squirrel welcomed her with a friendly â€œhiâ€ and the deer said â€œhelloâ€. The little girl was so happy to meet the animals and she replied â€œhi! Itâ€™s so nice to meet you!â€
+
+The little girl roamed around the lake and animals went with her. She laughed and made so many friends. All the animals were so happy that she came to visit the modest lake.
+
+They spent a lovely day together playing and exploring the lake. In the end, they all said goodbye and the little girl said â€œThank you so much for welcoming me! I had so much fun!â€. And with that, she waved goodbye and continued her journey."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಕಾಡ್ದ ನಡುಟು ಒಂಜಿ ಸಾಧಾರಣ ಕೆರೆ ಇತ್ತ್ಂಡ್. ಸುತ್ತಮುತ್ತ ಉಪ್ಪುನ ಮಾತಾ ಪ್ರಾಣಿಲು ಪೊಸ ಸಂದರ್ಶಕೆರೆನ್ ಸ್ವಾಗತ ಮಲ್ಪೆರೆ ಕಾತೊಂದು ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಒಂಜಿ ಎಲ್ಯ 3 ವರ್ಷದ ಪೊಣ್ಣು ಕೆರೆತ ಬರಿಟ್ ಬತ್ತ್ಂಡ್. ಸುರುತ ಸರ್ತಿ ಒರಿ ನರಮಾನಿನ್ ತೂಯೆರೆ ಪ್ರಾಣಿಲು ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್! ಅಳಿಲು ಅಲೆನ್ ಒಂಜಿ ಸ್ನೇಹಿ â€œhiâ€ ಪಂಡ್ದ್ ಸ್ವಾಗತ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಜಿಂಕೆ â€œಹಲೋâ€ ಪಂಡ್ದ್ ಪಂಡೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಪ್ರಾಣಿಲೆನ್ ತೂದು ಮಸ್ತ್ ಖುಷಿ ಆಂಡ್ ಬೊಕ್ಕ ಅಲೆನ್ ಉತ್ತರ ಕೊರ್ಪೆ â€œಹಾಯ್! ನಿಕುಲೆನ್ ತೂಯೆರೆ ಮಸ್ತ್ ಎಡ್ಡೆ ಆಂಡ್!â€
+
+ಎಲ್ಯ ಪೊಣ್ಣು ಕೆರೆತ ಸುತ್ತ ಸುತ್ತಾಲೊಂದಿತ್ತೆ ಬೊಕ್ಕ ಪ್ರಾಣಿಲು ಅಲೆನೊಟ್ಟುಗು ಪೋಯೆರ್. ಅಲ್ ನಕ್ಕುದು ಮಸ್ತ್ ಸ್ನೇಹಿತೆರೆನ್ ಮಲ್ತೆರ್. ಮಾತಾ ಪ್ರಾಣಿಲು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತಿನೆಡ್ದಾವರ ಅಲ್ ಸಾಧಾರಣ ಕೆರೆನ್ ತೂಯೆರೆ ಬತ್ತೆರ್.
+
+ಅಕುಲು ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದು ಬೊಕ್ಕ ಕೆರೆನ್ ಅನ್ವೇಷಣೆ ಮಲ್ತೊಂದು ಒಂಜಿ ಪೊರ್ಲುದ ದಿನ ಕಳೆಯೆರ್. ಕಡೆಕ್, ಅಕುಲು ಮಾತೆರ್ಲ ವಿದಾಯ ಪಂಡೆರ್ ಬೊಕ್ಕ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಪಂಡೆರ್ â€œಎಂಕ್ ಸ್ವಾಗತ ಮಲ್ತಿನಕ್ಲೆಗ್ ಮಸ್ತ್ ಧನ್ಯವಾದೊಲು! ಎಂಕ್ ಮಸ್ತ್ ಮಜಾ ಆಂಡ್!â€. ಬೊಕ್ಕ ಅಯಿಟ್, ಅಲ್ ಗುಡ್ ಬೈ ಮಲ್ತ್ದ್ ಅಲೆನ ಯಾತ್ರೆನ್ ಮುಂದುವರಿಸಯೆರ್."
+},
+
+{
+"english":"One day, Jane and her daddy were at the park. Jane saw something very special - a big green tree with green powder around it. Jane walked closer to the tree and saw that the powder was made of tiny green pieces.
+
+"What is that Daddy?" Jane asked.
+
+"That's special powder, Jane," her daddy replied. "Let's gather some of it together and take it home with us."
+
+So Jane and her daddy started gathering the powder into a bucket. They filled the bucket up with the powder and started walking home.
+
+When they got home, Daddy asked Jane what she wanted to do with the green powder.
+
+"Let's make a special cake with it," she said.
+
+So, Jane and her daddy used the green powder to make a special cake. They cut it up and shared it between them. Jane smiled, as it was the yummiest cake she had ever tasted.
+
+The end.
+It was a sunny day and Jimmy was out playing in the park. As he ran around, he came across a mouse. He was excited to see it and noticed how flexible the little mouse was"
+"tulu":"ಒಂಜಿ ದಿನ, ಜೇನ್ ಬೊಕ್ಕ ಅಲೆನ ಅಪ್ಪೆ ಪಾರ್ಕ್ ಡ್ ಇತ್ತೆರ್. ಜೇನ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ಒಂಜಿ ವಸ್ತುನ್ ತೂಯೆರ್ - ಒಂಜಿ ಮಲ್ಲ ಪಚ್ಚೆ ಮರ ಅಯಿತ ಸುತ್ತಲ ಪಚ್ಚೆ ಪುಡಿ ಇತ್ತ್ಂಡ್. ಜೇನ್ ಮರತ ಎದುರುಗು ನಡತೊಂದು ಪೋಯೆರ್ ಬೊಕ್ಕ ಪುಡಿನ್ ಎಲ್ಯ ಎಲ್ಯ ಪಚ್ಚೆ ತುಂಡುಲೆಡ್ದ್ ಮಲ್ತೆರ್ ಪಂಡ್ದ್ ತೂಯೆರ್.
+
+"ಅವು ದಾದ ಅಪ್ಪೆ?" ಜೇನ್ ಕೇಂಡೆರ್.
+
+"ಅವು ವಿಶೇಷ ಪುಡಿ, ಜೇನ್," ಅಲೆನ ಅಪ್ಪೆ ಉತ್ತರ ಕೊರ್ತೆರ್. "ನಮ ಒಂತೆ ಒಟ್ಟುಗು ಒಟ್ಟು ಮಲ್ತ್ ದ್ ಎಂಕಲೆನೊಟ್ಟುಗು ಇಲ್ಲಗ್ ಲೆತೊಂದು ಪೋವೊಡು."
+
+ಅಂಚಾದ್ ಜೇನ್ ಬೊಕ್ಕ ಅಲೆನ ಅಪ್ಪೆ ಒಂಜಿ ಬಕೆಟ್ ಡ್ ಪುಡಿನ್ ಒಟ್ಟು ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅಕುಲು ಬಕೆಟ್ ನ್ ಪುಡಿಡ್ ತುಂಬುದು ಇಲ್ಲಗ್ ಪೋಯೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಅಕುಲು ಇಲ್ಲಗ್ ಬನ್ನಗ, ಅಪ್ಪೆ ಜೇನ್ ಗ್ ಪಚ್ಚೆ ಪುಡಿನ್ ದಾದ ಮಲ್ಪೊಡು ಪಂದ್ ಕೇಂಡೆರ್.
+
+"ಅಯಿಟ್ ಒಂಜಿ ವಿಶೇಷ ಕೇಕ್ ಮಲ್ಪುಗ," ಅಲೆ ಪಂಡೆರ್.
+
+ಅಂಚಾದ್, ಜೇನ್ ಬೊಕ್ಕ ಅಲೆನ ಅಪ್ಪೆ ಒಂಜಿ ವಿಶೇಷ ಕೇಕ್ ಮಲ್ಪರೆ ಹಸಿರು ಪುಡಿನ್ ಬಳಕೆ ಮಲ್ತೆರ್. ಅಕುಲು ಅವೆನ್ ಕಡ್ತ್ ದ್ ಅಕ್ಲೆನ ನಡುಟು ಪಾಲ್ ಮಲ್ತೆರ್. ಜೇನ್ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್, ದಾಯೆ ಪಂಡ ಅವು ಅಲೆಗ್ ರುಚಿ ತೂಯಿನ ಅತ್ಯಂತ ರುಚಿಯಾದ್ ಕೇಕ್ ಆದಿತ್ತ್ಂಡ್.
+
+ಅಂತ್ಯ.
+ಅವು ಒಂಜಿ ಬಿಸಿಲುದ ದಿನ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಜಿಮ್ಮಿ ಪಾರ್ಕ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆ. ಆರ್ ಓಡೊಂದು ಪೋನಗ, ಆರ್ ಒಂಜಿ ಮೌಸ್ ನ್ ತೂಯೆರ್. ಅವೆನ್ ತೂಯೆರೆ ಆರ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಆ ಎಲ್ಯ ಎಲಿ ಎಂಚ ಫ್ಲೆಕ್ಸಿಬಲ್ ಆದುಪ್ಪು ಪನ್ಪಿನೆನ್ ಗಮನಿಸಯೆರ್"
+},
+
+{
+"english":"Once, there were two friends who were playing in the yard. One was clumsy and the other wasn't.
+
+The clumsy one said, â€œLetâ€™s catch a bug!â€
+
+But the other one disagreed.
+
+The clumsy friend said, â€œWhy donâ€™t you want to catch a bug?â€
+
+The other friend said, â€œBugs can be scary. Letâ€™s play hide and seek instead.â€
+
+The clumsy one disagreed. â€œNo, letâ€™s catch a bug!â€
+
+Then, the two friends had an idea. They decided to play both games. First, they would catch a bug and then after, they would play hide and seek in the yard.
+
+They ran around the yard, chasing the bugs and having lots of fun. The clumsy one ran clumsily and the other one ran quicker and caught more bugs.
+
+The two friends laughed and played together until they were tired. They went home feeling happy and excited."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಅಂಗಳೊಡು ಗೊಬ್ಬುನ ರಡ್ಡ್ ಜನ ಸ್ನೇಹಿತೆರ್ ಇತ್ತೆರ್. ಒಂಜಿ ಕ್ಲಮ್ಸಿ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕೊಂಜಿ ಇಜ್ಜಿ.
+
+ಅಸಹ್ಯವಾಯಿನ ಒರಿ ಪಂಡೆರ್, â€œಒಂಜಿ ಬಗ್ ನ್ ಪತ್ತೆ ಮಲ್ಪುಗ!â€
+
+ಆಂಡ ಬೊಕ್ಕೊರಿ ಒಪ್ಪಿಜೆರ್.
+
+ಆ ಅಸಹ್ಯ ಸ್ನೇಹಿತೆರ್ ಪಂಡೆರ್, â€œಈರ್ ದಾಯೆಗ್ ಒಂಜಿ ಬಗ್ ನ್ ಪತ್ತೆರೆ ಬಯಕುಜರ್?â€
+
+ಬೊಕ್ಕದ ಸ್ನೇಹಿತೆ ಪಂಡೆರ್, â€œಬಗ್ಸ್ ಭಯಾನಕ ಆಪುಂಡು. ಬದಲಾದ್ ಗುಪ್ತಚರ ಆಟ ಆಡೊಡು.â€
+
+ಅಸಹ್ಯವಾಯಿನ ಒರಿ ಒಪ್ಪಿಜ್ಜೆರ್. â€œಇಜ್ಜಿ, ಒಂಜಿ ಬಗ್ ನ್ ಪತ್ತೆ ಮಲ್ಪುಗ!â€
+
+ಅಪಗ, ರಡ್ಡ್ ಜನ ಸ್ನೇಹಿತೆರೆಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಅಕುಲು ರಡ್ಡ್ ಆಟೊಲೆನ್ಲಾ ಆಡೊಡು ಪಂದ್ ನಿರ್ಧರಿಸಯೆರ್. ಸುರುಕು, ಅಕುಲು ಒಂಜಿ ಬಗ್ ನ್ ಪತ್ತುವೆರ್ ಬೊಕ್ಕ ಅಯಿಡ್ದ್ ಬೊಕ್ಕ, ಅಕುಲು ಅಂಗಳೊಡು ಮುಚ್ಚಿದ್ ತೂವೊಂದಿತ್ತೆರ್.
+
+ಅಕುಲು ಅಂಗಳೊಡು ಓಡೊಂದು, ಕೀಟೊಲೆನ್ ಬೆನ್ನತ್ತೊಂದು ಬೊಕ್ಕ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೊಂದು ಇತ್ತೆರ್. ಒಂಜಿ ಅಸಹ್ಯವಾದ್ ಒಂಜಿ ಅಸಹ್ಯವಾದ್ ಓಡೊಂದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕೊರಿ ಒಂಜಿ ತ್ವರಿತವಾದ್ ಓಡೊಂದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಜಾಸ್ತಿ ಬಗ್ ಲೆನ್ ಪತ್ತೆ ಮಲ್ತ್ಂಡ್.
+
+ರಡ್ಡ್ ಜನ ಸ್ನೇಹಿತೆರ್ ಸುಸ್ತು ಆಯಿನ ಮುಟ್ಟ ಒಟ್ಟುಗು ನಕ್ಕುದು ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಅಕುಲು ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಉಲ್ಲಾಸೊಡು ಇಲ್ಲಗ್ ಪೋಯೆರ್."
+},
+
+{
+"english":"One day, Little Bear and his Mommy went for a visit. She took him to a place he had never seen before. It was an icy place with lots of snow. As they walked around, Little Bear heard some music. It came from something his Mommy called a radio. It made Little Bear smile.
+
+When Little Bear asked his Mommy about it, she said it was called a radio and that it played music.
+
+Little Bear said, "Can I make music with it too?"
+
+Mommy said, "Yes, Little Bear, you can make your own music too. Let's try it together."
+
+So Little Bear and Mommy made music together with the radio. Little Bear was so happy. It was an amazing visit!"
+"tulu":"ಒಂಜಿ ದಿನ, ಲಿಟ್ಲ್ ಬೇರ್ ಬೊಕ್ಕ ಅರೆನ ಅಮ್ಮೆ ಒಂಜಿ ಭೇಟಿಗ್ ಪೋಯೆರ್. ಆರ್ ದುಂಬು ತೂದುಜಿನ ಜಾಗೆಗ್ ಅಲೆನ್ ಲೆತೊಂದು ಪೋಯೆರ್. ಉಂದು ಮಸ್ತ್ ಹಿಮ ಉಪ್ಪುನ ಒಂಜಿ ಐಸಿ ಜಾಗೆ ಆದಿತ್ತ್ಂಡ್. ಅಕುಲು ಸುತ್ತಾಲ ನಡತೊಂದು ಪೋನಗ, ಲಿಟ್ಲ್ ಬೇರ್ ಕೆಲವು ಸಂಗೀತ ಕೇಂಡೆರ್. ಉಂದು ಅರೆನ ಅಮ್ಮೆ ರೇಡಿಯೋ ಪನ್ಪಿನ ಒಂಜಿ ವಸ್ತುಡ್ದ್ ಬತ್ತ್ಂಡ್. ಉಂದು ಲಿಟ್ಲ್ ಬೇರ್ ನ್ ಸ್ಮೈಲ್ ಮಲ್ತ್ಂಡ್.
+
+ಲಿಟ್ಲ್ ಬೇರ್ ತನ್ನ ಅಮ್ಮೆರೆನ್ ಈ ಬಗ್ಗೆ ಕೇನ್ನಗ, ಅಮ್ಮೆರ್ ಅವೆನ್ ರೇಡಿಯೋ ಪನ್ಪೆರ್ ಬೊಕ್ಕ ಅಯಿಟ್ ಸಂಗೀತ ಪ್ಲೇ ಆಪುಂಡು ಪಂಡೆರ್.
+
+ಎಲ್ಯ ಕರಡಿ ಪಂಡೆರ್, "ಯಾನ್ ಲಾ ಅಯಿಟ್ ಸಂಗೀತ ಮಲ್ಪೊಲಿ?"
+
+ಅಮ್ಮೆ ಪಂಡೆರ್, "ಆಂಡ್, ಎಲ್ಯ ಕರಡಿ, ಈರ್ಲಾ ನಿಕ್ಲೆನ ಸ್ವಂತ ಸಂಗೀತನ್ ಮಲ್ಪೊಲಿ. ನಮ ಒಟ್ಟುಗು ಪ್ರಯತ್ನ ಮಲ್ಪುಗ."
+
+ಅಂಚಾದ್ ಲಿಟ್ಲ್ ಬೇರ್ ಬೊಕ್ಕ ಅಮ್ಮೆ ರೇಡಿಯೋದ ಒಟ್ಟುಗು ಸಂಗೀತ ಮಲ್ತೆರ್. ಎಲ್ಯ ಕರಡಿ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ. ಉಂದು ಒಂಜಿ ಅದ್ಭುತ ಭೇಟಿ ಆಂಡ್!"
+},
+
+{
+"english":"Once upon a time, a little girl named Nora wanted to explore nature. She went to a meadow filled with white flowers, and she picked one that was the prettiest. She smelled it, and it was so sweet.
+
+Then Nora saw a small bunny hopping in the grass. She giggled and smiled, and she softly called the bunny over to her. The bunny hopped closer and closer until it was right beside her. Nora was so happy, so she bent down and kissed the bunny on its nose.
+
+The bunny was very happy, so it hopped off into the meadow and found it's family. Nora smiled and looked out into the meadow, taking in all the whiteness and beauty of nature. It was so gorgeous, like a picture from a fairy tale.
+
+Nora kept playing until the sun started to go down. She thanked nature for this amazing day and kissed her hand and blew it towards the sky. And with that, Nora went home and went to bed, dreaming of all the wonderful things nature had to offer."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ನೋರಾ ಪನ್ಪಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಪ್ರಕೃತಿನ್ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಆಸೆ ಮಲ್ತೊಂದಿತ್ತೆ. ಅಲ್ ಬಿಳುಪುದ ಪೂಕುಲೆಡ್ ತುಂಬಿನ ಒಂಜಿ ಹುಲ್ಲುಗಾವಲುಗು ಪೋಯೆರ್, ಬೊಕ್ಕ ಅಲ್ ಒಂಜಿ ಪೊರ್ಲುದ ಪುಷ್ಪೊನು ಆಯ್ಕೆ ಮಲ್ತೆರ್. ಅಲೆಗ್ ವಾಸನೆ ಬತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಯಿನ್ ಮಸ್ತ್ ಸಿಹಿ ಆಂಡ್.
+
+ಅಪಗ ನೋರಾ ಒಂಜಿ ಎಲ್ಯ ಮೊಲೊನು ಹುಲ್ಲುಡು ಜಂಪ್ ಮಲ್ಪುನ ತೂಯೆರ್. ಅಲ್ ನಕ್ಕುವೆರ್ ಬೊಕ್ಕ ಸ್ಮೈಲ್ ಮಲ್ಪುವೆರ್, ಬೊಕ್ಕ ಅಲ್ ಮೃದುವಾದ್ ಬನ್ನಿನ್ ಅಲೆನ ಬರಿಟ್ ಲೆಪ್ಪುವೆರ್. ಮೊಲ ಅಲೆನ ಬರಿಟ್ ಬರ್ಪಿನೆಟ್ಟ ಮುಟ್ಟ ಜಾಸ್ತಿ ಜೋರುಡು ಜಿಗಿಯೊಂದಿತ್ತ್ಂಡ್. ನೋರಾ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್, ಅಂಚಾದ್ ಅಲೆನ್ ಬಗ್ಗಾದ್ ಮೊಲದ ಮೂಂಕುಡ್ ಮುದ್ದು ಮಲ್ತೆರ್.
+
+ಮೊಲ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತ್ಂಡ್, ಅಂಚಾದ್ ಅಯಿನ್ ಹುಲ್ಲುಗಾವಲುಗು ಜಪ್ಪುದು ಅಯಿತ ಕುಟುಂಬೊನು ತೂಯೆರ್. ನೋರಾ ನಕ್ಕುದು ಹುಲ್ಲುಗಾವಲುಗು ತೂಯೆರ್, ಪ್ರಕೃತಿದ ಮಾತಾ ಬಿಳುಪು ಬೊಕ್ಕ ಸೌಂದರ್ಯೊನು ತೂದು. ಒಂಜಿ ಕಾಲ್ಪನಿಕ ಕತೆತ ಚಿತ್ರದಲೆಕ ಉಂದು ಮಸ್ತ್ ಪೊರ್ಲು ಇತ್ತ್ಂಡ್.
+
+ಸೂರ್ಯ ಮುಳುಗುನ ಮುಟ್ಟ ನೋರಾ ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಈ ಅದ್ಭುತ ದಿನೊಗು ಪ್ರಕೃತಿಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಕೊರ್ದು ಅಲೆನ ಕೈನ್ ಮುಟ್ಟುದು ಆಕಾಶೊಗು ಊದಿಯೆರ್. ಬೊಕ್ಕ ಅಯಿಟ್, ನೋರಾ ಇಲ್ಲಗ್ ಪೋದು ನಿದ್ರೆಗ್ ಪೋಯೆರ್, ಪ್ರಕೃತಿ ಕೊರ್ಪಿನ ಮಾತಾ ಅದ್ಭುತ ವಸ್ತುಲೆನ್ ಕನಸ್ ಮಲ್ತೊಂದು."
+},
+
+{
+"english":"Once upon a time, there lived a lively young reindeer in the North pole. He was always so excited about the snow and he loved playing out in the cold! One day, he decided to go off into the snow and explore.
+
+So off he went, exploring the snow and having fun. But suddenly he noticed something he hadn't seen before - a big, deep hole in the snow. He went over to have a look and noticed it was full of ice.
+
+Just then, his mother noticed what was happening and called out to him. She warned him to stay away from the hole and said, "Don't go too close! The ice is too cold for a reindeer like you!"
+
+The young reindeer listened carefully and promised to stay away from the deep and chilly hole. He thanked his mother for her warning and promised to be more careful from then on.
+
+The lively reindeer was much more cautious and kept a safe distance from the deep, icy hole. He kept a smile on his face and continued exploring the snow.
+
+The end."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಉತ್ತರ ಧ್ರುವೊಡು ಒಂಜಿ ಜೀವಂತ ಜವನೆರ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಆರ್ ಯಾಪಲ ಹಿಮದ ಬಗ್ಗೆ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಆರ್ ಶೀತೊಡು ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್! ಒಂಜಿ ದಿನ, ಆರ್ ಹಿಮೊಟು ಪೋದು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಅಂಚಾದ್ ಆರ್ ಪೋಯೆರ್, ಹಿಮೊನು ಅನ್ವೇಷಣೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ತೆರ್. ಆಂಡ ಅಕಸ್ಮಾತ್ ಆರ್ ದುಂಬು ತೂದುಜಿನ ಒಂಜಿ ವಿಷಯೊನು ತೂಯೆರ್ - ಹಿಮೊಟು ಒಂಜಿ ಮಲ್ಲ, ಆಳೊದ ರಂದ್ರ. ಒಂಜಿ ತೂಯೆರೆ ಆರ್ ಪೋಯೆರ್ ಬೊಕ್ಕ ಅವು ಐಸ್ ಡ್ ತುಂಬಿದ್ ಉಪ್ಪುನವು ತೆರಿಂಡ್.
+
+ಅಪಗನೇ, ಅರೆನ ಅಮ್ಮೆ ದಾದ ಆಪುಂಡು ಪನ್ಪಿನೆನ್ ಗಮನಿಸಯೆರ್ ಬೊಕ್ಕ ಅರೆನ್ ಲೆಪ್ಪುವೆರ್. ಅಲೆನ್ ಗುಂಡಿಡ್ದ್ ದೂರ ಉಪ್ಪೆರೆ ಎಚ್ಚರಿಕೆ ಕೊರ್ದು ಪಂಡೆರ್, "ಮಸ್ತ್ ಸುತ್ತ ಪೋವೊಡ್ಚಿ! ನಿನ್ನಲೆಕನೆ ಒಂಜಿ ಹಿಮಸಾರಂಗೊಗು ಐಸ್ ಮಸ್ತ್ ತಂಪು ಉಂಡು!"
+
+ಎಲ್ಯ ಹಿಮಸಾರಂಗ ಎಚ್ಚರೊಡು ಕೇನ್ದ್ ಆಳೊದ ಬೊಕ್ಕ ಚಳಿದ ಗುಂಡಿಡ್ದ್ ದೂರ ಉಪ್ಪೆರೆ ವಾಗ್ದಾನ ಮಲ್ತೆರ್. ಅರೆನ ಅಮ್ಮೆರೆಗ್ ಅಲೆನ ಎಚ್ಚರಿಕೆಗ್ ಸೊಲ್ಮೆಲು ಪನ್ಪೆರ್ ಬೊಕ್ಕ ಅಯಿಡ್ದ್ ಬೊಕ್ಕ ಜಾಗ್ರತೆಡ್ ಉಪ್ಪೊಡು ಪಂದ್ ವಾಗ್ದಾನ ಮಲ್ತೆರ್.
+
+ಜೀವಂತ ಹಿಮಸಾರಂಗ ಮಸ್ತ್ ಜಾಗ್ರತೆಡ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಆಳೊದ, ಹಿಮದ ರಂದ್ರೊಡ್ದ್ ಸುರಕ್ಷಿತ ದೂರೊಡು ಇತ್ತ್ಂಡ್. ಆರ್ ತನ್ನ ಮೋನೆಡ್ ಒಂಜಿ ನಗುನ್ ದೀದ್ ಹಿಮೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಅಂತ್ಯ."
+},
+
+{
+"english":"Once upon a time, there lived a little girl called Lucy. One day, Lucy was feeling very sad. She wanted to fly away so she could be happy but she was too young.
+
+Then, a bright flame appeared in the sky. She was scared at first, but then she saw that the flame was made of magic.
+
+Lucy asked the flame, "Can you let me fly away so I can be happy again?"
+
+The flame answered, "Yes, I can permit you to fly away but first you must promise to take care of your family."
+
+Lucy smiled and said, "I will certainly take care of them. Please let me fly away!"
+
+The flame permitted Lucy to spread her arms and fly away into the night. She felt happy, free and no longer sad. Lucy waved goodbye to the flame and continued with her adventures."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಲೂಸಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ, ಲೂಸಿಗ್ ಮಸ್ತ್ ಬೇಜಾರು ಆಂಡ್. ಅಲ್ ಖುಷಿಟ್ ಉಪ್ಪೆರೆ ಅಲ್ ಪೋಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್ ಆಂಡ ಅಲ್ ಮಸ್ತ್ ಎಲ್ಯ ಆದಿತ್ತೆರ್.
+
+ಅಪಗ, ಆಕಾಶೊಡು ಒಂಜಿ ಬೊಲ್ಪುದ ಜ್ವಾಲೆ ತೋಜಿಂಡ್. ಸುರುಟು ಅಲೆಗ್ ಭಯ ಆಂಡ್, ಆಂಡ ಅಲೆಗ್ ಆ ಜ್ವಾಲೆ ಮಾಯೊಡು ಮಲ್ಪುನವು ತೋಜಿಂಡ್.
+
+ಲೂಸಿ ಜ್ವಾಲೆನ್ ಕೇಂಡೆರ್, "ಯಾನ್ ಪುನರ್ ಸಂತೋಷೊಡು ಉಪ್ಪೆರೆ ಎಂಕ್ ಪಿದಯಿ ಪೋಯೆರೆ ಬುಡೊಲಿಯಾ?"
+
+ಜ್ವಾಲೆ ಉತ್ತರ ಕೊರ್ತುಂಡು, "ಆಂಡ್, ಯಾನ್ ನಿಕ್ಕ್ ಪೋಯೆರೆ ಅನುಮತಿ ಕೊರ್ಪೆ ಆಂಡ ಸುರುಕು ನಿಕ್ಕ್ ನಿಕ್ಲೆನ ಕುಟುಂಬೊನು ತೂವೊಡು ಪಂದ್ ವಾಗ್ದಾನ ಮಲ್ಪೊಡು."
+
+ಲೂಸಿ ನಕ್ಕುದು ಪಂಡೆರ್, "ಯಾನ್ ಅವೆನ್ ಖಂಡಿತವಾದ್ ತೂವೊನುವೆ. ದಯಮಲ್ತ್ ಎಂಕ್ ಪಿದಯಿ ಪೋಯೆರೆ ಬುಡ್ಲೆ!"
+
+ಜ್ವಾಲೆ ಲೂಸಿಗ್ ಅಲೆನ ಕೈನ್ ಪಾಡ್ದ್ ರಾತ್ರೆಗ್ ಪೋಯೆರೆ ಅನುವು ಮಲ್ತ್ಂಡ್. ಅಲೆಗ್ ಸಂತೋಷ, ಸ್ವತಂತ್ರ ಬೊಕ್ಕ ದುಖಃ ಇಜ್ಜಿ ಪಂದ್ ಅನಿಸಿಕೆ ಆಂಡ್. ಲೂಸಿ ಜ್ವಾಲೆಗ್ ಗುಡ್ ಬೈ ಮಲ್ತ್ದ್ ಅಲೆನ ಸಾಹಸೊಲೆನ್ ಮುಂದುವರಿಸಯೆರ್."
+},
+
+{
+"english":"Once upon a time there was a brave warrior who lived far away in the forest.
+
+One day the warrior sailed away to explore the world on a small boat. They sailed around for hours and hours, eventually coming to a new land.
+
+The warrior was curious so they jumped off the boat and started to explore. But it was uncomfortable, so the warrior decided to go back to the boat.
+
+In their hurry to get back, the warrior called out, â€œQuick! Quick!â€. It was then that a friendly bird flew over. The warrior smiled and asked the bird, â€œDo you know a faster way to sail?â€
+
+The bird replied, â€œOf course! Follow me, I'll show you!â€ The warrior quickly hopped on the boat and followed the bird.
+
+The bird showed the warrior how to make the boat sail faster and soon the warrior was on their way. The breeze was gentle and the warrior felt comfortable once again.
+
+The warrior thanked the bird for showing them the way and sailed away, never to forget the bird's kindness."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ದೂರದ ಕಾಡುಡ್ ನೆಲೆಯಾದಿತ್ತಿನ ಒರಿ ಧೀರ ಯೋಧೆ ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ ಯೋಧೆ ಒಂಜಿ ಎಲ್ಯ ದೋಣಿಡ್ ಲೋಕೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಪೋಯೆರ್. ಅಕುಲು ಗಂಟೆಗಟ್ಟಲೆ ನೌಕಾಯಾನ ಮಲ್ತೆರ್, ಅಂಚನೆ ಒಂಜಿ ಪೊಸ ಭೂಮಿಗ್ ಬತ್ತೆರ್.
+
+ಯೋಧೆಗ್ ಕುತೂಹಲ ಇತ್ತ್ಂಡ್ ಅಂಚಾದ್ ಅಕುಲು ದೋಣಿಡ್ದ್ ಜಂಪ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ ಅಯಿಕ್ ಅನಾನುಕೂಲ ಆಂಡ್, ಅಂಚಾದ್ ಯೋಧೆ ಪಿರ ದೋಣಿಗ್ ಪೋಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಪಿರ ಬರೊಡಾಂಡ ಅಕ್ಲೆನ ಅವಸರೊಡು, ಯೋಧೆ ಲೆಪ್ಪುವೆ, â€œಬೇಗ! ತ್ವರಿತ!â€. ಅಪಗನೇ ಒಂಜಿ ಸ್ನೇಹಿ ಪಕ್ಕಿ ಪಾರ್ಂಡ್. ಯೋಧೆ ನಗುದು ಪಕ್ಕಿನ್ ಕೇಂಡೆರ್, â€œನಿಕ್ಲೆಗ್ ನೌಕಾಯಾನ ಮಲ್ಪುನ ವೇಗದ ಮಾರ್ಗ ಗೊತ್ತುಂಡಾ?â€
+
+ಪಕ್ಕಿ ಉತ್ತರ ಕೊರ್ತುಂಡು, â€œಖಂಡಿತಾ! ಎಂಕ್ಲೆನ ಪಿರವು ಬಲೆ, ಎಂಕ್ ತೋಜಾವೆ!â€ ಯೋಧೆ ತ್ವರಿತವಾದ್ ದೋಣಿಡ್ ಜಪ್ಪುದು ಪಕ್ಕಿನ್ ಅನುಸರಿಸಯೆರ್.
+
+ಪಕ್ಕಿ ಯೋಧಗ್ ದೋಣಿನ್ ಎಂಚ ವೇಗೊಡು ನಡಪಾಯೆರೆ ಪಂಡ್ದ್ ತೋಜಾಂಡ್ ಬೊಕ್ಕ ಶೀಘ್ರೊಡು ಯೋಧ ಅಕ್ಲೆನ ದಾರಿಗ್ ಪೋಯೆರ್. ಗಾಳಿ ಮೃದುವಾದ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಯೋಧೆಗ್ ಮತ್ತೆ ಒಂಜಿ ಸರ್ತಿ ಆರಾಮ ಆಂಡ್.
+
+ಯೋಧೆ ಪಕ್ಕಿಗ್ ದಾರಿ ತೋಜಾದ್ ಧನ್ಯವಾದೊಲೆನ್ ಕೊರ್ದು ಪೋಯೆರ್, ಪಕ್ಕಿದ ದಯೆನ್ ಎನ್ನಿಯೆರೆ ಬಲ್ಲಿ."
+},
+
+{
+"english":"Once upon a time, there lived a little girl. She loved going outside to play in the sun. One day, the sun was shining so brightly and everything was so warm.
+
+The little girl excitedly started to run around. She ran so fast she got dizzy, then fell to the ground.
+
+But then, to her surprise, she felt something cold. She looked down and saw the ground was covered in snow. The little girl gasped.
+
+She quickly ran to her mom and said, "Mommy, there's snow outside! Can we go play?"
+
+Her mom chuckled and said, "Yes, but we have to grab a sack first."
+
+So they went outside and gathered up the snow in a sack. The little girl was so excited that she twirled around and around, making a mini snow storm.
+
+They took the sack home and put it near the fireplace. The little girl wanted to play with the snow all day, and her mom said she could do just that.
+
+So the little girl spent the day playing with the snow until the sack was empty. It was cold but still so much fun!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಬದುಕುದು ಇತ್ತೆರ್. ಸೂರ್ಯನ ಮಿತ್ತ್ ಆಟ ಆಡೆರೆ ಅಲೆಗ್ ಪಿದಯಿ ಪೋಯೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಸೂರ್ಯೆ ಮಸ್ತ್ ಬೊಲ್ಪು ಮಿಂಚೊಂದು ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಎಲ್ಲಾ ಮಸ್ತ್ ಬೆಚ್ಚ ಇತ್ತ್ಂಡ್.
+
+ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಉಲ್ಲಾಸೊಡು ಓಡೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅಲ್ ಮಸ್ತ್ ವೇಗೊಡು ಓಡಿಯೆರ್ ಅಲೆಗ್ ತಲೆ ಸುತ್ತುದು, ಬೊಕ್ಕ ನೆಲಕ್ ಬೂರ್ದು ಪೋಯೆರ್.
+
+ಆಂಡ ಅಪಗ, ಅಲೆಗ್ ಆಶ್ಚರ್ಯ ಆಂಡ್, ಅಲೆಗ್ ಒಂಜಿ ತಂಪುದ ಅನುಭವ ಆಂಡ್. ಅಲ್ ಕೆಳಗ್ ತೂದು ನೆಲ ಹಿಮೊಡು ಮುಚ್ಚಿದ್ ಉಪ್ಪುನವು ತೂಯೆರ್. ಎಲ್ಯ ಪೊಣ್ಣು ಉಸಿರಾಡೊಂದಿತ್ತ್ಂಡ್.
+
+ಅಲ್ ಬೇಗನೆ ಅಲೆನ ಅಮ್ಮೆರೆನ ಎದುರುಗು ಓಡೊಂದು ಪಂಡೆರ್, "ಅಮ್ಮೆ, ಪಿದಯಿ ಹಿಮ ಉಂಡು! ನಮ ಆಟ ಆಡೊಲಿ?"
+
+ಅಲೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್, "ಆಂಡ್, ಆಂಡ ನಮ ದುಂಬು ಒಂಜಿ ಚೀಲೊನು ದೆತೊನೊಡು."
+
+ಅಂಚಾದ್ ಅಕುಲು ಪಿದಯಿ ಪೋದು ಒಂಜಿ ಚೀಲೊಡು ಹಿಮೊನು ಒಟ್ಟು ಮಲ್ತೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತಿನೆಡ್ದಾವರ ಅಲೆನ್ ಸುತ್ತ ಸುತ್ತ ಸುತ್ತುವೆರ್, ಒಂಜಿ ಮಿನಿ ಸ್ನೋ ಸ್ಟಾರ್ಮ್ ಮಲ್ಪುವೆರ್.
+
+ಅಕುಲು ಚೀಲೊನು ಇಲ್ಲಗ್ ಲೆತೊಂದು ಪೋದು ಅಗ್ಗಿಸ್ ದ ಎದುರುಡು ದೀಯೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ದಿನೊಲ ಹಿಮೊಟು ಆಟ ಆಡೊಡಾಪುಂಡು, ಬೊಕ್ಕ ಅಲೆನ ಅಮ್ಮೆ ಅಲೆಗ್ ಅಯಿನ್ ಮಲ್ಪೊಲಿ ಪಂಡೆರ್.
+
+ಅಂಚಾದ್ ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಚೀಲ ಖಾಲಿ ಆಯಿನ ಮುಟ್ಟ ಹಿಮೊಟು ಆಟ ಆಡೊಂದು ದಿನ ಕಳೆವೊಂದಿತ್ತೆ. ಚಳಿ ಇತ್ತ್ಂಡ್ ಆಂಡಲಾ ಮಸ್ತ್ ಮಜಾ ಇತ್ತ್ಂಡ್!"
+},
+
+{
+"english":"Once there was a boy named Tom. Tom wanted to see something special, so he went to a high mountain. It was sunny and warm outside so the snow began to melt. Tom found something surprising: a magnet! He was excited and picked it up.
+
+Tom looked around and tried to find something with his magnet. He soon noticed that the magnet was attracting some pieces of metal on the ground. He picked them up and put them in his pocket.
+
+Tom kept playing with his magnet. Suddenly he heard a noise, it was high and loud! He looked up and saw a beautiful rainbow. He smiled, this was something special!
+One summer morning, a little boy named Andy was walking around outside. He saw a white rabbit in the grass and wanted to touch it. He walked over to the rabbit and reached out his hand"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಟಾಮ್ ಪನ್ಪಿನ ಒರಿ ಆಣ್ ಬಾಲೆ ಇತ್ತೆ. ಟಾಮ್ ಗ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನ್ ತೂಯೆರೆ ಇಷ್ಟ ಆಂಡ್, ಅಂಚಾದ್ ಆರ್ ಒಂಜಿ ಎತ್ತರದ ಪರ್ವತೊಗು ಪೋಯೆರ್. ಪಿದಯಿ ಬಿಸಿಲು ಬೊಕ್ಕ ಬೆಚ್ಚ ಇತ್ತ್ಂಡ್ ಅಂಚಾದ್ ಹಿಮ ಕರಗೆರೆ ಸುರು ಆಂಡ್. ಟಾಮ್ ಒಂಜಿ ಆಶ್ಚರ್ಯಕರವಾದ್ ಒಂಜಿ ವಸ್ತುನ್ ತೂಯೆರ್: ಒಂಜಿ ಮ್ಯಾಗ್ನೆಟ್! ಆರ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅವೆನ್ ದೆತೊನುವೆರ್.
+
+ಟಾಮ್ ಸುತ್ತಲ ತೂದು ತನ್ನ ಮ್ಯಾಗ್ನೆಟ್ ಡ್ ದಾದನಾ ತೂಯೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಮ್ಯಾಗ್ನೆಟ್ ನೆಲತ ಮಿತ್ತ್ ಕೆಲವು ಲೋಹದ ತುಂಡುಲೆನ್ ಆಕರ್ಷಣೆ ಮಲ್ಪುನವು ಆರ್ ಬೇಗನೆ ಗಮನಿಸಯೆರ್. ಆರ್ ಅವೆನ್ ಎತ್ತೊಂದು ಅರೆನ ಜೇಬಿಡ್ ಪಾಡ್ಯೆರ್.
+
+ಟಾಮ್ ತನ್ನ ಮ್ಯಾಗ್ನೆಟ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಅಕಸ್ಮಾತ್ ಅರೆಗ್ ಒಂಜಿ ಶಬ್ದ ಕೇಂಡ್ಂಡ್, ಅವು ಎಚ್ಚ ಬೊಕ್ಕ ಜೋರು ಆದಿತ್ತ್ಂಡ್! ಆರ್ ಮಿತ್ತ್ ತೂದು ಒಂಜಿ ಪೊರ್ಲುದ ಮಳೆಬಿಲ್ಲುನ್ ತೂಯೆರ್. ಆರ್ ನಕ್ಕುಯೆರ್, ಉಂದು ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಿಷಯ!
+ಒಂಜಿ ಬೇಸಿಗೆದ ಬೆಳಗ್ಗೆ, ಆಂಡಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಪಿದಯಿ ನಡತೊಂದು ಇತ್ತೆ. ಆರ್ ಹುಲ್ಲುಡು ಒಂಜಿ ಬೊಲ್ದು ಮೊಲೊನು ತೂದು ಅವೆನ್ ಸ್ಪರ್ಶ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಮೊಲದ ಬರಿಟ್ ನಡತೊಂದು ಪೋದು ಅರೆನ ಕೈನ್ ಪಿದಯಿ ಪಾಡ್ಯೆರ್"
+},
+
+{
+"english":"Once there was a little girl named Lucy. She loved to play with her toys, but today was different. She was outside with her parents and there were a lot of people around. They were all wealthy people and were talking about something strange.
+
+Lucy listened carefully, but the words were all strange to her. She then noticed one wealthy man pointing to his toes. She wondered why and asked her dad, "What's he pointing at?"
+
+Her dad laughed and smiled, "That man is showing off his money! He's wealthy and he wants everyone to know."
+
+This made little Lucy excited. She wished she had money too. She wanted to show off her wealth like the man.
+
+But then her dad said something that made her sad. He said, "It's just playing pretend. You don't need money to have fun!"
+
+So Lucy put away her dreams of being wealthy and went back to playing with her toys. But secretly she still hoped one day she could show off her own wealth too!
+Once there was a boy who liked to run. Every day he ran faster and faster. He was so fast that he seemed to float rather than run! One day, his mommy gave him a weight to carry"
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಲೂಸಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಅಲೆಗ್ ಅಲೆನ ಆಟಿಕೆಲೆನ್ ಆಟ ಆಡೆರೆ ಇಷ್ಟ ಆಂಡ್, ಆಂಡ ಇನಿತ ದಿನ ಬೇತೆ. ಅಲ್ ಅಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಪಿದಯಿ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಲ್ಪ ಮಸ್ತ್ ಜನ ಇತ್ತೆರ್. ಅಕುಲು ಮಾತೆರ್ಲಾ ಶ್ರೀಮಂತೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ವಿಚಿತ್ರ ವಿಷಯೊದ ಬಗ್ಗೆ ಪಾತೆರೊಂದಿತ್ತೆರ್.
+
+ಲೂಸಿ ಎಚ್ಚ ಗಮನೊಡು ಕೇನ್ಯೆರ್, ಆಂಡ ಆ ಪಾತೆರೊಲು ಅಲೆಗ್ ವಿಚಿತ್ರ ಆದಿತ್ತ್ಂಡ್. ಅಪಗ ಅಲೆಗ್ ಒರಿ ಶ್ರೀಮಂತೆರ್ ತನ್ನ ಕಾಲ್ಬೆರಳುಲೆನ್ ತೋಜಾವುನವು ತೋಜಿಂಡ್. ಅಲೆಗ್ ದಾಯೆ ಪಂಡ್ದ್ ಯೋಚನೆ ಆಂಡ್ ಅಲೆನ ಅಪ್ಪೆನ್ ಕೇಂಡೆರ್, "ಅವು ದಾದ ತೋಜಾವೊಂದುಂಡು?"
+
+ಅಲೆನ ಅಪ್ಪೆ ನಕ್ಕುದು ನಕ್ಕುದು, "ಆ ಮನುಷ್ಯೆ ತನ್ನ ದುಡ್ಡುನ್ ತೋಜಾವೊಂದುಲ್ಲೆ! ಆರ್ ಶ್ರೀಮಂತೆರ್ ಬೊಕ್ಕ ಆರ್ ಮಾತೆರ್ಲ ತೆರಿಯೊನೊಡು ಪಂದ್ ಬಯಕುವೆರ್."
+
+ಉಂದು ಎಲ್ಯ ಲೂಸಿನ್ ಉಲ್ಲಾಸೊಡು ಮಲ್ತ್ಂಡ್. ಅಲೆಗ್ಲಾ ದುಡ್ಡು ಉಪ್ಪಡ್ ಪಂದ್ ಆಸೆ ಮಲ್ತೆರ್. ಆ ಮನುಷ್ಯನಲೆಕ ಅಲೆನ ಸಂಪೊತ್ತುನ್ ತೋಜಾವೊಡು ಪಂದ್ ಅಲೆಗ್ ಇಷ್ಟ ಆಂಡ್.
+
+ಆಂಡ ಅಪಗ ಅಲೆನ ಅಪ್ಪೆ ಅಲೆನ್ ಬೇಜಾರು ಮಲ್ತಿನ ಒಂಜಿ ವಿಷಯ ಪಂಡೆರ್. ಆರ್ ಪಂಡೆರ್, "ಉಂದು ನಟನೆ ಮಲ್ಪುನಂಚಿನ ಆಟ. ನಿಕುಲು ಮೋಜಿ ಮಲ್ಪೆರೆ ದುಡ್ಡು ಬೋಡಾಪುಜಿ!"
+
+ಅಂಚಾದ್ ಲೂಸಿ ಶ್ರೀಮಂತ ಆಯೆರೆ ಉಪ್ಪುನ ಕನೊಕುಲೆನ್ ಬುಡ್ದು ತನ್ನ ಆಟಿಕೆಲೆನ್ ಆಟ ಆಡೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ ರಹಸ್ಯವಾದ್ ಒಂಜಿ ದಿನ ಅಲೆನ ಸ್ವಂತ ಸಂಪೊತ್ತುನ್ ತೋಜಾವೊಲಿ ಪಂದ್ ಅಲೆಗ್ ಆಸೆ ಇತ್ತ್ಂಡ್!
+ಒಂಜಿ ಕಾಲೊಡು ಓಡೆರೆ ಇಷ್ಟ ಪಡುನ ಒರಿ ಆಣ್ ಬಾಲೆ ಇತ್ತೆ. ಪ್ರತಿ ದಿನಲಾ ಅವು ವೇಗವಾದ್ ವೇಗವಾದ್ ಓಡೊಂದಿತ್ತೆ. ಆರ್ ಮಸ್ತ್ ವೇಗೊಡು ಇತ್ತೆರ್ ಅಂಚಾದ್ ಆರ್ ಓಡುನ ಬದಲ್ ತೇಲುನಂಚ ತೋಜಿಂಡ್! ಒಂಜಿ ದಿನ, ಅಯನ ಅಮ್ಮೆ ಅಯಗ್ ಒಂಜಿ ತೂಕೊನು ಕರೆತೊಂದು ಪೋಯೆರ್"
+},
+
+{
+"english":"Once upon a time there was a coat frame. It was fit for a special occasion. A little girl named Rachel came to try it on.
+
+Rachel noticed that the frame was disturbed. It was not standing up straight.
+
+"Don't worry," said her mother. "We can fix it."
+
+Her mother carefully adjusted the frame. Rachel stepped in, and it was a good fit.
+
+"It looks beautiful," said her mother. Rachel smiled in delight.
+
+The frame was no longer disturbed. It was standing up straight and Rachel looked wonderful. That's how Rachel got to wear the perfect coat frame for her special day!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಕೋಟ್ ಫ್ರೇಮ್ ಇತ್ತ್ಂಡ್. ಉಂದು ಒಂಜಿ ವಿಶೇಷ ಸಂದರ್ಭೊಗು ಸೂಕ್ತ ಆದಿತ್ತ್ಂಡ್. ರಾಚೆಲ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಅವೆನ್ ಪ್ರಯತ್ನ ಮಲ್ಪೆರೆ ಬತ್ತೆರ್.
+
+ಫ್ರೇಮ್ ಡಿಸ್ಟರ್ಬ್ ಆತ್ಂಡ್ ಪಂದ್ ರಾಚೆಲ್ ಗಮನಿಸಯೆರ್. ಉಂದು ನೇರವಾದ್ ನಿಲೆ ಆವೊಂದಿಜ್ಜಿ.
+
+"ಚಿಂತೆ ಮಲ್ಪುಜೆರ್," ಪಂಡೆರ್ ಅಲೆನ ಅಮ್ಮೆ. "ನಮ ಅವೆನ್ ಸರಿ ಮಲ್ಪೊಲಿ."
+
+ಅಲೆನ ಅಮ್ಮೆ ಎಚ್ಚರೊಡು ಫ್ರೇಮ್ ನ್ ಸರಿ ಮಲ್ತೆರ್. ರಾಚೆಲ್ ಒಳಗ್ ಬತ್ತೆರ್, ಬೊಕ್ಕ ಉಂದು ಎಡ್ಡೆ ಫಿಟ್ ಆಂಡ್.
+
+"ಉಂದು ಪೊರ್ಲು ತೋಜುಂಡು," ಪಂಡೆರ್ ಅಲೆನ ಅಮ್ಮೆ. ರಾಚೆಲ್ ಸಂತೋಷೊಡು ನಕ್ಕುವೆರ್.
+
+ಫ್ರೇಮ್ ಗ್ ಇನಿಕ್ ಗೊಂದಲ ಇಜ್ಜಿ. ಅಯಿನ್ ನೇರವಾದ್ ನಿಲೆ ಮಲ್ತೊಂದು ಇತ್ತೆರ್ ಬೊಕ್ಕ ರಾಚೆಲ್ ಅದ್ಭುತವಾದ್ ತೋಜುಂಡು. ಅಂಚನೆ ರಾಚೆಲ್ ತನ್ನ ವಿಶೇಷ ದಿನೊಗು ಪರಿಪೂರ್ಣ ಕೋಟ್ ಫ್ರೇಮ್ ನ್ ಧರಿಸೊಡಾಪುಂಡು!"
+},
+
+{
+"english":"Once upon a time, there was a modest car. It drove around the country at a careful speed. Every day, its driver, Lizzie, said to the car, â€œLetâ€™s go! Letâ€™s speed!â€ But the car never wanted to go too quickly.
+
+One day, Lizzie spotted a rabbit hopping along the country road. She looked at her car and said, â€œOh dear! We need to speed up or weâ€™ll never catch this rabbit!â€ So, Lizzie put her foot down on the pedal and the car began to go faster.
+
+The rabbit kept hopping along, faster and faster, until it was a tiny blur on the horizon. But the car managed to keep up, going at a modest speed. In the end, Lizzie drove her car all the way to the end of the country road and the rabbit hopped off into the sunset."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಸಾಧಾರಣ ಕಾರ್ ಇತ್ತ್ಂಡ್. ಉಂದು ದೇಶೊದ ಸುತ್ತಲ ಜಾಗ್ರತೆದ ವೇಗೊಡು ಡ್ರೈವ್ ಮಲ್ತ್ಂಡ್. ಪ್ರತಿ ದಿನ, ಅಯಿತ ಡ್ರೈವರ್, ಲಿಜ್ಜಿ, ಕಾರ್ ಗ್ ಪನ್ಪೆರ್, â€œಪೋಲೆ! ವೇಗ ಮಲ್ಪುಗ!â€ ಆಂಡ ಕಾರ್ ಏಪಲಾ ಮಸ್ತ್ ಬೇಗ ಪೋಯೆರೆ ಬಯಕುಜಿ.
+
+ಒಂಜಿ ದಿನ, ಲಿಜ್ಜಿ ಒಂಜಿ ಮೊಲೊನು ಊರುದ ರಸ್ತೆಡ್ ಜಂಪ್ ಮಲ್ಪುನ ತೂಯೆರ್. ಅಲ್ ಅಲೆನ ಕಾರ್ ನ್ ತೂದು ಪಂಡೆರ್, â€œಓ ಡಿಯರ್! ನಮ ವೇಗ ಮಲ್ಪೊಡು ಅತ್ತ್ಂಡ ನಮ ಈ ಮೊಲನ್ ಎನ್ನಿಯೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ!â€ ಅಂಚಾದ್, ಲಿಜ್ಜಿ ತನ್ನ ಕಾರ್ನ್ ಪೆಡಲ್ ಡ್ ದೀದ್ ಕಾರ್ ವೇಗವಾದ್ ಪೋಯೆರೆ ಸುರು ಆಂಡ್.
+
+ಮೊಲೊ ದಿಗಂತೊಡು ಒಂಜಿ ಎಲ್ಯ ಮಸುಕು ಆಯಿನ ಮುಟ್ಟ ವೇಗವಾದ್ ವೇಗವಾದ್ ಜಿಗಿಯೊಂದಿತ್ತ್ಂಡ್. ಆಂಡ ಕಾರ್ ಒಂಜಿ ಸಾಧಾರಣ ವೇಗೊಡು ಪೋದು ಮುಂದುವರಿಸೆರೆ ಸಾಧ್ಯ ಆಂಡ್. ಕಡೆಕ್, ಲಿಜ್ಜಿ ತನ್ನ ಕಾರ್ ನ್ ಊರುದ ರಸ್ತೆದ ಮುಟ್ಟ ಡ್ರೈವ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಮೊಲ ಸೂರ್ಯಾಸ್ತೊಗು ಜಂಪ್ ಆಂಡ್."
+},
+
+{
+"english":"One day, Mary was sitting on the grass in the park, eating a sandwich. She chewed it slowly, looking around. Suddenly, something sparkly caught her eye - it was a silver necklace glistening in the sun. Mary noticed it was near a bush, so she crawled over to take a closer look.
+
+When she got close, Mary could see that the necklace was suspended from a thin branch. She reached out to take it in her tiny hand and felt it's cool metal.
+
+Just then, a voice called out from behind her. It was an old woman.
+
+"Do you like it?" she said.
+
+Mary was a bit anxious but nodded and smiled.
+
+"It's yours," the woman said warmly. "I saw you admiring it and thought you might like to have it."
+
+Mary thanked the woman politely, before heading home with the new silver necklace in her pocket. From that day onward, every time Mary chewed her lunch in the park, she would also play with her silver necklace, and think back to the day when she had first seen it."
+"tulu":"ಒಂಜಿ ದಿನ, ಮೇರಿ ಉದ್ಯಾನವನೊಡು ಹುಲ್ಲುಡು ಕುಲ್ಲುದು ಒಂಜಿ ಸ್ಯಾಂಡ್ವಿಚ್ ಖುಷಿ ಮಲ್ತೊಂದು ಇತ್ತೆರ್. ಅಲೆನ್ ನಿಧಾನವಾದ್ ಚೂಯಿಂಗ್ ಮಲ್ತೆರ್, ಸುತ್ತಲ ತೂವೊಂದಿತ್ತೆರ್. ಅಕಸ್ಮಾತ್, ಒಂಜಿ ಮಿಂಚುನಂಚಿನ ಒಂಜಿ ವಸ್ತು ಅಲೆನ ಕಣ್ಣ್ ಗ್ ತೋಜಿಂಡ್ - ಅವು ಸೂರ್ಯನ ಮಿತ್ತ್ ಮಿಂಚುನ ಒಂಜಿ ಬೊಳ್ಳಿದ ಕಂಕಣ. ಉಂದು ಒಂಜಿ ಪೊದೆತ ಎದುರುಡು ಉಂಡು ಪಂಡ್ದ್ ಮೇರಿ ಗಮನಿಸಯೆರ್, ಅಂಚಾದ್ ಅಲೆನ್ ಎಡ್ಡೆ ರೀತಿಡ್ ತೂಯೆರೆ ತೆಲಿಯೆರ್.
+
+ಅಲ್ ಮುಟ್ಟ ಬನ್ನಗ, ಮೇರಿಗ್ ಕಂಕಣ ಒಂಜಿ ತೆಲ್ತ್ ಶಾಖೆಡ್ದ್ ನೇಲುದುಪ್ಪುನವು ತೋಜಿಂಡ್. ಅಲೆನ ಎಲ್ಯ ಕೈಟ್ ದೆತೊನೆರೆ ಅಲೆಗ್ ಕೈ ಮುಗಿಂಡ್ ಬೊಕ್ಕ ಅಯಿನ್ ತಂಪು ಲೋಹ ಪಂಡ್ದ್ ಅನುಭವಿಸಯೆರ್.
+
+ಅಪಗನೇ, ಅಲೆನ ಪಿರವುಡ್ದ್ ಒಂಜಿ ಸ್ವರ ಲೆಪ್ಪುಂಡು. ಅವು ಒರಿ ಮಲ್ಲ ಪೊಣ್ಣು.
+
+"ಈರ್ ಇಷ್ಟ ಪಡ್ಪರ್?" ಅಲ್ ಪಂಡೆರ್.
+
+ಮೇರಿ ಒಂತೆ ಆತಂಕೊಡು ಇತ್ತೆರ್ ಆಂಡ ತರೆ ತಗ್ಗಾದ್ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್.
+
+"ಉಂದು ನಿನ್ನವು," ಆ ಪೊಣ್ಣು ಬೆಚ್ಚ ಬೆಚ್ಚ ಪಂಡೆರ್. "ಈರ್ ಅವೆನ್ ಮೆಚ್ಚುನವು ಎಂಕ್ ತೋಜಿಂಡ್ ಬೊಕ್ಕ ಈರ್ ಉಂದೆನ್ ಪಡೆಯೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್ ಪಂದ್ ಎಂಕ್ ಅನಿಸಿಕೆ ಆಂಡ್."
+
+ಮೇರಿ ಆ ಪೊಣ್ಣಗ್ ಸಭ್ಯವಾದ್ ಸೊಲ್ಮೆಲು ಪನ್ಪೆರ್, ಅಲೆನ ಜೇಬಿಡ್ ಪೊಸ ಬೊಳ್ಳಿದ ಕಂಕಣೊನು ಪತೊಂದು ಇಲ್ಲಗ್ ಪೋಯೆರೆ ದುಂಬು. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ಮೇರಿ ಪಾರ್ಕ್ ಡ್ ತನ್ನ ಲಂಚ್ ನ್ ಚೂಯಿಂಗ್ ಮಲ್ಪುನಗ, ಅಲ್ ತನ್ನ ಬೊಳ್ಳಿದ ಕಂಕಣೊನ್ ಲಾ ಆಟ ಆಡೊಂದಿತ್ತೆರ್, ಬೊಕ್ಕ ಅಲ್ ಸುರುಕು ತೂಯಿನ ದಿನೊನು ನೆನೆಪು ಮಲ್ತೊಂದಿತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Joe. He was always happy and very healthy.
+
+One day, Joe saw a lovely bird in the sky. He was so amazed and pointed at it.
+
+"Look, look!", he said to his mum.
+
+His mum looked up and smiled. "Joe, don't you realize the sky is filled with so many birds?"
+
+Joe thought for a second, and then his face lit up. He had realized that the sky was full of wonderful birds.
+
+Mum smiled, proud of her little boy. She was glad to see him realize something so special. Joe was happy too - he had just had a wonderful realization."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜೋ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಆರ್ ಯಾಪಲ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಮಸ್ತ್ ಆರೋಗ್ಯೊಡು ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ಜೋ ಆಕಾಶೊಡು ಒಂಜಿ ಪೊರ್ಲುದ ಪಕ್ಕಿನ್ ತೂಯೆರ್. ಆರ್ ಮಸ್ತ್ ಆಶ್ಚರ್ಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಯಿಕ್ ತೋಜಾಯೆರ್.
+
+"ತೂಲೆ, ತೂಲೆ!", ಆರ್ ಅರೆನ ಅಮ್ಮೆರೆಗ್ ಪಂಡೆರ್.
+
+ಅಯನ ಅಮ್ಮೆ ಮಿತ್ತ್ ತೂದು ನಕ್ಕುವೆರ್. "ಜೋ, ಆಕಾಶೊಡು ಮಸ್ತ್ ಪಕ್ಕಿಲು ಉಂಡು ಪನ್ಪಿನೆನ್ ನಿಕುಲು ಅರ್ಥ ಮಲ್ತೊಂದಿಜ್ಜರ್?"
+
+ಜೋ ಒಂಜಿ ಸೆಕೆಂಡ್ ಯೋಚನೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಅರೆನ ಮೋನೆ ಬೆಳಗುಂಡ್. ಆಕಾಶೊಡು ಅದ್ಭುತ ಪಕ್ಕಿಲು ಉಂಡು ಪಂದ್ ಅರೆಗ್ ಅರ್ಥ ಆಂಡ್.
+
+ಅಮ್ಮೆ ತನ್ನ ಎಲ್ಯ ಬಾಲೆದ ಬಗ್ಗೆ ಹೆಮ್ಮೆ ಪಡೆದ್ ನಕ್ಕುವೆರ್. ಅಯೆ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಿಷಯೊನು ಅರ್ಥ ಮಲ್ತೊನುನ ತೂದು ಅಲೆಗ್ ಸಂತೋಷ ಆಂಡ್. ಜೋಲಾ ಖುಷಿಟ್ ಇತ್ತೆರ್ - ಅರೆಗ್ ಒಂಜಿ ಅದ್ಭುತ ಅರಿವು ಬತ್ತ್ಂಡ್."
+},
+
+{
+"english":"Once upon a time, a little girl named Lucy was playing with her chalk. She drew beautiful pictures with it outside her house.
+
+Suddenly, her friend Mary came over and asked if she wanted to play. Lucy said yes but Mary thought of something else to do. She wanted to cut her chalk in half.
+
+Lucy was not happy about this. She didn't want anyone to mess with her original chalk. But, Mary kept insisting and said, "C'mon Lucy, let's cut the chalk! It'll be fun!"
+
+Lucy refused but with some convincing from Mary, she agreed to it. So, they got a knife and started cutting the chalk. But, to their surprise, the chalk pieces became smaller and smaller until the chalk disappeared.
+
+Lucy felt sad. She knew that her chalk could never be the same again. Better not to mess with an original."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಲೂಸಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ತನ್ನ ಚಾಕ್ ಡ್ ಆಟ ಆಡೊಂದಿತ್ತೆ. ಅಲೆನ ಇಲ್ಲ್ ದ ಪಿದಯಿ ಅಯಿಟ್ ಪೊರ್ಲುದ ಚಿತ್ರೊಲೆನ್ ಬರೆಯೆರ್.
+
+ಒಂಜಿ ಸಲ, ಅಲೆನ ಸ್ನೇಹಿತೆ ಮೇರಿ ಬತ್ತ್ದ್ ಅಲೆಗ್ ಆಟ ಆಡೊಡು ಪಂದ್ ಕೇಂಡೆರ್. ಲೂಸಿ ಒಪ್ಪಿಗೆ ಪಂಡೆರ್ ಆಂಡ ಮೇರಿ ಬೇತೆ ದಾದನಾ ಮಲ್ಪೊಡು ಪಂದ್ ಯೋಚನೆ ಮಲ್ತೆರ್. ಅಲೆನ ಚಾಕ್ ನ್ ಅರ್ಧೊಗು ಕಡ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಲೂಸಿಗ್ ಈ ಬಗ್ಗೆ ಸಂತೋಷ ಇಜ್ಜಿ. ಅಲೆನ ಮೂಲ ಚಾಕ್ ನ್ ಏರ್ಲಾ ಗೊಂದಲ ಮಲ್ಪೆರೆ ಅಲೆಗ್ ಇಷ್ಟ ಇಜ್ಜಿ. ಆಂಡ, ಮೇರಿ ಒತ್ತಾಯ ಮಲ್ತೊಂದು ಪಂಡೆರ್, "ಬಲ ಲೂಸಿ, ಚಾಕ್ ನ್ ಕಡ್ಪೊಡು! ಉಂದು ಮಜಾ ಆಪುಂಡು!"
+
+ಲೂಸಿ ನಿರಾಕರಣೆ ಮಲ್ತೆರ್ ಆಂಡ ಮೇರಿನ ಕೆಲವು ಮನವರಿಕೆಡ್, ಅಲ್ ಒಪ್ಪಿಗೆ ಮಲ್ತೆರ್. ಅಂಚಾದ್, ಅಕುಲು ಒಂಜಿ ಚಾಕುನು ದೆತೊನುದು ಚಾಕ್ ನ್ ಕಡ್ಪೆರೆ ಸುರು ಮಲ್ತೆರ್. ಆಂಡ, ಅಕ್ಲೆನ ಆಶ್ಚರ್ಯೊಗು, ಚಾಕ್ ತುಂಡುಲು ಚಾಕ್ ಕಣ್ಮರೆ ಆಯಿನ ಮುಟ್ಟ ಎಲ್ಯ ಎಲ್ಯ ಆವೊಂದಿತ್ತ್ಂಡ್.
+
+ಲೂಸಿಗ್ ಬೇಜಾರ್ ಆಂಡ್. ಅಲೆನ ಚಾಕ್ ಮತ್ತೆ ಒಂಜೇಲೆಕ ಆವರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ ಪಂದ್ ಅಲೆಗ್ ಗೊತ್ತುಂಡ್. ಒಂಜಿ ಮೂಲೊಡು ಗೊಂದಲ ಮಲ್ಪೆರೆ ಬಲ್ಲಿ ಪನ್ಪಿನವು ಎಡ್ಡೆ."
+},
+
+{
+"english":"Once upon a time there lived a little girl named Amy. She was very alert and always looked for new things to explore. One day she decided to search for a painter who could help her. She went out of her house and looked everywhere.
+
+Amy walked along the street and soon she found a painter. She was so excited! She asked the painter, â€œCan you help me?â€ The painter smiled at Amy and said, â€œYes, I can! What do you need help with?â€
+
+Amy said, â€œCan you paint my bedroom? It would look so much better.â€
+
+The painter smiled again and said, â€œYes, I can do that for you. I can make it very special.â€
+
+Amy was very happy and thanked the painter. She watched as he painted the room. It was as if magic had come to her bedroom.
+
+Amy was especially alert that day when she watched the painter working in her bedroom. She enjoyed every moment of it. When the painter was done, she thanked him again and gave him a big hug. The painter smiled before he left.
+
+Amy's bedroom had never looked so good before. She was so happy and smiled from ear to ear.
+
+The End."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಅಮಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆ. ಅಲ್ ಮಸ್ತ್ ಎಚ್ಚರೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಯಾಪಲ ಪೊಸ ವಿಷಯೊಲೆನ್ ತೂವೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ ಅಲೆಗ್ ಸಹಾಯ ಮಲ್ಪುನ ಒರಿ ಚಿತ್ರಕಾರೆನ್ ತೂಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಅಲ್ ಅಲೆನ ಇಲ್ಲಡ್ದ್ ಪಿದಯಿ ಪೋದು ಎಲ್ಲೆಡೆ ತೂಯೆರ್.
+
+ಆಮಿ ಬೀದಿಡ್ ನಡತೊಂದು ಪೋಯೆರ್ ಬೊಕ್ಕ ಶೀಘ್ರೊಡು ಅಲೆಗ್ ಒರಿ ಚಿತ್ರಕಾರೆನ್ ತೂಯೆರ್. ಅಲ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್! ಅಲ್ ಚಿತ್ರಕಾರೆನ್ ಕೇಂಡೆರ್, â€œಈರ್ ಎಂಕ್ ಸಹಾಯ ಮಲ್ಪೊಲಿ?â€ ಚಿತ್ರಕಾರೆ ಆಮಿನ್ ತೂದು ಸ್ಮೈಲ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, â€œಆಂಡ್, ಎಂಕ್ ಸಹಾಯ ಆಪುಂಡು! ನಿಕ್ಲೆಗ್ ದಾದ ಸಹಾಯ ಬೋಡು?â€
+
+ಆಮಿ ಪಂಡೆರ್, â€œಎನ್ನ ಮಲಪುನ ಕೋಣೆನ್ ಬಣ್ಣ ಪಾಡೊಲಿ? ಉಂದು ಮಸ್ತ್ ಎಡ್ಡೆ ತೋಜುಂಡು.â€
+
+ಚಿತ್ರಕಾರೆ ಪುನರ್ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, â€œಆಂಡ್, ಯಾನ್ ನಿಕ್ಲೆಗಾತ್ರ ಅವೆನ್ ಮಲ್ಪೊಲಿ. ಎಂಕ್ ಉಂದೆನ್ ಮಸ್ತ್ ವಿಶೇಷ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ.â€
+
+ಆಮಿ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಚಿತ್ರಕಾರೆರೆಗ್ ಸೊಲ್ಮೆಲು ಪಂಡೆರ್. ಆರ್ ಕೋಣೆನ್ ಬಣ್ಣ ಪಾಡುನಗ ಅಲ್ ತೂವೊಂದಿತ್ತೆರ್. ಅಲೆನ ಬೆಡ್ ರೂಮ್ ಗ್ ಮ್ಯಾಜಿಕ್ ಬತ್ತಿನಲೆಕ ಆಂಡ್.
+
+ಆಮಿ ಆ ದಿನ ತನ್ನ ಬೆಡ್ ರೂಮ್ ಡ್ ಕೆಲಸ ಮಲ್ಪುನ ಚಿತ್ರಕಾರೆನ್ ತೂನಗ ವಿಶೇಷವಾದ್ ಎಚ್ಚರೊಡು ಇತ್ತೆರ್. ಅಯಿಟ್ ಪ್ರತಿಯೊಂಜಿ ಕ್ಷಣೊನುಲಾ ಆನಂದೊಡು ತೂಯೆರ್. ಚಿತ್ರಕಾರೆ ಮುಗಿದ್ ಬೊಕ್ಕ, ಅಲ್ ಆಯಗ್ ಮತ್ತೆ ಧನ್ಯವಾದೊಲೆನ್ ಕೊರ್ದು ಒಂಜಿ ಮಲ್ಲ ತಬ್ಬುನು ಕೊರ್ಪೆಲ್. ಚಿತ್ರಕಾರೆ ಪೋಪಿನ ದುಂಬು ಮುಗುಳ್ನಗೆ ಮಲ್ತೆರ್.
+
+ಆಮಿನ ಮಲಪುನ ಕೋಣೆ ದುಂಬು ಇಂಚ ಎಡ್ಡೆ ತೋಜುಜಿ. ಅಲ್ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಕಿನ್ನಿಡ್ದ್ ಕಿನ್ನಿಗ್ ನಕ್ಕುವೆರ್.
+
+ಅಂತ್ಯ."
+},
+
+{
+"english":"Once upon a time, there was a little girl named Lola. She was three years old and she loved purple things. One day, she was walking in the park when she saw a big pastry. It was covered in purple frosting, and she wanted to try it!
+
+Lola ran to the pastry and pulled at the top. It was stuck, so she pulled harder and harder. Suddenly, the pastry tore in two!
+
+Lola gasped in surprise and said, "I did it!" She grabbed one of the pastry pieces and took a big bite. It tasted so sweet and delicious.
+
+Suddenly, Lola heard her mother's voice and she knew it was time to go home. She quickly picked up the other piece of pastry and ran to her mother.
+
+Lola showed her mom the pastry and said, "Look what I found!" Her mother smiled and said, "It sure looks yummy. Now let's put it in a bag until we get home."
+
+The End"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಲೋಲಾ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಇತ್ತೆರ್. ಅಲೆಗ್ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ನೇರಳೆ ಬಣ್ಣದ ವಸ್ತುಲು ಇಷ್ಟ ಆದಿತ್ತ್ಂಡ್. ಒಂಜಿ ದಿನ, ಅಲ್ ಪಾರ್ಕ್ ಡ್ ನಡತೊಂದು ಪೋನಗ ಒಂಜಿ ಮಲ್ಲ ಪೇಸ್ಟ್ರಿನ್ ತೂಯೆರ್. ಅಯಿನ್ ನೇರಳೆ ಬಣ್ಣದ ಫ್ರಾಸ್ಟಿಂಗ್ ಡ್ ಮುಚ್ಚಿದ್ ಇತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಅಲೆಗ್ ಅಯಿನ್ ಪ್ರಯತ್ನಿಸೊಡಾಪುಂಡು!
+
+ಲೋಲಾ ಪೇಸ್ಟ್ರಿಗ್ ಓಡೊಂದು ಮಿತ್ತ್ ಡ್ ಎದುರು ಪಾಡ್ಯೆರ್. ಅಯಿನ್ ಸಿಕ್ಕ್ದ್ ದೀದ್ಂಡ್, ಅಂಚಾದ್ ಅಲ್ ಗಟ್ಟಿಯಾದ್ ಗಟ್ಟಿಯಾದ್ ಎಳೆಯೊಂದಿತ್ತೆ. ಒಂಜಿ ಸಲ, ಪೇಸ್ಟ್ರಿ ರಡ್ಡ್ ಭಾಗೊಗು ತುಂಡು ಆಂಡ್!
+
+ಲೋಲಾ ಆಶ್ಚರ್ಯೊಡು ಉಸಿರಾಟ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, "ಯಾನ್ ಮಲ್ತುವ!" ಅಲ್ ಒಂಜಿ ಪೇಸ್ಟ್ರಿ ತುಂಡುನ್ ಪತೊಂದು ಒಂಜಿ ಮಲ್ಲ ಕಚ್ಚುನು ದೆತೊನುವೆರ್. ಉಂದು ಮಸ್ತ್ ಸಿಹಿ ಬೊಕ್ಕ ರುಚಿಯಾದ್ ಇತ್ತ್ಂಡ್.
+
+ಒಂಜಿ ಸಲ, ಲೋಲಾಗ್ ಅಲೆನ ಅಮ್ಮೆರೆನ ಸ್ವರ ಕೇಂಡ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ಇಲ್ಲಗ್ ಪೋಪಿನ ಸಮಯ ಆಂಡ್ ಪಂದ್ ಗೊತ್ತಾಂಡ್. ಅಲ್ ಬೇಗನೆ ಬೇತೆ ಪೇಸ್ಟ್ರಿದ ತುಂಡುನ್ ದೆತೊನುದು ಅಲೆನ ಅಮ್ಮೆರೆನ ಎದುರುಗು ಓಡಿಯೆರ್.
+
+ಲೋಲಾ ಅಲೆನ ಅಮ್ಮೆರೆಗ್ ಪೇಸ್ಟ್ರಿನ್ ತೋಜಾದ್ ಪಂಡೆರ್, "ಯಾನ್ ದಾದ ಕಂಡುದು ತೂಲೆ!" ಅಲೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್, "ಉಂದು ಖಂಡಿತಾ ರುಚಿಯಾದ್ ತೋಜುಂಡು. ಇತ್ತೆ ನಮ ಇಲ್ಲಗ್ ಬರ್ಪಿನ ಮುಟ್ಟ ಒಂಜಿ ಚೀಲೊಡು ಪಾಡೊಡು."
+
+ಅಂತ್ಯ"
+},
+
+{
+"english":"Once upon a time, there was a creative farmer who lived on a farm. He loved his farm and the animals who lived there. Every day he would go out and take care of the animals.
+
+One day, the farmer noticed something strange. One of his ducks seemed to be explaining something to the other animals, but he couldn't understand a word of it.
+
+He went over to the animals, and said, "What is going on here?".
+
+The duck replied, "I'm explaining to the other animals that over the hill, there is a big pond with lots of yummy bugs and fish."
+
+The farmer smiled and said, "That sounds like a wonderful idea. Let's go explore this big pond and see what we can find.â€
+
+So, the farmer and the animals marched over the hill and across the field until they reached the big pond. They had lots of fun, playing and exploring around the pond, and found lots of yummy bugs and fish.
+
+The farmer thanked the creative duck for showing them the pond, and all the animals went home happy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಸೃಜನಶೀಲ ರೈತೆರ್ ಜಮೀನುಡ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಆರ್ ತನ್ನ ಜಮೀನು ಬೊಕ್ಕ ಅಲ್ಪ ಜೀವನ ಮಲ್ಪುನ ಪ್ರಾಣಿಲೆನ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಪ್ರತಿ ದಿನಲಾ ಆರ್ ಪಿದಯಿ ಪೋದು ಪ್ರಾಣಿಲೆನ್ ತೂವೊಂದಿತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ, ರೈತೆಗ್ ಒಂಜಿ ವಿಚಿತ್ರ ವಿಷಯ ತೋಜಿಂಡ್. ಅಯನ ಒಂಜಿ ಬಾತುಕೋಳಿ ಬೇತೆ ಪ್ರಾಣಿಲೆಗ್ ದಾದನಾ ವಿವರಿಸೊಂದಿತ್ತಿನಲೆಕ ತೋಜಿಂಡ್, ಆಂಡ ಅಯಗ್ ಒಂಜಿ ಶಬ್ದಲಾ ಅರ್ಥ ಆಯಿಜಿ.
+
+ಆರ್ ಪ್ರಾಣಿಲೆನ ಎದುರುಗು ಪೋದು, "ಇಲ್ಲ್ ದಾದ ನಡತೊಂದುಂಡು?" ಪಂಡೆರ್.
+
+ಬಾತುಕೋಳಿ ಉತ್ತರ ಕೊರ್ತುಂಡು, "ಗುಡ್ಡೆದ ಮಿತ್ತ್ ಒಂಜಿ ಮಲ್ಲ ಕೊಳ ಉಂಡು ಅಯಿಟ್ ಮಸ್ತ್ ರುಚಿಯಾದ್ ಉಪ್ಪುನ ಕೀಟೊಲು ಬೊಕ್ಕ ಮೀನ್ ಉಂಡು ಪಂದ್ ಬೇತೆ ಪ್ರಾಣಿಲೆಗ್ ತೆರಿಪಾವೊಂದುಲ್ಲೆ."
+
+ರೈತೆರ್ ನಕ್ಕುದು ಪಂಡೆರ್, "ಉಂದು ಒಂಜಿ ಎಡ್ಡೆ ಐಡಿಯಾ ಆದ್ ಉಂಡು. ಈ ಮಲ್ಲ ಕೊಳೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪುಗ ಬೊಕ್ಕ ನಮ ದಾದ ತೂವೊಲಿ ಪನ್ಪಿನೆನ್ ತೂವೊಲಿ."
+
+ಅಂಚಾದ್, ಬೆನ್ನಿ ಬೊಕ್ಕ ಪ್ರಾಣಿಲು ಗುಡ್ಡೆದ ಮಿತ್ತ್ ಬೊಕ್ಕ ಕಂಡೊದ ಮಿತ್ತ್ ಮೆರವಣಿಗೆ ಮಲ್ತ್ ದ್ ಮಲ್ಲ ಕಂಡೊಗು ಪೋಯೆರ್. ಅಕುಲು ಮಸ್ತ್ ಮೋಜಿ ಮಲ್ತೆರ್, ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಕೊಳದ ಸುತ್ತಲ ಅನ್ವೇಷಣೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಮಸ್ತ್ ರುಚಿಯಾದ್ ಉಪ್ಪುನ ಕೀಟೊಲು ಬೊಕ್ಕ ಮೀನ್ ಲೆನ್ ತೂಯೆರ್.
+
+ರೈತೆರ್ ಕೊಳೊನು ತೋಜಾದ್ ಕೊರ್ನ ಸೃಜನಶೀಲ ಬಾತುಕೋಳಿಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಪನ್ಪೆರ್, ಬೊಕ್ಕ ಮಾತಾ ಪ್ರಾಣಿಲು ಸಂತೋಷೊಡು ಇಲ್ಲಗ್ ಪೋಯೆರ್."
+},
+
+{
+"english":"Once upon a time a little girl named Jill had a very special toy. It was a black car that could zip around the room. She loved playing with it, zipping it back and forth. Every morning when Jill woke up, she would go to the toy car to make sure it was still there.
+
+One day, when Jill looked at the car, she noticed something strange. There was a print on the side. She couldn't figure out where it came from. She kept looking at the print and suddenly, the car started to zip across the room. Jill was so excited, she couldn't believe it!
+
+The car kept zip, zip, zipping all around the room. Jill followed it and it stopped at a big black box. Jill opened the box and inside was a present for her. It was a black toy robot! She was so excited and couldn't believe her eyes.
+
+Jill understood that the print on her car was the same as the print on the box. The car had known it was the present all along and had zipped across the room to show her the special surprise."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜಿಲ್ ಪನ್ಪಿನ ಪುದರ್ದ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ಆಟಿಕೆ ಇತ್ತ್ಂಡ್. ಉಂದು ಒಂಜಿ ಕಪ್ಪು ಕಾರ್ ಆದಿತ್ತ್ಂಡ್ ಅಯಿನ್ ಕೋಣೆದ ಸುತ್ತಲ ಜಿಪ್ ಮಲ್ಪೊಲಿ. ಅಯಿಟ್ ಆಟ ಆಡೊಡು, ಅಯಿನ್ ಪಿರ ಪಿರ ಜಿಪ್ ಮಲ್ಪೊಡು ಪನ್ಪಿನವು ಅಲೆಗ್ ಇಷ್ಟ ಆಂಡ್. ಪ್ರತಿ ದಿನ ಬೆಳಗ್ಗೆ ಜಿಲ್ ಲಕ್ಕುನಗ, ಅವು ಇತ್ತೆಲಾ ಉಂಡು ಪನ್ಪಿನೆನ್ ತೂಯೆರೆ ಆಟಿಕೆದ ಕಾರ್ ಗ್ ಪೋಪೆ.
+
+ಒಂಜಿ ದಿನ, ಜಿಲ್ ಕಾರ್ ನ್ ತೂನಗ, ಅಲೆಗ್ ಒಂಜಿ ವಿಚಿತ್ರ ವಿಷಯ ತೋಜಿಂಡ್. ಬದಿಟ್ ಒಂಜಿ ಮುದ್ರೆ ಇತ್ತ್ಂಡ್. ಉಂದು ಎಲ್ಲಿಡ್ದ್ ಬತ್ತ್ಂಡ್ ಪನ್ಪಿನೆನ್ ಅಲೆಗ್ ತೆರಿಯೊನೆರೆ ಆಯಿಜಿ. ಅಲ್ ಮುದ್ರಣೊನು ತೂವೊಂದು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಕಸ್ಮಾತ್, ಕಾರ್ ಕೋಣೆದ ಮಿತ್ತ್ ಜಿಪ್ ಮಲ್ಪೆರೆ ಸುರು ಮಲ್ತ್ಂಡ್. ಜಿಲ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್, ಅಲೆಗ್ ನಂಬೆರೆ ಆಯಿಜಿ!
+
+ಕಾರ್ ಕೋಣೆದ ಸುತ್ತಲ ಜಿಪ್, ಜಿಪ್, ಜಿಪ್ ಮಲ್ತೊಂದು ಇತ್ತ್ಂಡ್. ಜಿಲ್ ಅಯಿನ್ ಅನುಸರಿಸಯೆರ್ ಬೊಕ್ಕ ಅಯಿನ್ ಒಂಜಿ ಮಲ್ಲ ಕಪ್ಪು ಪೆಟ್ಟಿಗೆಡ್ ನಿಂತ್ಂಡ್. ಜಿಲ್ ಬಾಕ್ಸ್ ನ್ ತೆರೆಯೆರ್ ಬೊಕ್ಕ ಅಯಿಟ್ ಅಲೆಗ್ ಒಂಜಿ ಉಡುಗೊರೆ ಇತ್ತ್ಂಡ್. ಅವು ಒಂಜಿ ಕಪ್ಪು ಆಟಿಕೆ ರೋಬೋಟ್ ಆದಿತ್ತ್ಂಡ್! ಅಲ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಲೆನ ಕಣ್ಣ್ ಗ್ ನಂಬೆರೆ ಆಯಿಜಿ.
+
+ಜಿಲ್ ಗ್ ಅರ್ಥ ಆಂಡ್ ಅಲೆನ ಕಾರ್ಡ್ ಉಪ್ಪುನ ಮುದ್ರೆ ಬಾಕ್ಸ್ ಡ್ ಉಪ್ಪುನ ಮುದ್ರೆದಲೆಕನೆ ಉಂಡು. ಉಂದು ವರ್ತಮಾನ ಪಂಡ್ದ್ ಕಾರ್ ದುಂಬೇ ತೆರಿದ್ ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ವಿಶೇಷ ಆಶ್ಚರ್ಯೊನು ತೋಜಾವುನ ಕೋಣೆದ ಮಿತ್ತ್ ಜಿಪ್ ಮಲ್ತ್ಂಡ್."
+},
+{
+"english":"Once upon a time, there was a small girl named Susie. Susie loved to go exploring in the big backyard of her house. One day, Susie went outside with her teddy bear. As she was running around, she saw something hidden behind a bush. She went near it, and when she peeked behind the bush, she found a kitty! Susie was so excited to see the kitty that she ran over to it.
+
+Susie said to the kitty, "Hi kitty, why are you here all alone?"
+
+The kitty meowed and then said, "I'm lost. I don't know how to get back home."
+
+Susie felt so sorry for the kitty and she wanted to help him. She said, "Don't worry, kitty. I can help you find your way home! Let's go visit and see."
+
+So Susie and the kitty started walking to find the kitty's home. After a while, they ran into some trouble. There was a big angry dog that blocked their way. Susie and the kitty were scared, but Susie kept her head and said, "Don't worry, kitty. We can find another way." So they both ran away and found a hidden path to get to the kitty's home.
+
+Finally, they arrived at the kitty's house. They said goodbye to each"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಸೂಸಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಸೂಸಿ ತನ್ನ ಇಲ್ಲ್ ದ ಮಲ್ಲ ಪಿರವುದ ಅಂಗಳೊಡು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಪೋಯೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಸೂಸಿ ತನ್ನ ಟೆಡ್ಡಿ ಬೇರ್ ನ್ ಲೆತೊಂದು ಪಿದಯಿ ಪೋಯೆರ್. ಅಲ್ ಓಡೊಂದು ಪೋನಗ, ಒಂಜಿ ಪೊದೆತ ಪಿರವುಡು ಒಂಜಿ ವಸ್ತು ಮುಚ್ಚಿದ್ ಉಪ್ಪುನವು ತೋಜಿಂಡ್. ಅಲ್ ಅಯಿತ ಎದುರುಗು ಪೋಯೆರ್, ಬೊಕ್ಕ ಅಲ್ ಪೊದೆತ ಪಿರವು ತೂನಗ, ಅಲ್ ಒಂಜಿ ಕಿಟ್ಟಿನ್ ತೂಯೆರ್! ಸೂಸಿ ಕಿಟ್ಟಿನ್ ತೂದು ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಅಯಿಟ್ ಓಡೊಂದಿತ್ತೆರ್.
+
+ಸೂಸಿ ಕಿಟ್ಟಿಗ್ ಪಂಡೆರ್, "ಹಾಯ್ ಕಿಟ್ಟಿ, ಈರ್ ದಾಯೆಗ್ ಒಂಜೇ ಒಂಜಿ ಉಲ್ಲರ್?"
+
+ಕಿಟ್ಟಿ ಮಿಯಾವ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, "ಯಾನ್ ತಪ್ಪಾದ್ ಪೋಯೆ. ಎಂಕ್ ಇಲ್ಲಗ್ ಎಂಚ ಬರೊಡು ಪನ್ಪಿನೆನ್ ಗೊತ್ತುಜ್ಜಿ."
+
+ಸೂಸಿಗ್ ಕಿಟ್ಟಿಗ್ ಮಸ್ತ್ ದುಃಖ ಆಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಆಂಡ್. ಅಲೆ ಪಂಡೆರ್, "ಚಿಂತೆ ಮಲ್ಪುಜೆರ್, ಕಿಟ್ಟಿ. ನಿನ್ನ ಇಲ್ಲಗ್ ಪೋಪಿನ ದಾರಿನ್ ಕಂಡುಕೊನೆರೆ ಯಾನ್ ನಿಕ್ಕ್ ಸಹಾಯ ಮಲ್ಪುವೆ! ನಮ ಭೇಟಿ ಕೊರ್ದು ತೂವೊಲಿ."
+
+ಅಂಚಾದ್ ಸೂಸಿ ಬೊಕ್ಕ ಕಿಟ್ಟಿ ಕಿಟ್ಟಿನ ಇಲ್ಲ್ ನ್ ತೂಯೆರೆ ನಡತೊಂದು ಪೋಯೆರ್. ಒಂತೆ ಸಮಯೊಡ್ದು ಬೊಕ್ಕ, ಅಕುಲು ಒಂಜಿ ತೊಂದರೆಗ್ ಗುರಿಯಾಯೆರ್. ಒಂಜಿ ಮಲ್ಲ ಕೋಪದ ನಾಯಿ ಅಕ್ಲೆನ ದಾರಿನ್ ತಡೆತ್ಂಡ್. ಸೂಸಿ ಬೊಕ್ಕ ಕಿಟ್ಟಿ ಭಯೊಡು ಇತ್ತೆರ್, ಆಂಡ ಸೂಸಿ ತನ್ನ ತಲೆನ್ ದೀದ್ ಪಂಡೆರ್, "ಚಿಂತೆ ಮಲ್ಪುಜೆರ್ ಕಿಟ್ಟಿ. ನಮ ಬೇತೆ ಮಾರ್ಗನ್ ತೂವೊಲಿ." ಅಂಚಾದ್ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಪಿದಯಿ ಪೋದು ಕಿಟ್ಟಿನ ಇಲ್ಲಗ್ ಪೋಯೆರೆ ಒಂಜಿ ಗುಪ್ತ ಮಾರ್ಗನ್ ಕಂಡು ಕನತೆರ್.
+
+ಅಂಚನೆ, ಅಕುಲು ಕಿಟ್ಟಿನ ಇಲ್ಲಗ್ ಬತ್ತೆರ್. ಅಕುಲು ಒರಿ ಒರಿಗ್ ಗುಡ್ ಬೈ ಪಂಡೆರ್"
+},
+
+{
+"english":"John and Sarah were playing together in their backyard when they found a piece of metal. It was shiny and reflective and they couldn't wait to show their parents.
+
+John asked Sarah, "What should we do with the metal?"
+
+Sarah thought for a moment, then said, "Let's take it to Mommy and Daddy!" With that, they ran off excitedly, ready to surprise their parents.
+
+They raced into the house, and shouted, "Mommy, Daddy! Look what we found!"
+
+Their parents were very surprised and asked, "Where did you find this piece of metal?"
+
+John and Sarah were so proud of their discovery, and couldn't wait to tell the story. They recounted that they found the metal outside in the backyard and it was so shiny and reflective.
+
+Their parents smiled, and said, "Well, why don't you two take it around the neighbourhood and see if you can return it to its rightful owner. If nobody takes it, you two can keep it!".
+
+John and Sarah were so cheerful and excited about the prospect of helping find the true owner of the metal, that they grabbed it and set off, ready to call on their neighbours."
+"tulu":"ಜಾನ್ ಬೊಕ್ಕ ಸಾರಾ ಅಕ್ಲೆನ ಪಿರವುದ ಅಂಗಳೊಡು ಒಟ್ಟುಗು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ ಅಕುಲು ಒಂಜಿ ಲೋಹದ ತುಂಡುನ್ ತೂಯೆರ್. ಉಂದು ಮಿಂಚುನ ಬೊಕ್ಕ ಪ್ರತಿಬಿಂಬಿಸವುನವು ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಕುಲು ಅಕ್ಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರೆಗ್ ತೋಜಾವುನಗ ತಡೆಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಜಾನ್ ಸಾರಾನ್ ಕೇಂಡೆರ್, "ಲೋಹೊನು ನಮ ದಾದ ಮಲ್ಪೊಡು?"
+
+ಸಾರಾ ಒಂಜಿ ಕ್ಷಣ ಯೋಚನೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಪಂಡೆರ್, "ಅಮ್ಮೆ ಅಪ್ಪೆನ ಎದುರುಗು ಲೆತೊಂದು ಪೋವೊಡು!" ಅಯಿಟ್, ಅಕುಲು ಉಲ್ಲಾಸೊಡು ಓಡಿ ಪೋಯೆರ್, ಅಕ್ಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರೆನ್ ಆಶ್ಚರ್ಯ ಮಲ್ಪೆರೆ ತಯಾರ್ ಆಯೆರ್.
+
+ಅಕುಲು ಇಲ್ಲಗ್ ಓಡೊಂದು ಬತ್ತೆರ್, ಬೊಕ್ಕ "ಅಮ್ಮೆ, ಅಪ್ಪೆ! ನಮ ದಾದ ಕಂಡುದು ತೂಲೆ!"
+
+ಅಕ್ಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆ ಬಾರಿ ಅಚ್ಚರಿಡ್ "ಈ ಲೋಹದ ತುಂಡುನ್ ಈರ್ ಒಲ್ಪ ಪತೊಂದುಲ್ಲರ್?"
+
+ಜಾನ್ ಬೊಕ್ಕ ಸಾರಾ ಅಕ್ಲೆನ ಆವಿಷ್ಕಾರೊಗು ಮಸ್ತ್ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್, ಬೊಕ್ಕ ಕತೆನ್ ಪನ್ರೆ ತಡೆರೆ ಆಯಿಜಿ. ಅಕುಲು ಪಿರವುದ ಅಂಗಳೊಡು ಲೋಹೊನು ತೂಯೆರ್ ಪಂಡ್ದ್ ನೆನಪು ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅವು ಮಸ್ತ್ ಮಿಂಚುನ ಬೊಕ್ಕ ಪ್ರತಿಬಿಂಬಿಸವುನವು.
+
+ಅಕ್ಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರ್ ನಕ್ಕುದು, "ಸರಿ, ದಾಯೆಗ್ ನಿಕುಲು ರಡ್ಡ್ ಜನಲಾ ಅವೆನ್ ನೆರೆಕರೆತ ಸುತ್ತಲ ಲೆತೊಂದು ಪೋದು ಅಯಿತ ಸರಿಯಾಯಿನ ಮಾಲೀಕೆರೆಗ್ ವಾಪಸ್ ಕೊರ್ಪುಜೆರ್ ಪಂದ್ ತೂವೊಂದಿಜ್ಜರ್. ಏರ್ಲಾ ದೆತೊನಂದೆ ಇತ್ತ್ಂಡ, ನಿಕುಲು ರಡ್ಡ್ ಜನ ಅವೆನ್ ದೀವೊಲಿ!".
+
+ಜಾನ್ ಬೊಕ್ಕ ಸಾರಾ ಲೋಹದ ನಿಜವಾಯಿನ ಮಾಲೀಕೆರೆನ್ ಕಂಡುಕೊನೆರೆ ಸಹಾಯ ಮಲ್ಪುನ ನಿರೀಕ್ಷೆಡ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಬೊಕ್ಕ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್, ಅಕುಲು ಅವೆನ್ ಪತೊಂದು ಪೋಯೆರ್, ಅಕ್ಲೆನ ನೆರೆಕರೆತಕುಲೆನ್ ಲೆಪ್ಪುನಗ ತಯಾರ್ ಆಯೆರ್."
+},
+
+{
+"english":"There was a little girl with dark hair. Her name was Joy. She lived in a big house with her parents. One day, Joy was playing outside in her garden. Suddenly, she felt something on her leg - something pinching her. It was a big, black bug!
+
+Joy screamed and tried to get away, but the bug kept following her. She tried to run and hide, but it was too quick.
+
+Joy's parents heard her cries and came running. They used a stick to help her get rid of the bug. After the bug was gone, they hugged Joy and told her everything would be alright.
+
+When the bug was gone, Joy felt relieved and happy. She went back to playing in the garden, making sure she didn't step on any more bugs."
+"tulu":"ಅಲ್ಪ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಕಪ್ಪು ಕೂದಲ್ ಇತ್ತ್ಂಡ್. ಅಲೆನ ಪುದರ್ ಜಾಯ್. ಅಲೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಒಂಜಿ ಮಲ್ಲ ಇಲ್ಲಡ್ ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ, ಜಾಯ್ ಅಲೆನ ತೋಟೊಡು ಪಿದಯಿ ಆಟ ಆಡೊಂದಿತ್ತೆ. ಅಕಸ್ಮಾತ್, ಅಲೆನ ಕಾರ್ಡ್ ದಾದನಾ ಒಂಜಿ ಅನುಭವ ಆಂಡ್ - ಒಂಜಿ ವಸ್ತು ಅಲೆನ್ ಪಿಂಚ್ ಮಲ್ಪುಂಡು. ಉಂದು ಒಂಜಿ ಮಲ್ಲ, ಕಪ್ಪು ಬಗ್!
+
+ಜಾಯ್ ಕಿರುಚುದು ಪಿದಯಿ ಪೋಯೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್, ಆಂಡ ಬಗ್ ಅಲೆನ್ ಅನುಸರಿಸೊಂದಿತ್ತೆ. ಅಲ್ ಓಡೆರೆ ಬೊಕ್ಕ ಮುಚ್ಚೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್, ಆಂಡ ಅವು ಮಸ್ತ್ ಬೇಗ ಆಂಡ್.
+
+ಜಾಯ್ ನ ಅಪ್ಪೆ ಅಮ್ಮೆರ್ ಅಲೆನ ಕಣ್ಣೀರ್ ಕೇಂಡ್ದ್ ಓಡೊಂದು ಬತ್ತೆರ್. ಅಕುಲು ಅಲೆಗ್ ಬಗ್ ನ್ ದೂರ ಮಲ್ಪೆರೆ ಸಹಾಯ ಮಲ್ಪೆರೆ ಒಂಜಿ ಕೋಲುನ್ ಬಳಕೆ ಮಲ್ತೆರ್. ಬಗ್ ಪೋಯಿ ಬೊಕ್ಕ, ಅಕುಲು ಜಾಯ್ ನ್ ತಬ್ಬಿದ್ ಎಲ್ಲಾ ಸರಿ ಆಪುಂಡು ಪಂಡೆರ್.
+
+ಬಗ್ ಪೋನಗ, ಜಾಯ್ ಗ್ ನಿರಾಳ ಬೊಕ್ಕ ಸಂತೋಷ ಆಂಡ್. ಅಲ್ ಗಾರ್ಡನ್ ಡ್ ಆಟ ಆಡೆರೆ ಪಿರ ಪೋಯೆರ್, ಅಲ್ ಏರ್ಲಾ ಕೀಟೊಲೆನ್ ಪಾದ ಪಾಡುಜೆರ್ ಪನ್ಪಿನೆನ್ ಖಚಿತ್ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time there was a little girl named Rita. She was gentle and sweet and was always nice to everyone. One day Rita was walking in the park and noticed something shiny. She decided to take a closer look. As she got closer, she realized that someone had stolen someone else's toy.
+
+Rita was very sad because she knew the toy belonged to someone else. But then she looked at the toy, she noticed that part of it was broken. She put her small muscle into work and managed to fix it.
+
+Rita picked up the toy and decided to find who it belonged to. She went all around the park, showing the toy to anyone who looked like they were searching for it. Finally, she found a young boy who was looking for the toy.
+
+Rita quietly gave the toy to the boy, who looked at her in surprise. He thanked her and said, "You taught me a very important lesson: to respect peopleâ€™s belongings and to treat others with kindness."
+
+Rita smiled, feeling proud of herself. She had done something good and made a difference. Later that day, Rita thought to herself, "When you are gentle and kind, you can do magical things!"
+One day, John and his mom were out in the woods. John was looking to find some lumber for his toy boat. They had been scourging for hours, but hadn't found anything yet."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ರೀತಾ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಅಲ್ ಸೌಮ್ಯ ಬೊಕ್ಕ ಮಧುರ ಆದಿತ್ತೆರ್ ಬೊಕ್ಕ ಪ್ರತಿಯೊಬ್ಬೆರೆಗ್ಲಾ ಎಡ್ಡೆ ಆದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ ರೀಟಾ ಪಾರ್ಕ್ ಡ್ ನಡತೊಂದು ಇತ್ತಿನಗ ಒಂಜಿ ಮಿಂಚುನ ವಸ್ತುನು ತೂಯೆರ್. ಅಲ್ ಒಂಜಿ ಎಡ್ಡೆ ತೂಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಅಲ್ ಮುಟ್ಟ ಬನ್ನಗ, ಒರಿ ಬೇತೆ ಒರಿನ ಆಟಿಕೆನ್ ಕದಿಕೆ ಮಲ್ತೆರ್ ಪಂದ್ ಅಲೆಗ್ ಅರ್ಥ ಆಂಡ್.
+
+ಆ ಆಟಿಕೆ ಬೇತೆ ಒರಿನವು ಪಂಡ್ದ್ ಗೊತ್ತಿತ್ತಿನೆಡ್ದಾವರ ರೀಟಾಗ್ ಮಸ್ತ್ ಬೇಜಾರ್ ಆಂಡ್. ಆಂಡ ಅಪಗ ಅಲ್ ಆ ಆಟಿಕೆನ್ ತೂಯೆರ್, ಅಯಿತ ಒಂಜಿ ಭಾಗ ಮುರಿದ್ಂಡ್ ಪಂಡ್ದ್ ಅಲೆಗ್ ಗೊತ್ತಾಂಡ್. ಅಲೆನ ಎಲ್ಯ ಸ್ನಾಯುನ್ ಕೆಲಸೊಗು ಪಾಡ್ದ್ ಅವೆನ್ ಸರಿ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಂಡ್.
+
+ರೀಟಾ ಆ ಆಟಿಕೆನ್ ದೆತೊನುದು ಅಯಿನ್ ಏರೆನವು ಪಂಡ್ದ್ ತೆರಿಯೊನೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಅಕುಲು ಉದ್ಯಾನವನೊದ ಸುತ್ತಲೂ ಪೋದು, ಅಕುಲು ಅಯಿನ್ ತೂವೊಂದುಪ್ಪುನಂಚಿನ ತೋಜುನಕುಲೆಗ್ ಆ ಆಟಿಕೆನ್ ತೋಜಾವೆರ್. ಅಂಚನೆ, ಅಲ್ಪ ಆಟಿಕೆನ್ ತೂವೊಂದಿತ್ತಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆನ್ ತೂಯೆರ್.
+
+ರೀಟಾ ಮೌನವಾದ್ ಆ ಆಟಿಕೆನ್ ಆ ಬಾಲೆಗ್ ಕೊರ್ಪೆ, ಆ ಬಾಲೆ ಅಲೆನ್ ಆಶ್ಚರ್ಯೊಡು ತೂಯೆರ್. ಆರ್ ಅಲೆಗ್ ಸೊಲ್ಮೆಲು ಪನ್ಪೆರ್, "ಈರ್ ಎಂಕ್ ಒಂಜಿ ಮುಖ್ಯವಾಯಿನ ಪಾಠನ್ ಕಲ್ಪಾದ್ ಕೊರ್ತರ್: ಜನಕುಲೆನ ವಸ್ತುಲೆನ್ ಗೌರವಿಸೊಡು ಬೊಕ್ಕ ಬೇತೆಕ್ಲೆನ್ ದಯೆಡ್ ತೂವೊಡು."
+
+ರೀಟಾ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್, ತನ್ನ ಮಿತ್ತ್ ಹೆಮ್ಮೆ ಅನುಭವಿಸಯೆರ್. ಅಲ್ ಒಂಜಿ ಎಡ್ಡೆ ಕೆಲಸ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಬದಲಾವಣೆನ್ ಮಲ್ತೆರ್. ಆ ದಿನೊತ ನಡುಟು, ರೀಟಾ ತನ್ನ ಮನಸ್ಸ್ ಡ್ ಯೋಚನೆ ಮಲ್ತೆರ್, "ಈರ್ ಸೌಮ್ಯ ಬೊಕ್ಕ ದಯಾಳು ಆನಗ, ಈರ್ ಮಾಂತ್ರಿಕ ಕೆಲಸೊಲೆನ್ ಮಲ್ಪೊಲಿ!"
+ಒಂಜಿ ದಿನ, ಜಾನ್ ಬೊಕ್ಕ ಅರೆನ ಅಮ್ಮೆ ಕಾಡ್ ಡ್ ಇತ್ತೆರ್. ಜಾನ್ ತನ್ನ ಆಟಿಕೆದ ದೋಣಿಗ್ ಕೆಲವು ಮರತ್ತ ಮರನ್ ತೂಯೆರೆ ತೂವೊಂದಿತ್ತೆ. ಅಕುಲು ಗಂಟೆಗಟ್ಟಲೆ ಗೊಬ್ಬುದು ಇತ್ತೆರ್, ಆಂಡ ಇತ್ತೆಲಾ ದಾಲ ಗೊತ್ತುಜ್ಜಿ."
+},
+
+{
+"english":"Once upon a time, there was a little boy named Thomas. He was three years old and loved to explore. One day, he went on a big adventure to a far away oasis.
+
+On his way, he found a broken tree branch. He decided to touch it, but quickly pulled his hand away as it was too sharp.
+
+As Thomas continued his journey, he pondered why the branch was so broken. He soon came across a little river that was flowing down the side of the oasis. He remembered the branch and wondered if the river had something to do with it.
+
+The little boy arrived at the oasis and he was in awe. He ran to the edge of the water and started to touch it. As soon as he did, the river started to swell and the current quickly became stronger. Thomas quickly pulled his hand away.
+
+The little boy realized that the branch had broken from the rapidly rising waters. Thomas now understood why the branch was so broken and he was careful not to touch it again."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಥಾಮಸ್ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಆರ್ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಆರ್ ಒಂಜಿ ಮಲ್ಲ ಸಾಹಸೊಗು ಪೋಯೆರ್ ಒಂಜಿ ದೂರದ ಓಯಸಿಸ್ ಗ್.
+
+ಅರೆನ ಸಾದಿಡ್, ಒಂಜಿ ಮುರಿದ್ ಪೋಯಿನ ಮರತ ಗೆಲ್ಲ್ ನ್ ತೂಯೆರ್. ಅಯನ್ ಸ್ಪರ್ಶ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್, ಆಂಡ ಅಯಿನ್ ಮಸ್ತ್ ಚೂಪಾದ್ ಇತ್ತಿನೆಡ್ದಾವರ ಅಯನ ಕೈನ್ ತ್ವರಿತವಾದ್ ದೂರ ಮಲ್ತೆರ್.
+
+ಥಾಮಸ್ ತನ್ನ ಪ್ರಯಾಣೊನು ಮುಂದುವರಿಸೊಂದಿತ್ತಿನಗ, ಆ ಶಾಖೆ ದಾಯೆಗ್ ಇಂಚ ಮುರಿಂಡ್ ಪಂದ್ ಯೋಚನೆ ಮಲ್ತೆರ್. ಓಯಸಿಸ್ ದ ಬರಿಟ್ ಬರ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಸುದಿನ್ ಆರ್ ಬೇಗನೆ ತೂಯೆರ್. ಆರ್ ಶಾಖೆನ್ ನೆಂಪು ಮಲ್ತೆರ್ ಬೊಕ್ಕ ನದಿಗ್ ಅಯಿಟ್ ದಾದನಾ ಸಂಬಂಧ ಉಂಡಾ ಪಂದ್ ಯೋಚನೆ ಮಲ್ತೆರ್.
+
+ಆ ಎಲ್ಯ ಬಾಲೆ ಓಯಾಸಿಸ್ ಗ್ ಬತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಆರ್ ಆಶ್ಚರ್ಯೊಡು ಇತ್ತೆರ್. ಆರ್ ನೀರ್ದ ಅಂಚಿಗ್ ಓಡೊಂದು ಅಯಿನ್ ಮುಟ್ಟೆರೆ ಸುರು ಮಲ್ತೆರ್. ಅಯೆ ಮಲ್ತಿನಗನೆ, ನದಿ ಏರೊಂದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಪ್ರವಾಹ ತ್ವರಿತವಾದ್ ಗಟ್ಟಿಯಾಂಡ್. ಥಾಮಸ್ ತ್ವರಿತವಾದ್ ತನ್ನ ಕೈನ್ ದೂರ ಮಲ್ತೆರ್.
+
+ತ್ವರಿತವಾದ್ ಏರುನ ನೀರ್ಡ್ದ್ ಶಾಖೆ ಮುರಿದ್ಂಡ್ ಪಂದ್ ಎಲ್ಯ ಬಾಲೆಗ್ ಅರ್ಥ ಆಂಡ್. ಥಾಮಸ್ ಇತ್ತೆ ಶಾಖೆ ದಾಯೆಗ್ ಮುರಿದ್ ಪೋತುಂಡು ಪನ್ಪಿನೆನ್ ಅರ್ಥ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಯಿನ್ ಮತ್ತೆ ಮುಟ್ಟೆರೆ ಬಲ್ಲಿ ಪಂದ್ ಜಾಗ್ರತೆ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a lazy figure who was always looking for ways to relax. One day, he saw a big tree in the distance and decided to take a nap. As he was lying there, a small voice shouted, â€œHey! Wake up!â€
+
+The lazy figure opened his eyes and saw a small child standing in front of him. The child was insisting that the figure should come play with him. But the lazy figure was feeling too lazy to move so he politely declined the friendly offer.
+
+The child was very persistent, though, and he kept insisting that the figure should come play. So the figure finally gave in and agreed to follow the child's lead.
+
+And so, the lazy figure followed the boy and had the most amazing day! They laughed and played for hours and soon their day had come to an end. The figure was very grateful for the company and said goodbye to the wonderful little child.
+
+The figure returned home feeling refreshed and kids all around continued to insist that he join them to have lots of fun.
+
+The end."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒರಿ ಸೋಮಾರಿ ವ್ಯಕ್ತಿ ಇತ್ತೆರ್, ಆರ್ ಯಾಪಲ ವಿಶ್ರಾಂತಿ ಪಡೆಯೆರೆ ಮಾರ್ಗೊಲೆನ್ ತೂವೊಂದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ, ದೂರೊಡು ಒಂಜಿ ಮಲ್ಲ ಮರ ತೂದು ಒಂತೆ ನಿದ್ರೆ ಮಲ್ಪೆರೆ ನಿಶ್ಚಯ ಮಲ್ತೆರ್. ಆರ್ ಅಲ್ಪ ಬೂರ್ದುಪ್ಪುನಗ, ಒಂಜಿ ಎಲ್ಯ ಸ್ವರ ಕಿರುಚುಂಡು, â€œಅರೆ! ಲಕ್ಕುಲೆ!â€
+
+ಆ ಸೋಮಾರಿ ವ್ಯಕ್ತಿ ತನ್ನ ಕಣ್ಣ್ ನ್ ತೆರೆಯೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಎಲ್ಯ ಬಾಲೆನ್ ತನ್ನ ಎದುರುಡು ನಿಲೆಯಾದ್ ತೂಯೆರ್. ಆ ಚಿತ್ರ ತನ್ನೊಟ್ಟುಗು ಆಟ ಆಡೊಡು ಪಂದ್ ಆ ಬಾಲೆ ಒತ್ತಾಯ ಮಲ್ತೊಂದಿತ್ತೆ. ಆಂಡ ಆ ಸೋಮಾರಿ ವ್ಯಕ್ತಿ ಚಲನೆ ಮಲ್ಪೆರೆ ಮಸ್ತ್ ಸೋಮಾರಿ ಆಯಿನೆಡ್ದಾವರ ಆರ್ ಸ್ನೇಹಿ ಆಫರ್ ನ್ ಸಭ್ಯವಾದ್ ನಿರಾಕರಣೆ ಮಲ್ತೆರ್.
+
+ಆಂಡಲಾ, ಆ ಬಾಲೆ ಮಸ್ತ್ ನಿರಂತರವಾದ್ ಇತ್ತ್ಂಡ್, ಬೊಕ್ಕ ಆ ಫಿಗರ್ ಆಟ ಆಡೊಡು ಪಂದ್ ಒತ್ತಾಯ ಮಲ್ತೊಂದಿತ್ತೆ. ಅಂಚಾದ್ ಆ ವ್ಯಕ್ತಿ ಅಕೇರಿಗ್ ಸೋತುದು ಬಾಲೆದ ಮಾರ್ಗದರ್ಶನೊನು ಅನುಸರಿಸೆರೆ ಒಪ್ಪಿಗೆ ಮಲ್ತೆರ್.
+
+ಅಂಚಾದ್, ಆ ಸೋಮಾರಿ ವ್ಯಕ್ತಿ ಆ ಬಾಲೆನ್ ಅನುಸರಿಸಯೆರ್ ಬೊಕ್ಕ ಅತ್ಯಂತ ಅದ್ಭುತ ದಿನೊನು ಕಳೆಯೆರ್! ಅಕುಲು ಗಂಟೆಗಟ್ಟಲೆ ನಕ್ಕುದು ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಶೀಘ್ರೊಡು ಅಕ್ಲೆನ ದಿನ ಮುಗಿಂಡ್. ಆ ವ್ಯಕ್ತಿ ಕಂಪೆನಿಗ್ ಮಸ್ತ್ ಕೃತಜ್ಞೆ ಆಯೆರ್ ಬೊಕ್ಕ ಆ ಅದ್ಭುತ ಎಲ್ಯ ಬಾಲೆಗ್ ವಿದಾಯ ಪಂಡೆರ್.
+
+ಆ ವ್ಯಕ್ತಿ ರಿಫ್ರೆಶ್ ಆದ್ ಇಲ್ಲಗ್ ವಾಪಸ್ ಬತ್ತೆರ್ ಬೊಕ್ಕ ಸುತ್ತಮುತ್ತ ಉಪ್ಪುನ ಜೋಕುಲು ಅರೆನ್ ಮಸ್ತ್ ಮೋಜಿಗ್ ಸೇರಾವೊಡು ಪಂದ್ ಒತ್ತಾಯ ಮಲ್ತೆರ್.
+
+ಅಂತ್ಯ."
+},
+{
+"english":"Once upon a time there was a new little bunny. Her name was Chloe and she was very excited to explore the world.
+
+One day she was hopping in the forest when something big happened! The trees began to shake and the ground rumbled. Chloe didn't know what to do, so she crouched down and covered her ears until the shaking stopped.
+
+When it was all over, Chloe looked around and saw all of the other animals. They were all looking just as scared as she felt.
+
+Suddenly, a wise old owl spoke up. "My friends," he said. "We just had an earthquake!"
+
+Everyone looked confused. "What is an earthquake?" Chloe asked.
+
+"It is a big shaking that happens sometimes," said the owl. "We all need to be careful when it happens!"
+
+Chloe thanked the owl for teaching her something new and, after that day, she liked to be extra careful whenever she heard rumbling in the ground.
+Once upon a time, there was a little girl named Molly. She was very worried, because she had lost her favorite toy. One night, while she was crying in bed, she heard a gentle hooting sound."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಪೊಸ ಎಲ್ಯ ಮೊಲ ಇತ್ತ್ಂಡ್. ಅಲೆನ ಪುದರ್ ಕ್ಲೋಯಿ ಆದಿತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಲೆನ್ ಜಗತ್ತ್ ನ್ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ ಅಲ್ ಕಾಡ್ಡ್ ಜಂಪ್ ಮಲ್ತೊಂದು ಇತ್ತಿನಗ ಒಂಜಿ ಮಲ್ಲ ಘಟನೆ ನಡತ್ಂಡ್! ಮರಕುಲು ಕಂಪೆರೆ ಸುರು ಆಂಡ್ ಬೊಕ್ಕ ನೆಲ ಗುಡುಗುದು ಪೋಂಡು. ಕ್ಲೋಯಿಗ್ ದಾದ ಮಲ್ಪೊಡು ಪಂದ್ ಗೊತ್ತುಜ್ಜಿ, ಅಂಚಾದ್ ಅಲ್ಪ ಕುಲ್ಲುದು ಕಂಪನ ನಿಂತುನ ಮುಟ್ಟ ಅಲೆನ ಕಿನ್ನಿಲೆನ್ ಮುಚ್ಚಿಯೆರ್.
+
+ಉಂದು ಮಾತ ಮುಗಿನಗ, ಕ್ಲೋಯಿ ಸುತ್ತಲ ತೂದು ಬೇತೆ ಮಾತಾ ಪ್ರಾಣಿಲೆನ್ ತೂಯೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಅಲೆಗ್ ತೋಜಿನಲೆಕನೆ ಭಯೊಡು ಇತ್ತೆರ್.
+
+ಒಂಜಿ ಸಲ, ಒಂಜಿ ಬುದ್ಧಿವಂತ ಮಲ್ಲ ಗೂಬೆ ಪಾತೆರೊಂಡು. "ಎನ್ನ ಸ್ನೇಹಿತೆರ್," ಆರ್ ಪಂಡೆರ್. "ನಮಕ್ ಒಂಜಿ ಭೂಕಂಪ ಬತ್ತ್ಂಡ್!"
+
+ಪ್ರತಿಯೊಬ್ಬಲಾ ಗೊಂದಲೊಡು ಇತ್ತೆರ್. "ಭೂಕಂಪ ಪಂಡ ದಾದ?" ಕ್ಲೋಯಿ ಕೇಂಡೆರ್.
+
+"ಕೆಲವೊಂಜಿ ಸರ್ತಿ ಉಂದು ಮಲ್ಲ ಕಂಪನ ಆಪುಂಡು," ಪಂಡ್ದ್ ಗೂಬೆ ಪಂಡೆರ್. "ಅವು ಆನಗ ನಮ ಮಾತೆರ್ಲ ಜಾಗ್ರತೆ ಮಲ್ಪೊಡು!"
+
+ಕ್ಲೋಯಿ ಗೂಬೆಗ್ ಒಂಜಿ ಪೊಸತ್ ದಾದನಾ ಕಲ್ಪಾವುನೆಕ್ ಧನ್ಯವಾದೊಲೆನ್ ಪಂಡೆರ್ ಬೊಕ್ಕ, ಆ ದಿನೊತ ಬೊಕ್ಕ, ನೆಲಟ್ ಗುಡುಗುನ ಶಬ್ದ ಕೇನ್ನಗ ಅಲೆಗ್ ಎಚ್ಚ ಜಾಗ್ರತೆಡ್ ಉಪ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್.
+ಒಂಜಿ ಕಾಲೊಡು ಮೊಲಿ ಪನ್ಪಿನ ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಮಗಲ್ ಇತ್ತೆರ್. ಅಲೆಗ್ ಮಸ್ತ್ ಚಿಂತೆ ಆಂಡ್, ದಾಯೆ ಪಂಡ ಅಲೆನ ನೆಚ್ಚಿನ ಆಟಿಕೆನ್ ಕಳೆವೊಂದಿತ್ತೆರ್. ಒಂಜಿ ರಾತ್ರೆ, ಅಲ್ ಬೆಡ್ ಡ್ ಕಣ್ಣೀರ್ ಪಾಡ್ದ್ ಇತ್ತಿನಗ, ಅಲ್ ಒಂಜಿ ಮೃದುವಾದ್ ಹುಟ್ ಮಲ್ಪುನ ಶಬ್ದ ಕೇಂಡೆರ್."
+},
+
+{
+"english":"Once upon a time there was a small boy who wanted to go on an adventure. He decided to take a boat out to sea. After a few hours, the boat sailed onto a big, beautiful island.
+
+The island was so nice that the boy wanted to explore it. He jumped out of the boat into the water and started to swim towards the island. There was a mild breeze that kept him cool as he swam.
+
+The boy arrived on the shore of the island. He looked around and noticed a small hut. He stood up and walked towards it. When he arrived, he heard a voice say, "Hello! Who are you?"
+
+The boy was surprised. He looked around and saw an old man standing nearby. The old man said, "I'm the island's caretaker. My name is John. What's your name?"
+
+The boy smiled and said his name. Then he asked if he could explore the island. John said to him, "Of course you can. Just be careful - some of the island can be a bit wild. I'll stay here and make sure you're safe."
+
+So the boy explored the island with John. They walked around the beach and swam in the mild ocean. Then, when it was time to go back, the boy thanked John for showing him the island and waved goodbye.
+
+The boy sailed back to the shore with lots of great memories of the island. He
+Once upon a time there was a fairy who lived in a tree near a pond. The fairy was very stubborn and always wanted things to go her way."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಎಲ್ಯ ಬಾಲೆ ಒಂಜಿ ಸಾಹಸೊಗು ಪೋಯೆರೆ ಬಯಕೆ ಮಲ್ತೊಂದಿತ್ತೆ. ಆರ್ ಒಂಜಿ ದೋಣಿನ್ ಕಡಲ್ಗ್ ಪೋಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಒಂಜಿ ರಡ್ಡ್ ಗಂಟೆಡ್ದ್ ಬೊಕ್ಕ, ದೋಣಿ ಒಂಜಿ ಮಲ್ಲ, ಪೊರ್ಲುದ ದ್ವೀಪೊಗು ಪೋಂಡು.
+
+ಆ ದ್ವೀಪ ಎಡ್ಡೆ ಇತ್ತಿನೆಡ್ದಾವರ ಆ ಬಾಲೆಗ್ ಅಯಿನ್ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್. ಆರ್ ದೋಣಿಡ್ದ್ ನೀರ್ ಗ್ ಜಿಗಿಯೆರ್ ಬೊಕ್ಕ ದ್ವೀಪೊದ ಕಡೆಕ್ ಈಜೆರೆ ಸುರು ಮಲ್ತೆರ್. ಒಂಜಿ ಸೌಮ್ಯ ಗಾಳಿ ಬೀಸೊಂದಿತ್ತ್ಂಡ್ ಅವು ಅಯನ್ ತಂಪು ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್.
+
+ಆ ಬಾಲೆ ದ್ವೀಪದ ಕರೆಕ್ ಬತ್ತೆ. ಆರ್ ಸುತ್ತಲ ತೂದು ಒಂಜಿ ಎಲ್ಯ ಗುಡಿಸಲೊನು ತೂಯೆರ್. ಆರ್ ಲಕ್ಕ್ದ್ ಅಯಿತ ಕಡೆಕ್ ನಡತೆರ್. ಆರ್ ಬನ್ನಗ, "ನಮಸ್ಕಾರ! ಈರ್ ಏರ್?" ಪನ್ಪಿನ ಸ್ವರ ಕೇಂಡ್ಂಡ್.
+
+ಆ ಬಾಲೆಗ್ ಆಶ್ಚರ್ಯ ಆಂಡ್. ಆರ್ ಸುತ್ತಲ ನೋತೆರ್ ಬೊಕ್ಕ ಒರಿ ಮಲ್ಲ ಮನುಷ್ಯೆ ಕೈತಲ್ ಉಂತುದು ಇತ್ತೆರ್. ಆ ಮಲ್ಲ ಮನುಷ್ಯೆ ಪಂಡೆ, "ಯಾನ್ ದ್ವೀಪದ ಕಾಳಜಿಗಾರೆ. ಎನ್ನ ಪುದರ್ ಜಾನ್. ನಿನ್ನ ಪುದರ್ ದಾದ?"
+
+ಆ ಬಾಲೆ ಮುಗುಳ್ನಗುದ್ ಅರೆನ ಪುದರ್ ಪಂಡೆರ್. ಅಪಗ ಆರ್ ದ್ವೀಪೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪೊಲಿ ಪಂದ್ ಕೇಂಡೆರ್. ಜಾನ್ ಆಯಗ್ ಪಂಡೆರ್, "ಖಂಡಿತಾ ನಿಕುಲು ಮಲ್ಪೊಲಿ. ಜಾಗ್ರತೆ ಮಲ್ಪುಲೆ - ದ್ವೀಪೊದ ಕೆಲವು ಭಾಗೊಲು ಒಂತೆ ಕಾಡು ಆವೊಲಿ. ಯಾನ್ ಇಲ್ಲಡ್ ಉಪ್ಪುವೆ ಬೊಕ್ಕ ನಿಕುಲು ಸುರಕ್ಷಿತವಾದ್ ಉಲ್ಲರ್ ಪನ್ಪಿನೆನ್ ಖಚಿತ್ ಮಲ್ಪುವೆ."
+
+ಅಂಚಾದ್ ಆ ಬಾಲೆ ಜಾನ್ ನ ಒಟ್ಟುಗು ದ್ವೀಪೊನು ಅನ್ವೇಷಣೆ ಮಲ್ತೆರ್. ಅಕುಲು ಕಡಲತೀರೊಡು ನಡತೊಂದು ಬೊಕ್ಕ ಸೌಮ್ಯ ಸಾಗರೊಡು ಈಜೊಂದಿತ್ತೆರ್. ಅಪಗ, ಪಿರ ಪೋಪಿನ ಪೊರ್ತು ಬನ್ನಗ, ಆ ಬಾಲೆ ಜಾನ್ ಗ್ ದ್ವೀಪೊನು ತೋಜಾದ್ ಕೊರ್ನಕ್ಲೆಗ್ ಸೊಲ್ಮೆಲು ಪನ್ಪೆ ಬೊಕ್ಕ ಗುಡ್ ಬೈ ಪಂಡೆ.
+
+ಆ ಬಾಲೆ ದ್ವೀಪದ ಬಗ್ಗೆ ಮಸ್ತ್ ಎಡ್ಡೆ ನೆನಪುಲೆನ್ ತೂದು ಕರಾವಳಿಗ್ ಪಿರ ಪೋಯೆರ್. ಆಯೆ
+ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಕೆರೆತ ಕೈತಲ್ದ ಮರಟ್ ಒಂಜಿ ಮೇರಿ ವಾಸ ಮಲ್ತೊಂದಿತ್ತೆ. ಆ ಕಾಲ್ಪನಿಕ ಬಾರಿ ಜಡ್ಡು ಆದಿತ್ತೆ ಬೊಕ್ಕ ಯಾಪಲ ಅಲೆನ ರೀತಿಡ್ ನಡಪೊಡು ಪಂದ್ ಬಯಕೊಂದಿತ್ತೆ."
+},
+
+{
+"english":"Once upon a time there was a black record. It was very helpful and it could do great things.
+
+One day, a 3 year old wanted to use the record. The record said, "I can't help you out. You have to be older". The 3 year old was very sad.
+
+Then, an old man showed up. He was very helpful and offered to help find a way to make the record work. He tried to figure out how to make the record work, but no matter how hard he tried, he couldn't make the record work.
+
+The 3 year old was very sad. He asked the old man, "Can you make it work?"
+
+The old man shook his head and said, "I'm sorry, but I can't make it work. I tried everything I could. I'm afraid the record will never work again."
+
+The 3 year old was very sad and never forgot the black record. The 3 year old never saw the old man again."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಕಪ್ಪು ದಾಖಲೆ ಇತ್ತ್ಂಡ್. ಉಂದು ಮಸ್ತ್ ಸಹಾಯ ಆಂಡ್ ಬೊಕ್ಕ ಉಂದು ಮಲ್ಲ ಮಲ್ಲ ಕೆಲಸೊಲೆನ್ ಮಲ್ಪುಂಡು.
+
+ಒಂಜಿ ದಿನ, ಒರಿ 3 ವರ್ಷದ ಬಾಲೆ ರೆಕಾರ್ಡ್ ನ್ ಬಳಕೆ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ರೆಕಾರ್ಡ್ ಪನ್ಪುಂಡು, "ಯಾನ್ ನಿಕ್ಲೆಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ. ನಿಕುಲು ಮಲ್ಲೆ ಆವೊಡು". ೩ ವರ್ಷದ ಬಾಲೆಗ್ ಮಸ್ತ್ ಬೇಜಾರ್ ಆಂಡ್.
+
+ಅಪಗ, ಒರಿ ಮಲ್ಲ ಮನುಷ್ಯೆ ಬತ್ತೆರ್. ಆರ್ ಮಸ್ತ್ ಸಹಾಯ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ರೆಕಾರ್ಡ್ ಕೆಲಸ ಮಲ್ಪುನ ಮಾರ್ಗನ್ ಕಂಡುಕೊನೆರೆ ಸಹಾಯ ಮಲ್ಪೆರೆ ಒಫರ್ ಮಲ್ತೆರ್. ಆರ್ ರೆಕಾರ್ಡ್ ನ್ ಎಂಚ ಕೆಲಸ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆನ್ ತೆರಿಯೊನೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್, ಆಂಡ ಆರ್ ಎಂಚ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್ಂಡಲಾ, ಆರ್ ರೆಕಾರ್ಡ್ ನ್ ಕೆಲಸ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+೩ ವರ್ಷದ ಬಾಲೆಗ್ ಮಸ್ತ್ ಬೇಜಾರ್ ಆಂಡ್. ಆರ್ ಮಲ್ಲ ಮನುಷ್ಯನ್ ಕೇಂಡೆರ್, "ಈರ್ ಉಂದೆನ್ ಕೆಲಸ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಪುಂಡಾ?"
+
+ಆ ಮಲ್ಲ ಮನುಷ್ಯೆ ತರೆ ಲಕ್ಕಾದ್ ಪಂಡೆ, "ಕ್ಷಮೆ ಮಲ್ಪುಲೆ, ಆಂಡ ಎಂಕ್ ಉಂದೆನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ. ಎಂಕ್ ಸಾಧ್ಯ ಆಯಿನ ಮಾತ ಪ್ರಯತ್ನ ಮಲ್ತುವ. ರೆಕಾರ್ಡ್ ದುಂಬುಗು ಏಪಲಾ ಕೆಲಸ ಮಲ್ಪುಜಿ ಪಂದ್ ಎಂಕ್ ಭಯ ಉಂಡು."
+
+ಆ 3 ವರ್ಷದ ಬಾಲೆ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಕಪ್ಪು ದಾಖಲೆನ್ ಎನ್ನಿಯೆರೆ ಬಲ್ಲಿ. ಆ 3 ವರ್ಷದ ಬಾಲೆ ಆ ಮಲ್ಲ ಮನುಷ್ಯನ್ ತೂಯೆರೆ ಬಲ್ಲಿ."
+},
+
+{
+"english":"Once upon a time there was a little girl who loved trips. She woke up one morning and asked her mom, "Can we go on a trip today?" Her Mom smiled and said, "Yes, let's go!"
+
+The little girl got dressed quickly and they went outside. The sun was bright and the sky was a beautiful color.
+
+The mom and the little girl walked to the park and went to the pond. The little girl became very excited and wanted to stir the pond. She grabbed the stick and stirred the water.
+
+The pond became a colorful whirlpool of fun. The little girl was so happy that she danced around with joy. Inside the whirlpool, she found colorful fish, rocks, and some small treasure.
+
+The mom and the little girl had a wonderful trip and returned home with lots of beautiful memories."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಟ್ರಿಪ್ಸ್ ನ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ ಬೆಳಗ್ಗೆ ಲಕ್ಕಾದ್ ಅಲೆನ ಅಮ್ಮೆರೆನ್ ಕೇಂಡೆರ್, "ಇನಿ ನಮ ಒಂಜಿ ಟ್ರಿಪ್ ಗ್ ಪೋವೊಲಿ?" ಅಲೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್, "ಆಂಡ್, ಪೋವೊಡು!"
+
+ಎಲ್ಯ ಪೊಣ್ಣು ಬೇಗನೆ ಡ್ರೆಸ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಪಿದಯಿ ಪೋಯೆರ್. ಸೂರ್ಯ ಬೊಲ್ಪು ಬೊಕ್ಕ ಆಕಾಶ ಒಂಜಿ ಪೊರ್ಲುದ ಬಣ್ಣೊಡು ಇತ್ತ್ಂಡ್.
+
+ಅಮ್ಮೆ ಬೊಕ್ಕ ಎಲ್ಯ ಪೊಣ್ಣು ಪಾರ್ಕ್ ಗ್ ನಡತೊಂದು ಪೋದು ಕೆರೆಕ್ ಪೋಯೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಪೋದು ಕೊಳೊನು ಕಲಸೊಡು ಪಂದ್ ಆಸೆ ಆಯೆರ್. ಅಲ್ ಕೋಲುನ್ ಪತೊಂದು ನೀರ್ನ್ ಗೊಬ್ಬುವೆರ್.
+
+ಕೊಳ ಒಂಜಿ ಬಣ್ಣ ಬಣ್ಣದ ಮೋಜಿದ ಸುಂಟರಗಾಳಿ ಆಂಡ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಅಲೆನ್ ಸಂತೋಷೊಡು ಸುತ್ತಾಲ ನಲಿತೆರ್. ಸುಂಟರಗಾಳಿದ ಒಳ್ಗ್, ಅಲೆಗ್ ಬಣ್ಣ ಬಣ್ಣದ ಮೀನ್, ಕಲ್ಲ್ ಬೊಕ್ಕ ಕೆಲವು ಎಲ್ಯ ನಿಧಿಲು ತೋಜಿಂಡ್.
+
+ಅಮ್ಮೆ ಬೊಕ್ಕ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಒಂಜಿ ಎಡ್ಡೆ ಪ್ರಯಾಣ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಪೊರ್ಲುದ ನೆನಪುಲೆನ್ ತೂದು ಇಲ್ಲಗ್ ಬತ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a girl named Jane. She was spreading candy around with her friends. Everyone was having so much fun; they couldn't stop laughing.
+
+Suddenly, John came over to the group and saw everyone with the candy. He felt envious that he didn't have any.
+
+Jane happily offered John a piece of candy. "It's okay," she said, "We'll share."
+
+John couldn't believe how kind Jane was. He accepted the candy and enjoyed it together with the other children.
+
+Moral: Sharing brings people closer together and can make everyone happy."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜೇನ್ ಪನ್ಪಿನ ಒರಿ ಪೊಣ್ಣು ಇತ್ತೆ. ಅಲ್ ಅಲೆನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ಕ್ಯಾಂಡಿನ್ ಸುತ್ತಾಲ ಪಾಡೊಂದು ಇತ್ತೆರ್. ಪ್ರತಿಯೊಬ್ಬಲಾ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೊಂದು ಇತ್ತೆರ್; ಅಕುಲು ನಗುನು ತಡೆಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಅಕಸ್ಮಾತ್, ಜಾನ್ ಗುಂಪುದ ಎದುರುಗು ಬತ್ತ್ದ್ ಕ್ಯಾಂಡಿನ್ ತೂದು ಮಾತೆರೆನ್ಲಾ ತೂಯೆರ್. ಅರೆಗ್ ಒವ್ವೆಲಾ ಇಜ್ಜಿ ಪನ್ಪಿನೆಕ್ ಅರೆಗ್ ಅಸೂಯೆ ಆಂಡ್.
+
+ಜೇನ್ ಜಾನ್ ಗ್ ಒಂಜಿ ತುಂಡು ಕ್ಯಾಂಡಿನ್ ಸಂತೋಷೊಡು ಕೊರ್ಪೆ. "ಒರಿ ಇಜ್ಜಿ," ಅಲೆ ಪಂಡೆರ್, "ನಮ ಪಾಲ್ ಮಲ್ಪುವೆ."
+
+ಜೇನ್ ಎಂಚ ದಯಾಳು ಪಂಡ್ದ್ ಜಾನ್ ನಂಬೆರೆ ಆಯಿಜಿ. ಆರ್ ಕ್ಯಾಂಡಿನ್ ಸ್ವೀಕಾರ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಬೇತೆ ಜೋಕುಲೆನೊಟ್ಟುಗು ಒಟ್ಟುಗು ಆನಂದಿಸಯೆರ್.
+
+ನೈತಿಕತೆ: ಪಾಡುನವು ಜನೊಕುಲೆನ್ ಒಟ್ಟುಗು ಮಲ್ಪುಂಡು ಬೊಕ್ಕ ಮಾತೆರೆನ್ಲಾ ಸಂತೋಷ ಮಲ್ಪುಂಡು."
+},
+
+{
+"english":"Once upon a time there was a little girl who loved to play. Everywhere she went she would find something new and exciting to play with.
+
+One day the little girl was playing in the garden when she found a strange passport. The passport looked weird and she wondered where it had come from. The passport belonged to a magical mermaid who had been visiting the garden.
+
+The little girl wanted to show the passport to her family, so she put it in her pocket and went inside. But when she went to show her family the passport, there was no sign of it anywhere.
+
+The little girl looked everywhere but there was no sign of the passport. She asked her family if they had seen the passport, but they hadn't seen it. Suddenly, the little girl heard a voice coming from the garden. It was the magical mermaid, who thanked the little girl for finding her passport.
+
+The little girl was so happy to have found the passport and the magical mermaid was grateful to get it back. They played in the garden together until it was time for the mermaid to return home.
+
+From that day forward the little girl was never without her passport, always ready to explore new and exciting places."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಗೊಬ್ಬೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಲ್ ಎಲ್ಲಿಗ್ ಪೋಂಡಲಾ ಅಲ್ ಆಟ ಆಡೆರೆ ಒಂಜಿ ಪೊಸ ಬೊಕ್ಕ ಉತ್ತೇಜನಕಾರಿ ವಸ್ತುನ್ ತೂವೊಲಿ.
+
+ಒಂಜಿ ದಿನ ಆ ಎಲ್ಯ ಪೊಣ್ಣು ತೋಟೊಡು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ ಅಲೆಗ್ ಒಂಜಿ ವಿಚಿತ್ರ ಪಾಸ್ಪೋರ್ಟ್ ತೋಜಿಂಡ್. ಪಾಸ್ ಪೋರ್ಟ್ ವಿಚಿತ್ರವಾದ್ ತೋಜಿಂಡ್ ಬೊಕ್ಕ ಅವು ಎಲ್ಲಿಡ್ದ್ ಬತ್ತ್ಂಡ್ ಪಂದ್ ಅಲೆಗ್ ಆಶ್ಚರ್ಯ ಆಂಡ್. ಪಾಸ್ ಪೋರ್ಟ್ ಒಂಜಿ ಮಾಂತ್ರಿಕ ಮತ್ಸ್ಯಕನ್ಯೆಗ್ ಸೇರ್ದಿನವು, ಆರ್ ತೋಟೊಗು ಭೇಟಿ ಕೊರ್ದು ಇತ್ತೆರ್.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಪಾಸ್ ಪೋರ್ಟ್ ನ್ ಅಲೆನ ಕುಟುಂಬದಕ್ಲೆಗ್ ತೋಜಾವೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್, ಅಂಚಾದ್ ಅಲೆನ್ ಅಲೆನ ಜೇಬಿಡ್ ಪಾಡ್ದ್ ಒಳಗ್ ಪೋಯೆರ್. ಆಂಡ ಅಲೆನ ಕುಟುಂಬೊಗು ಪಾಸ್ ಪೋರ್ಟ್ ತೋಜಾವೆರೆ ಪೋನಗ, ಅಯಿತ ದಾಲ ಚಿಹ್ನೆ ಎಲ್ಲಿಲಾ ಇಜ್ಜಿ.
+
+ಎಲ್ಯ ಪೊಣ್ಣು ಎಲ್ಲೆಡೆ ತೂಯೆರ್ ಆಂಡ ಪಾಸ್ ಪೋರ್ಟ್ ದ ದಾಲ ಚಿಹ್ನೆ ಇಜ್ಜಿ. ಅಕುಲು ಅಲೆನ ಕುಟುಂಬೊಗು ಪಾಸ್ ಪೋರ್ಟ್ ನ್ ತೂಯೆರ್ ಪಂದ್ ಕೇಂಡೆರ್, ಆಂಡ ಅಕುಲು ತೂದುಜೆರ್. ಒಂಜಿ ಸಲ, ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ತೋಟೊಡ್ದ್ ಬರ್ಪಿನ ಒಂಜಿ ಸ್ವರ ಕೇಂಡ್ಂಡ್. ಉಂದು ಮಾಂತ್ರಿಕ ಮತ್ಸ್ಯಕನ್ಯೆ, ಅರೆನ ಪಾಸ್ಪೋರ್ಟ್ ನ್ ಕಂಡುಕೊನೆರೆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಧನ್ಯವಾದೊಲು.
+
+ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಪಾಸ್ಪೋರ್ಟ್ ನ್ ತೂದು ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಮಾಂತ್ರಿಕ ಮತ್ಸ್ಯಕನ್ಯೆ ಅವೆನ್ ಪಿರ ದೆತೊನುನಗ ಕೃತಜ್ಞೆರಾದಿತ್ತೆರ್. ಮತ್ಸ್ಯಕನ್ಯೆ ಇಲ್ಲಗ್ ಬರ್ಪಿನ ಸಮಯ ಆಯಿನ ಮುಟ್ಟ ಅಕುಲು ಒಟ್ಟುಗು ತೋಟೊಡು ಆಟ ಆಡೊಂದಿತ್ತೆರ್.
+
+ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ ಆ ಎಲ್ಯ ಪೊಣ್ಣು ತನ್ನ ಪಾಸ್ಪೋರ್ಟ್ ಇಜ್ಜಂದೆ ಇಜ್ಜಿ, ಪೊಸ ಬೊಕ್ಕ ಉತ್ತೇಜನಕಾರಿ ಜಾಗೆಲೆನ್ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಯಾಪಲ ತಯಾರ್ ಉಪ್ಪುವೆರ್."
+},
+{
+"english":"Bruce was an incredibly brilliant three year old. He was playing with his friends in the garden and they were having a lot of fun. They were playing a game but Bruce started to feel like something wasn't quite right.
+
+He asked his friend, "Do you trust your sauce?" His friend shrugged and said, "Sure, it's tasty and I always eat it." Bruce thought for a moment, then asked, "Do you think it's always reliable?"
+
+His friend replied, "Yes, it's always been brilliant and hasn't let me down. I think it's reliable." That was enough for Bruce and he decided to trust the sauce.
+
+He made a choice to keep playing the game and have fun, trusting the sauce would always be reliable. Together with his friend, they finished the game happily.
+One day, Mom and Jack were in the garden. Jack looked around and saw all the different colors of the flowers. "Mom, can I pick one?" he asked. Mom nodded. "Yes," she said."
+"tulu":"ಬ್ರೂಸ್ ಒರಿ ಅದ್ಭುತವಾದ್ ಮಲ್ಲ ಮೂಜಿ ವರ್ಷದ ಬಾಲೆ ಆದಿತ್ತೆ. ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನೊಟ್ಟುಗು ತೋಟೊಡು ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೊಂದು ಇತ್ತೆರ್. ಅಕುಲು ಒಂಜಿ ಆಟ ಆಡೊಂದಿತ್ತೆರ್ ಆಂಡ ಬ್ರೂಸ್ ಗ್ ದಾದನಾ ಸರಿಯಾದ್ ಇಜ್ಜಿ ಪಂದ್ ಅನಿಸರೆ ಸುರು ಆಂಡ್.
+
+ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಕೇಂಡೆರ್, "ಈರ್ ನಿಕ್ಲೆನ ಸಾಸ್ ನ್ ನಂಬುವೆರಾ?" ಅರೆನ ಸ್ನೇಹಿತೆ ಭುಜನ್ ಒಯ್ತ್ ದ್ ಪಂಡೆರ್, "ಖಂಡಿತಾ, ಉಂದು ರುಚಿ ಆಪುಂಡು ಬೊಕ್ಕ ಯಾನ್ ಯಾಪಲ ಉಂದೆನ್ ನುಪ್ಪುವೆ." ಬ್ರೂಸ್ ಒಂಜಿ ಕ್ಷಣ ಯೋಚನೆ ಮಲ್ತೆರ್, ಬೊಕ್ಕ ಕೇಂಡೆರ್, "ಉಂದು ಯಾಪಲ ವಿಶ್ವಾಸಾರ್ಹವಾಯಿನವು ಪಂದ್ ನಿಕ್ಲೆಗ್ ತೋಜುಂಡಾ?"
+
+ಅರೆನ ಸ್ನೇಹಿತೆ ಉತ್ತರ ಕೊರ್ತೆರ್, "ಆಂಡ್, ಉಂದು ಯಾಪಲ ಅದ್ಭುತವಾದ್ ಉಂಡು ಬೊಕ್ಕ ಎಂಕ್ ನಿರಾಸೆ ಮಲ್ತ್ಜಿ. ಉಂದು ವಿಶ್ವಾಸಾರ್ಹವಾಯಿನವು ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು." ಬ್ರೂಸ್ ಗ್ ಅವು ಸಾಕಾಗುಂಡು ಬೊಕ್ಕ ಅವು ಸಾಸ್ ನ್ ನಂಬೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಸಾಸ್ ಯಾಪಲ ವಿಶ್ವಾಸಾರ್ಹ ಆಪುಂಡು ಪನ್ಪಿನ ನಂಬಿಕೆಡ್, ಆಟ ಆಡೊಂದು ಬೊಕ್ಕ ಮೋಜಿ ಮಲ್ಪುನ ಒಂಜಿ ಆಯ್ಕೆನ್ ಮಲ್ತೆರ್. ಅರೆನ ಸ್ನೇಹಿತೆನೊಟ್ಟುಗು, ಅಕುಲು ಆಟೊನು ಸಂತೋಷೊಡು ಮುಗಿತೆರ್.
+ಒಂಜಿ ದಿನ, ಅಮ್ಮೆ ಬೊಕ್ಕ ಜ್ಯಾಕ್ ತೋಟೊಡು ಇತ್ತೆರ್. ಜ್ಯಾಕ್ ಸುತ್ತಲ ತೂದು ಪೂಕುಲೆನ ಬೇತೆ ಬೇತೆ ಬಣ್ಣೊಲೆನ್ ತೂಯೆರ್. "ಅಮ್ಮೆ, ಯಾನ್ ಒಂಜಿ ಆಯ್ಕೆ ಮಲ್ಪೊಲಿ?" ಆರ್ ಕೇಂಡೆರ್. ಅಮ್ಮೆ ತರೆ ತಗ್ಗಾಯೆರ್. "ಆಂಡ್," ಅಲೆ ಪಂಡೆರ್."
+},
+
+{
+"english":"Once there was a little girl called Lucy who wanted to sell something very special. She carefully wrapped up her knee in a box and took it outside.
+
+Once she got to the market place, Lucy could see the many different people gathered together and she felt shy. She began to shout, â€œIâ€™m selling my knee!â€
+
+One of the people at the market was an old woman who had seen many things in her life. She approached Lucy and said, â€œDo you want some help selling your knee?â€
+
+Lucy nodded and smiled. The old woman was very compassionate and kind and she soon found a buyer who was willing to pay a good amount of money for Lucy's knee. Lucy could not believe her luck!
+
+The old woman then said, â€œYou should always be brave and use your compassion when trying to sell something. You never know who might be in the market place and be willing to buy it.â€
+
+Lucy smiled and said, â€œThank you so much for your advice and for helping me to sell my knee.â€
+
+The old woman smiled back at her and said, â€œIt was my pleasure. I'm sure you'll have success in other things you try and sell in the future.â€
+
+And Lucy never forgot the old woman's words or the lesson she had learnt on that day.
+John watched a bug crawl across the grass. He was careful not to hurt it. His mom smiled as she watched him. Mom picked up the little bug and put it inside her case."
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಲೂಸಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ವಸ್ತುನ್ ಮಾರಾಟ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಅಲೆನ ಮಂಡೆನ್ ಒಂಜಿ ಪೆಟ್ಟಿಗೆಡ್ ಎಚ್ಚ ಜಾಗ್ರತೆಡ್ ಸುತ್ತುದು ಪಿದಯಿ ದೆತೊಂಡೆರ್.
+
+ಒಂಜಿ ಸರ್ತಿ ಅಲ್ಪ ಮಾರುಕಟ್ಟೆಗ್ ಬನ್ನಗ, ಲೂಸಿಗ್ ಬೇತೆ ಬೇತೆ ಜನೊಕುಲು ಒಟ್ಟು ಸೇರ್ದ್ ಉಪ್ಪುನವು ತೋಜಿಂಡ್ ಬೊಕ್ಕ ಅಲೆಗ್ ನಾಚಿಕೆ ಆಂಡ್. ಅಲ್ ಕಿರುಚೆರೆ ಸುರು ಮಲ್ತೆರ್, â€œಯಾನ್ ಎನ್ನ ಮಂಡೆನ್ ಮಾರಾಟ ಮಲ್ಪುವೆ!â€
+
+ಮಾರುಕಟ್ಟೆಡ್ ಇತ್ತಿನ ಜನೊಕುಲೆಡ್ ಒರಿಯೆ ತನ್ನ ಜೀವನೊಡು ಮಸ್ತ್ ದಾದ ತೂಯಿನ ಮಲ್ಲ ಮಲ್ಲ ಪೊಣ್ಣು. ಅಲ್ ಲೂಸಿನ ಎದುರುಗು ಬತ್ತ್ದ್ ಪಂಡೆರ್, â€œನಿನ್ನ ಮಂಡೆನ್ ಮಾರಾಟ ಮಲ್ಪೆರೆ ನಿಕ್ಕ್ ಒಂಜಿ ಸಹಾಯ ಬೋಡು?â€
+
+ಲೂಸಿ ತರೆ ತಗ್ಗಾದ್ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್. ಆ ಮಲ್ಲ ಮಹಿಳೆ ಮಸ್ತ್ ಕರುಣಾಮಯಿ ಬೊಕ್ಕ ದಯಾಳು ಆದಿತ್ತೆರ್ ಬೊಕ್ಕ ಲೂಸಿನ ಮಂಡೆಗ್ ಎಡ್ಡೆ ಮೊತ್ತದ ದುಡ್ಡು ಕೊರ್ಪಿನ ಒರಿ ಖರೀದಿದಾರೆನ್ ತೂಯೆರ್. ಲೂಸಿಗ್ ಅಲೆನ ಅದೃಷ್ಟೊನು ನಂಬೆರೆ ಆಯಿಜಿ!
+
+ಅಪಗ ಆ ಪಿರಾಕ್ದ ಪೊಣ್ಣು ಪಂಡೆರ್, â€œಈರ್ ಯಾಪಲ ಧೈರ್ಯೊಡು ಉಪ್ಪೊಡು ಬೊಕ್ಕ ದಾದನಾ ಮಾರಾಟ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ಪುನಗ ನಿಕ್ಲೆನ ಕರುಣೆನ್ ಬಳಕೆ ಮಲ್ಪೊಡು. ಮಾರುಕಟ್ಟೆಡ್ ಏರ್ ಉಲ್ಲೆರ್ ಬೊಕ್ಕ ಅವೆನ್ ಕೊಂಡೊನೆರೆ ತಯಾರ್ ಉಲ್ಲೆರ್ ಪನ್ಪಿನೆನ್ ಈರ್ ಎನ್ನಿಯೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ.â€
+
+ಲೂಸಿ ನಕ್ಕುದು ಪಂಡೆರ್, "ನಿಕ್ಲೆನ ಸಲಹೆಗ್ ಬೊಕ್ಕ ಎನ್ನ ಮಂಡೆನ್ ಮಾರಾಟ ಮಲ್ಪೆರೆ ಎಂಕ್ ಸಹಾಯ ಮಲ್ತಿನಕ್ಲೆಗ್ ಮಸ್ತ್ ಧನ್ಯವಾದೊಲು."
+
+ಪಿರಾಕ್ದ ಪೊಣ್ಣು ಅಲೆಗ್ ಪಿರ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, â€œಉಂದು ಎನ್ನ ಸಂತೋಷ. ಭವಿಷ್ಯೊಡು ಈರ್ ಪ್ರಯತ್ನ ಮಲ್ಪುನ ಬೊಕ್ಕ ಮಾರಾಟ ಮಲ್ಪುನ ಬೇತೆ ವಿಷಯೊಲೆಡ್ ಈರ್ ಯಶಸ್ವಿ ಆಪುಲೆ ಪನ್ಪಿನೆಟ್ ಎಂಕ್ ನಂಬಿಕೆ ಉಂಡು.â€
+
+ಬೊಕ್ಕ ಲೂಸಿ ಆ ಪಿರಾಕ್ದ ಪೊಣ್ಣನ ಪಾತೆರೊನು ಅತ್ತಂದೆ ಆ ದಿನ ಕಲ್ಪುನ ಪಾಠೊನು ಎನ್ನಿಯೆರೆ ಬಲ್ಲಿ.
+ಜಾನ್ ಒಂಜಿ ಬಗ್ ನ್ ಹುಲ್ಲುದ ಮಿತ್ತ್ ತೆಲಿಪುನ ತೂಯೆರ್. ಅಯಿನ್ ಗಾಯ ಮಲ್ಪಂದೆ ಜಾಗ್ರತೆ ಮಲ್ತೆರ್. ಅಯನ ಅಮ್ಮೆ ಅಯನ್ ತೂನಗ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್. ಅಮ್ಮೆ ಆ ಎಲ್ಯ ಬಗ್ ನ್ ಎತ್ತೊಂದು ಅಲೆನ ಕೇಸ್ ಡ್ ಪಾಡ್ಯೆರ್."
+},
+
+{
+"english":"Once there was a boy. His name was Tim. He was three years old and was very adventurous. One day he decided to go for a walk with his parents.
+
+As they walked, they noticed something wonderful. There was a lake, with bright blue waters, and beautiful green trees surrounding it.
+
+The family couldn't help but add it to their list of favorite places.
+
+Tim was so excited, he said, "Can we go explore? I would love to see what's there!"
+
+His parents replied, "Yes Tim! What an adventurous idea!"
+
+They all went to explore. Tim discovered so many amazing things. He found colorful rocks, and new plants he'd never seen before. He even saw some animals stepping out of the water.
+
+Tim added these sights to his memory, and felt a sense of wonder as he explored. He had a great day with his family and enjoyed their adventurous outing."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಆಣ್ ಬಾಲೆ ಇತ್ತೆ. ಅಯನ ಪುದರ್ ಟಿಮ್. ಆರ್ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಸಾಹಸಿ ಆದಿತ್ತೆರ್. ಒಂಜಿ ದಿನ ಆರ್ ಅಪ್ಪೆ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಒಂಜಿ ವಾಕ್ ಗ್ ಪೋಯೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಅಕುಲು ನಡತೊಂದು ಪೋನಗ, ಅಕುಲು ಒಂಜಿ ಅದ್ಭುತವಾಯಿನ ವಿಷಯೊನು ತೂಯೆರ್. ಅಲ್ಪ ಒಂಜಿ ಕೆರೆ ಉಂಡು, ಅಯಿಟ್ ನೀಲಿ ಬಣ್ಣದ ನೀರ್ ಉಂಡು, ಬೊಕ್ಕ ಅಯಿನ್ ಸುತ್ತುವರಿದ್ ಸುಂದರವಾದ್ ಪಚ್ಚೆ ಮರಕುಲು ಉಂಡು.
+
+ಕುಟುಂಬದಕುಲು ಅವೆನ್ ಅಕ್ಲೆನ ಮೆಚ್ಚಿನ ಜಾಗೆಲೆನ ಪಟ್ಟಿಗ್ ಸೇರಾವಂದೆ ಉಪ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಟಿಮ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್, ಆರ್ ಪಂಡೆರ್, "ನಮ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಪೋವೊಲಿ? ಅಲ್ಪ ದಾದ ಉಂಡು ಪನ್ಪಿನೆನ್ ತೂಯೆರೆ ಎಂಕ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಪುಂಡು!"
+
+ಅರೆನ ಅಪ್ಪೆ ಅಮ್ಮೆರ್ ಉತ್ತರ ಕೊರ್ತೆರ್, "ಆಂಡ್ ಟಿಮ್! ಎಂಚಿನ ಸಾಹಸದ ಐಡಿಯಾ!"
+
+ಅಕುಲು ಮಾತೆರ್ಲ ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಪೋಯೆರ್. ಟಿಮ್ ಮಸ್ತ್ ಅದ್ಭುತವಾಯಿನ ವಿಷಯೊಲೆನ್ ಕಂಡು ಕನತ್ ಂಡ್. ಆರ್ ವರ್ಣರಂಜಿತ ಕಲ್ಲ್ ಲೆನ್ ತೂಯೆರ್, ಬೊಕ್ಕ ದುಂಬು ತೂದುಜಿನ ಪೊಸ ಸಸ್ಯೊಲೆನ್ ತೂಯೆರ್. ಕೆಲವು ಪ್ರಾಣಿಲು ನೀರ್ಡ್ದ್ ಪಿದಯಿ ಬರ್ಪಿನವುಲಾ ಅರೆಗ್ ತೋಜಿಂಡ್.
+
+ಟಿಮ್ ಈ ದೃಶ್ಯೊಲೆನ್ ತನ್ನ ನೆನಪುಗು ಸೇರಾಯೆರ್, ಬೊಕ್ಕ ಅನ್ವೇಷಣೆ ಮಲ್ಪುನಗ ಒಂಜಿ ಆಶ್ಚರ್ಯದ ಭಾವನೆನ್ ಅನುಭವಿಸಯೆರ್. ಆರ್ ಅರೆನ ಕುಟುಂಬದಕುಲೆನೊಟ್ಟುಗು ಒಂಜಿ ಎಡ್ಡೆ ದಿನ ಕಳೆಯೆರ್ ಬೊಕ್ಕ ಅಕ್ಲೆನ ಸಾಹಸಮಯ ಔಟಿಂಗ್ ನ್ ಆನಂದಿಸಯೆರ್."
+},
+
+{
+"english":"Once there was a messy lizard. He wanted to move around the garden. He saw a beautiful flower and said to himself, "I can move that way." So the lizard moved towards the flower.
+
+He saw a big tree and said to himself, "I can move that way." So the lizard moved towards the tree.
+
+Suddenly, he heard a voice. It was a ladybug. The ladybug said, "Where are you going?" The lizard said, "I'm moving around the garden."
+
+The ladybug said, "Would you like help?" The lizard said, "Yes please!" So the ladybug and the lizard moved around the garden together.
+
+They found a muddy puddle and the ladybug said, "Let's move that way." So they moved towards the puddle and made a mess. But they had a lot of fun!"
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಒಂಜಿ ಗೊಂದಲದ ಕಲ್ಲುರ್ಟಿ ಇತ್ತ್ಂಡ್. ಆರ್ ತೋಟೊಡು ಸುತ್ತುದು ಪೋಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಒಂಜಿ ಪೊರ್ಲುದ ಪೂನ್ ತೂದು ತನ್ನನೇ ತಾನ್ ಪಂಡೆರ್, "ಯಾನ್ ಆ ದಿಕ್ಕ್ ಗ್ ಪೋವೊಲಿ." ಅಂಚಾದ್ ಪಲ್ಲಿ ಪೂತ ಕಡೆಕ್ ಪೋಂಡು.
+
+ಆರ್ ಒಂಜಿ ಮಲ್ಲ ಮರನ್ ತೂದು ತನ್ನನೇ ತಾನ್ ಪಂಡೆರ್, "ಯಾನ್ ಆ ದಿಕ್ಕ್ ಗ್ ಪೋವೊಲಿ." ಅಂಚಾದ್ ಪಲ್ಲಿ ಮರತ್ತ ಕಡೆಕ್ ಪೋಂಡು.
+
+ಅಕಸ್ಮಾತ್, ಅರೆಗ್ ಒಂಜಿ ಸ್ವರ ಕೇಂಡ್ಂಡ್. ಅವು ಒಂಜಿ ಲೇಡಿಬಗ್ ಆದಿತ್ತ್ಂಡ್. ಲೇಡಿಬಗ್ ಪಂಡೆ, "ಈರ್ ಎಲ್ಲಿಗ್ ಪೋವೊಂದುಲ್ಲರ್?" ಪಲ್ಲಿ ಪಂಡೆ, "ಯಾನ್ ತೋಟೊಡು ಸುತ್ತಾಲೊಂದುಲ್ಲೆ."
+
+ಲೇಡಿಬಗ್ ಪಂಡೆರ್, "ಈರ್ ಸಹಾಯ ಬಯಕುವರ್?" ಪಲ್ಲಿ ಪಂಡೆ, "ಯೆಸ್ ಪ್ಲೀಸ್!" ಅಂಚಾದ್ ಲೇಡಿಬಗ್ ಬೊಕ್ಕ ಕಲ್ಲುರ್ಟಿ ಒಟ್ಟುಗು ತೋಟೊಡು ಸುತ್ತುವೆರ್.
+
+ಅಕುಲು ಒಂಜಿ ಮಣ್ಣ್ ದ ಗುಡ್ಡೆನ್ ತೂಯೆರ್ ಬೊಕ್ಕ ಲೇಡಿಬಗ್ ಪಂಡೆರ್, "ಆ ದಿಕ್ಕ್ ಗ್ ಪೋವೊಡು." ಅಂಚಾದ್ ಅಕುಲು ಪುಡಿತ ಕಡೆಕ್ ಪೋದು ಒಂಜಿ ಗೊಂದಲ ಮಲ್ತೆರ್. ಆಂಡ ಅಕುಲು ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್!"
+},
+
+{
+"english":"Once there was a little girl named Ella. She was the most popular girl in school. She loved to play on the balancing beam in the playground. She was so good at balancing that she never had to use her muscles.
+
+One day, all the kids gathered around Ella, asking her to show them what she could do. She smiled and got on the beam. She balanced so well that the kids all applauded.
+
+Ella's teacher came out and told her not to stay on the beam too long. "Sometimes, muscles get tired," he said.
+
+But Ella didn't listen. She stayed on the beam for a really long time. Eventually, her muscles got tired and she fell off. Everyone was very sad. Ella's teacher told her to be careful next time.
+
+But Ella didn't listen and she fell off the beam the next time too. And the next time. The kids in school stopped asking Ella to balance on the beam, since they were afraid something bad might happen. Ella was no longer the most popular girl at school.
+Mama and Papa had a party for their little girl. It was her third birthday. Everyone had come over to celebrate. There was cake, games, and balloons. The little girl was so excited. The guests all cheered as Mama and Papa gave the little girl a shiny new toy. "Thank you," she said with a smile. Mama and Papa then revealed to the guests that the toy was actually a surprise. They said it was a trap. The little girl was curious and asked what it was. Papa explained it was like a game. He said if she did something the trap would make a noise and they would all applaud. The little girl was embarrassed, but she was excited too. She stepped up to the trap and tried her best. When the trap finally made a sound, everyone clapped and cheered. She was so proud of herself. "See," Papa said, "you were brave and you did it!" The little girl smiled and hugged Papa. She was so happy to have accomplished something and everyone else was proud of her. It was her best birthday yet.
+Jack and Sue were playing in the yard when they spotted a Dinosaur. They both ran up to it to take a closer look. Sue was filled with amazement. "Wow!", she said awely."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಎಲ್ಯ ಪನ್ಪಿ ಎಲ್ಯ ಬಾಲೆ ಇತ್ತೆ. ಶಾಲೆಡ್ ಆಲ್ ಮಸ್ತ್ ಜನಪ್ರಿಯ ಆಯಿನ ಪೊಣ್ಣು. ಆಟದ ಮೈದಾನೊಡು ಬ್ಯಾಲೆನ್ಸಿಂಗ್ ಬಿಮ್ ಡ್ ಆಟ ಆಡೆರೆ ಅಲೆಗ್ ಮಸ್ತ್ ಇಷ್ಟ ಆಂಡ್. ಅಲ್ ಸಮತೋಲನೊಡು ಎಡ್ಡೆ ಆದಿತ್ತೆರ್ ಅಂಚಾದ್ ಅಲ್ ಎನ್ನ ಸ್ನಾಯುಲೆನ್ ಬಳಕೆ ಮಲ್ಪೆರೆ ಬೋಡಾಪುಜಿ.
+
+ಒಂಜಿ ದಿನ, ಎಲ್ಲಾ ಜೋಕುಲು ಎಲ್ಲಾನ ಸುತ್ತ ಒಟ್ಟು ಸೇರ್ದೆರ್, ಅಲೆನ್ ದಾದ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆನ್ ತೋಜಾವೊಡು ಪಂದ್ ಕೇಂಡೆರ್. ಅಲ್ ನಕ್ಕುದು ಬಿಮ್ ಡ್ ಏರ್ಯೆರ್. ಅಲ್ ಎಡ್ಡೆ ರೀತಿಡ್ ಸಮತೋಲನ ಮಲ್ತೆರ್ ಅಂಚಾದ್ ಜೋಕುಲು ಮಾತೆರ್ಲ ಚಪ್ಪಾಳೆ ಮಲ್ತೆರ್.
+
+ಎಲ್ಲಾನ ಶಿಕ್ಷಕೆರ್ ಪಿದಯಿ ಬತ್ತ್ದ್ ಅಲೆಗ್ ಬಿಮ್ ಡ್ ಮಸ್ತ್ ಸಮಯ ಉಪ್ಪೆರೆ ಬಲ್ಲಿ ಪಂಡೆರ್. "ಕೆಲವೊಂಜಿ ಸರ್ತಿ, ಸ್ನಾಯುಲು ದಣಿದ್ ಪೋಪುಂಡು," ಪಂಡ್ದ್ ಆರ್ ಪಂಡೆರ್.
+
+ಆಂಡ ಎಲ್ಲಾ ಕೇನ್ಜೆರ್. ಅಲ್ ಬಿಮ್ ಡ್ ಮಸ್ತ್ ಸಮಯ ಉಂತುದು ಇತ್ತೆರ್. ಕಡೆಕ್, ಅಲೆನ ಸ್ನಾಯುಲು ಸುಸ್ತುದು ಅಲೆನ್ ಬೂರ್ದು ಪೋಯೆರ್. ಪ್ರತಿಯೊಬ್ಬಲಾ ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್. ಎಲ್ಲಾನ ಶಿಕ್ಷಕೆರ್ ದುಂಬುದ ಸರ್ತಿ ಜಾಗ್ರತೆ ಮಲ್ಪೊಡು ಪಂಡೆರ್.
+
+ಆಂಡ ಎಲ್ಲಾ ಕೇನ್ಜೆರ್ ಬೊಕ್ಕ ಅಲ್ ದುಂಬುದ ಸರ್ತಿಲಾ ಬಿಮ್ ಡ್ದ್ ಬೂರ್ದು ಪೋಯೆರ್. ಬೊಕ್ಕ ದುಂಬುದ ಸರ್ತಿ. ಶಾಲೆಡ್ ಉಪ್ಪುನ ಜೋಕುಲು ಎಲ್ಲಾನ್ ಬಿಮ್ ಡ್ ಸಮತೋಲನ ಮಲ್ಪೆರೆ ಕೇನುನವು ನಿಲ್ಲಿಸಯೆರ್, ದಾಯೆ ಪಂಡ ಅಕುಲು ದಾದನಾ ಕೆಟ್ಟವು ಆಪುಂಡು ಪನ್ಪಿನ ಭಯೊಡು ಇತ್ತೆರ್. ಎಲ್ಲಾ ಶಾಲೆಡ್ ಮಸ್ತ್ ಜನಪ್ರಿಯ ಆಯಿನ ಪೊಣ್ಣು ಅತ್ತ್.
+ಅಮ್ಮೆ ಬೊಕ್ಕ ಅಪ್ಪೆ ಅಕ್ಲೆನ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಒಂಜಿ ಪಾರ್ಟಿ ಮಲ್ತೆರ್. ಅವು ಅಲೆನ ಮೂಜಿನೆ ಪುಟ್ಟು ಪರ್ಬ. ಪ್ರತಿಯೊಬ್ಬಲಾ ಆಚರಣೆ ಮಲ್ಪೆರೆ ಬತ್ತೆರ್. ಕೇಕ್, ಆಟೊಲು, ಬೊಕ್ಕ ಬಲೂನುಲು ಇತ್ತ್ಂಡ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಅಮ್ಮೆ ಬೊಕ್ಕ ಅಪ್ಪೆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಒಂಜಿ ಮಿಂಚುನ ಪೊಸ ಆಟಿಕೆನ್ ಕೊರ್ನಗ ಅತಿಥಿಲು ಮಾತೆರ್ಲ ಚಿಯರ್ ಮಲ್ತೆರ್. "ಸೊಲ್ಮೆಲು," ಅಲ್ ಒಂಜಿ ಸ್ಮೈಲ್ ಡ್ ಪಂಡೆರ್. ಅಮ್ಮೆ ಬೊಕ್ಕ ಅಪ್ಪೆ ಅಪಗ ಅತಿಥಿಲೆಗ್ ಆ ಆಟಿಕೆ ಒಂಜಿ ಅಚ್ಚರಿ ಪಂಡ್ದ್ ತೆರಿಪಾಯೆರ್. ಅವು ಒಂಜಿ ಬಲೆ ಪಂಡೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಕುತೂಹಲೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅವು ದಾದ ಪಂಡ್ದ್ ಕೇಂಡೆರ್. ಅಪ್ಪೆ ಉಂದು ಒಂಜಿ ಆಟದಲೆಕ ಪಂಡ್ದ್ ವಿವರಿಸಯೆರ್. ಅಲ್ ದಾದನಾ ಮಲ್ತ್ಂಡ ಬಲೆ ಶಬ್ದ ಮಲ್ಪುಂಡು ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಚಪ್ಪಾಳೆ ಪಾಡುವೆರ್ ಪಂಡ್ದ್ ಆರ್ ಪಂಡೆರ್. ಆ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆಗ್ ಮುಜುಗರ ಆಂಡ್, ಆಂಡ ಅಲೆಗ್ಲಾ ಉಲ್ಲಾಸ ಆಂಡ್. ಅಲ್ ಬಲೆಗ್ ಪೋದು ಅಲೆನ ಎಡ್ಡೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಬಲೆ ಅಂಚನೆ ಒಂಜಿ ಶಬ್ದ ಮಲ್ತಿನಗ, ಮಾತೆರ್ಲ ಚಪ್ಪಾಳೆ ಬೊಕ್ಕ ಚಿಯರ್ ಮಲ್ತೆರ್. ಅಲೆಗ್ ಅಲೆನ ಬಗ್ಗೆ ಮಸ್ತ್ ಹೆಮ್ಮೆ ಇತ್ತ್ಂಡ್. "ತೂಲೆ," ಅಪ್ಪೆ ಪಂಡೆರ್, "ಈರ್ ಧೈರ್ಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಈರ್ ಮಲ್ತರ್!" ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ನಕ್ಕುದು ಅಪ್ಪೆನ್ ತಬ್ಬಿಯೆರ್. ಒಂಜಿ ಕೆಲಸೊನು ಸಾಧಿಸಾಯಿನೆಕ್ ಅಲ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಬೇತೆ ಮಾತೆರ್ಲ ಅಲೆನ ಬಗ್ಗೆ ಹೆಮ್ಮೆ ಪಡೆಯೆರ್. ಅವು ಇತ್ತೆ ಮುಟ್ಟ ಅಲೆನ ಎಡ್ಡೆ ಪುಟ್ಟು ಪರ್ಬ.
+ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಸ್ಯೂ ಅಂಗಳೊಡು ಆಟ ಆಡೊಂದು ಇತ್ತಿನಗ ಅಕುಲು ಒಂಜಿ ಡೈನೋಸಾರ್ ನ್ ತೂಯೆರ್. ಒಂಜಿ ಎಡ್ಡೆ ತೂಯೆರೆ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಅಯಿಕ್ ಓಡುವೆರ್. ಸ್ಯೂ ಆಶ್ಚರ್ಯೊಡು ತುಂಬಿಯೆರ್. "ವಾ!", ಅಲೆ ಆಶ್ಚರ್ಯೊಡು ಪಂಡೆರ್."
+},
+
+{
+"english":"Once upon a time there was a little girl named Emily. She was very excited when she woke up one morning because she was going to have a special surprise.
+
+Emily was told over breakfast to put on her shoes and wait outside. When she opened the front door she saw a tower of spicy food, her favorite!
+
+Emily took a bite and instantly thought it was the best she had ever tasted. She kept eating and eating until the tower was gone!
+
+Soon, Emily started to feel strange. Her belly was getting bigger and bigger and was starting to hurt! Emily's parents tried to make her feel better, but nothing worked.
+
+Finally, Emily had to go to the hospital. The doctors told her she had thought too much spicy food and that she needed to stay in bed for a few days so she could get better.
+
+Emily was really sad and never wanted to eat spicy food again. The end."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಎಮಿಲಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆರ್. ಒಂಜಿ ದಿನ ಬೆಳಗ್ಗೆ ಲಕ್ಕುನಗ ಅಲ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ದಾಯೆ ಪಂಡ ಅಲೆಗ್ ಒಂಜಿ ವಿಶೇಷ ಅಚ್ಚರಿ ಬರ್ಪುಂಡು.
+
+ಎಮಿಲಿಗ್ ಬ್ರೇಕ್ ಫಾಸ್ಟ್ ದ ಪೊರ್ತುಡು ಶೂ ಪಾಡ್ದ್ ಪಿದಯಿ ಕಾತೊಂದು ಉಪ್ಪೊಡು ಪಂಡ್ದ್ ಪನ್ಪೆರ್. ಅಲ್ ಎದುರುದ ಬಾಕಿಲ್ ನ್ ತೆರೆನಗ ಅಲ್ ಮಸಾಲೆದ ಆಹಾರದ ಗೋಪುರೊನು ತೂಯೆರ್, ಅಲೆನ ಮೆಚ್ಚಿನವು!
+
+ಎಮಿಲಿ ಒಂಜಿ ಕಚ್ಚು ಪರ್ದ್ ತಕ್ಷಣನೆ ಅಯಿನ್ ತಾನ್ ರುಚಿ ತೂಯಿನ ಎಡ್ಡೆ ಪಂಡ್ದ್ ತೆರಿಂಡ್. ಗೋಪುರ ಪೋಯಿನ ಮುಟ್ಟ ಅಲ್ ತಿನ್ಪಿನ ಬೊಕ್ಕ ತಿನ್ಪುನ ಮಲ್ತೊಂದು ಇತ್ತೆರ್!
+
+ಶೀಘ್ರೊಡು, ಎಮಿಲಿಗ್ ವಿಚಿತ್ರ ಅನುಭವ ಆಯೆರೆ ಸುರು ಆಂಡ್. ಅಲೆನ ಬಂಜಿ ಮಲ್ಲ ಮಲ್ಲ ಆವೊಂದು ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ನೋವು ಬರೊಂದಿತ್ತ್ಂಡ್! ಎಮಿಲಿನ ಅಪ್ಪೆ ಅಮ್ಮೆರ್ ಅಲೆನ್ ಎಡ್ಡೆ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್, ಆಂಡ ದಾಲ ಕೆಲಸ ಆಯಿಜಿ.
+
+ಅಂಚನೆ, ಎಮಿಲಿ ಆಸ್ಪತ್ರೆಗ್ ಪೋವೊಡಾಂಡ್. ಡಾಕ್ಟರ್ ನಕುಲು ಅಲೆಗ್ ಮಸ್ತ್ ಮಸಾಲೆದ ಆಹಾರೊನು ಯೋಚನೆ ಮಲ್ತೆರ್ ಪಂಡ್ದ್ ಪನ್ಪೆರ್ ಬೊಕ್ಕ ಅಲೆಗ್ ಎಡ್ಡೆ ಆಯೆರೆ ಕೆಲವು ದಿನೊಕುಲು ಬೆಡ್ ಡ್ ಉಪ್ಪೊಡು ಪಂಡ್ದ್ ಪನ್ಪೆರ್.
+
+ಎಮಿಲಿಗ್ ಮಸ್ತ್ ಬೇಜಾರ್ ಆಂಡ್ ಬೊಕ್ಕ ಮಸಾಲೆದ ಆಹಾರೊನು ಏಪಲಾ ದೆಪ್ಪೆರೆ ಇಷ್ಟ ಆಯಿಜಿ. ಅಂತ್ಯ."
+},
+{
+"english":"Sue and Mike were planning a picnic in the park. They wanted to have the best time ever! Sue and Mike packed snacks for their picnic. They brought lots of different snacks, but their favorite was the beans.
+
+When they arrived in the park, they spread out their blanket and started to get ready for the picnic. Suddenly, Sue noticed something strange â€“ there was a deaf rabbit in the middle of the park.
+
+Sue was excited. She called out to Mike, "Let's give him some beans!" Mike nodded with a smile and together they took out an extra portion of beans and placed it near the rabbit.
+
+The rabbit hopped around the beans and started to eat. Sue and Mike were delighted to see the rabbit enjoying their snack. They had a wonderful picnic and plan to visit the park again soon."
+"tulu":"ಸೂ ಬೊಕ್ಕ ಮೈಕ್ ಪಾರ್ಕ್ ಡ್ ಪಿಕ್ನಿಕ್ ಮಲ್ಪೆರೆ ಯೋಜನೆ ಮಲ್ತೊಂದು ಇತ್ತೆರ್. ಅಕುಲು ಎಡ್ಡೆ ಸಮಯೊನು ಕಳೆಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್! ಸ್ಯೂ ಬೊಕ್ಕ ಮೈಕ್ ಅಕ್ಲೆನ ಪಿಕ್ನಿಕ್ ಗ್ ಸ್ನ್ಯಾಕ್ಸ್ ನ್ ಪ್ಯಾಕ್ ಮಲ್ತೆರ್. ಅಕುಲು ಮಸ್ತ್ ಬೇತೆ ಬೇತೆ ಸ್ನ್ಯಾಕ್ಸ್ ನ್ ತೂದು ಬತ್ತೆರ್, ಆಂಡ ಅಕುಲೆನ ಮೆಚ್ಚಿನವು ಬೀನ್ಸ್.
+
+ಅಕುಲು ಪಾರ್ಕ್ ಗ್ ಬನ್ನಗ, ಅಕುಲು ಅಕ್ಲೆನ ಕಂಬಳಿನ್ ಪಾಡ್ದ್ ಪಿಕ್ನಿಕ್ ಗ್ ತಯಾರಾವೆರೆ ಸುರು ಮಲ್ತೆರ್. ಒಂಜಿ ಸಲ, ಸ್ಯೂ ಒಂಜಿ ವಿಚಿತ್ರವಾದ್ ತೋಜಿಂಡ್ - ಉದ್ಯಾನವನೊದ ನಡುಟು ಒಂಜಿ ಕಿವುಡು ಮೊಲ ಉಂಡು.
+
+ಸೂ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಅಲ್ ಮೈಕ್ ಗ್ ಲೆಪ್ಪುವೆ, "ಅರೆಗ್ ಕೆಲವು ಬೀನ್ಸ್ ಕೊರ್ಲೆ!" ಮೈಕ್ ಒಂಜಿ ಸ್ಮೈಲ್ ಡ್ ತರೆ ತಗ್ಗಾಯೆರ್ ಬೊಕ್ಕ ಒಟ್ಟುಗು ಅಕುಲು ಬೀನ್ಸ್ ದ ಒಂಜಿ ಎಕ್ಸ್ ಟ್ರಾ ಭಾಗೊನು ದೆತ್ತ್ದ್ ಮೊಲದ ಬರಿಟ್ ದೀಯೆರ್.
+
+ಮೊಲ ಬೀನ್ಸ್ ದ ಸುತ್ತ ಜಪ್ಪುದು ತಿನ್ರೆ ಸುರು ಮಲ್ತ್ಂಡ್. ಮೊಲ ಅಕ್ಲೆನ ಸ್ನ್ಯಾಕ್ ನ್ ಎಂಜಾಯ್ ಮಲ್ಪುನವು ತೂದು ಸ್ಯೂ ಬೊಕ್ಕ ಮೈಕ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್. ಅಕುಲು ಒಂಜಿ ಎಡ್ಡೆ ಪಿಕ್ನಿಕ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಶೀಘ್ರೊಡು ಉದ್ಯಾನವನೊಗು ಭೇಟಿ ಕೊರ್ಪಿನ ಯೋಜನೆ ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time, there was a zipping sound in the quiet room. It sounded like someone was playing with something. Two friends, Mel and June, were curious and excited to find out what was making the noise.
+
+"What's that noise?" asked June.
+"I don't know," said Mel, "Let's go find out!"
+
+The two went searching around the room until they found the source of the noise: a pin, zipping up and down the wall!
+
+"How unusual," said June, "How does it zip up and down the wall like that?
+
+Mel put her finger to her lips and said, "Shhh, maybe it's magic?"
+
+June's wide eyes lit up as she said, "That's it! I think we should try to figure out how it works!"
+
+The two friends worked together to try and make the pin zip again. After a few minutes of hard work, the pin began to zip again!
+
+"Woo-hoo!" cried Mel, "We did it! How exciting! I think this pin has a magical zipping power!"
+
+June and Mel enjoyed their newfound discovery and magic pin. From that day forward, the two friends would take turns zipping the pin up and down the wall. It was the quietest, most exciting adventure they ever had.
+John went to the market one day with his mom. He saw a beautiful blue kite that he really wanted. His mom told him he couldn't have it, but he wouldn't listen."
+"tulu":"
+1,252 / 5,000
+ಒಂಜಿ ಕಾಲೊಡು, ನಿಶ್ಯಬ್ದ ಕೋಣೆಡ್ ಒಂಜಿ ಜಿಪ್ಪಿಂಗ್ ಶಬ್ದ ಬತ್ತ್ಂಡ್. ಒರಿ ದಾದನಾ ಆಟ ಆಡೊಂದಿತ್ತಿನಲೆಕ ಉಂಡು. ರಡ್ಡ್ ಸ್ನೇಹಿತೆರ್, ಮೆಲ್ ಬೊಕ್ಕ ಜೂನ್, ಶಬ್ದ ದಾದ ಪಂಡ್ದ್ ತೆರಿಯೊನೆರೆ ಕುತೂಹಲೊಡು ಬೊಕ್ಕ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್.
+
+"ಅವು ದಾದ ಶಬ್ದ?" ಜೂನ್ ಕೇಂಡೆರ್.
+"ಎಂಕ್ ಗೊತ್ತುಜ್ಜಿ," ಪಂಡೆರ್ ಮೆಲ್, "ನಮ ಪೋದು ತೆರಿಯೊನೊಡು!"
+
+ಶಬ್ದದ ಮೂಲೊನು ಕಂಡುಕೊನೆರೆ ಮುಟ್ಟ ಅಕುಲು ರಡ್ಡ್ ಜನಲಾ ಕೋಣೆದ ಸುತ್ತಲ ಸರ್ಚ್ ಮಲ್ತೆರ್: ಒಂಜಿ ಪಿನ್, ಗೋಡೆನ್ ಮಿತ್ತ್ ಕೆಳಗ್ ಜಿಪ್ ಮಲ್ಪುನವು!
+
+"ಎಂಚ ಅಸಾಮಾನ್ಯ," ಪಂಡ್ದ್ ಜೂನ್ ಪಂಡೆರ್, "ಅಂಚನೆ ಗೋಡೆನ್ ಮಿತ್ತ್ ಕೆಳಗ್ ಜಿಪ್ ಮಲ್ಪುನವು ಎಂಚ?
+
+ಮೆಲ್ ಅಲೆನ ಬೆರಳುನ್ ಅಲೆನ ತುಟಿಗ್ ಪಾಡ್ದ್ ಪಂಡೆರ್, "ಶ್ಶ್, ಬಹುಶಃ ಉಂದು ಮ್ಯಾಜಿಕ್ ಆದುಪ್ಪೊಲಿ?"
+
+ಜೂನ್ ನ ಅಗಲೊದ ಕಣ್ಣ್ ಬೊಲ್ಪು ಬತ್ತ್ಂಡ್, "ಅಯಿನೇ! ಉಂದು ಎಂಚ ಕೆಲಸ ಮಲ್ಪುಂಡು ಪನ್ಪಿನೆನ್ ತೆರಿಯೊನೆರೆ ಪ್ರಯತ್ನ ಮಲ್ಪೊಡು ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು!"
+
+ರಡ್ಡ್ ಸ್ನೇಹಿತೆರ್ ಒಟ್ಟು ಸೇರ್ದ್ ಪಿನ್ ಜಿಪ್ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್. ಒಂಜಿ ರಡ್ಡ್ ನಿಮಿಷೊದ ಕಷ್ಟೊದ ಪಿರವು, ಪಿನ್ ಪುನರ್ ಜಿಪ್ ಆಯೆರೆ ಸುರು ಆಂಡ್!
+
+"ವೂ-ಹೂ!" ಮೆಲ್ ಕಿರುಚಿಯೆರ್, "ನಮ ಮಲ್ತುವ! ಎಂಚ ಉತ್ತೇಜನಕಾರಿ! ಈ ಪಿನ್ ಗ್ ಒಂಜಿ ಮಾಂತ್ರಿಕ ಜಿಪ್ಪಿಂಗ್ ಶಕ್ತಿ ಉಂಡು ಪಂದ್ ಎಂಕ್ ಅನಿಸವುಂಡು!"
+
+ಜೂನ್ ಬೊಕ್ಕ ಮೆಲ್ ಅಕ್ಲೆನ ಪೊಸ ಅನ್ವೇಷಣೆ ಬೊಕ್ಕ ಮ್ಯಾಜಿಕ್ ಪಿನ್ ನ್ ಎಂಜಾಯ್ ಮಲ್ತೆರ್. ಆ ದಿನೊಡ್ದ್ ಬೊಕ್ಕ, ರಡ್ಡ್ ಸ್ನೇಹಿತೆರ್ ಪಿನ್ ನ್ ಗೋಡೆಡ್ ಮಿತ್ತ್ ಬೊಕ್ಕ ಕೆಳಗ್ ಜಿಪ್ ಮಲ್ಪುನ ಸರದಿನ್ ದೆತೊನುವೆರ್. ಅವು ಅಕುಲು ಮಲ್ತಿನ ಅತ್ಯಂತ ನಿಶ್ಯಬ್ದ, ಅತ್ಯಂತ ಉತ್ತೇಜನಕಾರಿ ಸಾಹಸ ಆದಿತ್ತ್ಂಡ್.
+ಜಾನ್ ಒಂಜಿ ದಿನ ಅರೆನ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಮಾರುಕಟ್ಟೆಗ್ ಪೋಯೆರ್. ಆರ್ ನಿಜವಾದ್ಲಾ ಬಯಕೆ ಮಲ್ತಿನ ಒಂಜಿ ಪೊರ್ಲುದ ನೀಲಿ ಗಾಳಿಪಟೊನು ತೂಯೆರ್. ಅಯನ ಅಮ್ಮೆ ಅರೆಗ್ ಅಯಿನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ ಪಂಡೆರ್, ಆಂಡ ಅಯೆ ಕೇನ್ರೆ ಬಲ್ಲಿ."
+},
+
+{
+"english":"John went to the market one day with his mom. He saw a beautiful blue kite that he really wanted. His mom told him he couldn't have it, but he wouldn't listen. He was too excited and ran to the kite to grab it.
+
+Suddenly, a tough foot stepped on the kite. John was scared and turned around. There was a big man with a mean look on his face. â€œMommy,â€ John said, scared.
+
+The man said, â€œI run the market and I wonâ€™t provide for any children running around and taking things that donâ€™t belong to them.â€ John was still scared and backed away slowly.
+
+His mom told the man she was sorry and would pay for the kite. But the man said it was too late and he wanted John to learn a lesson. He told John to never take things that don't belong to him again, and he made John leave the market.
+
+John and his mom had a bad ending that day. He never got the kite and he was reminded to never take things that weren't his."
+"tulu":"ಜಾನ್ ಒಂಜಿ ದಿನ ಅರೆನ ಅಮ್ಮೆರೆನೊಟ್ಟುಗು ಮಾರುಕಟ್ಟೆಗ್ ಪೋಯೆರ್. ಆರ್ ನಿಜವಾದ್ಲಾ ಬಯಕೆ ಮಲ್ತಿನ ಒಂಜಿ ಪೊರ್ಲುದ ನೀಲಿ ಗಾಳಿಪಟೊನು ತೂಯೆರ್. ಅಯನ ಅಮ್ಮೆ ಅರೆಗ್ ಅಯಿನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ ಪಂಡೆರ್, ಆಂಡ ಅಯೆ ಕೇನ್ರೆ ಬಲ್ಲಿ. ಆರ್ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಗಾಳಿಪಟೊನು ಪತೆರೆ ಓಡಿಯೆರ್.
+
+ಒಂಜಿ ಸಲ, ಒಂಜಿ ಗಟ್ಟಿ ಪಾದ ಗಾಳಿಪಟದ ಮಿತ್ತ್ ಪಾದ ದೀಂಡ್. ಜಾನ್ ಭಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಪಿರ ಬತ್ತೆರ್. ಒರಿ ಮಲ್ಲ ಮನುಷ್ಯೆ ಮೋನೆಡ್ ಒಂಜಿ ಕೀಳು ನೋಟೊಡು ಇತ್ತೆರ್. "ಅಮ್ಮೆ," ಜಾನ್ ಭಯೊಡು ಪಂಡೆರ್.
+
+ಆ ಮನುಷ್ಯೆ ಪಂಡೆರ್, â€œಯಾನ್ ಮಾರುಕಟ್ಟೆನ್ ನಡಪಾವೊಂದುಲ್ಲೆ ಬೊಕ್ಕ ಯಾನ್ ಏರೆಗ್ಲಾ ಜೋಕುಲು ಓಡೊಂದು ಅಕ್ಲೆಗ್ ಸೇರ್ದಿನ ವಸ್ತುಲೆನ್ ದೆತೊನುನ ಸೌಲಭ್ಯೊಲೆನ್ ಕೊರ್ಪುಜಿ.â€ ಜಾನ್ ಇತ್ತೆಲಾ ಭಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ನಿಧಾನವಾದ್ ಪಿರ ಪೋಯೆರ್.
+
+ಅರೆನ ಅಮ್ಮೆ ಆ ಮನುಷ್ಯಗ್ ಕ್ಷಮೆ ಕೋರ್ಪೆ ಬೊಕ್ಕ ಗಾಳಿಪಟೊಗು ದುಡ್ಡು ಕೊರ್ಪೆ ಪಂಡ್ದ್ ಪಂಡೆರ್. ಆಂಡ ಆ ಮನುಷ್ಯೆ ಮಸ್ತ್ ತಡ ಆಂಡ್ ಪಂಡೆರ್ ಬೊಕ್ಕ ಜಾನ್ ಒಂಜಿ ಪಾಠ ಕಲ್ಪೊಡು ಪಂದ್ ಆರ್ ಬಯಕೆ ಮಲ್ತೆರ್. ತನ್ನವು ಅತ್ತ್ ನ ವಸ್ತುಲೆನ್ ಏಪಲಾ ದೆತೊನೊಡಾಪುಜಿ ಪಂದ್ ಜಾನ್ ಗ್ ಪಂಡೆರ್, ಬೊಕ್ಕ ಜಾನ್ ನ್ ಮಾರುಕಟ್ಟೆ ಬುಡ್ದು ಪೋಯೆರೆ ಮಲ್ತೆರ್.
+
+ಜಾನ್ ಬೊಕ್ಕ ಅರೆನ ಅಮ್ಮೆರೆಗ್ ಆ ದಿನ ಕೆಟ್ಟ ಅಂತ್ಯ ಆಂಡ್. ಆರ್ ಏಪಲಾ ಗಾಳಿಪಟೊನು ದೆತೊನೊಂದಿಜ್ಜೆರ್ ಬೊಕ್ಕ ಅರೆನ ಅತ್ತ್ ನ ವಸ್ತುಲೆನ್ ಏಪಲಾ ದೆತೊನೊಡಾಪುಜಿ ಪಂದ್ ಆರ್ ನೆಂಪು ಮಲ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time there was a bird named Max. He loved being able to soar through the sky. One day however, Max felt helpless when his wing was injured. He couldn't fly anymore and he was stuck on the ground.
+
+Max's friends noticed this, so they came over to help. "Don't worry, Max," they said. They set up a nest for him and brought him things to eat.
+
+Max was so happy he began to settle in. He was grateful for his friends' help. He felt safer in his nest and didn't feel so helpless anymore.
+
+One day Max had an idea. He asked his friends, "What if I set up a will? That way, if something happens to me, you can take care of my nest."
+
+Max's friends thought this was a great idea. So Max wrote a will that his friends would follow after he was gone. He was so relieved to have this plan in place.
+
+Max's friends made sure to take care of him and the nest. With their help, Max was able to settle in to his new home peacefully."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಮ್ಯಾಕ್ಸ್ ಪನ್ಪಿನ ಪುದರ್ದ ಒಂಜಿ ಪಕ್ಕಿ ಇತ್ತ್ಂಡ್. ಆಕಾಶೊಡು ಏರುನ ಸಾಮರ್ಥ್ಯೊನು ಆರ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಆಂಡಲಾ, ಒಂಜಿ ದಿನ, ಮ್ಯಾಕ್ಸ್ ಗ್ ಅರೆನ ರೆಕ್ಕೆ ಗಾಯ ಆಯಿ ಬೊಕ್ಕ ಅಸಹಾಯಕತೆ ಆಂಡ್. ಆರ್ ದುಂಬು ಪೋಯೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ ಬೊಕ್ಕ ಆರ್ ನೆಲಟ್ ಉಂತುದು ಪೋಯೆರ್.
+
+ಮ್ಯಾಕ್ಸ್ ನ ಸ್ನೇಹಿತೆರ್ ಉಂದೆನ್ ಗಮನಿಸಯೆರ್, ಅಂಚಾದ್ ಅಕುಲು ಸಹಾಯ ಮಲ್ಪೆರೆ ಬತ್ತೆರ್. "ಚಿಂತೆ ಮಲ್ಪುಜೆರ್, ಮ್ಯಾಕ್ಸ್," ಅಕುಲು ಪಂಡೆರ್. ಅಕುಲು ಅಯಗ್ ಒಂಜಿ ಗೂಡು ಕಟ್ಟ್ದ್ ಅಯಗ್ ತಿನ್ಪಿನ ವಸ್ತುಲೆನ್ ಕನತೆರ್.
+
+ಮ್ಯಾಕ್ಸ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಅರೆಗ್ ನೆಲೆಯಾವರೆ ಸುರು ಮಲ್ತೆರ್. ಅರೆನ ಸ್ನೇಹಿತೆರೆನ ಸಹಾಯೊಗು ಅರೆಗ್ ಕೃತಜ್ಞತೆ ಇತ್ತ್ಂಡ್. ಆರ್ ತನ್ನ ಗೂಡುಡು ಸುರಕ್ಷಿತವಾದ್ ಅನುಭವಿಸಯೆರ್ ಬೊಕ್ಕ ಅರೆಗ್ ಅಸಹಾಯಕತೆ ತೋಜಿಜಿ.
+
+ಒಂಜಿ ದಿನ ಮ್ಯಾಕ್ಸ್ ಗ್ ಒಂಜಿ ಐಡಿಯಾ ಬತ್ತ್ಂಡ್. ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಕೇಂಡೆರ್, "ಯಾನ್ ಒಂಜಿ ಇಚ್ಛೆ ಮಲ್ತ್ಂಡ ದಾದ ಆಪುಂಡು? ಅಂಚ, ಎಂಕ್ ದಾದನಾ ಆಂಡ, ನಿಕುಲು ಎನ್ನ ಗೂಡುನು ತೂವೊಲಿ."
+
+ಮ್ಯಾಕ್ಸ್ ನ ಸ್ನೇಹಿತೆರ್ ಉಂದು ಒಂಜಿ ಎಡ್ಡೆ ಐಡಿಯಾ ಪಂಡ್ದ್ ತೆರಿನೆರ್. ಅಂಚಾದ್ ಮ್ಯಾಕ್ಸ್ ಒಂಜಿ ಇಚ್ಛಾಪತ್ರೊನು ಬರೆಯೆರ್ ಅಯಿಟ್ ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಅರೆನ್ ಪೋಯಿ ಬೊಕ್ಕ ಅನುಸರಿಸೊಡು. ಈ ಯೋಜನೆನ್ ಜಾಗೊಡು ದೀದ್ ಆರ್ ಮಸ್ತ್ ನಿರಾಳ ಆಯೆರ್.
+
+ಮ್ಯಾಕ್ಸ್ ನ ಸ್ನೇಹಿತೆರ್ ಅರೆನ್ ಬೊಕ್ಕ ಗೂಡುನು ತೂವೊಡು ಪಂದ್ ಖಚಿತ್ ಮಲ್ತೆರ್. ಅಕ್ಲೆನ ಸಹಾಯೊಡು, ಮ್ಯಾಕ್ಸ್ ತನ್ನ ಪೊಸ ಇಲ್ಲಡ್ ಶಾಂತಿಯುತವಾದ್ ನೆಲೆಯಾವರೆ ಸಾಧ್ಯ ಆಂಡ್."
+},
+
+{
+"english":"Once upon a time, there was a light beetle. He had never been outside and wanted to see the world.
+
+So one day, the beetle crawled out of its box and looked around. Suddenly, he saw a big tree and decided to climb it. He worked up the trunk and made it to the top, but found he was stuck.
+
+"Help!" the beetle cried.
+
+Just then, a bird flew by and heard the beetle's cry.
+
+"What's wrong little beetle?" asked the bird.
+
+The beetle explained what had happened, and the bird laughed.
+
+"My friend, the ant, can help you," said the bird. "Let me take you to her."
+
+The bird took the beetle to the ant, who said she could help. She pulled and tugged, and the beetle worked his way around the branch, until he was finally free.
+
+The beetle thanked the bird and ant, before flying off into the light. He had seen the world and was now ready for a real adventure!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಲೈಟ್ ಬೀಟಲ್ ಇತ್ತ್ಂಡ್. ಆರ್ ಏಪಲಾ ಪಿದಯಿ ಇಜ್ಜೆರ್ ಬೊಕ್ಕ ಜಗತ್ತ್ ನ್ ತೂಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಅಂಚಾದ್ ಒಂಜಿ ದಿನ, ಜೀರುಂಡೆ ಅಯಿತ ಪೆಟ್ಟಿಗೆಡ್ದ್ ಪಿದಯಿ ಬತ್ತ್ದ್ ಸುತ್ತಲ ತೂಯೆರ್. ಅಕಸ್ಮಾತ್, ಆರ್ ಒಂಜಿ ಮಲ್ಲ ಮರನ್ ತೂದು ಅಯಿನ್ ಏರುನ ನಿರ್ಧಾರ ಮಲ್ತೆರ್. ಆರ್ ಟ್ರಂಕ್ ನ್ ಮಿತ್ತ್ ಕೆಲಸ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಯಿನ್ ಮಿತ್ತ್ ಮಲ್ತೆರ್, ಆಂಡ ಆರ್ ಸಿಕ್ಕಿಯೆರ್ ಪಂಡ್ದ್ ತೆರಿಂಡ್.
+
+"ಸಹಾಯೊ!" ಜೀರುಂಡೆ ಕಣ್ಣೀರ್ ಪಾಡ್ಂಡ್.
+
+ಅಪಗನೇ, ಒಂಜಿ ಪಕ್ಕಿ ಪಿದಯಿ ಬತ್ತ್ದ್ ಜೀರುಂಡೆದ ಕೂಗುನು ಕೇಂಡ್ಂಡ್.
+
+"ದಾದ ತಪ್ಪು ಪುಟ್ಟ ಜೀರುಂಡೆ?" ಪಕ್ಕಿ ಕೇಂಡೆರ್.
+
+ಜೀರುಂಡೆ ದಾದ ಆಂಡ್ ಪಂಡ್ದ್ ತೆರಿಪಾಂಡ್, ಬೊಕ್ಕ ಪಕ್ಕಿ ನಕ್ಕುಂಡ್.
+
+"ಎನ್ನ ದೋಸ್ತಿ ಇರುವೆ ನಿಕ್ಕ್ ಸಹಾಯ ಮಲ್ಪುಂಡು" ಪಂಡೆ ಪಕ್ಕಿ. "ಯಾನ್ ನಿನನ್ ಅಲೆನ ಎದುರುಗು ಲೆತೊಂದು ಪೋವೊಡು."
+
+ಪಕ್ಕಿ ಜೀರುಂಡೆನ್ ಇರುವೆನ ಎದುರುಗು ಲೆತೊಂದು ಪೋಯೆರ್, ಆಯೆ ಸಹಾಯ ಮಲ್ಪೊಲಿ ಪಂಡೆರ್. ಅಲ್ ಎದುರು ಎದುರು ಪಾಡ್ದ್, ಜೀರುಂಡೆ ಶಾಖೆದ ಸುತ್ತ ತನ್ನ ದಾರಿನ್ ಮಲ್ತೊಂದಿತ್ತ್ಂಡ್, ಅಂಚನೆ ಅಯೆ ಮುಕ್ತ ಆಯಿನ ಮುಟ್ಟ.
+
+ಜೀರುಂಡೆ ಪಕ್ಕಿ ಬೊಕ್ಕ ಇರುವೆಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಕೊರ್ದು, ಬೊಲ್ಪುಗು ಪೋಯೆರೆ ದುಂಬು. ಆರ್ ಜಗತ್ತ್ ನ್ ತೂದು ಇತ್ತೆ ಒಂಜಿ ನಿಜವಾಯಿನ ಸಾಹಸೊಗು ತಯಾರ್ ಆಯೆರ್!"
+},
+
+{
+"english":"Once upon a time there was a very playful puppy named Jack. Jack loved printing, which meant that he could make lots of paper with colourful patterns.
+
+One day, Jack found a small pill on the floor. He was fascinated by the shiny round shape, so he picked it up and tried to print it.
+
+"What are you trying to do, Jack?" asked his mother, who had just seen him.
+
+"I am trying to print the pill, mum," answered Jack.
+
+"Oh, the pill is too small to print. Let's find something else that is bigger and easier to print," said his mother.
+
+So, Jack and his mother went outside and found a big red leaf which they printed. Jack was very happy! The printed leaf was very colourful and beautiful. From then on, Jack kept printing lots of colourful things."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜ್ಯಾಕ್ ಪನ್ಪಿನ ಒಂಜಿ ಬಾರಿ ಆಟದ ನಾಯಿ ಮರಿ ಇತ್ತ್ಂಡ್. ಜ್ಯಾಕ್ ಗ್ ಮುದ್ರಣ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಆಂಡ್, ಅರ್ಥಾತ್ ಆರ್ ಬಣ್ಣ ಬಣ್ಣದ ನಮೂನೆಲೆಡ್ ಮಸ್ತ್ ಕಾಗದೊಲೆನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಂಡ್.
+
+ಒಂಜಿ ದಿನ, ಜ್ಯಾಕ್ ನೆಲಟ್ ಒಂಜಿ ಎಲ್ಯ ಮಾತ್ರೆನ್ ತೂಯೆರ್. ಮಿಂಚುನ ಸುತ್ತುದ ಆಕಾರೊಡು ಆರ್ ಆಕರ್ಷಿತರಾಯೆರ್, ಅಂಚಾದ್ ಆರ್ ಅವೆನ್ ಎತ್ತೊಂದು ಮುದ್ರಿಸರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್.
+
+"ಈರ್ ದಾದ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದುಲ್ಲರ್, ಜ್ಯಾಕ್?" ಅಯನ್ ತೂಯಿನ ಅಯನ ಅಮ್ಮೆರ್ ಕೇಂಡೆರ್.
+
+"ಯಾನ್ ಮಾತ್ರೆನ್ ಮುದ್ರಿಸರೆ ಪ್ರಯತ್ನ ಮಲ್ತೊಂದುಲ್ಲೆ, ಅಮ್ಮೆ," ಜ್ಯಾಕ್ ಉತ್ತರ ಕೊರ್ತೆರ್.
+
+"ಅಯ್ಯೋ, ಗುಳಿಗೆ ಮುದ್ರಿಸೆರೆ ಎಲ್ಯ ಉಂಡು. ಬೇತೆ ಒಂಜಿ ಮಲ್ಲ ಬೊಕ್ಕ ಮುದ್ರಿಸೆರೆ ಸುಲಭ ಆಯಿನ ಒಂಜಿ ವಸ್ತುನ್ ತೂವೊಡು" ಪಂಡ್ದ್ ಅರೆನ ಅಮ್ಮೆ ಪಂಡೆರ್.
+
+ಅಂಚಾದ್, ಜ್ಯಾಕ್ ಬೊಕ್ಕ ಅರೆನ ಅಮ್ಮೆ ಪಿದಯಿ ಪೋದು ಒಂಜಿ ಮಲ್ಲ ಕೆಂಪು ಎಲೆನ್ ತೂಯೆರ್ ಅವೆನ್ ಅಕುಲು ಮುದ್ರಿಸಯೆರ್. ಜ್ಯಾಕ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆ! ಮುದ್ರಿತ ಎಲೆ ಮಸ್ತ್ ಬಣ್ಣ ಬಣ್ಣದ ಬೊಕ್ಕ ಪೊರ್ಲು ಇತ್ತ್ಂಡ್. ಅಪಗಡ್ದ್ ಬೊಕ್ಕ, ಜ್ಯಾಕ್ ಮಸ್ತ್ ಬಣ್ಣ ಬಣ್ಣದ ವಸ್ತುಲೆನ್ ಮುದ್ರಣ ಮಲ್ತೊಂದು ಇತ್ತೆ."
+},
+{
+"english":"Once upon a time, there was a pale gem which nobody knew the power of. One day a teacher appeared in the village and told the people, "I know the power of the pale gem! I will teach you how to use it." Everyone was excited and gathered around the teacher.
+
+The teacher said, "Now, I will teach you how to make the pale gem magical. First you must find a special vessel and fill it with water. Then place the pale gem in the vessel and watch as it glows." Everyone was amazed!
+
+The teacher continued, "While holding the vessel with the pale gem in it, you must say a very special spell. Say the words 'Pale Gem, I call on you to bring us luck and fortune!' and the gem will become magical and bring us luck and fortune."
+
+Everyone was thrilled and thanked the teacher. The village was now filled with more luck and fortune than ever before, all thanks to the teacher who taught them all how to use the pale gem."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒಂಜಿ ಮಂಜಲ್ ಬಣ್ಣದ ರತ್ನ ಇತ್ತ್ಂಡ್ ಅಯಿತ ಶಕ್ತಿನ್ ಏರೆಗ್ಲಾ ಗೊತ್ತಿಜ್ಜಿ. ಒಂಜಿ ದಿನ ಊರುಡು ಒರಿ ಗುರು ತೋಜಿದ್ ಬತ್ತೆರ್, "ಪಾಲೆ ರತ್ನದ ಸಗ್ತಿ ಎಂಕ್ ಗೊತ್ತುಂಡು! ಅವೆನ್ ಎಂಚ ಗಳಸೊಡು ಪನ್ಪಿನೆನ್ ಯಾನ್ ನಿಕುಲೆಗ್ ಕಲ್ಪಾವೊನುವೆ" ಪಂದ್ ಜನಕ್ಲೆಗ್ ಪನ್ಪೆ. ಮಾತೆರ್ಲ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಶಿಕ್ಷಕೆರೆನ ಸುತ್ತ ಒಟ್ಟು ಸೇರ್ದೆರ್.
+
+ಶಿಕ್ಷಕೆರ್ ಪಂಡೆರ್, "ಇತ್ತೆ, ಯಾನ್ ನಿಕುಲೆಗ್ ಪಾಲೆ ರತ್ನೊನು ಎಂಚ ಮಾಂತ್ರಿಕ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆನ್ ಕಲ್ಪಾವೊಡು. ಸುರುಕು ನಿಕುಲು ಒಂಜಿ ವಿಶೇಷ ಪಾತ್ರೆನ್ ತೂದು ಅಯಿಟ್ ನೀರ್ ತುಂಬೊಡು. ಅಪಗ ಪಾಲೆ ರತ್ನೊನು ಪಾತ್ರೆಡ್ ದೀದ್ ಅಯಿನ್ ಎಂಚ ಮಿಂಚುಂಡು ಪನ್ಪಿನೆನ್ ತೂಲೆ." ಪ್ರತಿಯೊಬ್ಬಲಾ ಆಶ್ಚರ್ಯೊಡು ಇತ್ತೆರ್!
+
+ಶಿಕ್ಷಕೆರ್ ಮುಂದುವರಿಸಯೆರ್, "ಅಯಿಟ್ ಪಾಲೆ ರತ್ನ ಉಪ್ಪುನ ಪಾತ್ರೆನ್ ಪತೊಂದು ಉಪ್ಪುನಗ, ಈರ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ಮಂತ್ರೊನು ಪನ್ಲೆ. 'ಪಾಲೆ ರತ್ನ, ಎಂಕ್ಲೆಗ್ ಅದೃಷ್ಟ ಬೊಕ್ಕ ಅದೃಷ್ಟೊನು ತೂಕೊನೆರೆ ನಿಕುಲೆನ್ ಲೆಪ್ಪುವೆ!' ಪನ್ಪಿನ ಶಬ್ದೊಲೆನ್ ಪನ್ಲೆ. ಬೊಕ್ಕ ಆ ರತ್ನ ಮಾಂತ್ರಿಕ ಆದ್ ನಮಕ್ ಅದೃಷ್ಟ ಬೊಕ್ಕ ಅದೃಷ್ಟೊನು ಕೊರ್ಪುಂಡು."
+
+ಪ್ರತಿಯೊಬ್ಬಲಾ ರೋಮಾಂಚನೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಶಿಕ್ಷಕೆರೆಗ್ ಸೊಲ್ಮೆಲು ಪನ್ಪೆರ್. ಊರು ಇತ್ತೆ ದುಂಬುದಲೆಕನೆ ಜಾಸ್ತಿ ಅದೃಷ್ಟ ಬೊಕ್ಕ ಅದೃಷ್ಟೊಡು ತುಂಬಿದ್ಂಡ್, ಉಂದು ಮಾತಾ ಶಿಕ್ಷಕೆರೆಗ್ ಧನ್ಯವಾದೊಲು, ಅಕುಲು ಮಾತೆರೆಗ್ಲಾ ಪಾಲೆ ರತ್ನೊನು ಎಂಚ ಉಪಯೋಗ ಮಲ್ಪೊಲಿ ಪನ್ಪಿನೆನ್ ಕಲ್ಪಾದ್ ಕೊರ್ತೆರ್."
+},
+
+{
+"english":"Once upon a time there was a bridge. It was very smooth. All the animals wanted to walk on top of it.
+
+One day a little mouse was walking across the bridge. He saw a big dog on the other side and the little mouse wanted to show the dog how brave he was. He bowed to the big dog and kept walking.
+
+The big dog didn't like the little mouse and he chased him to the other side. The little mouse was so scared and screamed for help. Unfortunately no-one was around to help him.
+
+The big dog finally caught up with the little mouse and he was so angry. He barked very loudly and the little mouse screamed and ran away as fast as he could.
+
+But it was too late. The big dog had been too fast and the little mouse was never seen again."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಸೇತುವೆ ಇತ್ತ್ಂಡ್. ಉಂದು ಮಸ್ತ್ ಸುಗಮ ಆದಿತ್ತ್ಂಡ್. ಮಾತಾ ಪ್ರಾಣಿಲು ಅಯಿತ ಮಿತ್ತ್ ನಡಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಒಂಜಿ ದಿನ ಒಂಜಿ ಎಲ್ಯ ಎಲಿ ಸೇತುವೆದ ಮಿತ್ತ್ ನಡತೊಂದು ಇತ್ತ್ಂಡ್. ಆರ್ ಬೊಕ್ಕೊಂಜಿ ಕಡೆಟ್ ಒಂಜಿ ಮಲ್ಲ ನಾಯಿನ್ ತೂಯೆರ್ ಬೊಕ್ಕ ಎಲ್ಯ ಎಲಿ ನಾಯಿಗ್ ಎಂಚ ಧೈರ್ಯೊಡು ಉಲ್ಲೆ ಪನ್ಪಿನೆನ್ ತೋಜಾವೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಮಲ್ಲ ನಾಯಿಗ್ ತರೆ ತಗ್ಗಾದ್ ನಡತೊಂದು ಪೋಯೆರ್.
+
+ಮಲ್ಲ ನಾಯಿಗ್ ಆ ಎಲ್ಯ ಇಲಿ ಇಷ್ಟ ಆಯಿಜಿ ಬೊಕ್ಕ ಆಯೆ ಅಯನ್ ಬೊಕ್ಕೊಂಜಿ ಕಡೆಕ್ ಬೆನ್ನಿ ಪೋಯೆ. ಎಲ್ಯ ಎಲಿ ಮಸ್ತ್ ಭಯೊಡು ಇತ್ತ್ಂಡ್ ಬೊಕ್ಕ ಸಹಾಯೊಗು ಕಿರುಚುಂಡು. ದುರದೃಷ್ಟವಶಾತ್ ಅರೆಗ್ ಸಹಾಯ ಮಲ್ಪೆರೆ ಏರ್ಲಾ ಇಜ್ಜೆರ್.
+
+ಮಲ್ಲ ನಾಯಿ ಅಕೇರಿಗ್ ಎಲ್ಯ ಎಲಿನ್ ಪತ್ತುಂಡು ಬೊಕ್ಕ ಅವು ಮಸ್ತ್ ಕೋಪೊಡು ಇತ್ತ್ಂಡ್. ಆರ್ ಮಸ್ತ್ ಜೋರುಡು ಬಾರ್ಕ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಆ ಎಲ್ಯ ಎಲಿ ಕಿರುಚಿಯೆರ್ ಬೊಕ್ಕ ಆರ್ ಸಾಧ್ಯ ಆಯಿನಾತ್ ಬೇಗ ಓಡಿ ಪೋಯೆರ್.
+
+ಆಂಡ ಮಸ್ತ್ ತಡ ಆಂಡ್. ಮಲ್ಲ ನಾಯಿ ಮಸ್ತ್ ವೇಗೊಡು ಪೋಂಡು ಬೊಕ್ಕ ಎಲ್ಯ ಎಲಿನ್ ದುಂಬುಗು ತೋಜಿಜೆರ್."
+},
+
+{
+"english":"Once there was a boy who lived in a very beautiful landscape. He loved exploring the landscape and learning about all of the amazing things it had to offer.
+
+One day, while exploring the landscape, the boy came upon a very bossy chipmunk. The chipmunk wanted the boy to do whatever it said and do it right away.
+
+The boy understood that the chipmunk was bossy, so he didnâ€™t argue. Instead, he listened and did as the chipmunk asked.
+
+The chipmunk told the boy to follow it through the landscape. As they walked, the chipmunk stopped at certain places. It was at these places that the chipmunk revealed something truly incredible.
+
+At the end of their journey, the boy finally understood why the chipmunk had been so bossy. It had led him to the most amazing places in the landscape and showed him things he never would have seen on his own."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒರಿ ಬಾಲೆ ಬಾರಿ ಪೊರ್ಲುದ ಭೂದೃಶ್ಯೊಡು ಜೀವನ ಮಲ್ತೊಂದಿತ್ತೆ. ಭೂದೃಶ್ಯೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪೆರೆ ಬೊಕ್ಕ ಅಯಿಟ್ ಉಪ್ಪುನ ಮಾತಾ ಅದ್ಭುತ ವಿಷಯೊಲೆನ್ ತೆರಿಯೊನೆರೆ ಆರ್ ಮಸ್ತ್ ಇಷ್ಟ ಪಡ್ಪೆರ್.
+
+ಒಂಜಿ ದಿನ, ಭೂದೃಶ್ಯೊನು ಅನ್ವೇಷಣೆ ಮಲ್ಪುನಗ, ಆ ಬಾಲೆ ಒಂಜಿ ಬಾಸ್ಸಿ ಚಿಪ್ಮಂಕ್ ನ್ ತೂಯೆರ್. ಚಿಪ್ಮಂಕ್ ಆ ಬಾಲೆಗ್ ದಾದ ಪಂಡೆರ್ ಅವೆನ್ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅವೆನ್ ತಕ್ಷಣನೆ ಮಲ್ಪೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್.
+
+ಚಿಪ್ಮಂಕ್ ಬಾಸ್ಸಿ ಪಂಡ್ದ್ ಆ ಬಾಲೆಗ್ ಅರ್ಥ ಆಂಡ್, ಅಂಚಾದ್ ಆರ್ ವಾದ ಮಲ್ತೊಂದಿಜ್ಜೆರ್. ಬದಲಾದ್, ಆರ್ ಕೇನ್ಯೆರ್ ಬೊಕ್ಕ ಚಿಪ್ಮಂಕ್ ಕೇಂಡಿನಲೆಕ ಮಲ್ತೆರ್.
+
+ಚಿಪ್ಮಂಕ್ ಆ ಬಾಲೆಗ್ ಲ್ಯಾಂಡ್ ಸ್ಕೇಪ್ ಡ್ ಅಯಿನ್ ಅನುಸರಿಸೊಡು ಪಂಡ್ದ್ ಪಂಡೆರ್. ಅಕುಲು ನಡತೊಂದು ಪೋನಗ, ಚಿಪ್ಮಂಕ್ ಕೆಲವು ಕಡೆಟ್ ನಿಂತ್ಂಡ್. ಈ ಜಾಗೆಲೆಡ್ ಚಿಪ್ಮಂಕ್ ನಿಜವಾದ್ಲಾ ಅದ್ಭುತವಾದ್ ದಾದನಾ ತೆರಿಪಾಂಡ್.
+
+ಅಕ್ಲೆನ ಪ್ರಯಾಣದ ಕೊನೊಟು, ಚಿಪ್ಮಂಕ್ ದಾಯೆಗ್ ಮಸ್ತ್ ಬಾಸ್ಸಿ ಆತ್ಂಡ್ ಪನ್ಪಿನೆನ್ ಆ ಬಾಲೆಗ್ ಅರ್ಥ ಆಂಡ್. ಉಂದು ಅರೆನ್ ಭೂದೃಶ್ಯೊಡು ಅತ್ಯಂತ ಅದ್ಭುತ ಜಾಗೆಲೆಗ್ ಕನತ್ ಕೊರ್ತುಂಡು ಬೊಕ್ಕ ಅರೆಗ್ ತನ್ನ ಸ್ವಂತೊಡು ಏಪಲಾ ತೂಯೆರೆ ಸಾಧ್ಯ ಇಜ್ಜಿ ಪನ್ಪಿನ ವಿಷಯೊಲೆನ್ ತೋಜಾಂಡ್."
+},
+
+{
+"english":"Once upon a time, there was a boy named John. He was three years old and he was excited for his new birthday. He hoped he would get a special present.
+
+John's mummy took him to the park where all of his friends were. His friends were cheering and they had a big, delicious looking cake. John was very happy and everyone began to sing happy birthday.
+
+John looked around and saw lots of presents sitting next to the cake. He looked at his mummy and said: "Which one is for me mummy?" His mummy laughed and said: "Let's have a look and find out!"
+
+John was so excited to open the biggest present first. He opened it and inside was a comfortable chair. He was so happy and he hugged his mummy. "It's my special present mummy, thank you!"
+
+John sat down in the chair and looked at the cake. He wanted to eat it and hope that it was as tasty as it looked. His mummy cut the cake and everyone had a piece. John took a big bite and he said: "Mummy this is the best cake I have ever tasted!". His mummy smiled and said: "I am so glad you like it".
+
+John was so happy he laughed and clapped his hands. It was the best birthday ever!
+Mummy and Timmy were in the closet, looking for something. Mummy asked Timmy to pass her a hanger. Timmy refused because he wanted to pick it himself."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಜಾನ್ ಪನ್ಪಿನ ಒರಿ ಬಾಲೆ ಇತ್ತೆ. ಆರ್ ಮೂಜಿ ವರ್ಷ ಪ್ರಾಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಆರ್ ಆರ್ನ ಪೊಸ ಪುಟ್ಟು ಪರ್ಬೊಗು ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಆರ್ ಒಂಜಿ ವಿಶೇಷ ಉಡುಗೊರೆನ್ ದೆತೊನುವೆ ಪಂದ್ ಆಸೆ ಮಲ್ತೆರ್.
+
+ಜಾನ್ ನ ಅಮ್ಮೆ ಅರೆನ್ ಅರೆನ ಮಾತಾ ಸ್ನೇಹಿತೆರ್ ಇತ್ತಿನ ಪಾರ್ಕ್ ಗ್ ಲೆತೊಂದು ಪೋಯೆರ್. ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಚಿಯರ್ ಮಲ್ತೊಂದು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಒಂಜಿ ಮಲ್ಲ, ರುಚಿಯಾದ್ ತೋಜುನ ಕೇಕ್ ನ್ ಪಡೆಯೆರ್. ಜಾನ್ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಮಾತೆರ್ಲ ಪುಟ್ಟು ಪರ್ಬದ ಶುಭಾಶಯೊಲೆನ್ ಪಾಡೆರೆ ಸುರು ಮಲ್ತೆರ್.
+
+ಜಾನ್ ಸುತ್ತಲ ತೂಯೆರ್ ಬೊಕ್ಕ ಕೇಕ್ ದ ಬರಿಟ್ ಮಸ್ತ್ ಉಡುಗೊರೆಲು ಕುಲ್ಲುನವು ತೋಜಿಂಡ್. ಆರ್ ಅರೆನ ಅಮ್ಮೆನ್ ತೂದು ಪಂಡೆರ್: "ಅಮ್ಮೆ ಎಂಕ್ ಒವು?" ಅರೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್: "ಒಂಜಿ ಸರ್ತಿ ತೂವೊಲಿ ಬೊಕ್ಕ ತೆರಿಯೊನೊಲಿ!"
+
+ಜಾನ್ ಸುರುಕು ಮಲ್ಲ ಉಡುಗೊರೆನ್ ತೆರೆಯೆರೆ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಆರ್ ಅವೆನ್ ತೆರೆಯೆರ್ ಬೊಕ್ಕ ಒಳ್ಗ್ ಒಂಜಿ ಆರಾಮದಾಯಕ ಕುರ್ಚಿ ಇತ್ತ್ಂಡ್. ಆರ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅರೆನ ಅಮ್ಮೆರೆನ್ ತಬ್ಬಿಯೆರ್. "ಉಂದು ಎನ್ನ ವಿಶೇಷ ಉಡುಗೊರೆ ಅಮ್ಮೆ, ಸೊಲ್ಮೆಲು!"
+
+ಜಾನ್ ಕುರ್ಚಿಡ್ ಕುಲ್ಲುದು ಕೇಕ್ ನ್ ತೂಯೆರ್. ಆರ್ ಅವೆನ್ ತಿನ್ಯೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಉಂದು ತೋಜುನಲೆಕನೆ ರುಚಿ ಆಪುಂಡು ಪಂದ್ ಆಸೆ ಮಲ್ತೆರ್. ಅರೆನ ಅಮ್ಮೆ ಕೇಕ್ ನ್ ಕಡ್ತೆರ್ ಬೊಕ್ಕ ಪ್ರತಿಯೊಬ್ಬೆರೆಗ್ಲಾ ಒಂಜಿ ತುಂಡು ಆಂಡ್. ಜಾನ್ ಒಂಜಿ ಮಲ್ಲ ಕಚ್ಚುನು ದೆತೊಂದು ಪಂಡೆರ್: "ಅಮ್ಮೆ ಈ ಕೇಕ್ ಯಾನ್ ರುಚಿ ತೂಯಿನ ಎಡ್ಡೆ ಕೇಕ್!". ಅರೆನ ಅಮ್ಮೆ ನಕ್ಕುದು ಪಂಡೆರ್: "ಈರ್ ಇಷ್ಟ ಪಡ್ನಗ ಎಂಕ್ ಮಸ್ತ್ ಸಂತೋಷ ಆಂಡ್".
+
+ಜಾನ್ ಮಸ್ತ್ ಖುಷಿಟ್ ಇತ್ತೆರ್ ಆರ್ ನಕ್ಕುದು ಕೈ ಜೋಡಾಯೆರ್. ಉಂದು ಇತ್ತೆದ ಮುಟ್ಟದ ಎಡ್ಡೆ ಪುಟ್ಟು ಪರ್ಬ!
+ಅಮ್ಮೆ ಬೊಕ್ಕ ಟಿಮ್ಮಿ ಕ್ಲೋಸೆಟ್ ಡ್ ಇತ್ತೆರ್, ದಾದನಾ ತೂವೊಂದು ಇತ್ತೆರ್. ಅಮ್ಮೆ ಟಿಮ್ಮಿಗ್ ಒಂಜಿ ಹ್ಯಾಂಗರ್ ಕೊರ್ಲೆ ಪಂಡೆರ್. ಟಿಮ್ಮಿ ನಿರಾಕರಣೆ ಮಲ್ತೆರ್ ದಾಯೆ ಪಂಡ ಅವು ಸ್ವತಃ ದೆತೊನೊಡಾಪುಂಡು."
+},
+
+{
+"english":"Once there was a little girl named Amy who loved to skip. She could skip from the flower bed to the mailbox, the sidewalk to the trees. Every time she skipped she looked so happy that everyone in the neighbourhood just couldn't help but smile.
+
+One day Amy's dad asked her to come into his workshop. He wanted to show her something special. He pointed to an old box with an original knob on the front. He said, â€œAmy, can you open this box? It might be filled with something magical.â€
+
+Amy was so excited! She tried to turn the knob but it was so tight she just couldn't do it. She asked her Dad, â€œCan you help me open the box, Daddy?â€
+
+Her Dad smiled and gave the knob a big twist. When he opened the box, Amy saw there were lots of ribbons inside. She let out a cheer and said, â€œI can use them to skip!â€
+
+So, with her ribbons in hand, Amy skipped her way around the neighbourhood. Everywhere she went, she put a smile on everyone's faces. The original knob had opened a box of joy!"
+"tulu":"ಒಂಜಿ ಸರ್ತಿ ಆಮಿ ಪನ್ಪಿನ ಒರಿ ಎಲ್ಯ ಪೊಣ್ಣು ಜೋಕುಲು ಸ್ಕಿಪ್ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಅಲ್ ಫ್ಲವರ್ ಬೆಡ್ ಡ್ದ್ ಮೇಲ್ ಬಾಕ್ಸ್ ಗ್, ಕಾಲ್ನಡಿಗೆಡ್ದ್ ಮರಕುಲೆಗ್ ಜಪ್ಪುವೆರು. ಪ್ರತಿ ಸರ್ತಿಲಾ ಅಲ್ ಸ್ಕಿಪ್ ಮಲ್ಪುನಗ ಅಲ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ತೋಜುಂಡು ಅಂಚಾದ್ ನೆರೆಕರೆತಕುಲು ಮಾತೆರ್ಲ ಸ್ಮೈಲ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ.
+
+ಒಂಜಿ ದಿನ ಆಮಿನ ಅಪ್ಪೆ ಅಲೆನ್ ತನ್ನ ಕಾರ್ಯಾಗಾರೊಗು ಬರೊಡು ಪಂಡೆರ್. ಆರ್ ಅಲೆಗ್ ಒಂಜಿ ವಿಶೇಷವಾಯಿನ ದಾದನಾ ತೋಜಾವೊಡು ಪಂದ್ ಬಯಕೆ ಮಲ್ತೆರ್. ಎದುರುಡು ಒಂಜಿ ಮೂಲ ಗುಬ್ಬಿ ಉಪ್ಪುನ ಒಂಜಿ ಪಿರಾಕ್ದ ಪೆಟ್ಟಿಗೆನ್ ಆರ್ ತೋಜಾಯೆರ್. ಆರ್ ಪಂಡೆರ್, â€œಆಮಿ, ಈ ಬಾಕ್ಸ್ ನ್ ತೆರೆಯೆರೆ ಸಾಧ್ಯ ಉಂಡಾ? ಉಂದು ಒಂಜಿ ಮಾಂತ್ರಿಕ ವಸ್ತುಡ್ದ್ ತುಂಬಿದ್ ಉಪ್ಪೊಲಿ.â€
+
+ಆಮಿ ಮಸ್ತ್ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್! ಅಲ್ ಗುಂಡಿನ್ ಟರ್ನ್ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್ ಆಂಡ ಅವು ಮಸ್ತ್ ಬಿಗಿಯಾದ್ ಇತ್ತ್ಂಡ್ ಅಲ್ ಅವೆನ್ ಮಲ್ಪೆರೆ ಸಾಧ್ಯ ಆಯಿಜಿ. ಅಲೆ ಅಲೆನ ಅಪ್ಪೆನ್ ಕೇಂಡೆರ್, â€œಅಪ್ಪೆ, ಈರ್ ಎಂಕ್ ಬಾಕ್ಸ್ ತೆರೆಯೆರೆ ಸಹಾಯ ಮಲ್ಪೊಲಿಯಾ?â€
+
+ಅಲೆನ ಅಪ್ಪೆ ಸ್ಮೈಲ್ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಗುಂಡಿಗ್ ಒಂಜಿ ಮಲ್ಲ ಟ್ವಿಸ್ಟ್ ಕೊರ್ತೆರ್. ಆರ್ ಬಾಕ್ಸ್ ನ್ ತೆರೆನಗ, ಆಮಿ ಒಳ್ಗ್ ಮಸ್ತ್ ರಿಬ್ಬನ್ ಲೆನ್ ತೂಯೆರ್. ಅಲ್ ಒಂಜಿ ಚಿಯರ್ ನ್ ಬುಡುಗಡೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಪಂಡೆರ್, â€œಯಾನ್ ಅವೆನ್ ಸ್ಕಿಪ್ ಮಲ್ಪೆರೆ ಉಪಯೋಗ ಮಲ್ಪೊಲಿ!â€
+
+ಅಂಚಾದ್, ಕೈಟ್ ರಿಬ್ಬನ್ ಲೆನ್ ಪತೊಂದು, ಆಮಿ ನೆರೆಕರೆತ ಸುತ್ತಲ ತನ್ನ ದಾರಿನ್ ಬುಡ್ದು ಪೋಯೆರ್. ಅಲ್ ಎಲ್ಲಿಗ್ ಪೋಂಡಲಾ, ಅಲ್ ಪ್ರತಿಯೊಬ್ಬರ ಮೋನೆಡ್ ಒಂಜಿ ಸ್ಮೈಲ್ ನ್ ಪಾಡ್ಯೆರ್. ಮೂಲ ಗುಬ್ಬಿ ಒಂಜಿ ಸಂತೋಷದ ಪೆಟ್ಟಿಗೆನ್ ತೆರೆಯೊಂದಿತ್ತ್ಂಡ್!"
+},
+
+{
+"english":"Once upon a time, there was a very selfish boy who loved to scare his friends. One day, he brought a gas mask to school and he wanted to scare everyone. He even put on the gas mask himself and then tried to scare his friends.
+
+His friends were scared and became angry. One of them said, "Why are you so selfish?"
+
+The boy realized that it wasn't nice to scare his friends. He told them, "I'm sorry. I won't do this again."
+
+His friends were happy and then all of them played together in the playground. They all had a lot of fun and the boy now knows better than to scare his friends."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು, ಒರಿ ಮಸ್ತ್ ಸ್ವಾರ್ಥಿ ಆಣ್ ಬಾಲೆ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಭಯ ಮಲ್ಪೆರೆ ಇಷ್ಟ ಪಡ್ಪೆರ್. ಒಂಜಿ ದಿನ, ಆರ್ ಶಾಲೆಗ್ ಒಂಜಿ ಗ್ಯಾಸ್ ಮಾಸ್ಕ್ ನ್ ತೂದು ಬತ್ತೆರ್ ಬೊಕ್ಕ ಆರ್ ಮಾತೆರೆನ್ಲಾ ಭಯ ಮಲ್ಪೆರೆ ಬಯಕೆ ಮಲ್ತೆರ್. ಆರ್ ಸ್ವತಃ ಗ್ಯಾಸ್ ಮಾಸ್ಕ್ ನ್ ಪಾಡ್ದ್ ಬೊಕ್ಕ ಅರೆನ ಸ್ನೇಹಿತೆರೆನ್ ಭಯ ಮಲ್ಪೆರೆ ಪ್ರಯತ್ನ ಮಲ್ತೆರ್.
+
+ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಭಯೊಡು ಇತ್ತೆರ್ ಬೊಕ್ಕ ಕೋಪೊಗು ಬತ್ತೆರ್. ಅಯಿಟ್ ಒರಿ ಪಂಡೆ "ಈರ್ ದಾಯೆಗ್ ಇಂಚ ಸ್ವಾರ್ಥಿಯಾದ್ ಉಲ್ಲರ್?"
+
+ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಬೆದರಿಸವುನವು ಎಡ್ಡೆ ಅತ್ತ್ ಪಂದ್ ಆ ಬಾಲೆಗ್ ಅರ್ಥ ಆಂಡ್. ಆರ್ ಅಕುಲೆಗ್ ಪಂಡೆರ್, "ಕ್ಷಮೆ ಕೋರ್ಲೆ. ಯಾನ್ ಉಂದೆನ್ ಮತ್ತೆ ಮಲ್ಪುಜಿ."
+
+ಅರೆನ ಸ್ನೇಹಿತೆರ್ ಖುಷಿಟ್ ಇತ್ತೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಒಟ್ಟುಗು ಆಟದ ಮೈದಾನೊಡು ಆಟ ಆಡೊಂದಿತ್ತೆರ್. ಅಕುಲು ಮಾತೆರ್ಲ ಮಸ್ತ್ ಮಜಾ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಆ ಬಾಲೆಗ್ ಇತ್ತೆ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಬೆದರಿಸವುನ ಬದಲ್ ಎಡ್ಡೆ ಗೊತ್ತುಂಡು."
+},
+{
+"english":"Once upon a time, there lived an orange tree. All the oranges on the tree were delicious and juicy. The tree wanted to share its delicious oranges with the world. One day, it decided to give away all of its oranges to the local animals.
+
+The animal friends were delighted! The squirrels, birds, rabbits, and more all shared the oranges. They each had as much as they wanted to eat. But the tree remained sad, for it no longer had any oranges left to share.
+
+Just then, the sun began to shine brighter and the sunâ€™s warmth brought new life to the tree. Its branches were soon filled with many delicious oranges.
+
+This time, the tree decided to be more careful. It only gave away five oranges each day and kept the rest. This made it happy and it could remain generous without becoming empty.
+
+The moral of this story is that if we are generous, we can remain happy and still have a lot to give."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಒಂಜಿ ಕಿತ್ತಳೆ ಮರ ಇತ್ತ್‌ಂಡ್. ಮರಟ್ ಉಪ್ಪುನ ಮಾತಾ ಕಿತ್ತಳೆಲು ರುಚಿ ಬೊಕ್ಕ ರಸಭರಿತ ಆದಿತ್ತ್ಂಡ್. ಮರ ತನ್ನ ರುಚಿಯಾದ್ ಉಪ್ಪುನ ಕಿತ್ತಳೆಲೆನ್ ಜಗತ್ತ್ ಗ್ ಪಾಡುನ ಬಯಕೆ ಮಲ್ತ್ಂಡ್. ಒಂಜಿ ದಿನ, ಅಯಿತ ಮಾತಾ ಕಿತ್ತಳೆಲೆನ್ ಸ್ಥಳೀಯ ಪ್ರಾಣಿಲೆಗ್ ಕೊರ್ರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಪ್ರಾಣಿ ಸ್ನೇಹಿತೆರ್ ಮಸ್ತ್ ಸಂತೋಷೊಡು ಇತ್ತೆರ್! ಅಳಿಲುಲು, ಪಕ್ಕಿಲು, ಮೊಲೊಲು, ಬೊಕ್ಕ ಹೆಚ್ಚಿನಕುಲು ಕಿತ್ತಳೆನ್ ಪಾಲ್ ಮಲ್ತೆರ್. ಅಕುಲು ಒಂಜೊಂಜಿ ತಿನ್ಪಿನಂಚಿನ ಖರ್ಚು ಮಲ್ತೆರ್. ಆಂಡ ಮರ ದುಃಖೊಡು ಉಂತುಂಡು, ದಾಯೆ ಪಂಡ ಅಯಿಟ್ ಪಾಡುನ ಒವ್ವೆ ಕಿತ್ತಳೆಲಾ ಉಳಿಯಂದಿನವು.
+
+ಅಪಗನೇ, ಸೂರ್ಯೆ ಮಸ್ತ್ ಬೆಳಗೆರೆ ಸುರು ಆಂಡ್ ಬೊಕ್ಕ ಸೂರ್ಯನ ಉಷ್ಣತೆ ಮರಕ್ ಪೊಸ ಜೀವೊನು ಕೊರ್ತುಂಡು. ಅಯಿತ ಶಾಖೆಲು ಬೇಗನೆ ಮಸ್ತ್ ರುಚಿಯಾದ್ ಕಿತ್ತಳೆಲೆಡ್ ತುಂಬಿಯೆರ್.
+
+ಈ ಸರ್ತಿ, ಮರ ಜಾಸ್ತಿ ಜಾಗ್ರತೆ ಮಲ್ಪೊಡು ಪಂದ್ ನಿರ್ಧರಿಸಯೆರ್. ಉಂದು ಪ್ರತಿ ದಿನ ಐನ್ ಕಿತ್ತಳೆಲೆನ್ ಮಾತ್ರ ಕೊರ್ಪುಂಡು ಬೊಕ್ಕ ಒರಿನವುಲೆನ್ ದೀದ್ ದೀಪುಂಡು. ಉಂದು ಅಯಿನ್ ಸಂತೋಷ ಮಲ್ತ್ಂಡ್ ಬೊಕ್ಕ ಅಯಿನ್ ಖಾಲಿ ಆವಂದೆ ಉದಾರವಾದ್ ಉಪ್ಪೊಲಿ.
+
+ಈ ಕತೆತ ನೈತಿಕತೆ ಪಂಡ ನಮ ಉದಾರವಾದ್ ಇತ್ತ್ಂಡ, ನಮ ಖುಷಿಟ್ ಉಪ್ಪೊಲಿ ಬೊಕ್ಕ ಇತ್ತೆಲಾ ಕೊರ್ಪಿನ ಮಸ್ತ್ ಉಂಡು."
+},
+
+{
+"english":"Once upon a time, there was a pirate who lived in a far away land. He was a mean pirate and was very intelligent. He looked for ways to steal from others.
+
+One day, he noticed two young kids playing nearby. The pirate decided to steal their toys. He waited until the kids were not looking and then he quickly grabbed the toys and ran away.
+
+The kids were very sad. But one of them, who was very intelligent, decided to take action. He looked around for the pirate and soon spotted him far away in the distance.
+
+The intelligent kid thought of a plan and quickly ran back to get help. He gathered his friends and they all ran after the pirate.
+
+But the pirate knew that they were following him and he was too fast for them. In the end, the pirate was able to escape with the kids' toys and never got caught. The kids were very sad that they couldn't get back what he had stolen.
+It was time for the lecture to begin. Little Tom was excited to come to the high school and learn something new. When he arrived, he was amazed at the big space filled with many people."
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ದೂರದ ನಾಡುಡ್ ಒರಿ ಕಡಲ್ ಕಳ್ಳೆರ್ ಇತ್ತೆರ್. ಆರ್ ಒರಿ ಕೆಟ್ಟ ಕಡಲ್ಗಳ್ಳೆ ಆದಿತ್ತೆರ್ ಬೊಕ್ಕ ಮಸ್ತ್ ಬುದ್ಧಿವಂತೆ ಆದಿತ್ತೆರ್. ಆರ್ ಬೇತೆಕ್ಲೆಡ ಕಳ್ಳತನ ಮಲ್ಪುನ ಮಾರ್ಗೊಲೆನ್ ತೂಯೆರ್.
+
+ಒಂಜಿ ದಿನ, ರಡ್ಡ್ ಎಲ್ಯ ಜೋಕುಲು ಸುತ್ತಮುತ್ತ ಆಟ ಆಡೊಂದುಪ್ಪುನವು ತೂಯೆರ್. ಕಡಲ್ಗಳ್ಳೆರ್ ಅಕ್ಲೆನ ಆಟಿಕೆಲೆನ್ ಕದಿಕೆ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್. ಜೋಕುಲು ತೂವಂದೆ ಇಪ್ಪುನ ಮುಟ್ಟ ಅಯೆ ನಿರೀಕ್ಷೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಯೆ ತ್ವರಿತವಾದ್ ಆಟಿಕೆಲೆನ್ ಪತೊಂದು ಓಡಿ ಪೋಯೆರ್.
+
+ಜೋಕುಲು ಮಸ್ತ್ ದುಃಖೊಡು ಇತ್ತೆರ್. ಆಂಡ ಅಯಿಟ್ಟ್ ಒರಿ ಬಾರೀ ಬುದ್ಧಿವಂತೆ ಕ್ರಮ ದೆತೊನೆರೆ ನಿಶ್ಚಯ ಮಲ್ತೆರ್. ಆರ್ ಕಡಲ್ಗಳ್ಳೆರೆನ್ ತೂಯೆರೆ ಸುತ್ತಲ ತೂಯೆರ್ ಬೊಕ್ಕ ದೂರೊಡು ಅರೆನ್ ತೂಯೆರ್.
+
+ಬುದ್ಧಿವಂತಿಕೆದ ಜೋಕುಲು ಒಂಜಿ ಯೋಜನೆನ್ ಯೋಚನೆ ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಸಹಾಯ ದೆತೊನೆರೆ ತ್ವರಿತವಾದ್ ಪಿರ ಓಡಿಯೆರ್. ಆರ್ ತನ್ನ ಸ್ನೇಹಿತೆರೆನ್ ಒಟ್ಟು ಮಲ್ತೆರ್ ಬೊಕ್ಕ ಅಕುಲು ಮಾತೆರ್ಲ ಕಡಲ್ಗಳ್ಳೆರೆನ ಪಿರವು ಓಡಿಯೆರ್.
+
+ಆಂಡ ಅಕುಲು ಅರೆನ್ ಅನುಸರಿಸೊಂದುಲ್ಲೆರ್ ಪಂದ್ ಕಡಲ್ಗಳ್ಳೆರೆಗ್ ಗೊತ್ತುಂಡ್ ಬೊಕ್ಕ ಅಕುಲು ಅಕುಲೆಗ್ ಮಸ್ತ್ ವೇಗೊಡು ಇತ್ತೆರ್. ಕಡೆಕ್, ಕಡಲ್ಗಳ್ಳ ಜೋಕುಲೆನ ಆಟಿಕೆಲೆನ್ ದೆತೊಂದು ತಪ್ಪಿಸಿಕೊಳ್ಳೆರೆ ಸಾಧ್ಯ ಆಂಡ್ ಬೊಕ್ಕ ಏಪಲಾ ಸಿಕ್ಕಿಯೆರ್. ಆರ್ ಕಳ್ಳತನ ಮಲ್ತಿನವು ಪಿರ ದೆತೊನೆರೆ ಆಯಿಜಿ ಪನ್ಪಿನೆಕ್ ಜೋಕುಲು ಮಸ್ತ್ ಬೇಜಾರ್ ಆಯೆರ್.
+ಉಪನ್ಯಾಸ ಸುರು ಆಯೆರೆ ಸಮಯ ಆಂಡ್. ಎಲ್ಯ ಟಾಮ್ ಪ್ರೌಢಶಾಲೆಗ್ ಬತ್ತ್ದ್ ಒಂಜಿ ಪೊಸ ವಿಷಯೊನು ತೆರಿಯೊನೆರೆ ಉಲ್ಲಾಸೊಡು ಇತ್ತೆರ್. ಆರ್ ಬನ್ನಗ, ಮಸ್ತ್ ಜನ ತುಂಬಿನ ಮಲ್ಲ ಜಾಗ ತೂದು ಆರ್ ಆಶ್ಚರ್ಯಚಕಿತರಾಯೆರ್."
+},
+
+{
+"english":"Once there was a poor little girl named Mary. Mary loved to kick around circles in the dirt. One day, Mary went to the park, kicked the circles around for a while, and got very tired. She decided to take a nap.
+
+While Mary was sleeping, a beautiful fairy flew down from the sky and she said, "What a beautiful little girl! Here, I will give you a special present." She waved her magic wand and a big circle appeared.
+
+Mary woke up, saw the big circle and asked, "What is this?"
+
+The fairy said, "It's a magic circle. It will give you whatever you want. All you have to do is to kick the circle three times, and something special will happen."
+
+So Mary kicked the big circle three times, closed her eyes and when she opened them again, she was filled with joy! The magic circle had given her a bag of money, a beautiful house and a pet dog.
+
+Mary looked up to the sky and thanked the fairy from the bottom of her heart. Now Mary was no longer poor, and she could enjoy kicking circles in the park for hours and hours!"
+"tulu":"ಒಂಜಿ ಕಾಲೊಡು ಮೇರಿ ಪನ್ಪಿನ ಒರಿ ಬಡಪತ್ತ್ ಪೊಣ್ಣು ಬಾಲೆ ಇತ್ತೆ. ಮೇರಿಗ್ ಮಣ್ಣ್ ಡ್ ವೃತ್ತೊಲೆನ್ ಒದೆಯೆರೆ ಇಷ್ಟ ಆಂಡ್. ಒಂಜಿ ದಿನ, ಮೇರಿ ಉದ್ಯಾನವನೊಗು ಪೋದು, ಒಂತೆ ಸಮಯ ವೃತ್ತೊಲೆನ್ ಒಯ್ತೆರ್, ಬೊಕ್ಕ ಮಸ್ತ್ ದಣಿಯೆರ್. ಅಲ್ ಒಂಜಿ ನಿದ್ರೆ ಮಲ್ಪೆರೆ ನಿರ್ಧರಿಸಯೆರ್.
+
+ಮೇರಿ ನಿದ್ರೆಡ್ ಇತ್ತಿನಗ, ಒಂಜಿ ಪೊರ್ಲುದ ಕಾಲ್ಪನಿಕ ಆಕಾಶೊಡ್ದ್ ಕೆಳಗ್ ಬತ್ತ್ದ್ ಪಂಡೆರ್, "ಎಂಚಿನ ಪೊರ್ಲುದ ಪೊಣ್ಣು! ಮುಲ್ಪ, ಯಾನ್ ನಿಕ್ಕ್ ಒಂಜಿ ವಿಶೇಷ ಉಡುಗೊರೆನ್ ಕೊರ್ಪೆ." ಅಲ್ ತನ್ನ ಮ್ಯಾಜಿಕ್ ವಾಂಡ್ ನ್ ಅಲೆಯೆರ್ ಬೊಕ್ಕ ಒಂಜಿ ಮಲ್ಲ ವೃತ್ತ ತೋಜಿಂಡ್.
+
+ಮೇರಿ ಎಚ್ಚರ ಆಯೆರ್, ಮಲ್ಲ ವೃತ್ತೊನು ತೂದು, "ಉಂದು ದಾದ?" ಪಂದ್ ಕೇಂಡೆರ್.
+
+ಆ ಕಾಲ್ಪನಿಕ ಪನ್ಪೆ, "ಉಂದು ಒಂಜಿ ಮಾಯಾ ವೃತ್ತ. ಈರ್ ದಾದ ಬೋಡು ಪನ್ಪರ್ ಅವೆನ್ ಕೊರ್ಪುಂಡು. ಈರ್ ಮಲ್ಪೊಡಾಯಿನಿ ಒಂಜಿ ವೃತ್ತೊನು ಮೂಜಿ ಸರ್ತಿ ಒಯ್ಪೊಡು, ಅಪಗ ದಾದನಾ ವಿಶೇಷ ಆಪುಂಡು."
+
+ಅಂಚಾದ್ ಮೇರಿ ಮಲ್ಲ ವೃತ್ತೊನು ಮೂಜಿ ಸರ್ತಿ ಒಯ್ತೆರ್, ಅಲೆನ ಕಣ್ಣ್ ನ್ ಮುಚ್ಚಿಯೆರ್ ಬೊಕ್ಕ ಅಲೆನ್ ಪುನರ್ ತೆರೆಯಿನಗ, ಅಲೆನ್ ಸಂತೋಷೊಡು ತುಂಬಿಯೆರ್! ಮ್ಯಾಜಿಕ್ ಸರ್ಕಲ್ ಅಲೆಗ್ ಒಂಜಿ ಚೀಲ ದುಡ್ಡು, ಒಂಜಿ ಪೊರ್ಲುದ ಇಲ್ಲ್ ಬೊಕ್ಕ ಒಂಜಿ ಸಾಕು ನಾಯಿನ್ ಕೊರ್ತುಂಡು.
+
+ಮೇರಿ ಆಕಾಶೊಗು ತೂದು ಕಾಲ್ಪನಿಕೆರೆಗ್ ತನ್ನ ಮನಸ್ಸ್ ದ ಕೆಳ್ಗ್ ಧನ್ಯವಾದೊಲೆನ್ ಪಂಡೆರ್. ಇತ್ತೆ ಮೇರಿ ಬಡವೆ ಆದಿಜ್ಜೆರ್, ಬೊಕ್ಕ ಅಲೆಗ್ ಗಂಟೆಗಟ್ಟಲೆ ಉದ್ಯಾನವನೊಡು ವೃತ್ತೊಲೆನ್ ಒಯ್ಪುನ ಆನಂದ ಉಂಡು!"
+},
+
+{
 "english":""
 "tulu":""
 },
 
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
 {
 "english":""
 "tulu":""
@@ -784,8 +2560,6 @@ Billy went flying around the world. Then, one by one he started to pick up all t
 "english":""
 "tulu":""
 },
-
-
 {
 "english":""
 "tulu":""
@@ -815,7 +2589,6 @@ Billy went flying around the world. Then, one by one he started to pick up all t
 "english":""
 "tulu":""
 },
-
 {
 "english":""
 "tulu":""
@@ -841,7 +2614,10 @@ Billy went flying around the world. Then, one by one he started to pick up all t
 "tulu":""
 },
 
-
+{
+"english":""
+"tulu":""
+},
 {
 "english":""
 "tulu":""
@@ -867,6 +2643,1953 @@ Billy went flying around the world. Then, one by one he started to pick up all t
 "tulu":""
 },
 
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
+
+{
+"english":""
+"tulu":""
+},
 {
 "english":""
 "tulu":""

@@ -1,9 +1,196 @@
-
-
-//CUSTOMS-RITUALS AND MORE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
 [
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಮಣ್ಣಿದ ಪ್ರಕಾರದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಮಣ್ಣು ಪ್ರಮುಖವಾದ್ದು ಪಂಡ ಕೆಂಪು ಮಣ್ಣು. ಈ ಮಣ್ಣು ಬೇಸಾಯೊಗು ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿ ಜಾಸ್ತಿ.",
+  "translation_en": {
+    "instruction": "Tell me about the famous soil type of Tulu Nadu.",
+    "response": "The most important soil of Tulu Nadu is red soil. This soil is very good for farming. Hence, rice cultivation is more common in this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಅತ್ಯಂತ ಎತ್ತರೊದ ಜಲಪಾತದ ಪುದರ್ ಎಂಚಿನ?",
+  "response": "ತುಳುನಾಡದ ಅತ್ಯಂತ ಎತ್ತರೊದ ಜಲಪಾತ ಗರ್ಜನಾ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರೀ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "What is the name of the highest waterfall in Tulu Nadu?",
+    "response": "The highest waterfall in Tulu Nadu is Gajjana Waterfall. It is a very beautiful place and is very good for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಳೆ ಬತ್ತೊದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಳೆ ಬತ್ತೊಲು. ಈ ಪ್ರದೇಶದ ವಾತಾವರಣ ಬೊಕ್ಕ ಮಣ್ಣು ಬತ್ತೊದ ಕೃಷಿಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me about a major crop of Tulu Nadu.",
+    "response": "A major crop of Tulu Nadu is rice. The climate and soil of this region are very good for rice cultivation."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಟ್ಟದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಟ್ಟದ ಪುದರ್ ಅಗಲೆಡ್ಕಿ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ. ಅಲ್ಪ ಪೊರ್ತುದ ಪ್ರದೇಶೊಲು ಬೊಕ್ಕ ಪಕ್ಷಿ ಪ್ರಭೇದೊಲು ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me about a prominent hill in Tulu Nadu.",
+    "response": "A prominent hill in Tulu Nadu is Agaleki. It is a very beautiful place. There are beautiful areas and bird species there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಜಾಗೆಲೆನ್ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಜಾಗೆಲು ಕುದುರೆಮುಖ, ಬೆಳ್ಳಂಕಿ, ಬಂಡೆಕುಲೆನ್ ಬೊಕ್ಕ ಮೂಡಬಿದ್ರಿ.",
+  "translation_en": {
+    "instruction": "Name the major tourist places of Tulu Nadu.",
+    "response": "The major tourist places of Tulu Nadu are Kudremukh, Bellanki, Bandekul and Moodabidri."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ನದಿಲೆಗ್ ಒಂಜಿ ಬೇತೆ ಪಾತೆರೊನ್ ಕೊರ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ನದಿಲು ಬೊಗಸೆ ನೀರುದ ನದಿಲು. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪರಿಸರದ ಭಾಗೊಲು.",
+  "translation_en": {
+    "instruction": "Give another name for the rivers of Tulu Nadu.",
+    "response": "The rivers of Tulu Nadu are the rivers of the 'bogase' river. They are very beautiful and part of the environment."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ನೇತ್ರಾವತಿದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ನೇತ್ರಾವತಿ ನದಿ ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆದ ಕುದುರೆಮುಖ ಪರ್ವತೊಡು ಸುರು ಆಪುಂಡು. ಉಂದು ಮಂಗಳೂರುಗು ಕೈತಲ್ ಬರ್ಪುಂಡು ಬೊಕ್ಕ ಕಡಲಾಯೆಗ್ ಸೇರುಂಡು. ಈ ನದಿ ಕುಡ್ಲದ ಜನಕ್ಲೆಗ್ ಬಾರಿ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the major river Netravati of Tulu Nadu.",
+    "response": "The Netravati river originates from the Kudremukh mountain in Chikkamagaluru district. It comes close to Mangalore and joins the sea. This river is very useful to the people of Mangalore."
+  }
+},
+{
+  "instruction": "ಕೇರಳದ ಕಾಸರಗೋಡು ಜಿಲ್ಲೆದ ಭಾಗೊಲು ತುಳುನಾಡುಗು ದಾಯೆ ಸೇರ್ದ್ಂಡ್?",
+  "response": "ಕಾಸರಗೋಡು ಜಿಲ್ಲೆದ ಒಂಜಿ ಬಾಗೊಡು ತುಳು ಭಾಷೆ ಪಾತೇರಾದ್ ಉಂಡು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಗು ತುಳುನಾಡದ ಭಾಗ ಪಂದ್ ಪುದರ್ ಬತ್ತ್‌ದ್ಂಡ್. ಈ ಪ್ರದೇಶೊದ ಸಂಸ್ಕೃತಿ ಬೊಕ್ಕ ಪರಂಪರೆಲಾ ತುಳುನಾಡಗ್ ಸೇರ್‍ದ್ಂಡ್.",
+    "translation_en": {
+    "instruction": "Why are parts of Kasaragod district of Kerala included in Tulu Nadu?",
+    "response": "A part of Kasaragod district speaks Tulu language. Hence, this region is named as a part of Tulu Nadu. The culture and heritage of this region also belong to Tulu Nadu."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿದ ಪ್ರಸಿದ್ಧ ಕಡಲತೀರೊಲೆನ ಪುದರ್ ಪನ್ಲೆ.",
+  "response": "ಉಡುಪಿದ ಪ್ರಸಿದ್ಧ ಕಡಲತೀರೊಲು ಮಲ್ಪೆ, ಸೈಂಟ್ ಮೇರಿಸ್ ಐಲ್ಯಾಂಡ್ ಬೊಕ್ಕ ಪಡುಕೆರೆ. ಈ ಕಡಲತೀರೊಲು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Name the famous beaches of Udupi.",
+    "response": "The famous beaches of Udupi are Malpe, St. Mary's Island, and Padukere. These beaches are famous for their natural beauty."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿ ಜಿಲ್ಲೆಡ್ ಇಪ್ಪುನ ಮುಖ್ಯ ನದಿ ಯಾವು?",
+  "response": "ಉಡುಪಿ ಜಿಲ್ಲೆಡ್ ಇಪ್ಪುನ ಮುಖ್ಯ ನದಿ ಸೌಪರ್ಣಿಕಾ. ಈ ನದಿ ಕುಂದಾಪುರೊಗ್ ಸಾದಿನ್ ಕೊರ್ಪುಂಡು ಬೊಕ್ಕ ಕಡಲಾಯೆಗ್ ಸೇರುಂಡು.",
+  "translation_en": {
+    "instruction": "What is the main river in Udupi district?",
+    "response": "The main river in Udupi district is the Souparnika. This river gives way to Kundapura and joins the sea."
+  }
+},
+{
+  "instruction": "ಮಣಿಪಾಲದ ಭೌಗೋಳಿಕ ಲಕ್ಷಣದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಮಣಿಪಾಲ ಒಂಜಿ ಬೆಟ್ಟದ ಮಿತ್ತ್ ಇಪ್ಪುನ ಒಂಜಿ ಪ್ರದೇಶ. ಉಂದು ಪ್ರಸಿದ್ಧ ವಿದ್ಯಾ ಸಂಸ್ಥೆಲೆಗ್ ಪುದರ್ ಆತ್ಂಡ್. ಅಲ್ಪದ ಭೂಮಿ ಕೆಂಪು ಕಲ್ಲು, ಬೊಕ್ಕ ಮರಕುಲು ಬಾರಿ ಜಾಸ್ತಿ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me about the geographical feature of Manipal.",
+    "response": "Manipal is a region located on a hill. It is famous for its educational institutions. The soil there is red and there are many trees."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿ ಬೊಕ್ಕ ಮಣಿಪಾಲದ ನಡುತ ದೂರ ಎಂಚಿನ?",
+  "response": "ಉಡುಪಿ ಬೊಕ್ಕ ಮಣಿಪಾಲದ ನಡುತ ದೂರ ಸುಮಾರ್ 5 ಕಿಲೋಮೀಟರ್. ರಡ್ಡ್ ಪ್ರದೇಶೊಲೆನ್ ಸಂಪರ್ಕ ಮಲ್ಪೆರೆ ರಸ್ತೆ ಮಾರ್ಗಲು ಬಾರಿ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "What is the distance between Udupi and Manipal?",
+    "response": "The distance between Udupi and Manipal is approximately 5 kilometers. The road connections between the two regions are very good."
+  }
+},
+{
+  "instruction": "ಮಣಿಪಾಲದ ಪ್ರಮುಖ ಪರ್ವತ ಯಾವು?",
+  "response": "ಮಣಿಪಾಲೊದ ಕೈತಲ್ ಮಣಿಪಾಲ ಪರ್ವತ ಉಂಡು. ಇಂದೆನ್ 'ಎಡ್ಡೆಕೊಂಡೆ' ಪಂದ್ಲಾ ಪನ್ಪೆರ್. ಉಂದು ಪ್ರದೇಶದ ಭೌಗೋಳಿಕ ಲಕ್ಷಣೊಲೆಗ್ ಪ್ರಮುಖ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What is the main mountain of Manipal?",
+    "response": "The Manipal mountain is located near Manipal. It is also called 'Eddekonda'. It is important for the geographical features of the region."
+  }
+},
+{
+  "instruction": "ಮಣಿಪಾಲೊಡು  ಎಂಡ್ ಪಾಯಿಂಟ್ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಮಣಿಪಾಲೊಡು ಒಂಜಿ ಪುದರ್ ಆಯಿನ ಜಾಗೆ ಎಂಡ್ ಪಾಯಿಂಟ್. ಅಲ್ಪದ ಬೆಟ್ಟೊಗು ಕುಂದು ನದಿನ್ ತೂವೊಲಿ. ಉಂದು ಬಾರಿ ಪೊರ್ಲುದ ಜಾಗೆ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರೀ ಎಡ್ಡೆ.",
+  "translation_en": {
+    "instruction": "Tell me about end point in Manipal.",
+    "response": "A famous place to visit in Manipal is End Point. From the hill there, you can see the Kudremukh river. It is a very beautiful place and is very good for farming."
+  }
+},
+{
+  "instruction": "ಉಡುಪಿದ ಭೌಗೋಳಿಕ ಪರಿಸ್ಥಿತಿ ಎಂಚ ಉಂಡು?",
+  "response": "ಉಡುಪಿದ ಪರಿಸ್ಥಿತಿ ಬಾರಿ ಎಡ್ಡೆ. ಅಲ್ಪ ಬೇಸಾಯೊಗ್ ಬಾರೀ ಎಡ್ಡೆ ಪರಿಸರ ಉಂಡು ಬೊಕ್ಕ ಅಂಚಿನ ಮಸ್ತ್ ನದಿಲು ಬೊಕ್ಕ ಕೈತಲ್ಡ್ ಕಡಲತೀರೊಲು ಉಂಡು.",
+  "translation_en": {
+    "instruction": "What is the geographical condition of Udupi?",
+    "response": "The condition of Udupi is very good. There is a very good environment for farming, and there are many rivers and nearby beaches."
+  }
+},
+{
+  "instruction": "ಕಡಲತೀರೊಲೆನ್ ಬುಡುತು, ತುಳುನಾಡದ ಬೊಕ್ಕ ಒಂಜಿ ಜಲಪಾತದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಬೊಕ್ಕ ಒಂಜಿ ಜಲಪಾತ ಜಡೇ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ. ಉಂದು ಅಯಿನ ಹರಿತ ನಡುತ ಬೊಕ್ಕ ಪಾತ್ರೊಡು ಪುದರ್ ಆತ್ಂಡ್.",
+  "translation_en": {
+    "instruction": "Apart from beaches, tell me about another waterfall in Tulu Nadu.",
+    "response": "Another waterfall in Tulu Nadu is Jade Waterfall. It is a very beautiful place. It is famous for its flowing water and the role it plays."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಮಣ್ಣುದ  ಬೊಕ್ಕ ಒಂಜಿ  ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ಮಣ್ಣು ಪ್ರಮುಖವಾದ್ ಕೆಂಪು ಬೊಕ್ಕ ಕಪ್ಪು ಮಣ್ಣು. ಈ ಮಣ್ಣು ಬೇಸಾಯೊಗು ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು ಬೊಕ್ಕ ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿ ಜಾಸ್ತಿ.",
+  "translation_en": {
+    "instruction": "Tell me another fact about the famous soil of Tulu Nadu.",
+    "response": "The prominent soils of Tulu Nadu are red and black. These soils are very good for farming and therefore rice cultivation is more common in this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆ ಯಾವು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆಲು ಬತ್ತೊಲು, ತಾರಾಯಿ ಬೊಕ್ಕ ಕೊತ್ತಂಬರಿ. ಈ ಬೆಳೆಲು ಈ ಪ್ರದೇಶೊದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the major agricultural crops of Tulu Nadu?",
+    "response": "The major agricultural crops of Tulu Nadu are rice, coconut, and coriander. These crops are very good for the climate of this region."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪುದರ್ ಆಯಿನ ಬೆಟ್ಟ ಬ್ರಹ್ಮಗಿರಿ ಪರ್ವತೊದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+  "response": "ಬ್ರಹ್ಮಗಿರಿ ಪರ್ವತ ತುಳುನಾಡಿನ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜಾಗೆ. ಅಲ್ಪ ಪೊರ್ಲುದ ಮರಕುಲು ಬೊಕ್ಕ ಪಕ್ಷಿ ಪ್ರಭೇದೊಲು ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the famous hill of Tulu Nadu, Brahmagiri mountain.",
+    "response": "Brahmagiri mountain is a famous place of Tulu Nadu. There are beautiful trees and bird species there."
+  }
+},
+{
+  "instruction": " `ಮತ್ತೂರು` ಕಡಲತೀರದ ಬಗ್ಗೆ  ಪನ್ಲೆ.",
+  "response": "ಮತ್ತೂರು ಕಡಲತೀರ ಒಂಜಿ ಶಾಂತ ಕಡಲತೀರ. ಉಂದು ಪ್ರವಾಸಿಗರ್‍ಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನ ಜಾಗೆ ಬೊಕ್ಕ ಅಲ್ಪ ಬಾರಿ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪ್ರಕೃತಿ ಸೌಂದರ್ಯ ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about 'Mattur' beach .",
+    "response": "Mattur beach is a calm beach. It is a very popular place for tourists, and there is great beauty and natural scenery there."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಮುಖ್ಯವಾದ ನೀರು ಮೂಲೊಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಮುಖ್ಯವಾದ ನೀರು ಮೂಲೊಲು ನದಿಲು, ಕೆರೆಕುಲು ಬೊಕ್ಕ ಬಾವಿಲು. ಈ ನೀರು ಜನಕ್ಲೆಗ್ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಉಪಯೋಗ ಆಪುಂಡು.",
+  "translation_en": {
+    "instruction": "What are the main water sources of Tulu Nadu?",
+    "response": "The main water sources of Tulu Nadu are rivers, lakes, and wells. This water is used by the people and for farming."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಮೀನುಗಾರಿಕೆ ಬಂದರುಲು ಯಾವುಲು?",
+  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಮೀನುಗಾರಿಕೆ ಬಂದರುಲು ಕುಡ್ಲ ಬೊಕ್ಕ ಉಡುಪಿಡ್ ಉಂಡು. ಈ ಬಂದರುಲು ಮೀನುಗಾರಿಕೆಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು.",
+  "translation_en": {
+    "instruction": "What are the major fishing ports of Tulu Nadu?",
+    "response": "The major fishing ports of Tulu Nadu are in Mangalore and Udupi. These ports are very useful for fishing."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಜಲಪಾತದ ಪುದರ್ ಎಂಚಿನ?",
+  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಜಲಪಾತ ಅರಬಿದಾ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪ್ರವಾಸಿಗರ್‍ಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನವು.",
+    "translation_en": {
+    "instruction": "What is the name of a major waterfall in Tulu Nadu?",
+    "response": "A major waterfall in Tulu Nadu is Arabida Falls. It is very beautiful and a popular place for tourists."
+  }
+},
+{
+  "instruction": "ತುಳುನಾಡದ ವಾತಾವರಣದ ಬಗೆಟ್ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
+  "response": "ತುಳುನಾಡದ ವಾತಾವರಣ ಸಾಮಾನ್ಯವಾದ್ ಉಷ್ಣ ಬೊಕ್ಕ ಕಡಲೊಡು ಉಪ್ಪುಂಡು. ಅಲ್ಪ ವರ್ಷದ ಹೆಚ್ಚಿನ ಬಾಗೊಡು ಬಾರೀ ಪೊರ್ಲು ಉಂಡು.",
+  "translation_en": {
+    "instruction": "Tell me a fact about the climate of Tulu Nadu.",
+    "response": "The climate of Tulu Nadu is generally tropical and coastal. It is very pleasant for most of the year."
+  }
+},
 {
   "instruction": "ತುಳುನಾಡ್‌ದ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನೊಲು ಯಾವುಲು?",
   "response": "ತುಳುನಾಡ್‌ದ ಕೆಲವು ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನೊಲು: ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ, ಕಟೀಲು ದುರ್ಗಾಪರಮೇಶ್ವರಿ ಬೊಕ್ಕ ಧರ್ಮಸ್ಥಳ ಮಂಜುನಾಥೇಶ್ವರ ದೇವಸ್ಥಾನ.",
@@ -230,10 +417,6 @@
     "response": "'Kudu' is a famous dish of Tulu Nadu. It is a dish made from flattened rice and coconut. This dish is very popular with the Tulu people."
   }
 },
-
-
-
-//FOOD & CUISINE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
 
@@ -559,11 +742,7 @@
   }
 },
 
-
-
-//HISTORY OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
-
-
+ 
 
 {
   "instruction": "ತುಳುನಾಡದ ಆಳುಪ ರಾಜವಂಶದ ಬಗ್ಗೆ ವಿವರಣೆ ಕೊರ್ಲೆ.",
@@ -799,8 +978,7 @@
 },
 
 
-
-//TEMPLE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
+ 
 
 
 
@@ -1063,8 +1241,6 @@
 
 
 
-//GEOGRAPHY-LOCATIONS OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO 
-
 
 
 {
@@ -1123,198 +1299,7 @@
     "response": "The main commercial centers of Tulu Nadu are Mangalore, Udupi, and Surathkal. These places are famous for their commercial activities."
   }
 },
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧವಾದ ಮಣ್ಣಿದ ಪ್ರಕಾರದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಮಣ್ಣು ಪ್ರಮುಖವಾದ್ದು ಪಂಡ ಕೆಂಪು ಮಣ್ಣು. ಈ ಮಣ್ಣು ಬೇಸಾಯೊಗು ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿ ಜಾಸ್ತಿ.",
-  "translation_en": {
-    "instruction": "Tell me about the famous soil type of Tulu Nadu.",
-    "response": "The most important soil of Tulu Nadu is red soil. This soil is very good for farming. Hence, rice cultivation is more common in this region."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಅತ್ಯಂತ ಎತ್ತರೊದ ಜಲಪಾತದ ಪುದರ್ ಎಂಚಿನ?",
-  "response": "ತುಳುನಾಡದ ಅತ್ಯಂತ ಎತ್ತರೊದ ಜಲಪಾತ ಗರ್ಜನಾ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರೀ ಎಡ್ಡೆ.",
-  "translation_en": {
-    "instruction": "What is the name of the highest waterfall in Tulu Nadu?",
-    "response": "The highest waterfall in Tulu Nadu is Gajjana Waterfall. It is a very beautiful place and is very good for farming."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಳೆ ಬತ್ತೊದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಳೆ ಬತ್ತೊಲು. ಈ ಪ್ರದೇಶದ ವಾತಾವರಣ ಬೊಕ್ಕ ಮಣ್ಣು ಬತ್ತೊದ ಕೃಷಿಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
-  "translation_en": {
-    "instruction": "Tell me about a major crop of Tulu Nadu.",
-    "response": "A major crop of Tulu Nadu is rice. The climate and soil of this region are very good for rice cultivation."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಟ್ಟದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಬೆಟ್ಟದ ಪುದರ್ ಅಗಲೆಡ್ಕಿ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ. ಅಲ್ಪ ಪೊರ್ತುದ ಪ್ರದೇಶೊಲು ಬೊಕ್ಕ ಪಕ್ಷಿ ಪ್ರಭೇದೊಲು ಉಂಡು.",
-  "translation_en": {
-    "instruction": "Tell me about a prominent hill in Tulu Nadu.",
-    "response": "A prominent hill in Tulu Nadu is Agaleki. It is a very beautiful place. There are beautiful areas and bird species there."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಜಾಗೆಲೆನ್ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಪ್ರವಾಸಿ ಜಾಗೆಲು ಕುದುರೆಮುಖ, ಬೆಳ್ಳಂಕಿ, ಬಂಡೆಕುಲೆನ್ ಬೊಕ್ಕ ಮೂಡಬಿದ್ರಿ.",
-  "translation_en": {
-    "instruction": "Name the major tourist places of Tulu Nadu.",
-    "response": "The major tourist places of Tulu Nadu are Kudremukh, Bellanki, Bandekul and Moodabidri."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ನದಿಲೆಗ್ ಒಂಜಿ ಬೇತೆ ಪಾತೆರೊನ್ ಕೊರ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ನದಿಲು ಬೊಗಸೆ ನೀರುದ ನದಿಲು. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪರಿಸರದ ಭಾಗೊಲು.",
-  "translation_en": {
-    "instruction": "Give another name for the rivers of Tulu Nadu.",
-    "response": "The rivers of Tulu Nadu are the rivers of the 'bogase' river. They are very beautiful and part of the environment."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ನೇತ್ರಾವತಿದ ಬಗ್ಗೆ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
-  "response": "ನೇತ್ರಾವತಿ ನದಿ ಚಿಕ್ಕಮಗಳೂರು ಜಿಲ್ಲೆದ ಕುದುರೆಮುಖ ಪರ್ವತೊಡು ಸುರು ಆಪುಂಡು. ಉಂದು ಮಂಗಳೂರುಗು ಕೈತಲ್ ಬರ್ಪುಂಡು ಬೊಕ್ಕ ಕಡಲಾಯೆಗ್ ಸೇರುಂಡು. ಈ ನದಿ ಕುಡ್ಲದ ಜನಕ್ಲೆಗ್ ಬಾರಿ ಉಪಯೋಗ ಆಯಿನವು.",
-  "translation_en": {
-    "instruction": "Tell me a fact about the major river Netravati of Tulu Nadu.",
-    "response": "The Netravati river originates from the Kudremukh mountain in Chikkamagaluru district. It comes close to Mangalore and joins the sea. This river is very useful to the people of Mangalore."
-  }
-},
-{
-  "instruction": "ಕೇರಳದ ಕಾಸರಗೋಡು ಜಿಲ್ಲೆದ ಭಾಗೊಲು ತುಳುನಾಡುಗು ದಾಯೆ ಸೇರ್ದ್ಂಡ್?",
-  "response": "ಕಾಸರಗೋಡು ಜಿಲ್ಲೆದ ಒಂಜಿ ಬಾಗೊಡು ತುಳು ಭಾಷೆ ಪಾತೇರಾದ್ ಉಂಡು. ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಗು ತುಳುನಾಡದ ಭಾಗ ಪಂದ್ ಪುದರ್ ಬತ್ತ್‌ದ್ಂಡ್. ಈ ಪ್ರದೇಶೊದ ಸಂಸ್ಕೃತಿ ಬೊಕ್ಕ ಪರಂಪರೆಲಾ ತುಳುನಾಡಗ್ ಸೇರ್‍ದ್ಂಡ್.",
-    "translation_en": {
-    "instruction": "Why are parts of Kasaragod district of Kerala included in Tulu Nadu?",
-    "response": "A part of Kasaragod district speaks Tulu language. Hence, this region is named as a part of Tulu Nadu. The culture and heritage of this region also belong to Tulu Nadu."
-  }
-},
-{
-  "instruction": "ಉಡುಪಿದ ಪ್ರಸಿದ್ಧ ಕಡಲತೀರೊಲೆನ ಪುದರ್ ಪನ್ಲೆ.",
-  "response": "ಉಡುಪಿದ ಪ್ರಸಿದ್ಧ ಕಡಲತೀರೊಲು ಮಲ್ಪೆ, ಸೈಂಟ್ ಮೇರಿಸ್ ಐಲ್ಯಾಂಡ್ ಬೊಕ್ಕ ಪಡುಕೆರೆ. ಈ ಕಡಲತೀರೊಲು ಪ್ರಕೃತಿ ಸೌಂದರ್ಯೊಗ್ ಬಾರೀ ಪುದರ್ ಆತ್ಂಡ್.",
-  "translation_en": {
-    "instruction": "Name the famous beaches of Udupi.",
-    "response": "The famous beaches of Udupi are Malpe, St. Mary's Island, and Padukere. These beaches are famous for their natural beauty."
-  }
-},
-{
-  "instruction": "ಉಡುಪಿ ಜಿಲ್ಲೆಡ್ ಇಪ್ಪುನ ಮುಖ್ಯ ನದಿ ಯಾವು?",
-  "response": "ಉಡುಪಿ ಜಿಲ್ಲೆಡ್ ಇಪ್ಪುನ ಮುಖ್ಯ ನದಿ ಸೌಪರ್ಣಿಕಾ. ಈ ನದಿ ಕುಂದಾಪುರೊಗ್ ಸಾದಿನ್ ಕೊರ್ಪುಂಡು ಬೊಕ್ಕ ಕಡಲಾಯೆಗ್ ಸೇರುಂಡು.",
-  "translation_en": {
-    "instruction": "What is the main river in Udupi district?",
-    "response": "The main river in Udupi district is the Souparnika. This river gives way to Kundapura and joins the sea."
-  }
-},
-{
-  "instruction": "ಮಣಿಪಾಲದ ಭೌಗೋಳಿಕ ಲಕ್ಷಣದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ಮಣಿಪಾಲ ಒಂಜಿ ಬೆಟ್ಟದ ಮಿತ್ತ್ ಇಪ್ಪುನ ಒಂಜಿ ಪ್ರದೇಶ. ಉಂದು ಪ್ರಸಿದ್ಧ ವಿದ್ಯಾ ಸಂಸ್ಥೆಲೆಗ್ ಪುದರ್ ಆತ್ಂಡ್. ಅಲ್ಪದ ಭೂಮಿ ಕೆಂಪು ಕಲ್ಲು, ಬೊಕ್ಕ ಮರಕುಲು ಬಾರಿ ಜಾಸ್ತಿ ಉಂಡು.",
-  "translation_en": {
-    "instruction": "Tell me about the geographical feature of Manipal.",
-    "response": "Manipal is a region located on a hill. It is famous for its educational institutions. The soil there is red and there are many trees."
-  }
-},
-{
-  "instruction": "ಉಡುಪಿ ಬೊಕ್ಕ ಮಣಿಪಾಲದ ನಡುತ ದೂರ ಎಂಚಿನ?",
-  "response": "ಉಡುಪಿ ಬೊಕ್ಕ ಮಣಿಪಾಲದ ನಡುತ ದೂರ ಸುಮಾರ್ 5 ಕಿಲೋಮೀಟರ್. ರಡ್ಡ್ ಪ್ರದೇಶೊಲೆನ್ ಸಂಪರ್ಕ ಮಲ್ಪೆರೆ ರಸ್ತೆ ಮಾರ್ಗಲು ಬಾರಿ ಎಡ್ಡೆ.",
-  "translation_en": {
-    "instruction": "What is the distance between Udupi and Manipal?",
-    "response": "The distance between Udupi and Manipal is approximately 5 kilometers. The road connections between the two regions are very good."
-  }
-},
-{
-  "instruction": "ಮಣಿಪಾಲದ ಪ್ರಮುಖ ಪರ್ವತ ಯಾವು?",
-  "response": "ಮಣಿಪಾಲೊದ ಕೈತಲ್ ಮಣಿಪಾಲ ಪರ್ವತ ಉಂಡು. ಇಂದೆನ್ 'ಎಡ್ಡೆಕೊಂಡೆ' ಪಂದ್ಲಾ ಪನ್ಪೆರ್. ಉಂದು ಪ್ರದೇಶದ ಭೌಗೋಳಿಕ ಲಕ್ಷಣೊಲೆಗ್ ಪ್ರಮುಖ ಆಯಿನವು.",
-  "translation_en": {
-    "instruction": "What is the main mountain of Manipal?",
-    "response": "The Manipal mountain is located near Manipal. It is also called 'Eddekonda'. It is important for the geographical features of the region."
-  }
-},
-{
-  "instruction": "ಮಣಿಪಾಲೊಡು  ಎಂಡ್ ಪಾಯಿಂಟ್ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ಮಣಿಪಾಲೊಡು ಒಂಜಿ ಪುದರ್ ಆಯಿನ ಜಾಗೆ ಎಂಡ್ ಪಾಯಿಂಟ್. ಅಲ್ಪದ ಬೆಟ್ಟೊಗು ಕುಂದು ನದಿನ್ ತೂವೊಲಿ. ಉಂದು ಬಾರಿ ಪೊರ್ಲುದ ಜಾಗೆ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಬಾರೀ ಎಡ್ಡೆ.",
-  "translation_en": {
-    "instruction": "Tell me about end point in Manipal.",
-    "response": "A famous place to visit in Manipal is End Point. From the hill there, you can see the Kudremukh river. It is a very beautiful place and is very good for farming."
-  }
-},
-{
-  "instruction": "ಉಡುಪಿದ ಭೌಗೋಳಿಕ ಪರಿಸ್ಥಿತಿ ಎಂಚ ಉಂಡು?",
-  "response": "ಉಡುಪಿದ ಪರಿಸ್ಥಿತಿ ಬಾರಿ ಎಡ್ಡೆ. ಅಲ್ಪ ಬೇಸಾಯೊಗ್ ಬಾರೀ ಎಡ್ಡೆ ಪರಿಸರ ಉಂಡು ಬೊಕ್ಕ ಅಂಚಿನ ಮಸ್ತ್ ನದಿಲು ಬೊಕ್ಕ ಕೈತಲ್ಡ್ ಕಡಲತೀರೊಲು ಉಂಡು.",
-  "translation_en": {
-    "instruction": "What is the geographical condition of Udupi?",
-    "response": "The condition of Udupi is very good. There is a very good environment for farming, and there are many rivers and nearby beaches."
-  }
-},
-{
-  "instruction": "ಕಡಲತೀರೊಲೆನ್ ಬುಡುತು, ತುಳುನಾಡದ ಬೊಕ್ಕ ಒಂಜಿ ಜಲಪಾತದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಬೊಕ್ಕ ಒಂಜಿ ಜಲಪಾತ ಜಡೇ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಜಾಗೆ. ಉಂದು ಅಯಿನ ಹರಿತ ನಡುತ ಬೊಕ್ಕ ಪಾತ್ರೊಡು ಪುದರ್ ಆತ್ಂಡ್.",
-  "translation_en": {
-    "instruction": "Apart from beaches, tell me about another waterfall in Tulu Nadu.",
-    "response": "Another waterfall in Tulu Nadu is Jade Waterfall. It is a very beautiful place. It is famous for its flowing water and the role it plays."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಸಿದ್ಧ ಮಣ್ಣುದ  ಬೊಕ್ಕ ಒಂಜಿ  ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ಮಣ್ಣು ಪ್ರಮುಖವಾದ್ ಕೆಂಪು ಬೊಕ್ಕ ಕಪ್ಪು ಮಣ್ಣು. ಈ ಮಣ್ಣು ಬೇಸಾಯೊಗು ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು ಬೊಕ್ಕ ಅಂಚಾದ್ ಈ ಪ್ರದೇಶೊಡು ಬತ್ತೊದ ಕೃಷಿ ಜಾಸ್ತಿ.",
-  "translation_en": {
-    "instruction": "Tell me another fact about the famous soil of Tulu Nadu.",
-    "response": "The prominent soils of Tulu Nadu are red and black. These soils are very good for farming and therefore rice cultivation is more common in this region."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆ ಯಾವು?",
-  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಕೃಷಿದ ಬೆಳೆಲು ಬತ್ತೊಲು, ತಾರಾಯಿ ಬೊಕ್ಕ ಕೊತ್ತಂಬರಿ. ಈ ಬೆಳೆಲು ಈ ಪ್ರದೇಶೊದ ವಾತಾವರಣೊಗ್ ಬಾರಿ ಎಡ್ಡೆ ಆಯಿನವು.",
-  "translation_en": {
-    "instruction": "What are the major agricultural crops of Tulu Nadu?",
-    "response": "The major agricultural crops of Tulu Nadu are rice, coconut, and coriander. These crops are very good for the climate of this region."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಒಂಜಿ ಪುದರ್ ಆಯಿನ ಬೆಟ್ಟ ಬ್ರಹ್ಮಗಿರಿ ಪರ್ವತೊದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
-  "response": "ಬ್ರಹ್ಮಗಿರಿ ಪರ್ವತ ತುಳುನಾಡಿನ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜಾಗೆ. ಅಲ್ಪ ಪೊರ್ಲುದ ಮರಕುಲು ಬೊಕ್ಕ ಪಕ್ಷಿ ಪ್ರಭೇದೊಲು ಉಂಡು.",
-  "translation_en": {
-    "instruction": "Tell me a fact about the famous hill of Tulu Nadu, Brahmagiri mountain.",
-    "response": "Brahmagiri mountain is a famous place of Tulu Nadu. There are beautiful trees and bird species there."
-  }
-},
-{
-  "instruction": " `ಮತ್ತೂರು` ಕಡಲತೀರದ ಬಗ್ಗೆ  ಪನ್ಲೆ.",
-  "response": "ಮತ್ತೂರು ಕಡಲತೀರ ಒಂಜಿ ಶಾಂತ ಕಡಲತೀರ. ಉಂದು ಪ್ರವಾಸಿಗರ್‍ಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನ ಜಾಗೆ ಬೊಕ್ಕ ಅಲ್ಪ ಬಾರಿ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪ್ರಕೃತಿ ಸೌಂದರ್ಯ ಉಂಡು.",
-  "translation_en": {
-    "instruction": "Tell me a fact about 'Mattur' beach .",
-    "response": "Mattur beach is a calm beach. It is a very popular place for tourists, and there is great beauty and natural scenery there."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಮುಖ್ಯವಾದ ನೀರು ಮೂಲೊಲು ಯಾವುಲು?",
-  "response": "ತುಳುನಾಡದ ಮುಖ್ಯವಾದ ನೀರು ಮೂಲೊಲು ನದಿಲು, ಕೆರೆಕುಲು ಬೊಕ್ಕ ಬಾವಿಲು. ಈ ನೀರು ಜನಕ್ಲೆಗ್ ಬೊಕ್ಕ ಬೇಸಾಯೊಗು ಉಪಯೋಗ ಆಪುಂಡು.",
-  "translation_en": {
-    "instruction": "What are the main water sources of Tulu Nadu?",
-    "response": "The main water sources of Tulu Nadu are rivers, lakes, and wells. This water is used by the people and for farming."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಮೀನುಗಾರಿಕೆ ಬಂದರುಲು ಯಾವುಲು?",
-  "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಮೀನುಗಾರಿಕೆ ಬಂದರುಲು ಕುಡ್ಲ ಬೊಕ್ಕ ಉಡುಪಿಡ್ ಉಂಡು. ಈ ಬಂದರುಲು ಮೀನುಗಾರಿಕೆಗ್ ಬಾರೀ ಉಪಯೋಗ ಆಯಿನವು.",
-  "translation_en": {
-    "instruction": "What are the major fishing ports of Tulu Nadu?",
-    "response": "The major fishing ports of Tulu Nadu are in Mangalore and Udupi. These ports are very useful for fishing."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ಜಲಪಾತದ ಪುದರ್ ಎಂಚಿನ?",
-  "response": "ತುಳುನಾಡದ ಒಂಜಿ ಪ್ರಮುಖ ಜಲಪಾತ ಅರಬಿದಾ ಜಲಪಾತ. ಉಂದು ಬಾರೀ ಪೊರ್ಲುದ ಬೊಕ್ಕ ಪ್ರವಾಸಿಗರ್‍ಗ್ ಬಾರೀ ಇಷ್ಟ ಆಯಿನವು.",
-    "translation_en": {
-    "instruction": "What is the name of a major waterfall in Tulu Nadu?",
-    "response": "A major waterfall in Tulu Nadu is Arabida Falls. It is very beautiful and a popular place for tourists."
-  }
-},
-{
-  "instruction": "ತುಳುನಾಡದ ವಾತಾವರಣದ ಬಗೆಟ್ ಒಂಜಿ ಪಾತೆರ ಪನ್ಲೆ.",
-  "response": "ತುಳುನಾಡದ ವಾತಾವರಣ ಸಾಮಾನ್ಯವಾದ್ ಉಷ್ಣ ಬೊಕ್ಕ ಕಡಲೊಡು ಉಪ್ಪುಂಡು. ಅಲ್ಪ ವರ್ಷದ ಹೆಚ್ಚಿನ ಬಾಗೊಡು ಬಾರೀ ಪೊರ್ಲು ಉಂಡು.",
-  "translation_en": {
-    "instruction": "Tell me a fact about the climate of Tulu Nadu.",
-    "response": "The climate of Tulu Nadu is generally tropical and coastal. It is very pleasant for most of the year."
-  }
-},
+
 {
   "instruction": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ಗುಂಪೇನ್ ಪನ್ಲೆ.",
   "response": "ತುಳುನಾಡದ ಪ್ರಮುಖ ನದಿ ಗುಂಪೇನ್ ಪಂಚಗಂಗಾವಳಿ ನದಿಗುಂಪೇನ್. ಉಂದು ವರಾಹಿ, ಹಾಲಾಡಿ, ಚಕ್ರ, ಸೌಪರ್ಣಿಕಾ ಬೊಕ್ಕ ಕುಬ್ಜಾ ನದಿಲೆನ್ ಒಳಗೊಂಡ್ಂಡ್.",
@@ -1517,8 +1502,6 @@
 },
 
 
-
-//AGRICULTURE OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 
 
@@ -1869,26 +1852,6 @@
 
 
 
-//IMPORTANT PERSONS OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-
-
-//US-easters OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-//college OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-//ABOUT SARASVATI OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-//STARTING WALA-MIXED OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
-//TULU FILM INDUSTRY OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-
-
 
 {
   "instruction": "ತುಳು ಸಿನೆಮಾದ ಇತಿಹಾಸೊದ ಬಗ್ಗೆ ಒಂಜಿ  ಪನ್ಲೆ.",
@@ -2053,8 +2016,6 @@
 
 
 
-
-//PREVIOUS ONES OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO000000
 {
   "instruction": "ನಮಸ್ತೆ ಸರಸ್ವತಿ , ತುಳುನಾಡದ ಬಗ್ಗೆ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆೆ ಪನ್ನೆ",
   "response": "ನಮಸ್ತೆ ,ತುಳುನಾಡದ ಮಸ್ತು ಪ್ರಸಿದ್ಧ ಜನಪದ ಕತೆ ಪಂಡ ಕೋಟಿಚೆನ್ನಯ್ಯನ ಕತೆ , ಕೋಟಿ ಚೆನ್ನಯ್ಯ ತುಳುನಾಡದ ಜನಕ್ಕೆ ಪರಾಕ್ರಮ ಬಖ ನ್ಯಾಯದ ಉದಾಹರಣೆ.",
